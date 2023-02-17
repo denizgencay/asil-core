@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -545,11 +545,13 @@ const std::string GetSardineNetworkName(const std::string& chain_id) {
 const base::flat_map<std::string, std::string>& GetInfuraChainEndpoints() {
   static base::NoDestructor<base::flat_map<std::string, std::string>> endpoints(
       {{brave_wallet::mojom::kPolygonMainnetChainId,
-        "https://mainnet-polygon.brave.com/"},
+       "https://polygon-rpc.com/"},
        {brave_wallet::mojom::kOptimismMainnetChainId,
-        "https://mainnet-optimism.brave.com/"},
+        "https://polygon-rpc.com/"},
+       {brave_wallet::mojom::kGoerliChainId,
+        "https://polygon-rpc.com/"},
        {brave_wallet::mojom::kAuroraMainnetChainId,
-        "https://mainnet-aurora.brave.com/"}});
+       "https://polygon-rpc.com/"}});
 
   return *endpoints;
 }

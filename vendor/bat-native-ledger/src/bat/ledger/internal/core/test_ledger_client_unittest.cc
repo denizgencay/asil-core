@@ -28,7 +28,7 @@ TEST_F(TestLedgerClientTest, CanAccessDatabaseDirectly) {
 
 TEST_F(TestLedgerClientTest, LoadURLIsAsync) {
   auto request = mojom::UrlRequest::New();
-  request->url = "https://brave.com";
+  request->url = "https://asil.com";
   bool finished = false;
   client_.LoadURL(
       std::move(request),

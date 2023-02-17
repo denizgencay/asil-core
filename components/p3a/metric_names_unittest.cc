@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Brave Authors. All rights reserved.
+// Copyright (c) 2022 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,13 +17,13 @@ TEST(P3AMetrics, Searchable) {
   // Check that some expected elements made it into the set.
   // This set was chosen as likely to be long-lived; it will need
   // to be updated if any of them are retired.
-  EXPECT_TRUE(kCollectedTypicalHistograms.contains("Brave.Core.IsDefault"));
+  EXPECT_TRUE(kCollectedTypicalHistograms.contains("Asil.Core.IsDefault"));
   EXPECT_TRUE(
-      kCollectedTypicalHistograms.contains("Brave.P3A.SentAnswersCount"));
+      kCollectedTypicalHistograms.contains("Asil.P3A.SentAnswersCount"));
   EXPECT_TRUE(
-      kCollectedTypicalHistograms.contains("Brave.P2A.TotalAdOpportunities"));
+      kCollectedTypicalHistograms.contains("Asil.P2A.TotalAdOpportunities"));
   // Verify set membership testing isn't returning true unconditionally.
-  EXPECT_FALSE(kCollectedTypicalHistograms.contains("Not.A.Brave.Metric"));
+  EXPECT_FALSE(kCollectedTypicalHistograms.contains("Not.A.Asil.Metric"));
   EXPECT_FALSE(kCollectedTypicalHistograms.contains("antimetric"));
 }
 

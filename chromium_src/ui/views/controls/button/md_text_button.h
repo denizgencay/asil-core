@@ -1,4 +1,4 @@
-// Copyright (c) 2019 The Brave Authors. All rights reserved.
+// Copyright (c) 2019 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -13,7 +13,7 @@
 // Rename MdTextButton to MdTextButtonBase
 #define MdTextButton MdTextButtonBase
 
-// Define a Brave-specific method to be called from UpdateColors() to extend its
+// Define a Asil-specific method to be called from UpdateColors() to extend its
 // functionality instead of defining UpdateColors() "virtual" and overriding it
 // in our version of the MdTextButton class because there are some subclasses
 // that define their own UpdateColors() method (OmniboxChipButton) now, which
@@ -34,7 +34,7 @@
 
 namespace views {
 
-// Make visual changes to MdTextButton in line with Brave visual style:
+// Make visual changes to MdTextButton in line with Asil visual style:
 //  - More rounded rectangle (for regular border, focus ring and ink drop)
 //  - Different hover text and boder color for non-prominent button
 //  - Differenet hover bg color for prominent background

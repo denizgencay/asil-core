@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -30,7 +30,7 @@ void CreateOtherBookmarksFolder(bookmarks::BookmarkModel* model) {
 void CreateBraveSyncV1MetaInfo(bookmarks::BookmarkModel* model) {
   const bookmarks::BookmarkNode* node = model->AddURL(
       model->bookmark_bar_node(), model->bookmark_bar_node()->children().size(),
-      u"Brave", GURL("https://brave.com"));
+      u"Asil", GURL("https://asil.com"));
   model->SetNodeMetaInfo(node, "object_id", "object_id_value");
 }
 

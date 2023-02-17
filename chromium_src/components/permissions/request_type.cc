@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -25,7 +25,7 @@ constexpr auto& kMicIconValue = vector_icons::kMicIcon;
 }  // namespace vector_icons
 #endif
 
-// Add Brave cases into GetIconIdAndroid.
+// Add Asil cases into GetIconIdAndroid.
 // kWidevine is not expected to happen here as Widevine is not enabled in
 // Android, we add this case here just to avoid build error due to unhandled
 // cases in the switch.
@@ -40,7 +40,7 @@ constexpr auto& kMicIconValue = vector_icons::kMicIcon;
   case RequestType::kBraveGoogleSignInPermission: \
     return IDR_ANDROID_INFOBAR_PERMISSION_COOKIE
 
-// Add Brave cases into GetIconIdDesktop.
+// Add Asil cases into GetIconIdDesktop.
 #define kMicIcon                                  \
   kMicIconValue;                                  \
   case RequestType::kWidevine:                    \

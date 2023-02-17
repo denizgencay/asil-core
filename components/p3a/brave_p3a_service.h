@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -33,7 +33,7 @@ namespace brave {
 class BraveP3AScheduler;
 class BraveP3AUploader;
 
-// Core class for Brave Privacy-Preserving Product Analytics machinery.
+// Core class for Asil Privacy-Preserving Product Analytics machinery.
 // Works on UI thread. Refcounted to receive histogram updating callbacks
 // on any thread.
 // TODO(iefremov): It should be possible to get rid of refcounted here.

@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -163,7 +163,7 @@ absl::optional<std::string> GetChainId(PrefService* prefs,
 
 // Returns a string used for web3_clientVersion in the form of
 // BraveWallet/v[chromium-version]. Note that we expose only the Chromium
-// version and not the Brave version because that way no extra entropy
+// version and not the Asil version because that way no extra entropy
 // is leaked from what the user agent provides for fingerprinting.
 std::string GetWeb3ClientVersion();
 

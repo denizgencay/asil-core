@@ -21,7 +21,7 @@ namespace {
 constexpr char kPlacementId[] = "f0948316-df6f-4e31-814d-d0b5f2a1f28c";
 
 constexpr char kJson[] =
-    R"({"advertiser_id":"5484a63f-eb99-4ba5-a3b0-8c25d3c0e4b2","alt":"Test Ad Alt","campaign_id":"84197fc8-830a-4a8e-8339-7a70c2bfa104","company_name":"Test Ad Company Name","creative_instance_id":"3519f52c-46a4-4c48-9c2b-c264c0067f04","creative_set_id":"c2ba3e7d-f688-4bc4-a053-cbe7ac1e6123","image_url":"https://brave.com/image","placement_id":"f0948316-df6f-4e31-814d-d0b5f2a1f28c","segment":"untargeted","target_url":"https://brave.com/","type":"new_tab_page_ad","wallpapers":[{"focal_point":{"x":1280,"y":720},"image_url":"https://brave.com/wallpaper_image"}]})";
+    R"({"advertiser_id":"5484a63f-eb99-4ba5-a3b0-8c25d3c0e4b2","alt":"Test Ad Alt","campaign_id":"84197fc8-830a-4a8e-8339-7a70c2bfa104","company_name":"Test Ad Company Name","creative_instance_id":"3519f52c-46a4-4c48-9c2b-c264c0067f04","creative_set_id":"c2ba3e7d-f688-4bc4-a053-cbe7ac1e6123","image_url":"https://asil.com/image","placement_id":"f0948316-df6f-4e31-814d-d0b5f2a1f28c","segment":"untargeted","target_url":"https://asil.com/","type":"new_tab_page_ad","wallpapers":[{"focal_point":{"x":1280,"y":720},"image_url":"https://asil.com/wallpaper_image"}]})";
 
 }  // namespace
 

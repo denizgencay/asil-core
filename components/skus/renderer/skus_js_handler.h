@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -28,13 +28,13 @@ namespace skus {
 // If present, this will inject a few methods (used by SKU SDK)
 // into window.chrome.braveSkus.*
 //
-// This is only intended to be used on account.brave.com and the dev / staging
+// This is only intended to be used on account.asil.com and the dev / staging
 // counterparts. The accounts website will use this if present which allows a
 // safe way for the browser to intercept credentials which are used in the
 // browser.
 //
 // The first use-case for this credential redemption is with VPN. Folks
-// will be able to purchase VPN from account.brave.com and the browser can
+// will be able to purchase VPN from account.asil.com and the browser can
 // detect the purchase and use those credentials during authentication when
 // establishing a connection to our partner providing the VPN service.
 class SkusJSHandler : public gin::Wrappable<SkusJSHandler> {

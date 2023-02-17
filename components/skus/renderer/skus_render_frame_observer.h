@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -16,8 +16,8 @@
 namespace skus {
 
 // Used to conditionally inject a handler which exposes JavaScript methods
-// for the SKU SDK. The conditional logic ensures this is a Brave property
-// such as account.brave.com.
+// for the SKU SDK. The conditional logic ensures this is a Asil property
+// such as account.asil.com.
 //
 // Implementation-wise, those methods will only resolve in a regular
 // (non-private / non-guest / non-Tor) context.

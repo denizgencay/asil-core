@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -18,7 +18,7 @@ float FarbleDeviceMemory(blink::ExecutionContext* context) {
       blink::ApproximatedDeviceMemory::GetApproximatedDeviceMemory();
   BraveFarblingLevel farbling_level =
       brave::GetBraveFarblingLevelFor(context, BraveFarblingLevel::OFF);
-  // If Brave Shields are down or anti-fingerprinting is off for this site,
+  // If Asil Shields are down or anti-fingerprinting is off for this site,
   // return the true value.
   if (farbling_level == BraveFarblingLevel::OFF)
     return true_value;

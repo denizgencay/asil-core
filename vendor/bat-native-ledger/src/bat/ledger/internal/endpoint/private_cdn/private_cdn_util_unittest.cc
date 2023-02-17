@@ -32,7 +32,7 @@ TEST(PrivateCDNTest, GetServerUrlStaging) {
 TEST(PrivateCDNTest, GetServerUrlProduction) {
   ledger::_environment = mojom::Environment::PRODUCTION;
   const std::string url = GetServerUrl("/test");
-  ASSERT_EQ(url, "https://pcdn.brave.com/test");
+  ASSERT_EQ(url, "https://pcdn.asil.com/test");
 }
 
 }  // namespace private_cdn

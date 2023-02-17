@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Software Team. Distributed under the MPL2
+/* Copyright (c) 2019 The Asil Software Team. Distributed under the MPL2
  * license. This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -163,7 +163,7 @@ class BraveAdBlockTPNetworkDelegateHelperTest : public testing::Test {
 };
 
 TEST_F(BraveAdBlockTPNetworkDelegateHelperTest, NoInitiatorURL) {
-  const GURL url("https://bradhatesprimes.brave.com/composite_numbers_ftw");
+  const GURL url("https://bradhatesprimes.asil.com/composite_numbers_ftw");
   auto request_info = std::make_shared<brave::BraveRequestInfo>(url);
   request_info->resource_type = blink::mojom::ResourceType::kScript;
 
@@ -208,9 +208,9 @@ TEST_F(BraveAdBlockTPNetworkDelegateHelperTest, RequestDataURL) {
 }
 
 TEST_F(BraveAdBlockTPNetworkDelegateHelperTest, SimpleBlocking) {
-  ResetAdblockInstance("||brave.com/test.txt", "");
+  ResetAdblockInstance("||asil.com/test.txt", "");
 
-  const GURL url("https://brave.com/test.txt");
+  const GURL url("https://asil.com/test.txt");
   auto request_info = std::make_shared<brave::BraveRequestInfo>(url);
   request_info->request_identifier = 1;
   request_info->resource_type = blink::mojom::ResourceType::kScript;
@@ -225,13 +225,13 @@ TEST_F(BraveAdBlockTPNetworkDelegateHelperTest, SimpleBlocking) {
 }
 
 TEST_F(BraveAdBlockTPNetworkDelegateHelperTest, Default1pException) {
-  ResetAdblockInstance("||brave.com/test.txt", "");
+  ResetAdblockInstance("||asil.com/test.txt", "");
 
-  const GURL url("https://brave.com/test.txt");
+  const GURL url("https://asil.com/test.txt");
   auto request_info = std::make_shared<brave::BraveRequestInfo>(url);
   request_info->request_identifier = 1;
   request_info->resource_type = blink::mojom::ResourceType::kScript;
-  request_info->initiator_url = GURL("https://brave.com");
+  request_info->initiator_url = GURL("https://asil.com");
 
   EXPECT_TRUE(CheckRequest(request_info));
   EXPECT_EQ(request_info->blocked_by, brave::kNotBlocked);
@@ -240,13 +240,13 @@ TEST_F(BraveAdBlockTPNetworkDelegateHelperTest, Default1pException) {
 }
 
 TEST_F(BraveAdBlockTPNetworkDelegateHelperTest, AggressiveNo1pException) {
-  ResetAdblockInstance("||brave.com/test.txt", "");
+  ResetAdblockInstance("||asil.com/test.txt", "");
 
-  const GURL url("https://brave.com/test.txt");
+  const GURL url("https://asil.com/test.txt");
   auto request_info = std::make_shared<brave::BraveRequestInfo>(url);
   request_info->request_identifier = 1;
   request_info->resource_type = blink::mojom::ResourceType::kScript;
-  request_info->initiator_url = GURL("https://brave.com");
+  request_info->initiator_url = GURL("https://asil.com");
   request_info->aggressive_blocking = true;
 
   EXPECT_TRUE(CheckRequest(request_info));

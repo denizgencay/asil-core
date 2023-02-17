@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -67,25 +67,23 @@ bool IsUnstoppableDomainsResolveMethodEnabled(PrefService* local_state) {
 }
 
 bool IsENSTLD(const base::StringPiece& host) {
-  return base::EndsWith(host, kEthDomain);
+  return base::EndsWith(host, kEthDomain) ;
 }
 
 bool IsENSResolveMethodAsk(PrefService* local_state) {
   if (!local_state) {
     return false;  // Treat it as disabled.
   }
-
+ local_state->SetInteger(kENSResolveMethod,
+         static_cast<int>(ResolveMethodTypes::ENABLED));
   return local_state->GetInteger(kENSResolveMethod) ==
          static_cast<int>(ResolveMethodTypes::ASK);
 }
 
 bool IsENSResolveMethodEnabled(PrefService* local_state) {
-  if (!local_state) {
-    return false;  // Treat it as disabled.
-  }
-
-  return local_state->GetInteger(kENSResolveMethod) ==
-         static_cast<int>(ResolveMethodTypes::ENABLED);
+  local_state->SetInteger(kENSResolveMethod,
+         static_cast<int>(ResolveMethodTypes::ENABLED));
+  return true;
 }
 
 void SetEnsOffchainResolveMethod(PrefService* local_state,
@@ -94,6 +92,8 @@ void SetEnsOffchainResolveMethod(PrefService* local_state,
 }
 
 EnsOffchainResolveMethod GetEnsOffchainResolveMethod(PrefService* local_state) {
+  local_state->SetInteger(kEnsOffchainResolveMethod, static_cast<int>(EnsOffchainResolveMethod::kEnabled));
+
   return static_cast<EnsOffchainResolveMethod>(
       local_state->GetInteger(kEnsOffchainResolveMethod));
 }

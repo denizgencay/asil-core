@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -45,7 +45,7 @@ export const mockSepolia: BraveWallet.NetworkInfo = {
   decimals: 18,
   iconUrls: [],
   isEip1559: true,
-  rpcEndpoints: [{ url: 'https://sepolia-infura.brave.com' }],
+  rpcEndpoints: [{ url: 'https://sepolia-infura.asil.com' }],
   symbol: 'ETH',
   symbolName: 'Ethereum'
 }
@@ -82,7 +82,7 @@ export const mockFilecoinTestnetNetwork: BraveWallet.NetworkInfo = {
   chainId: 't',
   chainName: 'Filecoin Testnet',
   activeRpcEndpointIndex: 0,
-  rpcEndpoints: [{ url: 'https://mainnet-beta-solana.brave.com/rpc' }],
+  rpcEndpoints: [{ url: 'https://mainnet-beta-solana.asil.com/rpc' }],
   blockExplorerUrls: ['https://calibration.filscan.io/tipset/message-detail'],
   symbol: 'FIL',
   symbolName: 'Filecoin',

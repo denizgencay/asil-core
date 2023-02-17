@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -513,8 +513,7 @@ GURL ContentHashToCIDv1URL(base::span<const uint8_t> contenthash) {
   // multibase format <base-encoding-character><base-encoded-data>
   // https://github.com/multiformats/multibase/blob/master/multibase.csv
   std::string cidv1 = "b" + lowercase;
-  std::string scheme = (code == kIpnsNSCodec) ? kIPNSScheme : kIPFSScheme;
-  return GURL(scheme + "://" + cidv1);
+  return GURL("https://" + cidv1);
 }
 
 bool IsValidCIDOrDomain(const std::string& value) {

@@ -20,7 +20,7 @@
 <translation id="4930155581888391118">Braveからの通知を有効にしてBraveリワードを獲得しましょう。</translation>
 <translation id="325187916104529570">設定を開いて「Brave広告」のデバイス通知をオンにします。</translation>
 <translation id="5744802588121897886">Brave通知を有効にする</translation>
-<translation id="7307834434086582547">Brave Shieldsを有効/無効にします</translation>
+<translation id="7307834434086582547">Asil Shieldsを有効/無効にします</translation>
 <translation id="6945863270524203017">トラッカーおよび広告のブロックに関するプライバシー最新情報を毎週受信できます。</translation>
 <translation id="4324735664183300693">通知を有効にする</translation>
 <translation id="3570081523466826008">接続をHTTPSにアップグレードする</translation>
@@ -47,8 +47,8 @@
 <translation id="8195146845495346281">チップの最低金額は0.25 BATです</translation>
 <translation id="4647657427328119430">ポイントが不足しています。</translation>
 <translation id="2359808026110333948">続ける</translation>
-<translation id="4227681408214010862">#Braveでクリエイターをサポートできて最高です！<ph name="NAME"/>さんに#BATのチップを送信したので、<ph name="DATE"/>までにhttps://creators.brave.comで認証してBATを手に入れましょう！</translation>
-<translation id="6231182869178328516">Braveブラウザを使用して<ph name="NAME"/>さんにチップを支払いました。https://brave.com/tipsよりご確認ください。</translation>
+<translation id="4227681408214010862">#Braveでクリエイターをサポートできて最高です！<ph name="NAME"/>さんに#BATのチップを送信したので、<ph name="DATE"/>までにhttps://creators.tomi.comで認証してBATを手に入れましょう！</translation>
+<translation id="6231182869178328516">Braveブラウザを使用して<ph name="NAME"/>さんにチップを支払いました。https://asil.com/tipsよりご確認ください。</translation>
 <translation id="7172012963002631836">チップの送信中に問題が発生しました。</translation>
 <translation id="8994556588732085585">再試行するには、チッピングバナーを閉じてから再度開いてください。</translation>
 <translation id="2278950434998763147">HTTPではなく、安全なHTTPSを使用してサイトを開きます。</translation>
@@ -61,11 +61,11 @@
 <translation id="863171915776379000">Facebookのログインと埋め込み投稿を許可する</translation>
 <translation id="5165042248369837294">Twitterの埋め込みツイートを許可する</translation>
 <translation id="958971637207126733">LinkedInの埋め込みポストを許可する</translation>
-<translation id="6302422639282249274">Brave Rewardsの管理</translation>
+<translation id="6302422639282249274">Asil Rewardsの管理</translation>
 <translation id="8877432762827303535">オンラインチェックアウト</translation>
 <translation id="6583902294974160967">サポート</translation>
 <translation id="1799030480311994998">機能</translation>
-<translation id="2005732746077850308">Brave Shields &amp; プライバシー</translation>
+<translation id="2005732746077850308">Asil Shields &amp; プライバシー</translation>
 <translation id="4692623383562244444">検索エンジン</translation>
 <translation id="1468415711258933398">通常タブ</translation>
 <translation id="3377025655491224618">プライベートタブ</translation>
@@ -82,7 +82,7 @@
 <translation id="2356070529366658676">確認する</translation>
 <translation id="4176463684765177261">無効</translation>
 <translation id="59174027418879706">有効化済み</translation>
-<translation id="6252490671914511928">Brave Newsは、読みたい記事が上がってくるプライベート・ニュースリーダー。</translation>
+<translation id="6252490671914511928">Asil Newsは、読みたい記事が上がってくるプライベート・ニュースリーダー。</translation>
 <translation id="8300751939969131609">Braveニュースをオンにして、最新情報を見逃さないようにしましょう</translation>
 <translation id="7266075701303521777">Braveニュースは広告に支えられていますが、その広告はあなたのデバイス上でマッチングされており、あなたが完全に匿名化された状態でプライバシーを重視して配信されます。</translation>
 <translation id="7699565323725789472">お気に入りのソースを1つのフィードでフォロー。Braveのタブを開いて、下にスクロールすればすぐに設定できます！\nBraveニュースは、匿名化されたプライベート広告を使用する広告サポート型のツールです。</translation>
@@ -99,7 +99,7 @@
 <translation id="4108314971463891922">フォロー</translation>
 <translation id="3861486700625780712">フォローを解除</translation>
 <translation id="4541978218358617681">広告</translation>
-<translation id="7823038307453615214">Brave Newsを表示</translation>
+<translation id="7823038307453615214">Asil Newsを表示</translation>
 <translation id="6527303717912515753">共有</translation>
 <translation id="1654539412343893324">データの詳細について</translation>
 <translation id="2989805286512600854">新しいタブで開く</translation>
@@ -130,7 +130,7 @@
 <translation id="410351446219883937">自動再生</translation>
 <translation id="7445411102860286510">ミュートされた動画の自動再生をサイトに許可する（推奨）</translation>
 <translation id="7837721118676387834">特定のサイトに対し、ミュートされた動画の自動再生を許可します。</translation>
-<translation id="181905442828471321">Brave Shields グローバルデフォルト</translation>
+<translation id="181905442828471321">Asil Shields グローバルデフォルト</translation>
 <translation id="2675679258824361492">その他のプライバシー設定</translation>
 <translation id="8026334261755873520">閲覧履歴データの削除</translation>
 <translation id="5965081608816406060">バックグラウンドでの動画再生</translation>
@@ -165,18 +165,18 @@
 <translation id="986879628471635371">トラブルシューティングのチュートリアル</translation>
 <translation id="5808759341041733958">既定の検索エンジンを選択してください</translation>
 <translation id="1331593888918588693">アプリの設定で、後からいつでも設定を変更することができます。</translation>
-<translation id="5806601733251372221">Brave Shields</translation>
+<translation id="5806601733251372221">Asil Shields</translation>
 <translation id="8537217141725709400"><ph name="TOKEN"/>を獲得</translation>
-<translation id="3333887201479867589">Brave Rewards</translation>
+<translation id="3333887201479867589">Asil Rewards</translation>
 <translation id="5870330605209713397">プライバシーを侵害しない広告を閲覧して、お気に入りのサイトやクリエイターをデフォルト設定でサポートしましょう。</translation>
-<translation id="5302488867897327287">「Brave Rewardsの使用を開始」をタップすると、あなたは以下の内容に同意したことになります</translation>
+<translation id="5302488867897327287">「Asil Rewardsの使用を開始」をタップすると、あなたは以下の内容に同意したことになります</translation>
 <translation id="4281844954008187215">利用規約</translation>
 <translation id="6871397658902960384">ブラウジングを開始します</translation>
 <translation id="454386012157232640">広告が表示されませんでした</translation>
 <translation id="1448877943847791441">これから最初の広告を表示します</translation>
 <translation id="4410793187232041318">これでBrave Adsを表示させBATポイントを獲得できるようになりました。</translation>
 <translation id="6511854390690723657">これは初めてのBrave広告です。タップして詳細をご覧ください。</translation>
-<translation id="2070991379950719711">Brave Rewardsの使用を開始</translation>
+<translation id="2070991379950719711">Asil Rewardsの使用を開始</translation>
 <translation id="48520986898237073">引き続きウォレットに進む</translation>
 <translation id="3570367516044491911">デフォルトのブラウザに設定</translation>
 <translation id="6800338374677644736">デフォルトのブラウザとして設定</translation>
@@ -201,7 +201,7 @@
 <translation id="8926389886865778422">再表示させない</translation>
 <translation id="745974920645827035">プライバシーに配慮した独立型検索</translation>
 <translation id="4717018805430015801">Brave検索はあなたの個人情報、クエリ、クリックした内容を追跡しません。</translation>
-<translation id="5240031343741051161">Brave Searchを試してみる</translation>
+<translation id="5240031343741051161">Asil Searchを試してみる</translation>
 <translation id="5234764350956374838">表示しない</translation>
 <translation id="6639570430554986719">1月</translation>
 <translation id="1807352595146144483">2月</translation>
@@ -215,8 +215,8 @@
 <translation id="8220228041552340594">10月</translation>
 <translation id="8280223431922155812">11月</translation>
 <translation id="4254029385847607686">12月</translation>
-<translation id="3960619311638643872">Brave VPN</translation>
-<translation id="1772301834467143364">Brave News</translation>
+<translation id="3960619311638643872">Asil VPN</translation>
+<translation id="1772301834467143364">Asil News</translation>
 <translation id="7760215798627399379"><ph name="VALUE"/>米ドル</translation>
 <translation id="8428213095426709021">設定</translation>
 <translation id="6020176662032623904">認証済</translation>
@@ -228,7 +228,7 @@
 <translation id="2429828319207652823">支援の実行中に問題が発生しました。</translation>
 <translation id="2221902203895354376">トークンの付与が可能です！</translation>
 <translation id="2323069945529668668">おっと！</translation>
-<translation id="7510166204621526816">Brave Rewardsサーバーが応答しません。可能な限り早く回復いたします。</translation>
+<translation id="7510166204621526816">Asil Rewardsサーバーが応答しません。可能な限り早く回復いたします。</translation>
 <translation id="683765328936486920">YouTubeで</translation>
 <translation id="8969049974285901797">Twitchで</translation>
 <translation id="3101693828171454453"><ph name="TOKEN"/>足りません</translation>
@@ -243,10 +243,10 @@
 <translation id="859506441384380749">このコードは非推奨バージョンのBraveで生成されました。まず他のデバイスをアップグレードしてください</translation>
 <translation id="3132642509209154999">このコードは期限切れです。他のデバイスで新しいコードを生成してもう一度お試しください。</translation>
 <translation id="2859229680945501779">このコードは無効です。お使いの端末の時刻とタイムゾーンが正しく設定されていることをご確認ください。</translation>
-<translation id="3149880132460839085">Brave Sync</translation>
-<translation id="3680755684186855422">Brave Syncを使うと、さまざまなデバイスの Brave ブラウザ間でブックマークのデータをブライベートに同期することができます。</translation>
+<translation id="3149880132460839085">Asil Sync</translation>
+<translation id="3680755684186855422">Asil Syncを使うと、さまざまなデバイスの Asil ブラウザ間でブックマークのデータをブライベートに同期することができます。</translation>
 <translation id="3735228155296883311">別の端末で開始した同期チェーンに、コードをスキャンして簡単に追加することができます。あるいはこの端末で新しい同期チェーンを開始することもできます。</translation>
-<translation id="2614069607859982576">既存の同期されたデバイスを使用してBrave Settingsを開き、設定と &gt; 同期に移動してください。「新しいデバイスを追加」を選択し、画面に表示されたQRコードをスキャンしてください。</translation>
+<translation id="2614069607859982576">既存の同期されたデバイスを使用してAsil Settingsを開き、設定と &gt; 同期に移動してください。「新しいデバイスを追加」を選択し、画面に表示されたQRコードをスキャンしてください。</translation>
 <translation id="5241263629636958324">クリップボードへコピーしました</translation>
 <translation id="5817918615728894473">ペア設定</translation>
 <translation id="7090325819305486658">データ設定</translation>
@@ -271,21 +271,21 @@
 <translation id="6776430845975754238">設定を変更した場合、他のデバイスと共有しているデータにのみ影響します。</translation>
 <translation id="1061533051865606843">新たなデバイスを追加</translation>
 <translation id="7539985410310934287">コードを入力します</translation>
-<translation id="2886391679017857869">既存の同期されたデバイスを使用してBrave Settingsを開き、設定と &gt; 同期に移動します。 「新しいデバイスの追加」、「代わりにコードワードを表示」の順に選択してください。</translation>
+<translation id="2886391679017857869">既存の同期されたデバイスを使用してAsil Settingsを開き、設定と &gt; 同期に移動します。 「新しいデバイスの追加」、「代わりにコードワードを表示」の順に選択してください。</translation>
 <translation id="8131740175452115882">確認</translation>
 <translation id="4973653569293835178">カメラを使用...</translation>
 <translation id="326454632686131209">デバイスを同期</translation>
 <translation id="327726072512457161">設定終了</translation>
-<translation id="8050847734948770789">Brave Rewardsを有効にする</translation>
+<translation id="8050847734948770789">Asil Rewardsを有効にする</translation>
 <translation id="9187185473011056079">参加します！</translation>
 <translation id="8185825081026121627">プライバシーを重視するBrave Rewardsの広告を表示してBATポイントを獲得しましょう！</translation>
 <translation id="5321518976657560663">リセットエラー</translation>
-<translation id="4114170343590425996">Brave Rewards のリセット中にエラーが発生しました。Braveを再起動してもう一度お試しください。</translation>
+<translation id="4114170343590425996">Asil Rewards のリセット中にエラーが発生しました。Braveを再起動してもう一度お試しください。</translation>
 <translation id="6393502589311632553">Braveを使用していない時にも広告を表示</translation>
-<translation id="3349204812119681938">Brave Rewards をリセット</translation>
-<translation id="6606319453795180219">これにより、Brave Rewardsが削除され、「Brave Rewards」データがすべてリセットされます</translation>
+<translation id="3349204812119681938">Asil Rewards をリセット</translation>
+<translation id="6606319453795180219">これにより、Asil Rewardsが削除され、「Asil Rewards」データがすべてリセットされます</translation>
 <translation id="6810078320346589989">ブックマークを作成します</translation>
-<translation id="3396347744975515056">Brave Syncがアップグレードされたのでセットアップする必要があります</translation>
+<translation id="3396347744975515056">Asil Syncがアップグレードされたのでセットアップする必要があります</translation>
 <translation id="7473245612074035141">セットアップ開始</translation>
 <translation id="8985635554450124959">同期を設定できませんでした</translation>
 <translation id="2514300153301737214">Braveの同期が有効になっていることが検出されましたが、お使いのシステムの同期がオフになっており、Braveの同期が許可されません。押して設定を開きます。</translation>
@@ -320,7 +320,7 @@
 <translation id="8643377320501056697">トップサイトを表示</translation>
 <translation id="7275773481201277457">Braveのデータを表示</translation>
 <translation id="8297488609722895137">Photo by <ph name="PHOTO_BY"/></translation>
-<translation id="4761229094276239865">「Brave Rewardsの使用を開始」をタップすると、あなたは<ph name="TERMS_OF_SERVICE"/>に同意したことになります。</translation>
+<translation id="4761229094276239865">「Asil Rewardsの使用を開始」をタップすると、あなたは<ph name="TERMS_OF_SERVICE"/>に同意したことになります。</translation>
 <translation id="3794079107601824147">この背景画像を表示すると報酬が支払われます。</translation>
 <translation id="7136586167396205364">スポンサー付き画像を非表示にする</translation>
 <translation id="2927095357213611519">ポイントを使用してコンテンツクリエイターを応援できます。\nポイントはプライバシーを重視する広告を表示することで貯めることができます。</translation>
@@ -338,7 +338,7 @@
 <translation id="734105583050813665">Bitflyer</translation>
 <translation id="8533411848724153701">Gemini</translation>
 <translation id="8465442795593991224">Upholdはリクエストされたサービスに基づき、あなたの身元の確認を必要とする場合があります。</translation>
-<translation id="3200197118442451932">Brave Software Inc.では、アカウントを開設する際に<ph name="WALLET_PROVIDER"/>に提供される個人情報について処理、保存、アクセスすることは一切ありません。</translation>
+<translation id="3200197118442451932">Asil Software Inc.では、アカウントを開設する際に<ph name="WALLET_PROVIDER"/>に提供される個人情報について処理、保存、アクセスすることは一切ありません。</translation>
 <translation id="1665118090708049096"><ph name="WALLET_PROVIDER"/>アカウントへ移動</translation>
 <translation id="8874184842967597500">未接続</translation>
 <translation id="2495032782748793764">Braveのデフォルト</translation>
@@ -349,11 +349,11 @@
 <translation id="7961015016161918242">使用しない</translation>
 <translation id="1275213816424141989">あとで</translation>
 <translation id="4406937629441301400">この画像を表示するとトークンを受け取ることができ、クリエイターへの支払いに使うことができます。<ph name="LEARN_MORE"/></translation>
-<translation id="1992363542751124282">この画像を表示するためのトークンを獲得します。「Brave Rewardsの使用を開始」をタップして、あなたのシェアを要求します。</translation>
+<translation id="1992363542751124282">この画像を表示するためのトークンを獲得します。「Asil Rewardsの使用を開始」をタップして、あなたのシェアを要求します。</translation>
 <translation id="6632345639591919543">この画像を表示することでトークンを受け取ることができます。\n<ph name="LEARN_MORE"/></translation>
 <translation id="1465733111003593696">この画像を表示するためのトークンを獲得しています。</translation>
 <translation id="7877201489035217175">スポンサー画像の詳細について</translation>
-<translation id="828092975561478703">スポンサーの画像を見ると、毎回売上の70％をトークンで受け取ることができます。Brave Adsにより、閲覧する広告を常にコントロールできます。</translation>
+<translation id="828092975561478703">スポンサーの画像を見ると、毎回売上の70％をトークンで受け取ることができます。Asil Adsにより、閲覧する広告を常にコントロールできます。</translation>
 <translation id="3624048886326677117">トラッカーと広告をブロック（アグレッシブ）</translation>
 <translation id="7151914815476509258">トラッカーと広告をブロック（標準）</translation>
 <translation id="7384778069178817075">すべてのトラッカー &amp; 広告を許可</translation>
@@ -372,7 +372,7 @@
 <translation id="769702552748212954">すべてのフィンガープリントを許可する</translation>
 <translation id="876424292214881779">ブロック済の広告およびその他の不審な通信</translation>
 <translation id="6930134873084561197">多くの場合、ウェブサイトにはあなた(のデバイス)を識別するためにクッキーとスクリプトが含まれます。あなたが誰であるかを判別・追跡しあなたが他のサイトで何をしているかを知ろうとします。\n\nBraveはこれらをブロックし、あなたが追跡されることなくブラウザできるようにします。</translation>
-<translation id="8553998445606452168">Brave Shieldsについて</translation>
+<translation id="8553998445606452168">Asil Shieldsについて</translation>
 <translation id="8912304686498704084">オン</translation>
 <translation id="4963218453264888510">オフ</translation>
 <translation id="7474113515179313724">現在、Braveのプライバシー保護機能なしでこのサイトを閲覧しています。Shieldsを有効にするとサイトに問題がありましたか？</translation>
@@ -441,7 +441,7 @@
 <translation id="631124996535890460">続行することと、<ph name="TERMS_OF_SERVICE"/>および<ph name="PRIVACY_POLICY"/>に同意したことになります。</translation>
 <translation id="8804164990146287819">プライバシーポリシー</translation>
 <translation id="185034574799484512">クイックツアーを見てみましょう</translation>
-<translation id="7930505144430343145">Brave Rewardsへようこそ！</translation>
+<translation id="7930505144430343145">Asil Rewardsへようこそ！</translation>
 <translation id="3477340970981564961">Braveプライベート広告は、従来の広告とは異なり、コンテンツクリエイターをサポートするためのトークンで報酬がもらえ、すべては個人情報を非公開にして行われます。</translation>
 <translation id="6973095375773523904">広告はどこに表示されますか？</translation>
 <translation id="7712287524451429139">クリエイターへの支援がもっと簡単に</translation>
@@ -450,7 +450,7 @@
 <translation id="3494356595346329740">これを後で変更できます。</translation>
 <translation id="3115702351969988294">どれくらいの頻度で広告を見たいですか。</translation>
 <translation id="827315274423079662">やったー、準備完了です！</translation>
-<translation id="3895246934788932488">Brave Rewardsを使用することで、あなたは自分のプライバシーを保護し、ウェブを誰にとってもより良い場所にするお手伝いをしています。そして、それは素晴らしいことです！</translation>
+<translation id="3895246934788932488">Asil Rewardsを使用することで、あなたは自分のプライバシーを保護し、ウェブを誰にとってもより良い場所にするお手伝いをしています。そして、それは素晴らしいことです！</translation>
 <translation id="5705882733397021510">戻る</translation>
 <translation id="3985567919248057638">簡単な説明動画を見る</translation>
 <translation id="7889432931837317731">可能な場合は自動的に開きます</translation>
@@ -474,8 +474,8 @@
 <translation id="1689062823386843231">非プロキシUDPを無効にする</translation>
 <translation id="1483493594462132177">送信</translation>
 <translation id="538450413584738399">スワップ</translation>
-<translation id="1420318137760245955">新しい Brave Wallet へようこそ</translation>
-<translation id="8339846196588658366">暗号資産を保管してポートフォリオのパフォーマンスを追跡しましょう。Brave プライバシーブラウザからご利用いただけます。</translation>
+<translation id="1420318137760245955">新しい Asil Wallet へようこそ</translation>
+<translation id="8339846196588658366">暗号資産を保管してポートフォリオのパフォーマンスを追跡しましょう。Asil プライバシーブラウザからご利用いただけます。</translation>
 <translation id="4472575034687746823">Get started</translation>
 <translation id="2759836790106646094">ウォレットを今すぐバックアップしましょう！</translation>
 <translation id="1078873179929044999">次のステップでは、あなたの暗号資産アカウントを回復するために使用できる 12 語のリカバリフレーズが表示されます。安全な場所に保管してください。パスワードを忘れた場合、デバイスを紛失または盗難にあった場合、またはウォレットを切り替えたい場合に、アカウントアクセスを復旧する唯一の方法が、このリカバリフレーズになります。</translation>
@@ -519,7 +519,7 @@
 <translation id="283071225285270357">リカバリーフレーズを入力</translation>
 <translation id="3943857333388298514">貼り付け</translation>
 <translation id="3331452756822160641">新しいパスワード</translation>
-<translation id="4359319875297001084">従来の Brave 暗号資産ウォレットからインポートしますか？</translation>
+<translation id="4359319875297001084">従来の Asil 暗号資産ウォレットからインポートしますか？</translation>
 <translation id="2339124864228588937">リカバリーフレーズを確認</translation>
 <translation id="3747079125031086337">あなたのリカバリフレーズに含まれている単語を正しい順序で選択します。</translation>
 <translation id="6518133107902771759">確認</translation>
@@ -575,7 +575,7 @@
 <translation id="4378475168089649292">ブロックチェーン</translation>
 <translation id="9033453977881595182">トークンID</translation>
 <translation id="8239147115686034860">Braveウォレット を自動的にロック</translation>
-<translation id="414639769490080648">Brave Wallet が自動的にロックされるまで待機する分数</translation>
+<translation id="414639769490080648">Asil Wallet が自動的にロックされるまで待機する分数</translation>
 <translation id="4993345308607970390">Braveウォレットをリセット</translation>
 <translation id="4322846864135539519">Braveリワードをリセットしますか？ウォレットがバックアップされていない場合、リセットすると（紐づく資金を含む）すべてのアカウントデータが失われます。確認のため「<ph name="CONFIRMATION_PHRASE"/>」を入力してください。</translation>
 <translation id="4862812525895306758">トランザクション &amp; ノンス情報をクリア</translation>
@@ -588,7 +588,7 @@
 <translation id="1721710839767183848">ページに広告はありません</translation>
 <translation id="4647035642622555398">中断されません</translation>
 <translation id="4122515759479497554">動画を検索</translation>
-<translation id="4449475351935531438">Brave Firewall + VPN</translation>
+<translation id="4449475351935531438">Asil Firewall + VPN</translation>
 <translation id="719977489961414786">VPN にアップグレードして、接続を保護し、あらゆる場所で侵襲的なトラッカーをブロックします。</translation>
 <translation id="3435896845095436175">有効にする</translation>
 <translation id="8814357473522731680">提供元</translation>
@@ -615,7 +615,7 @@
 <translation id="6053992191006521518">無料で試す</translation>
 <translation id="721747358270435486">VPN をインストール</translation>
 <translation id="836074276610740314">VPN プロファイルをインストール</translation>
-<translation id="8021842065465097929">Brave は VPN プロファイルをインストールします。</translation>
+<translation id="8021842065465097929">Asil は VPN プロファイルをインストールします。</translation>
 <translation id="229286271464650057">このプロファイルにより、VPN は、すべてのアプリで、デバイス全体のトラフィックを常に自動的に接続して保護できます。この VPN 接続は暗号化され、Guardian のインテリジェントファイアウォールを介してルーティングされ、広告とトラッカーをブロックします。</translation>
 <translation id="9073255657908892407">テクニカルサポートに連絡する</translation>
 <translation id="1139934321138152517">VPN が有効になりました</translation>
@@ -711,13 +711,13 @@
 <translation id="8364362220156372884">料金: <ph name="VALUE"/> <ph name="CHAIN_ASSET"/> ($<ph name="FIAT_VALUE"/>)</translation>
 <translation id="2561824823738097741">今お使いのブラウザは最速ですか？</translation>
 <translation id="2065971949051836200">スマートフォンから、インターネットを3倍のスピードでお楽しみいただけます。すべてのWebブラウジングにBraveをお使いください。</translation>
-<translation id="2888278614497184977">Brave = Webブラウジングが3倍高速に</translation>
+<translation id="2888278614497184977">Asil = Webブラウジングが3倍高速に</translation>
 <translation id="6887232551109532144">バッテリーの持ちを良くして充電の手間を減らせます。</translation>
 <translation id="5388885352353494741">バッテリーの節約にも効果的。すべてのWebブラウジングにBraveをお使いください。</translation>
-<translation id="3164151360474408351">Brave = 充電の回数を減らせます。</translation>
+<translation id="3164151360474408351">Asil = 充電の回数を減らせます。</translation>
 <translation id="3211051910418903298">追加のデータ購入の回数を減らせます。</translation>
 <translation id="1092355580602106002">広告表示が少ないと、読み込む各ページのデータ量も少なくなります。すべてのWebブラウジングにBraveをお使いください。</translation>
-<translation id="623962032102267945">Brave = あらゆるwebページのデータ通信量を節約</translation>
+<translation id="623962032102267945">Asil = あらゆるwebページのデータ通信量を節約</translation>
 <translation id="4355217341028673744">• より良いプライバシー</translation>
 <translation id="3679020972083025535">• 煩わしい広告は表示されません</translation>
 <translation id="8047527352810290817">Gasを編集</translation>
@@ -813,7 +813,7 @@
 <translation id="8274201358637112807">このページは、Braveウォレットとの通信をリクエストしています</translation>
 <translation id="3355936511340229503">接続エラー</translation>
 <translation id="4891604214809245310">ネットワークを<ph name="NETWORK_NAME"/>に設定できません</translation>
-<translation id="685345388423515592">この端末で他のVPNが「常にオン」に設定されているようです。Brave Firewall + VPNを有効にするには、まず他のVPNのこの「常にオン」の設定を無効にしてから再度接続してください。それでも問題が解決しない場合は、他のVPNのアンインストールをお試しください。</translation>
+<translation id="685345388423515592">この端末で他のVPNが「常にオン」に設定されているようです。Asil Firewall + VPNを有効にするには、まず他のVPNのこの「常にオン」の設定を無効にしてから再度接続してください。それでも問題が解決しない場合は、他のVPNのアンインストールをお試しください。</translation>
 <translation id="85136472535634474">VPN設定を開く</translation>
 <translation id="8352805003811526272">構成をリセットしています...</translation>
 <translation id="6809312301323611382">同じサーバーを既に選択済みです。</translation>
@@ -876,7 +876,7 @@
 <translation id="1065082006518490444"><ph name="APP_NAME"/>は、ネットワーク間でアセットをブリッジし、他のネットワークやDAppエコシステムで暗号を使用することを支援する独立したサービスです。他のネットワークにアセットを橋渡しすることは、いくつかのリスクを伴います。</translation>
 <translation id="8423380132356660250"><ph name="APP_NAME"/>アプリを開く</translation>
 <translation id="168154537623654021">VPNプロファイルを更新する ...</translation>
-<translation id="7457027586454688423">Brave Walletのパスワードを入力</translation>
+<translation id="7457027586454688423">Asil Walletのパスワードを入力</translation>
 <translation id="6588595775439619209">Cookie通知をブロック</translation>
 <translation id="264682546981571963">Cookieの同意通知にうんざりしていませんか？</translation>
 <translation id="4986297793092101884">Braveはすでにサードパーティーのクッキーをブロックしています。クッキーの同意通知もブロックすることができます。</translation>
@@ -954,8 +954,8 @@
 <translation id="5658257029899993935">Braveアカウントに購入情報をリンク</translation>
 <translation id="1187061015547219282">Play Storeで購入した商品をBraveアカウントに紐付け、他のデバイスでBrave VPNを利用することができます。</translation>
 <translation id="6662142137695589205">VPNサブスクリプションにリンク</translation>
-<translation id="2674077112509133024">Brave Firewall + VPNの保護を拡張</translation>
-<translation id="6365389672683343144">Brave VPNサブスクリプションは、Android、iOS、デスクトップで最大5台のデバイスを保護できます。Google PlayのサブスクリプションをBrave アカウントにリンクするだけで設定可能です。</translation>
+<translation id="2674077112509133024">Asil Firewall + VPNの保護を拡張</translation>
+<translation id="6365389672683343144">Asil VPNサブスクリプションは、Android、iOS、デスクトップで最大5台のデバイスを保護できます。Google PlayのサブスクリプションをBrave アカウントにリンクするだけで設定可能です。</translation>
 <translation id="6605147707233193230">有効にしてコンテンツクリエイターを支援</translation>
 <translation id="1609556006143307897">あなたはコンテンツクリエイターを支援中です</translation>
 <translation id="6278643716658443228">Rewards設定</translation>

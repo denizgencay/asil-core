@@ -13,19 +13,19 @@ branding_replacements = [
      r'The Brave Authors. All rights reserved.'),
     (r'Google LLC. All rights reserved.',
      r'The Brave Authors. All rights reserved.'),
-    (r'The Chromium Authors', r'Brave Software Inc'),
-    (r'Google Chrome', r'Brave'),
-    (r'(Google)(?! Play)', r'Brave'),
-    (r'Chromium', r'Brave'),
-    (r'Chrome', r'Brave'),
-    (r'क्रोमियम', 'Brave'), # Chromium in Hindi
+    (r'The Chromium Authors', r'Asil Software Inc'),
+    (r'Google Chrome', r'Asil'),
+    (r'(Google)(?! Play)', r'Asil'),
+    (r'Chromium', r'Asil'),
+    (r'Chrome', r'Asil'),
+    (r'क्रोमियम', 'Asil'), # Chromium in Hindi
 ]
 
 
 # Strings we want to replace but that we need to use Transifex for
 # to translate the XTB files
 default_replacements = [
-    (r'Brave Web Store', r'Web Store'),
+    (r'Asil Web Store', r'Web Store'),
     (r'You\'re incognito', r'This is a private window'),
     (r'an incognito', r'a private'),
     (r'an Incognito', r'a Private'),
@@ -46,27 +46,27 @@ default_replacements = [
 
 # Fix up some strings after aggressive first round replacement.
 fixup_replacements = [
-    (r'Brave Cloud Print', r'Google Cloud Print'),
-    (r'Brave Docs', r'Google Docs'),
-    (r'Brave Drive', r'Google Drive'),
-    (r'Brave OS', r'Chrome OS'),
-    (r'BraveOS', r'ChromeOS'),
-    (r'Brave Safe Browsing', r'Google Safe Browsing'),
+    (r'Asil Cloud Print', r'Google Cloud Print'),
+    (r'Asil Docs', r'Google Docs'),
+    (r'Asil Drive', r'Google Drive'),
+    (r'Asil OS', r'Chrome OS'),
+    (r'Asil', r'ChromeOS'),
+    (r'Asil Safe Browsing', r'Google Safe Browsing'),
     (r'Safe Browsing \(protects you and your device from dangerous sites\)',
      r'Google Safe Browsing (protects you and your device from dangerous sites)'
     ),
-    (r'Sends URLs of some pages you visit to Brave',
+    (r'Sends URLs of some pages you visit to Asil',
      r'Sends URLs of some pages you visit to Google'),
     (r'Google Google', r'Google'),
-    (r'Brave Account', r'Brave sync chain'),
-    (r'Brave Lens', r'Google Lens'),
-    (r'Bravebook', r'Chromebook'),
-    (r'Bravecast', r'Chromecast'),
-    (r'Brave Cloud', r'Google Cloud'),
-    (r'Brave Pay', r'Google Pay'),
-    (r'Brave Photos', r'Google Photos'),
-    (r'Brave Projects', r'Chromium Projects'),
-    (r'BraveVox', r'ChromeVox'),
+    (r'Asil Account', r'Asil sync chain'),
+    (r'Asil Lens', r'Google Lens'),
+    (r'Asilbook', r'Chromebook'),
+    (r'Asilcast', r'Chromecast'),
+    (r'Asil Cloud', r'Google Cloud'),
+    (r'Asil Pay', r'Google Pay'),
+    (r'Asil Photos', r'Google Photos'),
+    (r'Asil Projects', r'Chromium Projects'),
+    (r'Asil', r'ChromeVox'),
 ]
 
 

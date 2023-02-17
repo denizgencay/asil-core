@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -17,7 +17,7 @@
 
 namespace brave_wallet {
 
-constexpr char kAssetRatioBaseURL[] = "https://ratios.rewards.brave.com/";
+constexpr char kAssetRatioBaseURL[] = "https://ratios.rewards.asil.com/";
 
 constexpr uint256_t kDefaultSendEthGasLimit = 21000;
 constexpr uint256_t kDefaultERC20TransferGasLimit = 300000;
@@ -1038,7 +1038,7 @@ constexpr webui::LocalizedString kLocalizedStrings[] = {
      IDS_BRAVE_WALLET_ADD_ASSET_NFT_TAB_TITLE},
     {"braveWalletNftFetchingError", IDS_BRAVE_WALLET_NFT_FETCHING_ERROR},
 
-    // Brave Swap
+    // Asil Swap
     {"braveSwap", IDS_BRAVE_SWAP},
     {"braveSwapReviewOrder", IDS_BRAVE_SWAP_REVIEW_ORDER},
     {"braveSwapApproveToken", IDS_BRAVE_SWAP_APPROVE_TOKEN},
@@ -1130,7 +1130,7 @@ constexpr char kSolanaFeeRecipient[] =
 constexpr int64_t kBlockTrackerDefaultTimeInSeconds = 20;
 constexpr int64_t kLogTrackerDefaultTimeInSeconds = 20;
 
-constexpr char kPolygonMainnetEndpoint[] = "https://mainnet-polygon.brave.com/";
+constexpr char kPolygonMainnetEndpoint[] = "https://mainnet-polygon.asil.com/";
 
 // Unstoppable domains record key for ethereum address.
 constexpr char kCryptoEthAddressKey[] = "crypto.ETH.address";

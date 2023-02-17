@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Brave Authors. All rights reserved.
+// Copyright (c) 2022 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -117,7 +117,7 @@ export default function Configure () {
   } = useBraveNews()
 
   // TODO(petemill): We'll probably need to have 2 toggles, or some other
-  // way to know if brave news is "enabled" when Brave News is exposed
+  // way to know if brave news is "enabled" when Asil News is exposed
   // in places other than just the NTP. For now this is pretty tied to NTP.
   const isBraveNewsFullyEnabled = isOptInPrefEnabled && isShowOnNTPPrefEnabled
 

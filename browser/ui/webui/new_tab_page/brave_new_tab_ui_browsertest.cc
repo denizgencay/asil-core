@@ -1,4 +1,4 @@
-/* Copyright 2020 The Brave Authors. All rights reserved.
+/* Copyright 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -71,7 +71,7 @@ IN_PROC_BROWSER_TEST_F(BraveNewTabUIBrowserTest, StartupURLTest) {
   WaitForLoadStop(contents);
 }
 
-// This test simply checks that by default the Brave new tab page is used.
+// This test simply checks that by default the Asil new tab page is used.
 // It does this by loading the newtab page and then checking if
 // window.brave_new_tab exists.
 IN_PROC_BROWSER_TEST_F(BraveNewTabUIBrowserTest, BraveNewTabIsDefault) {

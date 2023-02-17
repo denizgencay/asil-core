@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Brave Authors. All rights reserved.
+// Copyright (c) 2020 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -22,11 +22,11 @@ RegisterPolymerTemplateModifications({
   'settings-appearance-page': (templateContent) => {
     const theme = templateContent.getElementById('themeRow')
     if (!theme) {
-      console.error(`[Brave Settings Overrides] Couldn't find #themeRow`)
+      console.error(`[Asil Settings Overrides] Couldn't find #themeRow`)
     } else {
       const useDefaultButtonTemplate = templateContent.querySelector('template[is=dom-if][if="[[prefs.extensions.theme.id.value]]"]')
       if (!useDefaultButtonTemplate) {
-        console.error('[Brave Settings Overrides] Appearance Page cannot find use default theme button template')
+        console.error('[Asil Settings Overrides] Appearance Page cannot find use default theme button template')
       } else {
         useDefaultButtonTemplate.setAttribute("restamp", "true")
       }
@@ -49,7 +49,7 @@ RegisterPolymerTemplateModifications({
     if (hasSuperReferral) {
       // Routes
       if (!r.APPEARANCE) {
-        console.error('[Brave Settings Overrides] Routes: could not find APPEARANCE page')
+        console.error('[Asil Settings Overrides] Routes: could not find APPEARANCE page')
         return
       } else {
         r.THEMES = r.APPEARANCE.createChild('/themes');
@@ -62,7 +62,7 @@ RegisterPolymerTemplateModifications({
     // Toolbar prefs
     const bookmarkBarToggle = templateContent.querySelector('[pref="{{prefs.bookmark_bar.show_on_all_tabs}}"]')
     if (!bookmarkBarToggle) {
-      console.error(`[Brave Settings Overrides] Couldn't find bookmark bar toggle`)
+      console.error(`[Asil Settings Overrides] Couldn't find bookmark bar toggle`)
     } else {
       bookmarkBarToggle.insertAdjacentHTML(
         'beforebegin',
@@ -83,7 +83,7 @@ RegisterPolymerTemplateModifications({
     }
     const zoomLevel = templateContent.getElementById('zoomLevel')
     if (!zoomLevel || !zoomLevel.parentNode) {
-      console.error(`[Brave Settings Overrides] Couldn't find zoomLevel`)
+      console.error(`[Asil Settings Overrides] Couldn't find zoomLevel`)
     } else {
       zoomLevel.parentNode.insertAdjacentHTML(
         'afterend',
@@ -97,7 +97,7 @@ RegisterPolymerTemplateModifications({
       const mruCyclingToggle = templateContent.getElementById('mru-cycling')
       if (!mruCyclingToggle) {
         console.error(
-          '[Brave Settings Overrides] Couldn\'t find MRU cycling toggle')
+          '[Asil Settings Overrides] Couldn\'t find MRU cycling toggle')
       } else {
         mruCyclingToggle.setAttribute(
           'label', I18nBehavior.i18n('mruCyclingSettingLabel'))
@@ -117,7 +117,7 @@ RegisterPolymerTemplateModifications({
         const speedreaderToggle = templateContent.getElementById('speedreader')
         if (!speedreaderToggle) {
           console.error(
-            '[Brave Settings Overrides] Couldn\'t find Speedreader toggle')
+            '[Asil Settings Overrides] Couldn\'t find Speedreader toggle')
         } else {
           speedreaderToggle.setAttribute(
             'label', I18nBehavior.i18n('speedreaderSettingLabel'))
@@ -132,7 +132,7 @@ RegisterPolymerTemplateModifications({
     // <if expr="is_macosx">
     const confirmToQuit = templateContent.querySelector('[pref="{{prefs.browser.confirm_to_quit}}"]')
     if (!confirmToQuit) {
-      console.error(`[Brave Settings Overrides] Couldn't find confirm to quit`)
+      console.error(`[Asil Settings Overrides] Couldn't find confirm to quit`)
     } else {
       confirmToQuit.remove()
     }
@@ -141,7 +141,7 @@ RegisterPolymerTemplateModifications({
     // Super referral themes prefs
     const pages = templateContent.getElementById('pages')
     if (!pages) {
-      console.error(`[Brave Settings Overrides] Couldn't find appearance_page #pages`)
+      console.error(`[Asil Settings Overrides] Couldn't find appearance_page #pages`)
     } else {
       pages.insertAdjacentHTML(
         'beforeend',

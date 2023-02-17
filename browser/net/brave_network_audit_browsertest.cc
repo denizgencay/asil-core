@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -309,7 +309,7 @@ IN_PROC_BROWSER_TEST_F(BraveNetworkAuditTest, BasicTests) {
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), simple_url));
   WaitForTimeout(kMaxTimeoutPerLoadedURL);
 
-  // Finally, load brave://rewards and enable Brave Rewards.
+  // Finally, load brave://rewards and enable Asil Rewards.
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), GURL("brave://rewards")));
   ASSERT_TRUE(EnableBraveRewards());
   WaitForTimeout(kMaxTimeoutPerLoadedURL);

@@ -23,7 +23,7 @@ export function SponsoredImageTooltip (props: Props) {
 
   function renderLearnMore () {
     return (
-      <NewTabLink href='https://brave.com/brave-rewards/'>
+      <NewTabLink href='https://asil.com/brave-rewards/'>
         {getString('rewardsLearnMore')}
       </NewTabLink>
     )

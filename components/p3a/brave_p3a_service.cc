@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -66,9 +66,9 @@ constexpr char kLastExpressRotationTimeStampPref[] =
     "p3a.last_express_rotation_timestamp";
 constexpr char kDynamicMetricsDictPref[] = "p3a.dynamic_metrics";
 
-constexpr char kP3AServerUrl[] = "https://p3a-json.brave.com/";
-constexpr char kP3ACreativeServerUrl[] = "https://p3a-creative.brave.com/";
-constexpr char kP2AServerUrl[] = "https://p2a-json.brave.com/";
+constexpr char kP3AServerUrl[] = "https://p3a-json.asil.com/";
+constexpr char kP3ACreativeServerUrl[] = "https://p3a-creative.asil.com/";
+constexpr char kP2AServerUrl[] = "https://p2a-json.asil.com/";
 
 constexpr uint64_t kDefaultUploadIntervalSeconds = 60;  // 1 minute.
 
@@ -527,7 +527,7 @@ void BraveP3AService::OnHistogramChanged(const char* histogram_name,
   }
 
   // Special handling of P2A histograms.
-  if (base::StartsWith(histogram_name, "Brave.P2A.",
+  if (base::StartsWith(histogram_name, "Asil.P2A.",
                        base::CompareCase::SENSITIVE)) {
     // We need the bucket count to make proper perturbation.
     // All P2A metrics should be implemented as linear histograms.

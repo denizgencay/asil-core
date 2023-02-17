@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -182,7 +182,7 @@ GetNetworkTrafficAnnotationTagForFaviconFetch() {
       "brave_rewards_favicon_fetcher", R"(
       semantics {
         sender:
-          "Brave Rewards Media Fetcher"
+          "Asil Rewards Media Fetcher"
         description:
           "Fetches favicon for media publishers in Rewards."
         trigger:
@@ -202,13 +202,13 @@ GetNetworkTrafficAnnotationTagForFaviconFetch() {
 net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotationTagForURLLoad() {
   return net::DefineNetworkTrafficAnnotation("rewards_service_impl", R"(
       semantics {
-        sender: "Brave Rewards service"
+        sender: "Asil Rewards service"
         description:
           "This service lets users anonymously support the sites they visit by "
           "tallying the attention spent on visited sites and dividing up a "
           "monthly BAT contribution."
         trigger:
-          "User-initiated for direct tipping or on a set interval while Brave "
+          "User-initiated for direct tipping or on a set interval while Asil "
           "is running for monthly contributions."
         data:
           "Publisher and contribution data."

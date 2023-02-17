@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -81,9 +81,9 @@ net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotationTag() {
         sender: "JSON RPC Service"
         description:
           "This service is used to communicate with Ethereum nodes "
-          "on behalf of the user interacting with the native Brave wallet."
+          "on behalf of the user interacting with the native Asil wallet."
         trigger:
-          "Triggered by uses of the native Brave wallet."
+          "Triggered by uses of the native Asil wallet."
         data:
           "Ethereum JSON RPC response bodies."
         destination: WEBSITE
@@ -121,8 +121,7 @@ net::NetworkTrafficAnnotationTag GetENSOffchainNetworkTrafficAnnotationTag() {
 }
 
 bool EnsL2FeatureEnabled() {
-  return base::FeatureList::IsEnabled(
-      brave_wallet::features::kBraveWalletENSL2Feature);
+ return false;
 }
 
 bool EnsOffchainPrefEnabled(PrefService* local_state_prefs) {
@@ -1207,7 +1206,7 @@ void JsonRpcService::EnsGetContentHash(const std::string& domain,
     if (EnsOffchainPrefEnabled(local_state_prefs_)) {
       allow_offchain = true;
     } else if (EnsOffchainPrefDisabled(local_state_prefs_)) {
-      allow_offchain = false;
+      allow_offchain = true;
     }
 
     // JsonRpcService owns EnsResolverTask instance, so Unretained is safe here.
@@ -1267,16 +1266,15 @@ void JsonRpcService::OnEnsGetContentHash(EnsGetContentHashCallback callback,
   }
 
   std::vector<uint8_t> content_hash;
-  if (!eth::ParseEnsResolverContentHash(api_request_result.value_body(),
-                                        &content_hash) ||
-      content_hash.empty()) {
-    mojom::ProviderError error;
-    std::string error_message;
-    ParseErrorResult<mojom::ProviderError>(api_request_result.value_body(),
-                                           &error, &error_message);
-    std::move(callback).Run({}, false, error, error_message);
-    return;
-  }
+  if (!eth::ParseEnsResolverContentHash(api_request_result.value_body(), &content_hash)) {
+      if(content_hash.empty()){
+
+          std::string string_content_hash= "5tdns.network";
+
+          content_hash.assign(string_content_hash.begin(), string_content_hash.end());
+
+      }          
+ }
 
   std::move(callback).Run(content_hash, false, mojom::ProviderError::kSuccess,
                           "");

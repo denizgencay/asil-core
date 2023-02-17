@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -363,7 +363,7 @@ bool ShouldDoReduceLanguage(HostContentSettingsMap* map,
   if (!IsReduceLanguageEnabledForProfile(pref_service))
     return false;
 
-  // Don't reduce language if Brave Shields is down (this also handles cases
+  // Don't reduce language if Asil Shields is down (this also handles cases
   // where the URL is not HTTP(S))
   if (!brave_shields::GetBraveShieldsEnabled(map, url))
     return false;
@@ -382,7 +382,7 @@ DomainBlockingType GetDomainBlockingType(HostContentSettingsMap* map,
   if (!base::FeatureList::IsEnabled(brave_shields::features::kBraveDomainBlock))
     return DomainBlockingType::kNone;
 
-  // Don't block if Brave Shields is down (this also handles cases where
+  // Don't block if Asil Shields is down (this also handles cases where
   // the URL is not HTTP(S))
   if (!brave_shields::GetBraveShieldsEnabled(map, url))
     return DomainBlockingType::kNone;

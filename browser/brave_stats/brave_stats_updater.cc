@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -71,11 +71,11 @@ net::NetworkTrafficAnnotationTag AnonymousStatsAnnotation() {
   return net::DefineNetworkTrafficAnnotation("brave_stats_updater", R"(
     semantics {
       sender:
-        "Brave Stats Updater"
+        "Asil Stats Updater"
       description:
-        "This service sends anonymous usage statistics to Brave."
+        "This service sends anonymous usage statistics to Asil."
       trigger:
-        "Stats are automatically sent at intervals while Brave "
+        "Stats are automatically sent at intervals while Asil "
         "is running."
       data: "Anonymous usage statistics."
       destination: WEBSITE
@@ -234,7 +234,7 @@ void BraveStatsUpdater::OnSimpleLoaderComplete(
   (void)MaybeDoThresholdPing(0);
 
   // Log the full URL of the stats ping.
-  VLOG(1) << "Brave stats ping, url: " << final_url.spec();
+  VLOG(1) << "Asil stats ping, url: " << final_url.spec();
 }
 
 void BraveStatsUpdater::OnThresholdLoaderComplete(
@@ -261,7 +261,7 @@ void BraveStatsUpdater::OnThresholdLoaderComplete(
   DisableThresholdPing();
 
   // Log the full URL of the stats ping.
-  VLOG(1) << "Brave stats ping, url: " << final_url.spec();
+  VLOG(1) << "Asil stats ping, url: " << final_url.spec();
 }
 
 void BraveStatsUpdater::OnServerPingTimerFired() {
@@ -375,7 +375,7 @@ void BraveStatsUpdater::SendServerPing() {
   resource_request->load_flags = net::LOAD_DO_NOT_SAVE_COOKIES |
                                  net::LOAD_BYPASS_CACHE |
                                  net::LOAD_DISABLE_CACHE;
-  resource_request->headers.SetHeader("X-Brave-API-Key",
+  resource_request->headers.SetHeader("X-Asil-API-Key",
                                       brave_stats::GetAPIKey());
   network::mojom::URLLoaderFactory* loader_factory = GetURLLoaderFactory();
   simple_url_loader_ = network::SimpleURLLoader::Create(
@@ -407,7 +407,7 @@ void BraveStatsUpdater::SendUserTriggeredPing() {
   resource_request->load_flags = net::LOAD_DO_NOT_SAVE_COOKIES |
                                  net::LOAD_BYPASS_CACHE |
                                  net::LOAD_DISABLE_CACHE;
-  resource_request->headers.SetHeader("X-Brave-API-Key",
+  resource_request->headers.SetHeader("X-Asil-API-Key",
                                       brave_stats::GetAPIKey());
   network::mojom::URLLoaderFactory* loader_factory = GetURLLoaderFactory();
   simple_url_loader_ = network::SimpleURLLoader::Create(

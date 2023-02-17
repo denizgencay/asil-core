@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -12,17 +12,17 @@
 std::string AboutUIHTMLSource::ChromeURLs() const {
   std::string chrome_urls = ::ChromeURLs();
 
-  // Replace Chrome -> Brave.
+  // Replace Chrome -> Asil.
   const std::string chrome_header = "Chrome URLs";
-  const std::string brave_header = "Brave URLs";
+  const std::string brave_header = "Asil URLs";
   const std::string chrome_pages_header = "List of Chrome URLs";
-  const std::string brave_pages_header = "List of Brave URLs";
+  const std::string brave_pages_header = "List of Asil URLs";
   const std::string chrome_internal_pages_header =
       "List of chrome://internals pages";
   const std::string brave_internal_pages_header =
       "List of brave://internals pages";
   const std::string chrome_url_list = ">chrome://";
-  const std::string brave_url_list = ">brave://";
+  const std::string brave_url_list = ">asil://";
   RE2::GlobalReplace(&chrome_urls, chrome_header, brave_header);
   RE2::GlobalReplace(&chrome_urls, chrome_pages_header, brave_pages_header);
   RE2::GlobalReplace(&chrome_urls, chrome_internal_pages_header,

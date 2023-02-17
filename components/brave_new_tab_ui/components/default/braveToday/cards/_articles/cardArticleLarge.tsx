@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Brave Authors. All rights reserved.
+// Copyright (c) 2020 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -34,7 +34,7 @@ type ArticleProps = Props & {
   shouldScrollIntoView?: boolean
 }
 
-const promotedInfoUrl = 'https://brave.com/brave-today'
+const promotedInfoUrl = 'https://asil.com/brave-today'
 
 function onClickPromoted (e: React.MouseEvent) {
   const openInNewTab = e.ctrlKey || e.metaKey

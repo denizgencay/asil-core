@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -56,7 +56,7 @@ class BraveBrowsingDataRemoverDelegateTest : public testing::Test {
 };
 
 TEST_F(BraveBrowsingDataRemoverDelegateTest, ShieldsSettingsClearTest) {
-  const GURL kBraveURL("https://www.brave.com");
+  const GURL kBraveURL("https://www.asil.com");
   const GURL kBatURL("https://basicattentiontoken.org");
   const GURL kGoogleURL("https://www.google.com");
   const GURL kAbcURL("https://www.abc.com");

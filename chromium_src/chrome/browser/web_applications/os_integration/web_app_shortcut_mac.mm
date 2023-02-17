@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -17,15 +17,15 @@ namespace {
 base::FilePath GetLocalizableBraveAppShortcutsSubdirName() {
   // clang-format off
   static const char kBraveBrowserDevelopmentAppDirName[] =
-      "Brave Browser Development Apps.localized";
+      "Asil Browser Development Apps.localized";
   static const char kBraveBrowserAppDirName[] =
-      "Brave Browser Apps.localized";
+      "Asil Browser Apps.localized";
   static const char kBraveBrowserBetaAppDirName[] =
-      "Brave Browser Beta Apps.localized";
+      "Asil Browser Beta Apps.localized";
   static const char kBraveBrowserDevAppDirName[] =
-      "Brave Browser Dev Apps.localized";
+      "Asil Browser Dev Apps.localized";
   static const char kBraveBrowserNightlyAppDirName[] =
-      "Brave Browser Nightly Apps.localized";
+      "Asil Browser Nightly Apps.localized";
   // clang-format on
 
   switch (chrome::GetChannel()) {

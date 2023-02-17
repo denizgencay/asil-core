@@ -3,16 +3,16 @@
 .TH @@PACKAGE@@ 1 "" "" "USER COMMANDS"
 
 .SH NAME
-@@PACKAGE@@ \- Brave Browser
+@@PACKAGE@@ \- Asil Browser
 
 .SH SYNOPSIS
 .B @@PACKAGE@@
 [\fIOPTION\fR] [\fIPATH\fR|\fIURL\fR]
 
 .SH DESCRIPTION
-See the Brave Help Center for help on using the browser.
+See the Asil Help Center for help on using the browser.
 .IP
-<https://support.brave.com/>
+<https://support.asil.com/>
 .PP
 This manpage only describes invocation, environment, and arguments.
 
@@ -167,4 +167,4 @@ Be sure to do your search within "All Issues" before reporting bugs,
 and be sure to pick the "Defect on Linux" template when filing a new one.
 
 .SH AUTHOR
-Brave Software \- <https://brave.com/>
+Asil Software \- <https://asil.com/>

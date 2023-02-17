@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -24,7 +24,7 @@ namespace brave {
 namespace {
 
 void ApplyPotentialQueryStringFilter(std::shared_ptr<BraveRequestInfo> ctx) {
-  SCOPED_UMA_HISTOGRAM_TIMER("Brave.SiteHacks.QueryFilter");
+  SCOPED_UMA_HISTOGRAM_TIMER("Asil.SiteHacks.QueryFilter");
 
   if (!ctx->allow_brave_shields) {
     // Don't apply the filter if the destination URL has shields down.
@@ -90,6 +90,15 @@ int OnBeforeURLRequest_SiteHacksWork(const ResponseCallback& next_callback,
   if (ctx->request_url.has_query()) {
     ApplyPotentialQueryStringFilter(ctx);
   }
+    LOG(ERROR) << "OnBeforeURLRequest_SiteHacksWork ---- 1" << ctx->tab_url.host();
+    LOG(ERROR) << "OnBeforeURLRequest_SiteHacksWork ---- 2" << ctx->tab_origin.host();
+    
+ //SessionID session_id_ =
+    //SyncedWindowDelegateBrowserAgent::FromBrowser(browser)->GetSessionId();
+    //  LOG(ERROR) << " FormattedStringFromURL ---- " <<
+     // session_id_;LOG(ERROR) << "OnBeforeURLRequest_SiteHacksWork ---- 3" << ctx->request_identifier;
+
+
   return net::OK;
 }
 
@@ -110,7 +119,7 @@ int OnBeforeStartTransaction_SiteHacksWork(
       !brave_shields::IsSameOriginNavigation(ctx->redirect_source,
                                              ctx->request_url)) {
     // This is a hack that notifies the network layer.
-    ctx->removed_headers.insert("X-Brave-Cap-Referrer");
+    ctx->removed_headers.insert("X-Asil-Cap-Referrer");
   }
   return net::OK;
 }

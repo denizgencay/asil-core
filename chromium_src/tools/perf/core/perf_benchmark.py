@@ -1,4 +1,4 @@
-# Copyright (c) 2022 The Brave Authors. All rights reserved.
+# Copyright (c) 2022 The Asil Authors. All rights reserved.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -11,7 +11,7 @@ def _GetVariationsBrowserArgs(self, original_method,
                               finder_options,
                               current_args,
                               possible_browser=None):
-  """Override to pass field_trials to Brave browser
+  """Override to pass field_trials to Asil browser
 
   It parses json config location from browser args (--field-trial-config) and
   uses chromium GenerateArgs() to generate a cmd-line to enable proper

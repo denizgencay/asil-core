@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -11,7 +11,7 @@
 namespace brave_welcome {
 namespace features {
 
-// If enabled, this will show the Brave Rewards card in onboarding
+// If enabled, this will show the Asil Rewards card in onboarding
 BASE_DECLARE_FEATURE(kShowRewardsCard);
 
 }  // namespace features

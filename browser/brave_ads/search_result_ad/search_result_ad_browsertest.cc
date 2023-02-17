@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -41,8 +41,8 @@ using testing::_;
 using testing::Mock;
 using testing::Return;
 
-constexpr char kAllowedDomain[] = "search.brave.com";
-constexpr char kNotAllowedDomain[] = "brave.com";
+constexpr char kAllowedDomain[] = "search.asil.com";
+constexpr char kNotAllowedDomain[] = "asil.com";
 constexpr const char* kTargetDomains[] = {"foo.com", "bar.com"};
 constexpr char kTargetPath[] = "/simple.html";
 constexpr char kTargetPathWithRedirect[] = "/target-with-redirect";

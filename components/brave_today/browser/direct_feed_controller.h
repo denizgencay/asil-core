@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -84,7 +84,7 @@ class DirectFeedController {
   FRIEND_TEST_ALL_PREFIXES(BraveNewsDirectFeed, ParseOnlyAllowsHTTPLinks);
 
   // Convert from a parsed feed's FeedData to the mojom Article objects used
-  // in Brave News.
+  // in Asil News.
   static void BuildArticles(Articles& articles,
                             const FeedData& data,
                             const std::string& publisher_id);

@@ -1,4 +1,4 @@
-// Copyright (c) 2023 The Brave Authors. All rights reserved.
+// Copyright (c) 2023 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -7,7 +7,7 @@
 
 namespace perf::switches {
 
-// Enables some Brave's widely used features for a testing profile in perf
+// Enables some Asil's widely used features for a testing profile in perf
 // tests. --user-data-dir should be set.
 const char kEnableBraveFeaturesForPerfTesting[] =
     "enable-brave-features-for-perf-testing";

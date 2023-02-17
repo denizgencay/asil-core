@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -53,7 +53,7 @@ class HistoryService;
 
 namespace brave_news {
 
-// Browser-side handler for Brave News mojom API, 1 per profile
+// Browser-side handler for Asil News mojom API, 1 per profile
 // Orchestrates FeedController and PublishersController for data, as well as
 // owning prefs data.
 // Controls remote feed update logic via Timer and prefs values.

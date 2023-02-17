@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Brave Authors. All rights reserved.
+// Copyright (c) 2020 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -152,7 +152,7 @@ reducer.on(Actions.setPublisherPref, (state, payload) => {
 reducer.on(Actions.removeDirectFeed, (state, { directFeed }) => {
   const hasMatch = !!state.publishers?.[directFeed.publisherId]
   if (!hasMatch) {
-    console.warn('Brave News: asked to remove direct feed which did not exist', directFeed)
+    console.warn('Asil News: asked to remove direct feed which did not exist', directFeed)
     return state
   }
   // Predict what backend will return when date is refreshed

@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -46,9 +46,9 @@ class BraveBrowserCommandControllerTest;
 
 namespace brave_vpn {
 
-constexpr char kNewUserReturningHistogramName[] = "Brave.VPN.NewUserReturning";
-constexpr char kDaysInMonthUsedHistogramName[] = "Brave.VPN.DaysInMonthUsed";
-constexpr char kLastUsageTimeHistogramName[] = "Brave.VPN.LastUsageTime";
+constexpr char kNewUserReturningHistogramName[] = "Asil.VPN.NewUserReturning";
+constexpr char kDaysInMonthUsedHistogramName[] = "Asil.VPN.DaysInMonthUsed";
+constexpr char kLastUsageTimeHistogramName[] = "Asil.VPN.LastUsageTime";
 
 // This class is used by desktop and android.
 // However, it includes desktop specific impls and it's hidden

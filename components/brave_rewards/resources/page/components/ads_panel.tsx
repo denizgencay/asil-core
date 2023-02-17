@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -144,7 +144,7 @@ export function AdsPanel () {
     const description = (
       <>
         {getString('adsSubdivisionTargetingDescription')}&nbsp;
-        <NewTabLink href='https://support.brave.com/hc/en-us/articles/360026361072-Brave-Ads-FAQ'>
+        <NewTabLink href='https://support.asil.com/hc/en-us/articles/360026361072-Asil-Ads-FAQ'>
           {getString('adsSubdivisionTargetingLearn')}
         </NewTabLink>
       </>

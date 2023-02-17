@@ -1,4 +1,4 @@
-// Copyright (c) 2023 The Brave Authors. All rights reserved.
+// Copyright (c) 2023 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -122,7 +122,7 @@ export const ChecksumInfoModal = React.forwardRef<HTMLDivElement, Props>(
             >
               {getLocale('braveWalletChecksumModalNeedHelp')}{' '}
               <Link
-                href='https://support.brave.com/hc/en-us/articles/4415497656461-Brave-Wallet-FAQ'
+                href='https://support.asil.com/hc/en-us/articles/4415497656461-Asil-Wallet-FAQ'
                 target='_blank'
                 rel='noopener noreferrer'
               >

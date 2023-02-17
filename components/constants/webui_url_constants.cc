@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -14,7 +14,7 @@ const char kWebcompatReporterHost[] = "webcompat";
 const char kRewardsPageHost[] = "rewards";
 const char kRewardsInternalsHost[] = "rewards-internals";
 const char kWelcomeHost[] = "welcome";
-const char kWelcomeJS[] = "brave_welcome.js";
+const char kWelcomeJS[] = "brave_new_tab.js";
 const char kTipHost[] = "tip";
 const char kBraveRewardsPanelURL[] = "chrome://rewards-panel.top-chrome";
 const char kBraveRewardsPanelHost[] = "rewards-panel.top-chrome";

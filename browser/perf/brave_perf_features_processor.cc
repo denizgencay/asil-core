@@ -1,4 +1,4 @@
-// Copyright (c) 2023 The Brave Authors. All rights reserved.
+// Copyright (c) 2023 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -69,7 +69,7 @@ void MaybeEnableBraveFeatureForPerfTesting(Profile* profile) {
       brave_rewards::RewardsServiceFactory::GetForProfile(profile);
   rewards_service->CreateRewardsWallet("US", base::BindOnce(&FakeCallback));
 
-  // Brave news
+  // Asil news
   profile->GetPrefs()->SetBoolean(brave_news::prefs::kNewTabPageShowToday,
                                   true);
   profile->GetPrefs()->SetBoolean(brave_news::prefs::kBraveTodayOptedIn, true);

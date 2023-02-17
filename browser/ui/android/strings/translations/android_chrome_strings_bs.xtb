@@ -13,7 +13,7 @@
 <translation id="1089606299949659462">Pregled je završen!</translation>
 <translation id="1095761715416917775">Provjerite možete li uvijek pristupiti sinhroniziranim podacima</translation>
 <translation id="1100066534610197918">Otvori u novoj kartici i grupi</translation>
-<translation id="4660777881054855091">Želite li pomoći da poboljšamo Brave?</translation>
+<translation id="4660777881054855091">Želite li pomoći da poboljšamo Asil?</translation>
 <translation id="1105960400813249514">Snimanje ekrana</translation>
 <translation id="1108938384783527433">Sihnronizacija historije</translation>
 <translation id="1110914759170138831">Istaknuta stavka je skraćena</translation>
@@ -21,14 +21,14 @@
 <translation id="1113597929977215864">Prikaži pojednostavljeni prikaz</translation>
 <translation id="8577410793886633063">Kako ostvarujete interakciju s Braveom, odabrane postavke, detalji o padovima Bravea</translation>
 <translation id="4470276443668654888">Načini plaćanja i adrese s Google Paya se neće šifrirati. Historija pregledanja iz Bravea se neće sinhronizirati.
-Vaše šifrirane podatke može čitati samo osoba koja ima vaš pristupni izraz. Pristupni izraz se ne šalje Braveu niti ga Brave pohranjuje. Ako zaboravite pristupni izraz ili želite promijeniti ovu postavku, morat ćete poništiti sinhronizaciju. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
+Vaše šifrirane podatke može čitati samo osoba koja ima vaš pristupni izraz. Pristupni izraz se ne šalje Braveu niti ga Asil pohranjuje. Ako zaboravite pristupni izraz ili želite promijeniti ovu postavku, morat ćete poništiti sinhronizaciju. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
 <translation id="1295971429974142731">Ne štiti vas od opasnih web lokacija, preuzimanja i ekstenzija. I dalje ćete dobijati zaštitu Sigurno pregledanje, tamo gdje je dostupna, na drugim Braveovim uslugama kao što su Gmail i Pretraživanje.</translation>
 <translation id="1129510026454351943">Detalji: <ph name="ERROR_DESCRIPTION"/></translation>
 <translation id="1142732900304639782">Nemoj nuditi prevođenje ovih web lokacija</translation>
 <translation id="1145536944570833626">Brisanje postojećih podataka.</translation>
 <translation id="1146678959555564648">Uđi u VR</translation>
 <translation id="1149401351239820326">Mjesec isteka</translation>
-<translation id="7083341910267693582"><ph name="APP_NAME"/> će se otvoriti u Braveu. Ako nastavite, pristajete na <ph name="BEGIN_LINK1"/>Braveove Uslove korištenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne Uslove korištenja usluge za Brave i ChromeOS<ph name="END_LINK2"/>.</translation>
+<translation id="7083341910267693582"><ph name="APP_NAME"/> će se otvoriti u Braveu. Ako nastavite, pristajete na <ph name="BEGIN_LINK1"/>Braveove Uslove korištenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne Uslove korištenja usluge za Asil i ChromeOS<ph name="END_LINK2"/>.</translation>
 <translation id="1154704303112745282">Stranica je nedostupna van mreže: <ph name="VIOLATED_URL"/></translation>
 <translation id="1173894706177603556">Promijeni naziv</translation>
 <translation id="1177863135347784049">Prilagođeno</translation>
@@ -46,14 +46,14 @@ Vaše šifrirane podatke može čitati samo osoba koja ima vaš pristupni izraz.
 <translation id="1231733316453485619">Uključiti sinhronizaciju?</translation>
 <translation id="123724288017357924">Ponovo učitajte tren. str. ignorir. sadrž. keš memor.</translation>
 <translation id="1239792311949352652">Brzo dijelite ovu stranicu. Da uredite ovu prečicu, idite u Postavke.</translation>
-<translation id="3251315496493761426">Savjeti za Brave</translation>
+<translation id="3251315496493761426">Savjeti za Asil</translation>
 <translation id="1240288207750131269">Učitavanje jezika <ph name="LANG"/></translation>
 <translation id="1240903469550363138">Da nastavite, <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> će dijeliti vaše ime i prezime, adresu e-pošte, adresu i sliku profila s ovom web lokacijom. Pogledajte <ph name="BEGIN_LINK1"/>pravila privatnosti<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>uslove korištenja usluge<ph name="END_LINK2"/> ove web lokacije.</translation>
 <translation id="124116460088058876">Više jezika</translation>
 <translation id="1242883863226959074">uređaj</translation>
 <translation id="124678866338384709">Zatvori trenutnu karticu</translation>
 <translation id="1246905108078336582">Ukloniti prijedlog iz međumemorije?</translation>
-<translation id="1996480094660735607">Brave crtež: <ph name="DOODLE_DESCRIPTION"/></translation>
+<translation id="1996480094660735607">Asil crtež: <ph name="DOODLE_DESCRIPTION"/></translation>
 <translation id="1263231323834454256">Lista za čitanje</translation>
 <translation id="1266864766717917324">Nije moguće podijeliti <ph name="CONTENT_TYPE"/></translation>
 <translation id="1283039547216852943">Dodirnite da proširite</translation>
@@ -68,11 +68,11 @@ Vaše šifrirane podatke može čitati samo osoba koja ima vaš pristupni izraz.
 <translation id="1316212908214730110">chrome_stylized_highlight_</translation>
 <translation id="1320912611264252795">Folderi toka za pohranu oznaka su otvoreni na cijelom ekranu</translation>
 <translation id="1327257854815634930">Historija navigacije je otvorena</translation>
-<translation id="6773423637732432200">Nije moguće ažurirati Brave. Više opcija</translation>
+<translation id="6773423637732432200">Nije moguće ažurirati Asil. Više opcija</translation>
 <translation id="7673009277700083027">Mjerenje oglasa omogućava web lokacijama koje posjećujete da zatraže informaciju iz Bravea koja će im pomoći da izmjere performanse svojih oglasa. Mjerenje oglasa ograničava unakrsno praćenje web lokacija prenoseći minimalnu količinu informacija između njih.
 
 Kada izbrišete historiju pregledanja, cijelu ili samo za određene web lokacije, također brišete povezane informacije o mjerenju. Pogledajte <ph name="BEGIN_LINK"/>historiju pregledanja<ph name="END_LINK"/>.</translation>
-<translation id="3169981355900570544">Prečice Brave funkcija</translation>
+<translation id="3169981355900570544">Prečice Asil funkcija</translation>
 <translation id="1344653310988386453">Uključite link za istaknuti tekst</translation>
 <translation id="1347468774581902829">Upravljajte aktivnostima</translation>
 <translation id="1360432990279830238">Odjaviti se i isključiti sinhronizaciju?</translation>
@@ -81,7 +81,7 @@ Kada izbrišete historiju pregledanja, cijelu ili samo za određene web lokacije
 <translation id="1376578503827013741">Računanje…</translation>
 <translation id="1382912999714108023">Ne vidite svoje trenutne informacije? Kontaktirajte banku da ih ažurirate.</translation>
 <translation id="1383876407941801731">Traži</translation>
-<translation id="1384704387250346179">Prevedi sliku Brave Objektivom <ph name="BEGIN_NEW"/>Novo<ph name="END_NEW"/></translation>
+<translation id="1384704387250346179">Prevedi sliku Asil Objektivom <ph name="BEGIN_NEW"/>Novo<ph name="END_NEW"/></translation>
 <translation id="1386674309198842382">Aktivan prije <ph name="LAST_UPDATED"/> dana</translation>
 <translation id="13931502444227376">Da nastavite, <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> će dijeliti vaše ime i prezime, adresu e-pošte, adresu i sliku profila s ovom web lokacijom. Pogledajte <ph name="BEGIN_LINK1"/>Uslove korištenja usluge<ph name="END_LINK1"/> ove web lokacije.</translation>
 <translation id="1397811292916898096">Pretražite pomoću proizvoda <ph name="PRODUCT_NAME"/></translation>
@@ -113,9 +113,9 @@ Kada izbrišete historiju pregledanja, cijelu ili samo za određene web lokacije
 <translation id="1518421282666914498">GIF emocija <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="1521774566618522728">Aktivan danas</translation>
 <translation id="1538801903729528855">Ostvarite bolje iskustvo u korištenju glasa na webu</translation>
-<translation id="8090895580117672212">Za upravljanje Brave računom, dodirnite dugme "Upravljaj računom"</translation>
+<translation id="8090895580117672212">Za upravljanje Asil računom, dodirnite dugme "Upravljaj računom"</translation>
 <translation id="1549000191223877751">Premjesti u drugi prozor</translation>
-<translation id="1705567146636171298">Ažuriraj Brave</translation>
+<translation id="1705567146636171298">Ažuriraj Asil</translation>
 <translation id="1571304935088121812">Kopiranje korisničkog imena</translation>
 <translation id="1592864538817356322">Standardna zaštita:</translation>
 <translation id="1594635596540195766">Broj predloženih stavki u listi u nastavku: <ph name="SUGGESTIONS_COUNT"/>.</translation>
@@ -129,14 +129,14 @@ Kada izbrišete historiju pregledanja, cijelu ili samo za određene web lokacije
 <translation id="1670399744444387456">Osnovni</translation>
 <translation id="1671236975893690980">Čeka se preuzimanje…</translation>
 <translation id="1672586136351118594">Ne prikazuj ponovo</translation>
-<translation id="1680919990519905526">Kupi uz Brave Objektiv <ph name="BEGIN_NEW"/>Novo<ph name="END_NEW"/></translation>
+<translation id="1680919990519905526">Kupi uz Asil Objektiv <ph name="BEGIN_NEW"/>Novo<ph name="END_NEW"/></translation>
 <translation id="1682195225331129001">Isprobajte</translation>
 <translation id="1702543251015153180">Promijeniti postavke tamne teme?</translation>
 <translation id="1702907158640575240">Upravljani preglednik</translation>
 <translation id="1710099199314114079">Prebacite se između kartica ili ih zatvorite</translation>
 <translation id="1718835860248848330">Posljednji sat</translation>
 <translation id="1724977129262658800">Otključajte da uredite lozinku</translation>
-<translation id="6493900814829428590">Možete brže pregledati i pretraživati kada Brave predučita stranice za koje smatra da ih možete posjetiti</translation>
+<translation id="6493900814829428590">Možete brže pregledati i pretraživati kada Asil predučita stranice za koje smatra da ih možete posjetiti</translation>
 <translation id="173522743738009831">O Okruženju zaštićene privatnosti</translation>
 <translation id="1736419249208073774">Istraži</translation>
 <translation id="1749561566933687563">Sinhronizirajte svoje oznake</translation>
@@ -155,18 +155,18 @@ Kada izbrišete historiju pregledanja, cijelu ili samo za određene web lokacije
 <translation id="1296423691585024517">Tokom probnog perioda, mjerenje oglasa omogućava web lokacijama koje posjećujete da zatraže informaciju iz Bravea koja će im pomoći da izmjere performanse svojih oglasa. Mjerenje oglasa ograničava unakrsno praćenje web lokacija prenoseći minimalnu količinu informacija između njih.
 
 Kada izbrišete historiju pregledanja, cijelu ili samo za određene web lokacije, također brišete povezane informacije o mjerenju. Pogledajte <ph name="BEGIN_LINK"/>historiju pregledanja<ph name="END_LINK"/>.</translation>
-<translation id="5173820533850252773">Brave je zastario</translation>
+<translation id="5173820533850252773">Asil je zastario</translation>
 <translation id="1883903952484604915">Moji fajlovi</translation>
 <translation id="189358972401248634">Drugi jezici</translation>
 <translation id="1900260903084164610">Ako nastavite, pristajete na <ph name="BEGIN_TOS_LINK"/>Uslove korištenja usluge<ph name="END_TOS_LINK"/>.</translation>
-<translation id="6893464351226208429">URL-ovi koje posjećujete pohranjuju se na vaš Brave račun</translation>
+<translation id="6893464351226208429">URL-ovi koje posjećujete pohranjuju se na vaš Asil račun</translation>
 <translation id="1910950723001426294">Lista opcija dijeljenja je zatvorena.</translation>
 <translation id="1918175104945982129">Korisnički interfejs za pristanak na glasovno pretraživanje putem Asistenta je otvoren na pola ekrana</translation>
-<translation id="7021823858304886493">Omogući prijavu na Brave</translation>
+<translation id="7021823858304886493">Omogući prijavu na Asil</translation>
 <translation id="1922362554271624559">Predloženi jezici</translation>
 <translation id="1925021887439448749">Unesite prilagođenu web adresu</translation>
 <translation id="1928696683969751773">Ažuriranja</translation>
-<translation id="1875543012935658554">Ponovo otvori Brave.</translation>
+<translation id="1875543012935658554">Ponovo otvori Asil.</translation>
 <translation id="1933845786846280168">Odabrana kartica</translation>
 <translation id="193571872656840963">Zahvalite se ovom kreatoru</translation>
 <translation id="1943432128510653496">Sačuvaj lozinke</translation>
@@ -204,13 +204,13 @@ Kada izbrišete historiju pregledanja, cijelu ili samo za određene web lokacije
 <translation id="2122601567107267586">Otvaranje aplikacije nije uspjelo</translation>
 <translation id="2132122640199389833">Ukloni sve povezane uređaje</translation>
 <translation id="213279576345780926">Zatvorena je kartica <ph name="TAB_TITLE"/></translation>
-<translation id="6659395979197839222">Korištenjem Bravea pristajete na <ph name="BEGIN_TOS_LINK"/>Braveove Uslove korištenja usluge<ph name="END_TOS_LINK"/> i <ph name="BEGIN_ATOS_LINK"/>dodatne Uslove korištenja usluge za Brave i ChromeOS<ph name="END_ATOS_LINK"/>.</translation>
+<translation id="6659395979197839222">Korištenjem Bravea pristajete na <ph name="BEGIN_TOS_LINK"/>Braveove Uslove korištenja usluge<ph name="END_TOS_LINK"/> i <ph name="BEGIN_ATOS_LINK"/>dodatne Uslove korištenja usluge za Asil i ChromeOS<ph name="END_ATOS_LINK"/>.</translation>
 <translation id="2139186145475833000">Dodaj na početni ekran</translation>
 <translation id="2141396931810938595">Zasnovano na vašem korištenju</translation>
 <translation id="6516933364477884970">Odaberite šta vam odgovara da dijelite s Braveom. Pokazatelji koje dijelite će se koristiti da se poboljšaju funkcije, rad i stabilnost Bravea.</translation>
 <translation id="2149973817440762519">Uredi oznaku</translation>
 <translation id="2155214902713132423">Ovaj način potvrđivanja nije dostupan za ovaj uređaj. Odaberite drugu opciju na drugom uređaju.</translation>
-<translation id="4162910516440006395">Brave nije mogao provjeriti sve lozinke</translation>
+<translation id="4162910516440006395">Asil nije mogao provjeriti sve lozinke</translation>
 <translation id="2172688499998841696">Opisi slika su isključeni</translation>
 <translation id="2172905120685242547">Zatvoriti prozor?</translation>
 <translation id="2175927920773552910">QR kôd</translation>
@@ -225,8 +225,8 @@ Kada izbrišete historiju pregledanja, cijelu ili samo za određene web lokacije
 <translation id="2239812875700136898">Kontrolirajte priče pomoću dugmeta Opcije za Discover</translation>
 <translation id="4808014761134300692">Lozinke se šifriraju na uređaju prije nego što se sačuvaju u Braveovom Upravitelju lozinki</translation>
 <translation id="2259659629660284697">Izvoz lozinki…</translation>
-<translation id="8820144752830692527">Uvijek možete odabrati šta želite sinhronizirati u <ph name="BEGIN_LINK1"/>postavkama<ph name="END_LINK1"/>. Brave može personalizirati Pretraživanje i druge usluge na osnovu vaše historije.</translation>
-<translation id="781982477617612877">Prijavite se na svoj Brave račun da provjerite lozinke</translation>
+<translation id="8820144752830692527">Uvijek možete odabrati šta želite sinhronizirati u <ph name="BEGIN_LINK1"/>postavkama<ph name="END_LINK1"/>. Asil može personalizirati Pretraživanje i druge usluge na osnovu vaše historije.</translation>
+<translation id="781982477617612877">Prijavite se na svoj Asil račun da provjerite lozinke</translation>
 <translation id="2278052315791335171">Brisanjem ove lozinke se neće izbrisati vaš račun na web lokaciji <ph name="SITE"/></translation>
 <translation id="2286841657746966508">Adresa za naplatu</translation>
 <translation id="228704530595896923">Lista opcija dijeljenja.</translation>
@@ -236,14 +236,14 @@ Kada izbrišete historiju pregledanja, cijelu ili samo za određene web lokacije
 <translation id="2323763861024343754">Pohrana web lokacije</translation>
 <translation id="2328985652426384049">Nije se moguće prijaviti</translation>
 <translation id="234265804618409743">Nije moguće otvoriti kameru. Nešto nije uredu.</translation>
-<translation id="3587672679800759167">Ukupna količina podataka koju je Brave iskoristio, uključujući račune, oznake i sačuvane postavke</translation>
+<translation id="3587672679800759167">Ukupna količina podataka koju je Asil iskoristio, uključujući račune, oznake i sačuvane postavke</translation>
 <translation id="2353636109065292463">Provjera vaše internetske veze</translation>
 <translation id="2767094839186957509">Braveova Pravila privatnosti</translation>
 <translation id="2359808026110333948">Nastavi</translation>
 <translation id="2386938421315164605">Sakrijte i otkrijte teme</translation>
 <translation id="2390510615457643724">Želite li ponovo preuzeti fajl <ph name="FILE_NAME"/> (<ph name="FILE_SIZE"/>)?</translation>
 <translation id="2394602618534698961">Fajlovi koje preuzmete će se pojaviti ovdje</translation>
-<translation id="801672626447970525">Kada se prijavite na Brave račun, ova funkcija se uključuje</translation>
+<translation id="801672626447970525">Kada se prijavite na Asil račun, ova funkcija se uključuje</translation>
 <translation id="2410754283952462441">Odaberite račun</translation>
 <translation id="2414886740292270097">Tamno</translation>
 <translation id="2426805022920575512">Odaberite drugi račun</translation>
@@ -256,7 +256,7 @@ Kada izbrišete historiju pregledanja, cijelu ili samo za određene web lokacije
 <translation id="2542068854151299295">Prijavite se da iskoristite prednosti Bravea</translation>
 <translation id="247737702124049222">Opisi slika su uključeni</translation>
 <translation id="2482878487686419369">Obavještenja</translation>
-<translation id="6361779936989026201">Brave Assistant u Braveu</translation>
+<translation id="6361779936989026201">Asil Assistant u Braveu</translation>
 <translation id="2496180316473517155">Historija pregledanja</translation>
 <translation id="2497852260688568942">Sinhronizaciju je onemogućio vaš administrator</translation>
 <translation id="7229462727772664332">Vidjet ćete svoj status prijave na web lokaciji <ph name="SITE_NAME"/>, podatke pregledanja i podatke web lokacije u Braveu</translation>
@@ -274,14 +274,14 @@ Kada izbrišete historiju pregledanja, cijelu ili samo za određene web lokacije
 <translation id="2561519700418191927">Pregledi videozapisa</translation>
 <translation id="2567385386134582609">SLIKA</translation>
 <translation id="2567545343356994513">Brža, proaktivna zaštita od opasnih web lokacija, preuzimanja i ekstenzija</translation>
-<translation id="5079947353572974060">Ponudi slanje stranica na drugim jezicima Brave Prevodiocu</translation>
-<translation id="6995512410824092085">Saznajte kako postaviti Brave kao zadani preglednik</translation>
+<translation id="5079947353572974060">Ponudi slanje stranica na drugim jezicima Asil Prevodiocu</translation>
+<translation id="6995512410824092085">Saznajte kako postaviti Asil kao zadani preglednik</translation>
 <translation id="6453483065572809635">Smanjivanje neželjenog sadržaja i prevara se zasniva na privatnim tokenima stanja koji pomažu web lokacijama da se bore protiv prevara i razlikuju botove od osoba.
 
 Na osnovu vaše interakcije s web lokacijom, kao što je redovna prijava na račun, ta web lokacija može vašem pregledniku izdati privatni token stanja. Kasnije, ako druge web lokacije koje ste posjetili provjere postoji li važeći privatni token stanja i pronađu ga, vjerovatnije će vas tretirati kao osobu, a ne kao bota.
 
 Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se koristiti za utvrđivanje vašeg identiteta.</translation>
-<translation id="2324920234469020158">Na ovaj način će se obrisati kolačići, keš memorija i drugi podaci s web lokacija za koje Brave smatra da su nebitne.</translation>
+<translation id="2324920234469020158">Na ovaj način će se obrisati kolačići, keš memorija i drugi podaci s web lokacija za koje Asil smatra da su nebitne.</translation>
 <translation id="2587052924345400782">Dostupna je nova verzija</translation>
 <translation id="2593272815202181319">Monospace</translation>
 <translation id="2604446170045642109">Tamnu temu za web lokacije možete isključiti u postavkama.</translation>
@@ -317,7 +317,7 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="2788468313014644040">Član grupe</translation>
 <translation id="2800066122460699237">Kartica <ph name="TAB_TITLE"/> će se zatvoriti</translation>
 <translation id="2806840421670364300">FLoC</translation>
-<translation id="7068873021383263704">Prikažite i upravljajte sačuvanim lozinkama u svom <ph name="BEGIN_LINK"/>Brave računu<ph name="END_LINK"/></translation>
+<translation id="7068873021383263704">Prikažite i upravljajte sačuvanim lozinkama u svom <ph name="BEGIN_LINK"/>Asil računu<ph name="END_LINK"/></translation>
 <translation id="2818669890320396765">Da biste imali svoje oznake na svim svojim uređajima, prijavite se i uključite sinhronizaciju</translation>
 <translation id="2827278682606527653">Feed card menu half height</translation>
 <translation id="2830783625999891985">Sadržaj međumemorije je skriven</translation>
@@ -334,15 +334,15 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="2886836735871983413">Ovdje će biti prikazana lista web lokacija dok pregledate web</translation>
 <translation id="8541922081612557424">O Braveu</translation>
 <translation id="2891154217021530873">Zaustavljanje učitavanja stranice</translation>
-<translation id="4013614219085422040">Brave može koristiti vašu historiju za personalizaciju Pretraživanja i drugih Braveovih usluga</translation>
+<translation id="4013614219085422040">Asil može koristiti vašu historiju za personalizaciju Pretraživanja i drugih Braveovih usluga</translation>
 <translation id="2900528713135656174">Kreiraj događaj</translation>
 <translation id="2901411048554510387">Prikazuju se prijedlozi za web lokaciju <ph name="WEBSITE_TITLE"/></translation>
 <translation id="2904414404539560095">Spisak uređaja s kojim će se dijeliti kartica je otvoren u punoj visini.</translation>
 <translation id="2908243544703713905">Nepročitane priče su spremne</translation>
-<translation id="7339921667754113786">Platforma za Brave obavještenja</translation>
+<translation id="7339921667754113786">Platforma za Asil obavještenja</translation>
 <translation id="2912296070571964914">Upravljajte temama koje vas zanimaju</translation>
 <translation id="2923908459366352541">Ime je nevažeće</translation>
-<translation id="6355102470683871794">Pohrana aplikacije Brave <ph name="APP_NAME"/></translation>
+<translation id="6355102470683871794">Pohrana aplikacije Asil <ph name="APP_NAME"/></translation>
 <translation id="2932222164150889403">Tastatura se neće promijeniti</translation>
 <translation id="6537665929855787038">Obavještenja Bravea olakšavaju stvari</translation>
 <translation id="2940075786175545812">Opcija za odobravanje ili neodobravanje web lokacije</translation>
@@ -360,7 +360,7 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="2994959273484668146">Ukloni <ph name="DOMAIN"/></translation>
 <translation id="2996291259634659425">Kreirajte pristupni izraz</translation>
 <translation id="2996809686854298943">Potreban je URL</translation>
-<translation id="2019027298133375428">Kada Braveova web lokacija zatraži da privatno predučita linkove na svojim stranicama, Brave će šifrirati i predučitati stranice putem Braveovih servera bez kolačića. Ovim se skriva vaš identitet na predučitanoj web lokaciji.</translation>
+<translation id="2019027298133375428">Kada Braveova web lokacija zatraži da privatno predučita linkove na svojim stranicama, Asil će šifrirati i predučitati stranice putem Braveovih servera bez kolačića. Ovim se skriva vaš identitet na predučitanoj web lokaciji.</translation>
 <translation id="3006881078666935414">Nema podataka o korištenju</translation>
 <translation id="301080557829842765">Vodič za privatnost</translation>
 <translation id="3016635187733453316">Provjerite je li ovaj uređaj povezan na internet</translation>
@@ -370,16 +370,16 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="3031225630520268969">Korisnički interfejs za pristanak na glasovno pretraživanje putem Asistenta</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Potražite pomoć<ph name="END_LINK"/></translation>
 <translation id="3037177537145227281">Praćenje cijene</translation>
-<translation id="3251012123600267109">Prikazuje upite za prijavu na Brave</translation>
+<translation id="3251012123600267109">Prikazuje upite za prijavu na Asil</translation>
 <translation id="3046945242843292318">Sljedeći put brže pristupite ovoj web lokaciji</translation>
 <translation id="3055113921564083271">Interesovanja koja ste uklonili</translation>
 <translation id="3055259925215945098">Oznaka je premještena</translation>
-<translation id="4163313568284712797">Braveu se šalju informacije o vašem korištenju Bravea, ali nisu povezane s vama\n\nAko Brave padne, detalji o padu mogu obuhvatati neke lične informacije\n\nAko uključite sinhronizaciju, pokazatelji mogu obuhvatati i informacije o URL-ovima koje posjetite</translation>
+<translation id="4163313568284712797">Braveu se šalju informacije o vašem korištenju Bravea, ali nisu povezane s vama\n\nAko Asil padne, detalji o padu mogu obuhvatati neke lične informacije\n\nAko uključite sinhronizaciju, pokazatelji mogu obuhvatati i informacije o URL-ovima koje posjetite</translation>
 <translation id="3060635849835183725">{BOOKMARKS_COUNT,plural, =1{<ph name="BOOKMARKS_COUNT_ONE"/> oznaka}one{<ph name="BOOKMARKS_COUNT_MANY"/> oznaka}few{<ph name="BOOKMARKS_COUNT_MANY"/> oznake}other{<ph name="BOOKMARKS_COUNT_MANY"/> oznaka}}</translation>
 <translation id="6153252609477956632">Članci o vašim interesovanjima u Braveu</translation>
 <translation id="3066573403916685335">Pomjeranje nadolje</translation>
 <translation id="3070005020161560471">Automatski prevodi</translation>
-<translation id="1094255666887095087"><ph name="APP_NAME"/> će se otvoriti u Braveu. Ako nastavite, pristajete na <ph name="BEGIN_LINK1"/>Braveove Uslove korištenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne Uslove korištenja usluge za Brave i ChromeOS<ph name="END_LINK2"/>. Također se primjenjuju <ph name="BEGIN_LINK3"/>Pravila privatnosti<ph name="END_LINK3"/>.</translation>
+<translation id="1094255666887095087"><ph name="APP_NAME"/> će se otvoriti u Braveu. Ako nastavite, pristajete na <ph name="BEGIN_LINK1"/>Braveove Uslove korištenja usluge<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>dodatne Uslove korištenja usluge za Asil i ChromeOS<ph name="END_LINK2"/>. Također se primjenjuju <ph name="BEGIN_LINK3"/>Pravila privatnosti<ph name="END_LINK3"/>.</translation>
 <translation id="3091010850649238832">Prikažite sadržaj međumemorije</translation>
 <translation id="821565628224723530">Neke slike se šalju Braveu radi poboljšanja opisa</translation>
 <translation id="3114507951000454849">Pročitajte današnje vijesti <ph name="NEWS_ICON"/></translation>
@@ -390,17 +390,17 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="5063487983358782016">Početna stranica Bravea</translation>
 <translation id="3157931365184549694">Vrati</translation>
 <translation id="3166827708714933426">Kartice i prečice prozora</translation>
-<translation id="7249949543831830993">Brave je već pokrenut ovdje.</translation>
+<translation id="7249949543831830993">Asil je već pokrenut ovdje.</translation>
 <translation id="3169472444629675720">Otkrijte</translation>
 <translation id="3187472288455401631">Mjerenje oglasa</translation>
 <translation id="3207960819495026254">Označeno</translation>
 <translation id="3208584281581115441">Provjeri sada</translation>
 <translation id="3211426585530211793">Izbrisano: <ph name="ITEM_TITLE"/></translation>
-<translation id="1892217432793359605"><ph name="BEGIN_LINK1"/>Historija pretraživanja<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>ostali oblici aktivnosti<ph name="END_LINK2"/> se mogu pohranjivati na vaš Brave račun kada ste prijavljeni. Možete ih izbrisati bilo kada.</translation>
+<translation id="1892217432793359605"><ph name="BEGIN_LINK1"/>Historija pretraživanja<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>ostali oblici aktivnosti<ph name="END_LINK2"/> se mogu pohranjivati na vaš Asil račun kada ste prijavljeni. Možete ih izbrisati bilo kada.</translation>
 <translation id="321773570071367578">Ako zaboravite pristupni izraz ili želite promijeniti ovu postavku, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph name="END_LINK"/></translation>
 <translation id="3220943972464248773">Da sinhronizirate lozinke, potvrdite identitet</translation>
 <translation id="3223522355830797639">Vaša banka želi potvrditi vaš identitet.</translation>
-<translation id="9047551989591319903">Brave kao sigurnosni ključ</translation>
+<translation id="9047551989591319903">Asil kao sigurnosni ključ</translation>
 <translation id="3232754137068452469">Web aplikacija</translation>
 <translation id="3234978181857588512">Sačuvaj na uređaj</translation>
 <translation id="3236059992281584593">Još 1 min</translation>
@@ -417,7 +417,7 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="3265534588625245297">Upravljajte web lokacijama koje pratite</translation>
 <translation id="3269093882174072735">Učitaj sliku</translation>
 <translation id="3280562213547448728">Glasovno pretraživanje</translation>
-<translation id="82609232232243542">Prijava na Brave</translation>
+<translation id="82609232232243542">Prijava na Asil</translation>
 <translation id="1793814306828610181">Videozapisi o načinu korištenja Bravea</translation>
 <translation id="3288003805934695103">Ponovno učitavanje stranice</translation>
 <translation id="3290249595466894471">Također šalje mali uzorak stranica, preuzimanja, aktivnosti ekstenzija i informacija o sistemu radi lakšeg otkrivanja novih prijetnji</translation>
@@ -427,10 +427,10 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="3334729583274622784">Promijeniti ekstenziju fajla?</translation>
 <translation id="3341262203274374114">Nije moguće prestati pratiti. Nešto nije uredu.</translation>
 <translation id="3359667936385849800">Koristi trenutnog pružaoca usluga</translation>
-<translation id="449001704952013438">Brave može razmotriti ovaj interes</translation>
+<translation id="449001704952013438">Asil može razmotriti ovaj interes</translation>
 <translation id="3367813778245106622">Ponovo se prijavite da započnete sinhronizaciju</translation>
 <translation id="2746024117903470217">Da dijelite ovu stranicu s drugim uređajem, u postavkama Bravea na drugom uređaju uključite sinhronizaciju</translation>
-<translation id="8801234437789558906">Oznake, historija, lozinke i drugi podaci iz Bravea se neće više sinhronizirati s vašim Brave računom.</translation>
+<translation id="8801234437789558906">Oznake, historija, lozinke i drugi podaci iz Bravea se neće više sinhronizirati s vašim Asil računom.</translation>
 <translation id="3384347053049321195">Dijeli sliku</translation>
 <translation id="3387650086002190359">Preuzimanje fajla <ph name="FILE_NAME"/> nije uspjelo zbog sistemskih grešaka.</translation>
 <translation id="3389286852084373014">Tekst je predug</translation>
@@ -439,13 +439,13 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="1081508498128395141">Više stranica se predučitava. Stranice se mogu predučitati putem Braveovih servera kada to zatraže druge web lokacije.</translation>
 <translation id="3414952576877147120">Veličina:</translation>
 <translation id="3421726884497337397">Odaberite kada blokirati kolačiće treće strane</translation>
-<translation id="5265419033369521352">Štiti vas u Braveu i može se koristiti da poboljša vašu sigurnost u drugim Brave aplikacijama kada ste prijavljeni</translation>
+<translation id="5265419033369521352">Štiti vas u Braveu i može se koristiti da poboljša vašu sigurnost u drugim Asil aplikacijama kada ste prijavljeni</translation>
 <translation id="3429160811076349561">Funkcije probnog perioda su isključene</translation>
 <translation id="3435465986463792564">Imate mnogo prozora? Možete upravljati njima odavde</translation>
 <translation id="3435738964857648380">Sigurnost</translation>
 <translation id="3443221991560634068">Ponovo učitajte trenutnu stranicu</translation>
 <translation id="3444179773590444986">Dijeliti povratne informacije o tamnoj temi za web lokacije?</translation>
-<translation id="7384339501748168186">Radi zaštite vaše privatnosti, Brave neće automatski popunjavati vašu lozinku u ovom polju.</translation>
+<translation id="7384339501748168186">Radi zaštite vaše privatnosti, Asil neće automatski popunjavati vašu lozinku u ovom polju.</translation>
 <translation id="3474624961160222204">Nastavi kao <ph name="NAME"/></translation>
 <translation id="3478363558367712427">Možete odabrati svoj pretraživač</translation>
 <translation id="3479552764303398839">Ne sada</translation>
@@ -453,7 +453,7 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="3495219333887281978">Donja tabela za prijavu je otvorena na pola visine.</translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="3507132249039706973">Standardna zaštita je uključena</translation>
-<translation id="8669829441518807650">Van mreže. Brave ne može provjeriti ima li ažuriranja.</translation>
+<translation id="8669829441518807650">Van mreže. Asil ne može provjeriti ima li ažuriranja.</translation>
 <translation id="3513704683820682405">Proširena realnost</translation>
 <translation id="3518985090088779359">Prihvati i nastavi</translation>
 <translation id="3522247891732774234">Dostupno je ažuriranje. Više opcija</translation>
@@ -466,7 +466,7 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="3560491354538957576">Web lokacija može definirati interesovanja</translation>
 <translation id="3563767357928833671">Sadržaj međumemorije je prikazan</translation>
 <translation id="3566639033325271639">Ažuriraj postavke</translation>
-<translation id="1908301351964700579">Brave se još uvijek priprema za VR. Ponovo pokrenite Brave kasnije.</translation>
+<translation id="1908301351964700579">Asil se još uvijek priprema za VR. Ponovo pokrenite Asil kasnije.</translation>
 <translation id="3568688522516854065">Da dobijete svoje kartice s vaših drugih uređaja, prijavite se i uključite sinhronizaciju</translation>
 <translation id="357465026686164600">Telefon kao sigurnosni ključ</translation>
 <translation id="3577473026931028326">Nešto nije uredu. Pokušajte ponovo.</translation>
@@ -486,8 +486,8 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="3699022356773522638">Preuzeti fajl?</translation>
 <translation id="371230970611282515">Predviđa opasne događaje i upozorava vas na njih prije nego što nastupe.</translation>
 <translation id="3714981814255182093">Otvori u traci za traženje</translation>
-<translation id="5805364706385912897">Ova stranica koristi previše memorije tako da ju je Brave pauzirao.</translation>
-<translation id="8397843425685839889">Vi i Brave</translation>
+<translation id="5805364706385912897">Ova stranica koristi previše memorije tako da ju je Asil pauzirao.</translation>
+<translation id="8397843425685839889">Vi i Asil</translation>
 <translation id="3737319253362202215">Postavke prevođenja</translation>
 <translation id="3737402728074743863">Da koristite ovaj uređaj kao sigurnosni ključ, postavite zaključavanje ekrana</translation>
 <translation id="3738139272394829648">Pretraživanje dodirom</translation>
@@ -521,17 +521,17 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="3934366560681368531">"</translation>
 <translation id="393697183122708255">Glasovno pretraživanje nije dostupno</translation>
 <translation id="395377504920307820">Koristite bez računa</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Brave će učitati vašu stranicu kada bude spreman}one{Brave će učitati vaše stranice kada bude spreman}few{Brave će učitati vaše stranice kada bude spreman}other{Brave će učitati vaše stranice kada bude spreman}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Asil će učitati vašu stranicu kada bude spreman}one{Asil će učitati vaše stranice kada bude spreman}few{Asil će učitati vaše stranice kada bude spreman}other{Asil će učitati vaše stranice kada bude spreman}}</translation>
 <translation id="3962119236270174787">Standardna zaštita od web lokacija, preuzimanja i ekstenzija za koje se zna da su opasne</translation>
 <translation id="4908545308856135643">Šifrovanje pristupnim izrazom ne uključuje načine plaćanja i adrese iz Google Paya. Samo neko ko ima vaš pristupni izraz može čitati šifrirane podatke. Pristupni izraz se ne šalje Braveu niti se na njemu pohranjuje. Ako zaboravite svoj pristupni izraz ili želite izmijeniti ovu postavku, trebat ćete poništiti sinhronizaciju. <ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
-<translation id="1453002554835005700">Brave ne može provjeriti vaše lozinke</translation>
+<translation id="1453002554835005700">Asil ne može provjeriti vaše lozinke</translation>
 <translation id="3969863827134279083">Pomjeranje nagore</translation>
 <translation id="397583555483684758">Sinhronizacija je prekinuta</translation>
 <translation id="3976396876660209797">Uklonite i ponovo napravite ovu prečicu</translation>
 <translation id="3981902534690264083">Oglašivači mogu razumjeti performanse oglasa</translation>
 <translation id="3985215325736559418">Želite li ponovo preuzeti fajl <ph name="FILE_NAME"/>?</translation>
 <translation id="3987993985790029246">Kopiraj link</translation>
-<translation id="5846727201643228411">Možete vidjeti i uklanjati teme koje vas zanimaju, a koje web lokacije koriste da vam prikazuju oglase. Brave procjenjuje vaša interesovanja na osnovu vaše nedavne historije pregledanja.</translation>
+<translation id="5846727201643228411">Možete vidjeti i uklanjati teme koje vas zanimaju, a koje web lokacije koriste da vam prikazuju oglase. Asil procjenjuje vaša interesovanja na osnovu vaše nedavne historije pregledanja.</translation>
 <translation id="4000212216660919741">Početna stranica van mreže</translation>
 <translation id="4016425174436051808">Nije moguće pratiti. Nešto nije uredu.</translation>
 <translation id="4034817413553209278">{HOURS,plural, =1{# h}one{# h}few{# h}other{# h}}</translation>
@@ -544,21 +544,21 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="4062305924942672200">Pravne informacije</translation>
 <translation id="4072805772816336153">Pokušajte ponovo kasnije</translation>
 <translation id="4084682180776658562">Oznaka</translation>
-<translation id="4521874409998847950">Od izvora <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>dostavlja Brave<ph name="END_DEEMPHASIZED"/></translation>
+<translation id="4521874409998847950">Od izvora <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>dostavlja Asil<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="409109920254068737">Možete koristiti ovaj tablet da se prijavite na uređaj na kojem se ovaj QR kôd prikazuje.</translation>
 <translation id="4095146165863963773">Izbrisati podatke aplikacije?</translation>
 <translation id="4096227151372679484">Tok za pohranu oznaka je otvoren na pola visine</translation>
-<translation id="673197144963363525">Pomozite nam da poboljšamo Brave slanjem statistika korištenja i izvještaja o padovima aplikacija Braveu.</translation>
+<translation id="673197144963363525">Pomozite nam da poboljšamo Asil slanjem statistika korištenja i izvještaja o padovima aplikacija Braveu.</translation>
 <translation id="4101475238162928417">Sinhronizirajte da preuzmete lozinke, oznake i drugo na svojim drugim uređajima</translation>
 <translation id="410351446219883937">Automatska reprodukcija</translation>
-<translation id="8112581848375017126">Brave istražuje nove funkcije koje dozvoljavaju web lokacijama da pružaju isto iskustvo pregledanja koristeći manje informacija o vama</translation>
+<translation id="8112581848375017126">Asil istražuje nove funkcije koje dozvoljavaju web lokacijama da pružaju isto iskustvo pregledanja koristeći manje informacija o vama</translation>
 <translation id="4108314971463891922">Prati</translation>
 <translation id="4108998448622696017">Otkriva opasne događaje i upozorava vas na njih kada nastupe.</translation>
 <translation id="4116038641877404294">Preuzmite stranice da ih koristite van mreže.</translation>
 <translation id="4135200667068010335">Spisak uređaja s kojim će se dijeliti kartica je zatvoren.</translation>
 <translation id="4137746084635924146">Trenutni jezik uređaja</translation>
 <translation id="414128724510021958">Web lokacije za računar se zahtijevaju prema zadanim postavkama</translation>
-<translation id="4159350418181625094">Naučite koristiti Brave</translation>
+<translation id="4159350418181625094">Naučite koristiti Asil</translation>
 <translation id="1453456663856716353">Tokom probnih perioda smanjivanje neželjenog sadržaja i prevara se zasniva na privatnim tokenima stanja koji pomažu web lokacijama da se bore protiv prevara i razlikuju botove od osoba.
 
 Na osnovu vaše interakcije s web lokacijom, kao što je redovna prijava na račun, ta web lokacija može vašem pregledniku izdati privatni token stanja. Kasnije, ako druge web lokacije koje ste posjetili provjere postoji li važeći privatni token stanja i pronađu ga, vjerovatnije će vas tretirati kao osobu, a ne kao bota.
@@ -571,8 +571,8 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="4195643157523330669">Otvori u novoj kartici</translation>
 <translation id="4196597275619698563">Kreiraj karticu</translation>
 <translation id="4198423547019359126">Nema dostupnih lokacija za preuzimanje</translation>
-<translation id="6003646045106347985">Uključite sinhronizaciju da dobijete prilagođeni sadržaj koji predlaže Brave</translation>
-<translation id="1675646381334855139">Ako dozvolite kolačiće, Brave ih može koristiti za predučitavanje.</translation>
+<translation id="6003646045106347985">Uključite sinhronizaciju da dobijete prilagođeni sadržaj koji predlaže Asil</translation>
+<translation id="1675646381334855139">Ako dozvolite kolačiće, Asil ih može koristiti za predučitavanje.</translation>
 <translation id="4225895483398857530">Prečica za alatnu traku</translation>
 <translation id="4242533952199664413">Otvori postavke</translation>
 <translation id="4248098802131000011">Zaštite svoje lozinke od narušavanja podataka i ostalih sigurnosnih problema</translation>
@@ -580,12 +580,12 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="4249955472157341256">Poredaj po najnovijem</translation>
 <translation id="4250229828105606438">Snimak ekrana</translation>
 <translation id="4256782883801055595">Licence otvorenog koda</translation>
-<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>Koji podaci se koriste:<ph name="END_BOLD"/> vaša historija pregledanja, zapisi o web lokacijama koje ste posjetili koristeći Brave na ovom uređaju.</translation>
+<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>Koji podaci se koriste:<ph name="END_BOLD"/> vaša historija pregledanja, zapisi o web lokacijama koje ste posjetili koristeći Asil na ovom uređaju.</translation>
 <translation id="4263656433980196874">Korisnički interfejs za pristanak na glasovno pretraživanje putem Asistenta je otvoren na cijelom ekranu</translation>
 <translation id="4269820728363426813">Kopiraj adresu linka</translation>
 <translation id="4283102315569707115">Zatražiti web lokacije za računar prema zadanim postavkama?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK"/>Uključite zaključavanje ekrana u postavkama Androida<ph name="END_LINK"/></translation>
-<translation id="6299940168852877221">Korištenjem Bravea pristajete na <ph name="BEGIN_TOS_LINK"/>Braveove Uslove korištenja usluge<ph name="END_TOS_LINK"/> i <ph name="BEGIN_ATOS_LINK"/>dodatne Uslove korištenja usluge za Brave i ChromeOS<ph name="END_ATOS_LINK"/>. Također se primjenjuju <ph name="BEGIN_PRIVACY_LINK"/>Pravila privatnosti<ph name="END_PRIVACY_LINK"/>.</translation>
+<translation id="6299940168852877221">Korištenjem Bravea pristajete na <ph name="BEGIN_TOS_LINK"/>Braveove Uslove korištenja usluge<ph name="END_TOS_LINK"/> i <ph name="BEGIN_ATOS_LINK"/>dodatne Uslove korištenja usluge za Asil i ChromeOS<ph name="END_ATOS_LINK"/>. Također se primjenjuju <ph name="BEGIN_PRIVACY_LINK"/>Pravila privatnosti<ph name="END_PRIVACY_LINK"/>.</translation>
 <translation id="4298388696830689168">Povezane web lokacije</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="4307992518367153382">Osnove</translation>
@@ -602,7 +602,7 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="4405224443901389797">Premjesti u…</translation>
 <translation id="4405636711880428279">Ukloniti virtuelnu karticu?</translation>
 <translation id="4409271659088619928">Vaš pretraživač je <ph name="DSE"/>. Ako je primjenjivo, pogledajte uputstva pretraživača da saznate kako izbrisati historiju pretraživanja.</translation>
-<translation id="5749788945734786627">Upravljajte Brave računom</translation>
+<translation id="5749788945734786627">Upravljajte Asil računom</translation>
 <translation id="4425140285732600465">Praćenje cijene. Primajte obavještenja ako cijena padne na bilo kojoj web lokaciji.</translation>
 <translation id="442518031075347249">Više nećete moći koristiti virtuelnu karticu s Google Payom. <ph name="BEGIN_LINK1"/>Saznajte više o virtuelnim karticama<ph name="END_LINK1"/></translation>
 <translation id="4428065317363009941">Personalizacija oglasa</translation>
@@ -611,10 +611,10 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="4461614516424362539">Kada povežete drugi uređaj pomoću QR koda, može koristiti ovaj telefon kao sigurnosni ključ. Ako ga uklonite, morat ćete skenirati QR kôd da ga ponovo povežete.</translation>
 <translation id="4472118726404937099">Za sinhronizaciju i personalizaciju na vašim uređajima, prijavite se i uključite sinhronizaciju.</translation>
 <translation id="4479839115899251637">Izbriši s liste za čitanje</translation>
-<translation id="3133489217401741157">Instaliranje modula <ph name="MODULE"/> za Brave…</translation>
+<translation id="3133489217401741157">Instaliranje modula <ph name="MODULE"/> za Asil…</translation>
 <translation id="4484496141267039529">Niste povezani s mrežom. Pokušajte ponovo kasnije.</translation>
-<translation id="53119194224775367">Svi podaci aplikacije Brave bit će trajno izbrisani. To uključuje sve fajlove, postavke, račune, baze podataka, itd.</translation>
-<translation id="3966104135245031874">Šifriraj sinhronizirane lozinke s Brave računom</translation>
+<translation id="53119194224775367">Svi podaci aplikacije Asil bit će trajno izbrisani. To uključuje sve fajlove, postavke, račune, baze podataka, itd.</translation>
+<translation id="3966104135245031874">Šifriraj sinhronizirane lozinke s Asil računom</translation>
 <translation id="4504667196171871375">Na WiFi mreži i prijenosu podataka na mobilnoj mreži</translation>
 <translation id="4508528996305412043">Meni kartice za sažetak sadržaja je otvoren</translation>
 <translation id="4508642716788467538">Odaberite jezik</translation>
@@ -622,7 +622,7 @@ Privatni tokeni stanja poboljšavaju zaštitu privatnosti na webu i ne mogu se k
 <translation id="451872707440238414">Pretražite svoje oznake</translation>
 <translation id="1664855196866195614">Odabrani podaci su uklonjeni iz Bravea i vaših sinhroniziranih uređaja.
 
-Vaš Brave račun može imati druge oblike historije pregledanja kao što su pretraživanja i aktivnosti s drugih Braveovih usluga na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+Vaš Asil račun može imati druge oblike historije pregledanja kao što su pretraživanja i aktivnosti s drugih Braveovih usluga na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="452750746583162491">Pregledajte sinhronizirane podatke</translation>
 <translation id="4532845899244822526">Izaberite folder</translation>
 <translation id="4549903594034243526">chrome_emotion_gif_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
@@ -654,7 +654,7 @@ Vaš Brave račun može imati druge oblike historije pregledanja kao što su pre
 <translation id="4699172675775169585">Slike i fajlovi u keš memoriji</translation>
 <translation id="4719927025381752090">Ponudi prijevod</translation>
 <translation id="4720023427747327413">Otvori u aplikaciji <ph name="PRODUCT_NAME"/></translation>
-<translation id="4939482511480190003">Pomozite nam da poboljšamo Brave. <ph name="BEGIN_LINK"/>Učestvujte u anketi<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Pomozite nam da poboljšamo Asil. <ph name="BEGIN_LINK"/>Učestvujte u anketi<ph name="END_LINK"/></translation>
 <translation id="47217992755561375">Pogledajte najpopularnije web lokacije</translation>
 <translation id="4732120983431207637">Rastvarač grupe</translation>
 <translation id="4736934858538408121">Virtuelna kartica</translation>
@@ -683,7 +683,7 @@ Da promijenite ovu postavku, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph
 <translation id="4831037795716408498">Preuzmite sadržaj</translation>
 <translation id="4834007576107377210">Ako je primjenjivo, pogledajte uputstva pretraživača da saznate kako možete izbrisati historiju pretraživača</translation>
 <translation id="4834250788637067901">Načini plaćanja, ponude i adrese iz Google Paya</translation>
-<translation id="2593289874938379417">Brave nema pristup traženom resursu.</translation>
+<translation id="2593289874938379417">Asil nema pristup traženom resursu.</translation>
 <translation id="4837753911714442426">Otvorite opcije za štampanje stranice</translation>
 <translation id="4842092870884894799">Prikazivanje skočnog prozora za izradu lozinke</translation>
 <translation id="4842515939542199281">Da pretražujete glasom, dodirnite mikrofon</translation>
@@ -692,14 +692,14 @@ Da promijenite ovu postavku, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph
 <translation id="4852014461738377247">Prijavljivanje…</translation>
 <translation id="4860895144060829044">Pozovi</translation>
 <translation id="4864369630010738180">Prijavljivanje…</translation>
-<translation id="5131234170665854056">Nije moguće instalirati modul <ph name="MODULE"/> za Brave</translation>
+<translation id="5131234170665854056">Nije moguće instalirati modul <ph name="MODULE"/> za Asil</translation>
 <translation id="4871568871368204250">Isključi sinhronizaciju</translation>
 <translation id="4875775213178255010">Prijedlozi za sadržaj</translation>
 <translation id="4878404682131129617">Uspostavljanje tunela putem proksi servera nije uspjelo</translation>
 <translation id="4880127995492972015">Prevedi…</translation>
 <translation id="4881695831933465202">Otvori</translation>
 <translation id="488187801263602086">Promjena naziva fajla</translation>
-<translation id="1248710015876067820">Nepodržani broj Brave instanci.</translation>
+<translation id="1248710015876067820">Nepodržani broj Asil instanci.</translation>
 <translation id="4905823827770127520">Uvrstite link do stranice</translation>
 <translation id="3217997482476578430">Braveov Discover</translation>
 <translation id="4909709702739934280">Vašim preglednikom upravlja vaš administrator</translation>
@@ -710,10 +710,10 @@ Da promijenite ovu postavku, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph
 <translation id="492284538114688557">Primijećen je pad cijene</translation>
 <translation id="4925120120285606924">Snimak ekrana <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="49268022542405662">Vaše lozinke će se izvesti i preuzeti kao tekstualni fajl. Bit će vidljive svima i svakoj aplikaciji s pristupom odredišnom folderu.</translation>
-<translation id="1955495299630319741">S obzirom na to da se odjavljujete s računa kojim upravlja domena <ph name="DOMAIN_NAME"/>, vaši podaci iz Bravea će se izbrisati s ovog uređaja. Ostat će na vašem Brave računu.</translation>
+<translation id="1955495299630319741">S obzirom na to da se odjavljujete s računa kojim upravlja domena <ph name="DOMAIN_NAME"/>, vaši podaci iz Bravea će se izbrisati s ovog uređaja. Ostat će na vašem Asil računu.</translation>
 <translation id="4943703118917034429">Virtuelna realnost</translation>
 <translation id="4943872375798546930">Nema rezultata</translation>
-<translation id="5742837711075932301">Kada ste prijavljeni na isti Brave račun, drugi uređaji mogu koristiti ovaj telefon kao sigurnosni ključ.</translation>
+<translation id="5742837711075932301">Kada ste prijavljeni na isti Asil račun, drugi uređaji mogu koristiti ovaj telefon kao sigurnosni ključ.</translation>
 <translation id="4957722034734105353">Saznajte više...</translation>
 <translation id="4961107849584082341">Prevedite ovu stranicu na bilo koji jezik</translation>
 <translation id="7307583170263691471">Brža, proaktivna zaštita od opasnih web lokacija, preuzimanja i ekstenzija. Upozorava vas na narušavanje lozinki. Zahtijeva da se podaci o pregledanju šalju Braveu.</translation>
@@ -734,20 +734,20 @@ Da promijenite ovu postavku, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph
 <translation id="5039804452771397117">Dozvoli</translation>
 <translation id="5040262127954254034">Privatnost</translation>
 <translation id="504456571576643789">Stvari za razmatranje</translation>
-<translation id="4858031288914533863"><ph name="BEGIN_LINK1"/>Ostali oblici aktivnosti<ph name="END_LINK1"/> se mogu pohranjivati na vaš Brave račun kada ste prijavljeni. Možete ih izbrisati bilo kada.</translation>
+<translation id="4858031288914533863"><ph name="BEGIN_LINK1"/>Ostali oblici aktivnosti<ph name="END_LINK1"/> se mogu pohranjivati na vaš Asil račun kada ste prijavljeni. Možete ih izbrisati bilo kada.</translation>
 <translation id="506254248375231072">Nema kartica</translation>
-<translation id="4744980273298156620">Uskoro ćete vidjeti priče s web lokacije <ph name="SITE_NAME"/> kada otvorite novu karticu. Web lokacije koje pratite se pohranjuju na vaš Brave račun. Njima možete upravljati u postavkama Discovera.</translation>
+<translation id="4744980273298156620">Uskoro ćete vidjeti priče s web lokacije <ph name="SITE_NAME"/> kada otvorite novu karticu. Web lokacije koje pratite se pohranjuju na vaš Asil račun. Njima možete upravljati u postavkama Discovera.</translation>
 <translation id="5091249083535528968">Prošireni podaci o korištenju</translation>
 <translation id="509429900233858213">Došlo je do greške.</translation>
 <translation id="5099845111805573968">Kada jednom odaberete web lokaciju za računar, postavka se primjenjuje na web lokaciju svaki put kada je posjetite</translation>
-<translation id="225414324447409614">Ako web lokacija pokuša ukrasti vašu lozinku ili kada preuzimate štetan fajl, Brave može slati URL-ove, uključujući dijelove sadržaja stranice, u Sigurno pregledanje</translation>
+<translation id="225414324447409614">Ako web lokacija pokuša ukrasti vašu lozinku ili kada preuzimate štetan fajl, Asil može slati URL-ove, uključujući dijelove sadržaja stranice, u Sigurno pregledanje</translation>
 <translation id="510275257476243843">Još 1 sat</translation>
 <translation id="5115811374190515607">u: <ph name="PRODUCT_NAME"/></translation>
 <translation id="5118713593561876160">Interesovanja</translation>
 <translation id="5122378528687922675">Ako ti treba pomoć, pitaj roditelja (<ph name="PARENT_NAME_1"/> ili <ph name="PARENT_NAME_2"/>)</translation>
 <translation id="5126510351761255129">Potvrdite karticu</translation>
 <translation id="5132942445612118989">Sinhronizacija lozinki, historije i ostalog na svim uređajima</translation>
-<translation id="5139940364318403933">Naučite koristiti Brave Disk</translation>
+<translation id="5139940364318403933">Naučite koristiti Asil Disk</translation>
 <translation id="5142281402488957685">Za nove priče povucite prema dolje da osvježite</translation>
 <translation id="5152843274749979095">Nisu instalirane podržane aplikacije</translation>
 <translation id="5161254044473106830">Naslov je obavezan</translation>
@@ -776,8 +776,8 @@ Da promijenite ovu postavku, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph
 <translation id="5304593522240415983">Ovo polje ne može biti prazno</translation>
 <translation id="5308380583665731573">Poveži</translation>
 <translation id="5317780077021120954">Sačuvaj</translation>
-<translation id="989239400026154074">Brave preporučuje Brave</translation>
-<translation id="493321943777183150">Brave pronalazi nove načine da smanji praćenje i poveća vašu sigurnost dok pregledate. Brave, također, <ph name="BEGIN_LINK"/>procjenjuje vaša interesovanja<ph name="END_LINK"/> i omogućava vam da njima upravljate. Tako web lokacije koje posjetite mogu zatražiti od Bravea vaša interesovanja da bi vam prikazivali oglase.</translation>
+<translation id="989239400026154074">Asil preporučuje Asil</translation>
+<translation id="493321943777183150">Asil pronalazi nove načine da smanji praćenje i poveća vašu sigurnost dok pregledate. Asil, također, <ph name="BEGIN_LINK"/>procjenjuje vaša interesovanja<ph name="END_LINK"/> i omogućava vam da njima upravljate. Tako web lokacije koje posjetite mogu zatražiti od Bravea vaša interesovanja da bi vam prikazivali oglase.</translation>
 <translation id="5324858694974489420">Roditeljske postavke</translation>
 <translation id="1681635711794313507">Pošto se predučitane stranice šifriraju i pošto je web lokacija koja povezuje stranice Braveova web lokacija, Braveovi serveri ne primaju nove informacije kada se ove stranice privatno predučitavaju.</translation>
 <translation id="5329858041417644019">Vašim preglednikom se ne upravlja</translation>
@@ -811,7 +811,7 @@ Da promijenite ovu postavku, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph
 <translation id="5514904542973294328">Onemogućio administrator ovog uređaja</translation>
 <translation id="5515439363601853141">Otključajte da pregledate lozinku</translation>
 <translation id="5517095782334947753">Imate oznake, historiju, lozinke i druge postavke s računa <ph name="FROM_ACCOUNT"/>.</translation>
-<translation id="300369155175407115">Tokom probnog perioda i ako vas je Brave nasumično ubacio u aktivni probni period, vaša historija pregledanja utiče na oglase koje vidite i interesovanja, kao što je procijenjeno u nastavku. Da zaštiti vašu privatnost, Brave automatski briše interesovanja na mjesečnoj osnovi.</translation>
+<translation id="300369155175407115">Tokom probnog perioda i ako vas je Asil nasumično ubacio u aktivni probni period, vaša historija pregledanja utiče na oglase koje vidite i interesovanja, kao što je procijenjeno u nastavku. Da zaštiti vašu privatnost, Asil automatski briše interesovanja na mjesečnoj osnovi.</translation>
 <translation id="5524843473235508879">Preusmjeravanje je blokirano.</translation>
 <translation id="5548606607480005320">Sigurnosna provjera</translation>
 <translation id="5555525474779371165">Odaberite zaštitu Sigurno pregledanje</translation>
@@ -823,7 +823,7 @@ Da promijenite ovu postavku, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph
 <translation id="5578795271662203820">Pretražuj <ph name="SEARCH_ENGINE"/> za ovu sliku</translation>
 <translation id="5581519193887989363">Uvijek možete odabrati šta želite sinhronizirati u <ph name="BEGIN_LINK1"/>postavkama<ph name="END_LINK1"/>.</translation>
 <translation id="5590372121997663538">Zapamti ovaj računar</translation>
-<translation id="6157610782452852023">Brave Asistent može za vas završavati radnje na web lokacijama</translation>
+<translation id="6157610782452852023">Asil Asistent može za vas završavati radnje na web lokacijama</translation>
 <translation id="5620163320393916465">Nije sačuvana nijedna lozinka</translation>
 <translation id="5620928963363755975">Pronađite fajlove i stranice u meniju Preuzimanja koristeći dugme Više opcija</translation>
 <translation id="562289928968387744">Upravljajte reakcijama</translation>
@@ -834,14 +834,14 @@ Da promijenite ovu postavku, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph
 <translation id="5655963694829536461">Pretražite svoja preuzimanja</translation>
 <translation id="5659593005791499971">E-pošta</translation>
 <translation id="5665379678064389456">Kreirajte događaj u aplikaciji <ph name="APP_NAME"/></translation>
-<translation id="5668833306439455813">Brave ne može provjeriti ima li ažuriranja</translation>
+<translation id="5668833306439455813">Asil ne može provjeriti ima li ažuriranja</translation>
 <translation id="5686790454216892815">Naziv fajla je predugačak</translation>
 <translation id="569536719314091526">Prevedite ovu stranicu na bilo koji jezik koristeći dugme Više opcija</translation>
-<translation id="2320748512701464301">Brave vam može pomoći da se zaštitite od narušavanja podataka, nesigurnih web lokacija i još mnogo toga</translation>
+<translation id="2320748512701464301">Asil vam može pomoći da se zaštitite od narušavanja podataka, nesigurnih web lokacija i još mnogo toga</translation>
 <translation id="570347048394355941">Prebacivanje na karticu</translation>
 <translation id="572328651809341494">Nedavne kartice</translation>
 <translation id="5726692708398506830">Uvećaj prikaz svega na stranici</translation>
-<translation id="3613110494561632737">Ako vas je Brave nasumično ubacio u aktivni probni period, vaša historija pregledanja utiče na oglase koje vidite i interesovanja, kao što je procijenjeno u nastavku. Da zaštiti vašu privatnost, Brave automatski briše interesovanja na mjesečnoj osnovi. Interesovanja se osvježavaju ukoliko ih ne uklonite.</translation>
+<translation id="3613110494561632737">Ako vas je Asil nasumično ubacio u aktivni probni period, vaša historija pregledanja utiče na oglase koje vidite i interesovanja, kao što je procijenjeno u nastavku. Da zaštiti vašu privatnost, Asil automatski briše interesovanja na mjesečnoj osnovi. Interesovanja se osvježavaju ukoliko ih ne uklonite.</translation>
 <translation id="5748802427693696783">Prebačeno na standardne kartice</translation>
 <translation id="3088191967551450609">Braveu treba pristup pohrani za preuzimanje fajlova.</translation>
 <translation id="5749237766298580851">Isključeno <ph name="SEPARATOR"/> Ne preporučuje se</translation>
@@ -857,7 +857,7 @@ Da promijenite ovu postavku, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph
 <translation id="5793665092639000975">Koristi se <ph name="SPACE_USED"/> od <ph name="SPACE_AVAILABLE"/></translation>
 <translation id="5795872532621730126">Pretraživanje i pregledanje</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{Prije # sat}one{Prije # sat}few{Prije # sata}other{Prije # sati}}</translation>
-<translation id="5311273890481188673">Autorska prava <ph name="YEAR"/>. Brave LLC. Sva prava zadržana.</translation>
+<translation id="5311273890481188673">Autorska prava <ph name="YEAR"/>. Asil LLC. Sva prava zadržana.</translation>
 <translation id="5813552293717797987">Ovim preglednikom upravljaju <ph name="PARENT_NAME_1"/> i <ph name="PARENT_NAME_2"/>.</translation>
 <translation id="5814131985548525293">Unesite tekst ovdje ili dodirnite ikonu mikrofona da započnete</translation>
 <translation id="5814749351757353073">Nastavite pratiti omiljene web lokacije</translation>
@@ -878,30 +878,30 @@ Da promijenite ovu postavku, <ph name="BEGIN_LINK"/>poništite sinhronizaciju<ph
 <translation id="6538479075382111079">Automatski šalje Braveu statistiku korištenja i izvještaje o padovima aplikacije</translation>
 <translation id="5869522115854928033">Sačuvane lozinke</translation>
 <translation id="5869789175361934029">Nastavite s drugog uređaja</translation>
-<translation id="5604589745019948682">Da pratite web lokaciju, posjetite web lokaciju, otvorite Brave meni i dodirnite Prati.</translation>
+<translation id="5604589745019948682">Da pratite web lokaciju, posjetite web lokaciju, otvorite Asil meni i dodirnite Prati.</translation>
 <translation id="5879072387416556377">Dobijajte bolje prijedloge</translation>
-<translation id="1985257319311245640">Dopustite Brave Asistentu pristup URL-ovima web lokacija da vam pomogne s izvršavanjem zadataka. Možete isključiti Asistenta u postavkama Bravea.</translation>
+<translation id="1985257319311245640">Dopustite Asil Asistentu pristup URL-ovima web lokacija da vam pomogne s izvršavanjem zadataka. Možete isključiti Asistenta u postavkama Bravea.</translation>
 <translation id="5916664084637901428">Uključeno</translation>
 <translation id="5919204609460789179">Ažurirajte proizvod <ph name="PRODUCT_NAME"/> da započnete sinhronizaciju</translation>
 <translation id="5938820472109305350">Dodavanje: <ph name="INTEREST"/></translation>
 <translation id="6103327872225198548">Korištenje Bravea za pretraživanje</translation>
 <translation id="5945035219773565305">Trenutna preporuka: <ph name="RECOMMENDATION"/></translation>
 <translation id="5951119116059277034">Prikazivanje aktivne stranice</translation>
-<translation id="305870044889644984">Otvori Brave Centar za pomoć u novoj kartici</translation>
+<translation id="305870044889644984">Otvori Asil Centar za pomoć u novoj kartici</translation>
 <translation id="5957442310066583693">Da pogledate najpopularnije web lokacije, dodirnite dugme za početni ekran</translation>
 <translation id="5958275228015807058">Pronađite svoje fajlove i stranice u meniju Preuzimanja</translation>
 <translation id="5958994127112619898">Pojednostavi stranicu</translation>
 <translation id="5962718611393537961">Dodirnite da suzite</translation>
 <translation id="5964869237734432770">Zaustavi opise slika</translation>
-<translation id="9135546826883360971">Brave će zapamtiti vaš izbor</translation>
+<translation id="9135546826883360971">Asil će zapamtiti vaš izbor</translation>
 <translation id="5979084224081478209">Provjeri lozinke</translation>
 <translation id="5995726099713306770">Ponovo preuzeti stranicu?</translation>
-<translation id="6456271171669383967">Zadrži Brave</translation>
+<translation id="6456271171669383967">Zadrži Asil</translation>
 <translation id="6000203700195075278">Prati ponovo</translation>
 <translation id="6002122790816966947">Vaši uređaji</translation>
 <translation id="6005538289190791541">Prijedlog za lozinku</translation>
 <translation id="6032091552407840792">Ovaj probni period je aktivan samo u <ph name="BEGIN_LINK"/>određenim regijama<ph name="END_LINK"/>.</translation>
-<translation id="6557407328070865042">Pomoću <ph name="BEGIN_LINK"/>Okruženja zaštićene privatnosti<ph name="END_LINK"/>, Brave razvija nove tehnologije da vas zaštiti od praćenja između web lokacija, a pri tome će očuvati otvoreni web.
+<translation id="6557407328070865042">Pomoću <ph name="BEGIN_LINK"/>Okruženja zaštićene privatnosti<ph name="END_LINK"/>, Asil razvija nove tehnologije da vas zaštiti od praćenja između web lokacija, a pri tome će očuvati otvoreni web.
 
 Probni periodi Okruženja zaštićene privatnosti i dalje su u fazi aktivnog razvoja i dostupni su u odabranim područjima. Za sada web lokacije mogu isprobati Zaštićeno okruženje za privatnost dok pri tome nastavljaju koristiti web tehnologije kao što su kolačići trećih strana.</translation>
 <translation id="6039379616847168523">Pređite na sljedeću karticu</translation>
@@ -915,7 +915,7 @@ Probni periodi Okruženja zaštićene privatnosti i dalje su u fazi aktivnog raz
 <translation id="6085886413119427067">Određuje način povezivanja s web lokacijama putem sigurne veze</translation>
 <translation id="6091413777268123602">Koristeći probne verzije za Okruženje zaštićene privatnosti, web lokacije mogu pružiti isti doživljaj pregledanja koristeći manje vaših podataka. To znači više privatnosti za vas i manje unakrsnog praćenja web lokacija. Nove probne verzije ćemo dodavati kada budu spremne za testiranje.</translation>
 <translation id="60923314841986378">Broj preostalih sati: <ph name="HOURS"/></translation>
-<translation id="4726571606794511368">Ako je Brave vaš zadani pretraživač, vidjet ćete bolje, kontekstualno relevantne prijedloge</translation>
+<translation id="4726571606794511368">Ako je Asil vaš zadani pretraživač, vidjet ćete bolje, kontekstualno relevantne prijedloge</translation>
 <translation id="6108923351542677676">U toku je postavljanje…</translation>
 <translation id="6112702117600201073">Osvježavanje stranice</translation>
 <translation id="6122831415929794347">Isključiti Sigurno pregledanje?</translation>
@@ -928,7 +928,7 @@ Probni periodi Okruženja zaštićene privatnosti i dalje su u fazi aktivnog raz
 <translation id="6150320133806434356">Oznaka je sačuvana</translation>
 <translation id="6154478581116148741">Uključite zaključavanje ekrana u Postavkama da izvezete lozinke s ovog uređaja</translation>
 <translation id="6159729262978459665">Briše historiju sa svih sinhroniziranih uređaja.</translation>
-<translation id="7087658909840709934">Stranice za koje Brave smatra da ćete ih vjerovatno posjetiti se predučitavaju.</translation>
+<translation id="7087658909840709934">Stranice za koje Asil smatra da ćete ih vjerovatno posjetiti se predučitavaju.</translation>
 <translation id="6186394685773237175">Nisu pronađene ugrožene lozinke</translation>
 <translation id="6192907950379606605">Preuzmi opise slika</translation>
 <translation id="6193448654517602979">Odaberite kartice</translation>
@@ -944,7 +944,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="6277522088822131679">Došlo je do problema sa štampanjem stranice. Pokušajte ponovo.</translation>
 <translation id="6277722725779679269">Ažuriranje postavke Prati cijenu nije uspjelo</translation>
 <translation id="6278428485366576908">Tema</translation>
-<translation id="7918815962568992845">Možete slati kartice između uređaja koji su prijavljeni s istim Brave računom</translation>
+<translation id="7918815962568992845">Možete slati kartice između uređaja koji su prijavljeni s istim Asil računom</translation>
 <translation id="6297765934698848803">Organizacija koja upravlja vašim uređajem je isključila kameru.</translation>
 <translation id="6301525844455696527">Nemojte zaboraviti svoju listu za čitanje</translation>
 <translation id="6303969859164067831">Odjavite se i isključite sinhronizaciju</translation>
@@ -963,11 +963,11 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="6357653805084533597">Možete koristiti ovaj telefon da se prijavite na uređaj na kojem se ovaj QR kôd prikazuje.</translation>
 <translation id="6363990818884053551">Da započnete sinhronizaciju, potvrdite identitet</translation>
 <translation id="6364438453358674297">Ukloniti prijedloge iz historije?</translation>
-<translation id="806493401838431801">Češće predučitavanje stranica za koje Brave smatra da ćete ih vjerovatno posjetiti. Ova postavka može dovesti do povećanog korištenja podataka.</translation>
+<translation id="806493401838431801">Češće predučitavanje stranica za koje Asil smatra da ćete ih vjerovatno posjetiti. Ova postavka može dovesti do povećanog korištenja podataka.</translation>
 <translation id="6394791151443660613">Pretraživanje: <ph name="SEARCH_QUERY"/></translation>
 <translation id="6395288395575013217">LINK</translation>
 <translation id="6397616442223433927">Ponovo na mreži</translation>
-<translation id="8789425457808164956">Da pošaljete ovu karticu na drugi uređaj, prijavite se na Brave tamo</translation>
+<translation id="8789425457808164956">Da pošaljete ovu karticu na drugi uređaj, prijavite se na Asil tamo</translation>
 <translation id="6402652558933147609"><ph name="ERROR_CODE"/> na <ph name="VIOLATED_URL"/></translation>
 <translation id="6403371459378431832">Sinhronizirajte podatke na svim uređajima</translation>
 <translation id="6404511346730675251">Uredite oznaku</translation>
@@ -976,7 +976,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="6410404864818553978">Osnovni podaci o korištenju</translation>
 <translation id="6410883413783534063">Otvorite kartice da istovremeno posjetite različite stranice</translation>
 <translation id="6411219469806822692">Nije moguće pomjeriti više. Pokušajte započeti na višem mjestu na stranici.</translation>
-<translation id="7810992039564280750">Provjerava URL-ove s listom nesigurnih web lokacija pohranjenih u Braveu. Ako web lokacija pokuša ukrasti vašu lozinku, ili kada preuzimate štetan fajl, Brave može slati i URL-ove, uključujući dijelove sadržaja stranice, u Sigurno pregledanje.</translation>
+<translation id="7810992039564280750">Provjerava URL-ove s listom nesigurnih web lokacija pohranjenih u Braveu. Ako web lokacija pokuša ukrasti vašu lozinku, ili kada preuzimate štetan fajl, Asil može slati i URL-ove, uključujući dijelove sadržaja stranice, u Sigurno pregledanje.</translation>
 <translation id="641643625718530986">Štampaj…</translation>
 <translation id="6422857128426228781">Praćene proizvode ćete pronaći ovdje</translation>
 <translation id="6433501201775827830">Odaberite pretraživač</translation>
@@ -994,7 +994,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="6482749332252372425">Preuzimanje fajla <ph name="FILE_NAME"/> nije uspjelo zbog nedostatka prostora za pohranu.</translation>
 <translation id="6496823230996795692">Za prvo korištenje <ph name="APP_NAME"/>, povežite se na internet.</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{Fajl je preuzet}one{Završeno je # preuzimanje}few{Završena su # preuzimanja}other{Završeno je # preuzimanja}}</translation>
-<translation id="3960299545138990065">Ponovo pokrenite Brave</translation>
+<translation id="3960299545138990065">Ponovo pokrenite Asil</translation>
 <translation id="6527303717912515753">Dijeli</translation>
 <translation id="708829030563435351">Neće se prikazivati web lokacije koje posjetite preko Bravea. Svi tajmeri web lokacija će biti izbrisani.</translation>
 <translation id="7723158744459952869">Braveu treba previše vremena da odgovori</translation>
@@ -1007,7 +1007,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="6560414384669816528">Pretražite pomoću usluge Sogou</translation>
 <translation id="656065428026159829">Prikaži više</translation>
 <translation id="6565959834589222080">WiFi mreža se koristi kada je dostupna</translation>
-<translation id="4480935821314799946">Sada ćete vidjeti priče s web lokacije <ph name="SITE_NAME"/> kada otvorite novu karticu. Web lokacije koje pratite se pohranjuju na vaš Brave račun. Njima možete upravljati u postavkama Discovera.</translation>
+<translation id="4480935821314799946">Sada ćete vidjeti priče s web lokacije <ph name="SITE_NAME"/> kada otvorite novu karticu. Web lokacije koje pratite se pohranjuju na vaš Asil račun. Njima možete upravljati u postavkama Discovera.</translation>
 <translation id="6573096386450695060">Uvijek dozvoli</translation>
 <translation id="5157964048453367290">Kartice koje ste otvorili u Braveu na drugim uređajima prikazat će se ovdje.</translation>
 <translation id="6583199322650523874">Označavanje trenutne stranice</translation>
@@ -1015,16 +1015,16 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="6590471736817333463">Uštedite do 60% podataka</translation>
 <translation id="6590680911007613645">Provjerite podudara li se lozinka koju želite sačuvati s lozinkom za web lokaciju <ph name="SITE"/></translation>
 <translation id="6593061639179217415">Web lokacija za računar</translation>
-<translation id="2372700594671864890">Pogledajte kako Brave planira da vas zaštiti od praćenja između web lokacija, a da pri tome očuva otvoreni web</translation>
+<translation id="2372700594671864890">Pogledajte kako Asil planira da vas zaštiti od praćenja između web lokacija, a da pri tome očuva otvoreni web</translation>
 <translation id="2466982615210189224">Slike se šalju Braveu radi poboljšanja opisa.</translation>
-<translation id="663059986967017181">Kopirano u Brave</translation>
+<translation id="663059986967017181">Kopirano u Asil</translation>
 <translation id="661266467055912436">Poboljšava vašu i svačiju sigurnost na webu.</translation>
 <translation id="6618554661997243500">Da pogledate najpopularnije web lokacije i priče prilagođene vama, dodirnite dugme za početni ekran</translation>
-<translation id="8127050479140582768">Da pošaljete ovu karticu na drugi uređaj, prijavite se na Brave na oba uređaja</translation>
+<translation id="8127050479140582768">Da pošaljete ovu karticu na drugi uređaj, prijavite se na Asil na oba uređaja</translation>
 <translation id="6627583120233659107">Uredi folder</translation>
 <translation id="6636623428211296678">Istražite više postavki u nastavku ili završite odmah</translation>
 <translation id="2259649928554669581">Više postavki koje se odnose na privatnost, sigurnost i prikupljanje podataka možete pronaći u odjeljcima <ph name="BEGIN_LINK1"/>Sinhronizacija<ph name="END_LINK1"/> i <ph name="BEGIN_LINK2"/>Braveove usluge<ph name="END_LINK2"/></translation>
-<translation id="7939692063031538305">Radi poboljšanja aplikacije Brave šalje Braveu podatke o korištenju i padovima. <ph name="BEGIN_UMA_LINK"/>Upravljajte<ph name="END_UMA_LINK"/></translation>
+<translation id="7939692063031538305">Radi poboljšanja aplikacije Asil šalje Braveu podatke o korištenju i padovima. <ph name="BEGIN_UMA_LINK"/>Upravljajte<ph name="END_UMA_LINK"/></translation>
 <translation id="6640207029842583248">Blokiraj sve vrijeme</translation>
 <translation id="6641780377503683465">Uklanjanje: <ph name="INTEREST"/></translation>
 <translation id="6643016212128521049">Obriši</translation>
@@ -1038,9 +1038,9 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="666731172850799929">Otvorite u aplikaciji <ph name="APP_NAME"/></translation>
 <translation id="6671495933530132209">Kopiraj sliku</translation>
 <translation id="6674571176963658787">Da pokrenete sinhronizaciju, unesite pristupni izraz</translation>
-<translation id="8581481290581777242">Obrisati Brave podatke s ovog uređaja?</translation>
-<translation id="3683330416566109578">Prijavite se na ovu web lokaciju i u Brave</translation>
-<translation id="3385384709865894288">Poboljšajte Brave</translation>
+<translation id="8581481290581777242">Obrisati Asil podatke s ovog uređaja?</translation>
+<translation id="3683330416566109578">Prijavite se na ovu web lokaciju i u Asil</translation>
+<translation id="3385384709865894288">Poboljšajte Asil</translation>
 <translation id="670498945988402717">Provjereno jučer</translation>
 <translation id="6710213216561001401">Nazad</translation>
 <translation id="671481426037969117">Tajmer aplikacije <ph name="FQDN"/> je istekao. Počet će ponovo sutra.</translation>
@@ -1054,11 +1054,11 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="6767294960381293877">Spisak uređaja s kojim će se dijeliti kartica je otvoren na pola visine.</translation>
 <translation id="6770042910635026163">Web lokacije koje posjećujete, koje definiraju vaša interesovanja</translation>
 <translation id="6770602306803890733">Poboljšava vašu i svačiju sigurnost na webu</translation>
-<translation id="8174975477247159780">Dodatni Uslovi korištenja usluge za Brave i ChromeOS</translation>
+<translation id="8174975477247159780">Dodatni Uslovi korištenja usluge za Asil i ChromeOS</translation>
 <translation id="6795633245022906657">Brzo otvorite novu karticu. Da uredite ovu prečicu, idite u Postavke.</translation>
 <translation id="6802555630140434547">Prozor će se zatvoriti</translation>
 <translation id="6811034713472274749">Stranica je sprema za prikaz</translation>
-<translation id="8418237809013783651">Prijava na Brave je otvorena.</translation>
+<translation id="8418237809013783651">Prijava na Asil je otvorena.</translation>
 <translation id="6817747507826986771">Brzo dijelite ovu stranicu. Dodirnite i zadržite da uredite ovu prečicu.</translation>
 <translation id="118366698571543506">Da imate sve Braveove proizvode koje koristite na svim uređajima, prijavite se</translation>
 <translation id="6820686453637990663">CVC</translation>
@@ -1099,7 +1099,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="7029809446516969842">Lozinke</translation>
 <translation id="7030304022046916278">Šalje URL-ove Sigurnom pregledanju na provjeru</translation>
 <translation id="7030585293819777123">Nastaviti posljednji zadatak?</translation>
-<translation id="5813862251770201080">Prijavite se na Brave pomoću svog Brave računa</translation>
+<translation id="5813862251770201080">Prijavite se na Asil pomoću svog Asil računa</translation>
 <translation id="7038956721828960940">chrome_image_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="7054588988317389591">Preuzeti opise slika?</translation>
 <translation id="7055152154916055070">Preusmjeravanje je blokirano:</translation>
@@ -1107,9 +1107,9 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="7071521146534760487">Upravljaj računom</translation>
 <translation id="707155805709242880">U nastavku odaberite šta želite sinhronizirati</translation>
 <translation id="7077143737582773186">SD kartica</translation>
-<translation id="2374582967527009647">Šalje URL-ove Sigurnom pregledanju na provjeru. Također šalje mali uzorak stranica, preuzimanja, aktivnosti ekstenzija i informacija o sistemu radi lakšeg otkrivanja novih prijetnji. Privremeno povezuje ove podatke s vašim Brave računom kada ste prijavljeni da vas zaštiti na svim Braveovim aplikacijama.</translation>
+<translation id="2374582967527009647">Šalje URL-ove Sigurnom pregledanju na provjeru. Također šalje mali uzorak stranica, preuzimanja, aktivnosti ekstenzija i informacija o sistemu radi lakšeg otkrivanja novih prijetnji. Privremeno povezuje ove podatke s vašim Asil računom kada ste prijavljeni da vas zaštiti na svim Braveovim aplikacijama.</translation>
 <translation id="5499149312981370855">Odaberite želite li uključiti historiju Bravea da dodatno personalizirate iskustva na Braveovim uslugama</translation>
-<translation id="8208853227947884571">Brave je ažuriran</translation>
+<translation id="8208853227947884571">Asil je ažuriran</translation>
 <translation id="7093803425429738190">Dodaj emociju</translation>
 <translation id="7105047059074518658">Prijavite se da lakše pregledate na svim uređajima</translation>
 <translation id="7106762743910369165">Preglednikom upravlja vaša organizacija</translation>
@@ -1118,7 +1118,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="7143462160780459030">Nije moguće napraviti snimak ekrana. Pokušajte ponovo.</translation>
 <translation id="7146622961999026732">Čini se da su vam ove web lokacije i aplikacije važne:</translation>
 <translation id="7149893636342594995">Posljednja 24 sata</translation>
-<translation id="604991236434948997">Da skenirate QR kôd, promijenite postavke tako da Brave može koristiti kameru</translation>
+<translation id="604991236434948997">Da skenirate QR kôd, promijenite postavke tako da Asil može koristiti kameru</translation>
 <translation id="7173114856073700355">Otvori postavke</translation>
 <translation id="7177466738963138057">Ovo možete kasnije promijeniti u meniju Postavke</translation>
 <translation id="7177873915659574692">Nije moguće kreirati QR kôd. Broj znakova u URL-u je veći od <ph name="CHARACTER_LIMIT"/>.</translation>
@@ -1131,7 +1131,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="7196215469483532480">Objašnjenje vodiča za privatnost je otvoreno u punoj veličini</translation>
 <translation id="7207760545532569765">Vratite kartice (njih <ph name="TAB_COUNT"/>) kao nove pozadinske kartice.</translation>
 <translation id="7208109991155904980">Reakcija je pomjerena</translation>
-<translation id="6302653771627628530">Anonimne kartice će se zaključati kada napustite Brave</translation>
+<translation id="6302653771627628530">Anonimne kartice će se zaključati kada napustite Asil</translation>
 <translation id="7222235798733126207">Ograničeno dijeljenje između web lokacija</translation>
 <translation id="7227218174981371415">{FILE_COUNT,plural, =1{Čeka se 1 preuzimanje}one{Čeka se # preuzimanje}few{Čekaju se # preuzimanja}other{Čeka se # preuzimanja}}</translation>
 <translation id="7242755609445462077">Stilizirani istaknuti tekst <ph name="CURRENT_DATE"/></translation>
@@ -1145,7 +1145,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="7291910923717764901">Opisi slika su dodati za ovu stranicu</translation>
 <translation id="7293429513719260019">Odaberite jezik</translation>
 <translation id="729975465115245577">Na vašem uređaju nema aplikacije za pohranjivanje fajlova s lozinkama.</translation>
-<translation id="1382596880054356475">Van mreže. Brave ne može provjeriti vaše lozinke.</translation>
+<translation id="1382596880054356475">Van mreže. Asil ne može provjeriti vaše lozinke.</translation>
 <translation id="7313188324932846546">Dodirnite da postavite sinhronizaciju</translation>
 <translation id="7332075081379534664">Prijava je uspjela</translation>
 <translation id="8716243540027092298">Sinhronizirajte da preuzmete najrelevantniji sadržaj s Bravea</translation>
@@ -1167,7 +1167,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="7431991332293347422">Kontrolirajte kako se koristi vaša historija pregledanja za personalizaciju Pretraživanja i još mnogo toga</translation>
 <translation id="7435356471928173109">Funkciju je isključio vaš administrator</translation>
 <translation id="6234515504547364178">Odjava iz Bravea</translation>
-<translation id="3699067418237091329">Odjavljuje vas s većine stranica Nećete biti odjavljeni s Brave računa.</translation>
+<translation id="3699067418237091329">Odjavljuje vas s većine stranica Nećete biti odjavljeni s Asil računa.</translation>
 <translation id="7454641608352164238">Nema dovoljno prostora</translation>
 <translation id="7456774706094330779">Prošireno predučitavanje</translation>
 <translation id="7468819939926272717">Odabir emocije</translation>
@@ -1179,16 +1179,16 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="7482656565088326534">Kartica za pregled</translation>
 <translation id="7484997419527351112">Discover – isključeno</translation>
 <translation id="7485033510383818941">Da osvježite sadržaj sažetka sadržaja, povucite stranicu prema dolje</translation>
-<translation id="749294055653435199">Brave Objektiv nije dostupan na ovom uređaju</translation>
+<translation id="749294055653435199">Asil Objektiv nije dostupan na ovom uređaju</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (ažurirano <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7498271377022651285">Pričekajte…</translation>
-<translation id="8156131600798538460">Da se odjavite s Brave računa na svim web lokacijama, <ph name="BEGIN_LINK1"/>odjavite se iz Bravea<ph name="END_LINK1"/>.</translation>
+<translation id="8156131600798538460">Da se odjavite s Asil računa na svim web lokacijama, <ph name="BEGIN_LINK1"/>odjavite se iz Bravea<ph name="END_LINK1"/>.</translation>
 <translation id="750228856503700085">Ažuriranja nisu dostupna</translation>
 <translation id="7507207699631365376">Pogledajte <ph name="BEGIN_LINK"/>pravila privatnosti<ph name="END_LINK"/> pružaoca usluga</translation>
 <translation id="7514365320538308">Preuzmi</translation>
 <translation id="751961395872307827">Greška prilikom povezivanja s web lokacijom</translation>
 <translation id="752220631458524187">Prekinite vezu kada završite</translation>
-<translation id="7523960634226602883">Pretražujte kamerom pomoću Brave Objektiva</translation>
+<translation id="7523960634226602883">Pretražujte kamerom pomoću Asil Objektiva</translation>
 <translation id="7562080006725997899">Brisanje podataka pregledanja</translation>
 <translation id="7814200940910057384">Braveovi podaci su obrisani</translation>
 <translation id="7577900504646297215">Upravljajte interesovanjima</translation>
@@ -1199,10 +1199,10 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="7594687499944811403">Dozvolite da <ph name="EMBEDDED_ORIGIN"/> potvrdi vaš identitet za <ph name="TOP_ORIGIN"/></translation>
 <translation id="7596558890252710462">Operativni sistem</translation>
 <translation id="7605594153474022051">Sinhronizacija ne funkcionira</translation>
-<translation id="649070405679044769">Prijavljeni ste na Brave kao</translation>
+<translation id="649070405679044769">Prijavljeni ste na Asil kao</translation>
 <translation id="7616551326690708776">Biranje šablona za istaknutu stavku.</translation>
 <translation id="7619072057915878432">Preuzimanje fajla <ph name="FILE_NAME"/> nije uspjelo zbog grešaka na mreži.</translation>
-<translation id="7207456302801184289">Dobro došli u Brave</translation>
+<translation id="7207456302801184289">Dobro došli u Asil</translation>
 <translation id="7630202231528827509">URL pružaoca</translation>
 <translation id="7634280112532283638">Zaštita od neželjenog sadržaja i prevare</translation>
 <translation id="7638584964844754484">Netačan pristupni izraz</translation>
@@ -1232,8 +1232,8 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="7772375229873196092">Zatvori <ph name="APP_NAME"/></translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 i još <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}one{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 i još <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}few{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 i još <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 i još <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}}</translation>
 <translation id="7778840695157240389">Provjerite nove priče kasnije</translation>
-<translation id="7703329426540523149">Privremeno povezuje ove podatke s vašim Brave računom kada ste prijavljeni da vas zaštiti na svim Braveovim aplikacijama</translation>
-<translation id="4885054029571583374">Brave Asistent pruža bolje glasovno iskustvo za pretraživanje weba i stupanje u interakciju s web lokacijama koje ste otvorili. Brave Asistent će primiti URL i sadržaje web lokacija koje koristite s njim.</translation>
+<translation id="7703329426540523149">Privremeno povezuje ove podatke s vašim Asil računom kada ste prijavljeni da vas zaštiti na svim Braveovim aplikacijama</translation>
+<translation id="4885054029571583374">Asil Asistent pruža bolje glasovno iskustvo za pretraživanje weba i stupanje u interakciju s web lokacijama koje ste otvorili. Asil Asistent će primiti URL i sadržaje web lokacija koje koristite s njim.</translation>
 <translation id="7791543448312431591">Dodaj</translation>
 <translation id="7798392620021911922">Vraćeno kartica: <ph name="TAB_COUNT"/></translation>
 <translation id="780301667611848630">Ne, hvala</translation>
@@ -1256,7 +1256,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="6143689084714664628">Pokrenuto je u Braveu</translation>
 <translation id="7887174313503389866">Pođite u obilazak s vodičem kroz ključne kontrole privatnosti i sigurnosti. Više opcija možete pronaći u pojedinačnim postavkama.</translation>
 <translation id="7887334752153342268">Dupliciraj</translation>
-<translation id="5570166585033664196">Kako koristiti Brave</translation>
+<translation id="5570166585033664196">Kako koristiti Asil</translation>
 <translation id="7903184275147100332">Ovo može malo potrajati</translation>
 <translation id="7914399737746719723">Aplikacija je instalirana</translation>
 <translation id="7919123827536834358">Automatski prevedi ove jezike</translation>
@@ -1280,7 +1280,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="799576009106109668">Pregledat ćete brže jer se sadržaj učitava proaktivno na osnovu vaše posjete trenutnoj web stranici</translation>
 <translation id="7998918019931843664">Ponovono otvaranje zatvorenih kartica</translation>
 <translation id="8004582292198964060">Preglednik</translation>
-<translation id="3325020657155065477">Također obriši Brave podatke s ovog uređaja</translation>
+<translation id="3325020657155065477">Također obriši Asil podatke s ovog uređaja</translation>
 <translation id="8015452622527143194">Sve što je na stranici vratiti na zadanu veličinu</translation>
 <translation id="8026334261755873520">Obrišite podatke pregledanja</translation>
 <translation id="8027863900915310177">Odaberite gdje će se preuzeti</translation>
@@ -1301,11 +1301,11 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="8076492880354921740">Kartice</translation>
 <translation id="8078096376109663956">Dijeli samo tekst</translation>
 <translation id="8084114998886531721">Sačuvana lozinka</translation>
-<translation id="1718138320251931534">Kontrolirajte podatke Brave računa</translation>
+<translation id="1718138320251931534">Kontrolirajte podatke Asil računa</translation>
 <translation id="808747664143081553">Povezano s uređajem</translation>
 <translation id="8090732854597034573">Ako ti treba pomoć, pitaj roditelja</translation>
-<translation id="1501443023467711714">Prijavite se da učinite Brave ličnim</translation>
-<translation id="3249150807062904185">Ako nastavite, pristajete na <ph name="BEGIN_TOS_LINK"/>Uslove korištenja usluge<ph name="END_TOS_LINK"/>.\nRadi poboljšanja aplikacije Brave šalje Braveu podatke o korištenju i padovima aplikacije. <ph name="BEGIN_UMA_LINK"/>Upravljajte<ph name="END_UMA_LINK"/></translation>
+<translation id="1501443023467711714">Prijavite se da učinite Asil ličnim</translation>
+<translation id="3249150807062904185">Ako nastavite, pristajete na <ph name="BEGIN_TOS_LINK"/>Uslove korištenja usluge<ph name="END_TOS_LINK"/>.\nRadi poboljšanja aplikacije Asil šalje Braveu podatke o korištenju i padovima aplikacije. <ph name="BEGIN_UMA_LINK"/>Upravljajte<ph name="END_UMA_LINK"/></translation>
 <translation id="8105893657415066307"><ph name="DESCRIPTION"/> <ph name="SEPARATOR"/> <ph name="FILE_SIZE"/></translation>
 <translation id="8107530384992929318">Zatvaranje opcija sortiranja</translation>
 <translation id="8109613176066109935">Da biste imali svoje oznake na svim svojim uređajima, uključite sinhronizaciju</translation>
@@ -1328,9 +1328,9 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="8221656072740924283">Nastavi</translation>
 <translation id="8223642481677794647">Meni kartice za sažetak sadržaja</translation>
 <translation id="8250920743982581267">Dokumenti</translation>
-<translation id="5138664332909611586">Ova stranica koristi previše memorije te je Brave uklonio neki sadržaj.</translation>
+<translation id="5138664332909611586">Ova stranica koristi previše memorije te je Asil uklonio neki sadržaj.</translation>
 <translation id="8255617931166444521">Web lokacije mogu koristiti vaše kolačiće isključivo da vide vašu aktivnost pregledanja samo na svojoj web lokaciji</translation>
-<translation id="2876689296031086375">Pošto se predučitane stranice šifriraju, Brave neće saznati ništa o sadržaju predučitanih stranica. Braveovi serveri će saznati koje web lokacije se privatno predučitavaju. Te informacije se koriste samo za predučitavanje stranica i ne povezuju se s drugim informacijama s Brave računa.</translation>
+<translation id="2876689296031086375">Pošto se predučitane stranice šifriraju, Asil neće saznati ništa o sadržaju predučitanih stranica. Braveovi serveri će saznati koje web lokacije se privatno predučitavaju. Te informacije se koriste samo za predučitavanje stranica i ne povezuju se s drugim informacijama s Asil računa.</translation>
 <translation id="8260126382462817229">Pokušajte se ponovo prijaviti</translation>
 <translation id="8261506727792406068">Izbriši</translation>
 <translation id="82619448491672958">Prikaži druge kartice</translation>
@@ -1347,7 +1347,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="8354977102499939946">Brzo pretražujte pomoću glasa. Da uredite ovu prečicu, idite u Postavke.</translation>
 <translation id="835847953965672673">Broj vraćenih preuzimanja: <ph name="NUMBER_OF_DOWNLOADS"/></translation>
 <translation id="8368001212524806591">Praćenje cijene</translation>
-<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Kako koristimo ove podatke:<ph name="END_BOLD"/> Brave može procijeniti vaša interesovanja. Kasnije, web lokacija koju ste posjetili može zatražiti od Bravea da pogleda vaša interesovanja radi personalizacije oglasa koje vidite.</translation>
+<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Kako koristimo ove podatke:<ph name="END_BOLD"/> Asil može procijeniti vaša interesovanja. Kasnije, web lokacija koju ste posjetili može zatražiti od Bravea da pogleda vaša interesovanja radi personalizacije oglasa koje vidite.</translation>
 <translation id="8387617938027387193">Potvrdite identitet</translation>
 <translation id="8393700583063109961">Pošalji poruku</translation>
 <translation id="7651600795135059130">Provjerava URL-ove s listom nesigurnih web lokacija pohranjenih u Braveu</translation>
@@ -1356,14 +1356,14 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="8414396119627470038">Prijavite se na <ph name="SITE_ETLD_PLUS_ONE"/> pomoću <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/></translation>
 <translation id="2100587595569959771">Saznajte više o personalizaciji oglasa u Braveu</translation>
 <translation id="8419244640277402268">Obuhvati</translation>
-<translation id="5735840612282428689">Stranica je poslana. Da je vidite, otvorite Brave koristeći <ph name="DEVICE_TYPE"/></translation>
+<translation id="5735840612282428689">Stranica je poslana. Da je vidite, otvorite Asil koristeći <ph name="DEVICE_TYPE"/></translation>
 <translation id="8427875596167638501">Kartica za pregled je napola otvorena</translation>
 <translation id="8428213095426709021">Postavke</translation>
 <translation id="8430824733382774043">Dijeli samo snimak ekrana</translation>
 <translation id="8438566539970814960">Poboljšajte pretraživanje i pregledanje</translation>
 <translation id="8439974325294139057"><ph name="LANG"/> – Jezik je spreman. Ponovo pokrenite aplikaciju <ph name="APP_NAME"/>.</translation>
 <translation id="8442258441309440798">Nijedna priča nije dostupna</translation>
-<translation id="4058091506841967397">Brave nije ažuriran</translation>
+<translation id="4058091506841967397">Asil nije ažuriran</translation>
 <translation id="8445448999790540984">Nije moguće izvesti lozinke</translation>
 <translation id="8446884382197647889">Saznajte više</translation>
 <translation id="8453310803815879010">Pokrenite Igru s dinosaurom</translation>
@@ -1383,7 +1383,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="8497242791509864205">Otvaranje opcija sortiranja</translation>
 <translation id="8497480609928300907">Objašnjenje vodiča za privatnost</translation>
 <translation id="8497726226069778601">Ovdje nema ničega… još uvijek</translation>
-<translation id="230699814587342492">Brave lozinke</translation>
+<translation id="230699814587342492">Asil lozinke</translation>
 <translation id="8503813439785031346">Korisničko ime</translation>
 <translation id="8505766168025405649">Status preuzimanja provjerite u obavještenju</translation>
 <translation id="133012818630824069">Izvoz lozinki pohranjenih u Braveu</translation>
@@ -1404,9 +1404,9 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="8583805026567836021">Brisanje podataka računa</translation>
 <translation id="859046281437143747">Pratite cijene pomoću dugmeta Više opcija</translation>
 <translation id="860043288473659153">Ime vlasnika kartice</translation>
-<translation id="1673533133011266617">Prijava na Brave je zatvorena.</translation>
+<translation id="1673533133011266617">Prijava na Asil je zatvorena.</translation>
 <translation id="860282621117673749">Obavještenja o padu cijena</translation>
-<translation id="5784514951651328424">Vaš Brave račun može imati druge oblike historije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="5784514951651328424">Vaš Asil račun može imati druge oblike historije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="8617240290563765734">Otvoriti predloženi URL koji je naveden u preuzetom sadržaju?</translation>
 <translation id="8621068256433641644">telefon</translation>
 <translation id="8636825310635137004">Da dobijete svoje kartice s drugih uređaja, uključite sinhronizaciju.</translation>
@@ -1417,7 +1417,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="2734140769649165081">Podatke možete obrisati u Postavkama Bravea</translation>
 <translation id="6464188276370426100">Kako pretraživati pomoću Bravea</translation>
 <translation id="8662811608048051533">Odjavljuje vas s većine web lokacija.</translation>
-<translation id="7436978557885042606">Koristite Brave na svoj način</translation>
+<translation id="7436978557885042606">Koristite Asil na svoj način</translation>
 <translation id="8664979001105139458">Naziv fajla već postoji</translation>
 <translation id="8666759526542103597">O personalizaciji oglasa zasnovanoj na pregledniku</translation>
 <translation id="8676789164135894283">Potvrde prijave</translation>
@@ -1455,13 +1455,13 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="1984646864943401749">Šalje Braveu URL-ove nekih stranica koje posjetite, ograničene informacije sistema i sadržaj nekih stranica radi lakšeg otkrivanja novih prijetnji te zaštite svakoga na webu.</translation>
 <translation id="8906502871739599113">Reakcija je duplicirana</translation>
 <translation id="8909135823018751308">Dijeljenje…</translation>
-<translation id="2684652081942622950">Brave račun</translation>
+<translation id="2684652081942622950">Asil račun</translation>
 <translation id="8920114477895755567">Čekanje detalja roditelja.</translation>
 <translation id="8921980840204105660">Sinhronizirajte da preuzmete oznake sa svojih drugih uređaja</translation>
 <translation id="8922289737868596582">Preuzmite stranice pomoću dugmeta Više opcija da ih koristite van mreže</translation>
 <translation id="8924575305646776101"><ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/></translation>
 <translation id="892496902842311796"><ph name="LANG"/> je spreman</translation>
-<translation id="6894658278639191411">Radi lakšeg završavanja zadataka, Brave će primati URL-ove i sadržaj web lokacija na kojima koristite Asistenta, kao i informacije koje pošaljete putem Asistenta. Ove informacije se mogu pohraniti na vaš Brave račun. Možete isključiti Asistenta u postavkama Bravea.</translation>
+<translation id="6894658278639191411">Radi lakšeg završavanja zadataka, Asil će primati URL-ove i sadržaj web lokacija na kojima koristite Asistenta, kao i informacije koje pošaljete putem Asistenta. Ove informacije se mogu pohraniti na vaš Asil račun. Možete isključiti Asistenta u postavkama Bravea.</translation>
 <translation id="1174893863889683998">Ukloniti aktivnosti Bravea iz Digitalnog blagostanja?</translation>
 <translation id="8942627711005830162">Otvori u drugom prozoru</translation>
 <translation id="8945143127965743188"><ph name="LANG"/> – Preuzimanje ovog jezika nije uspjelo. Pokušajte ponovo kasnije.</translation>
@@ -1472,20 +1472,20 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="8972098258593396643">Preuzeti u zadani folder?</translation>
 <translation id="8987641763863173640">Upravljajte postavkama pregleda videozapisa</translation>
 <translation id="898854820045159673">Reakcija je dodana</translation>
-<translation id="5320085753638900910">Vaša historija pregledanja utiče na oglase koje vidite i interesovanja, kao što je procijenjeno u nastavku. Da zaštiti vašu privatnost, Brave automatski briše vaša interesovanja na mjesečnoj osnovi. Interesovanja se mogu osvježiti ukoliko ih ne uklonite.</translation>
+<translation id="5320085753638900910">Vaša historija pregledanja utiče na oglase koje vidite i interesovanja, kao što je procijenjeno u nastavku. Da zaštiti vašu privatnost, Asil automatski briše vaša interesovanja na mjesečnoj osnovi. Interesovanja se mogu osvježiti ukoliko ih ne uklonite.</translation>
 <translation id="8996847606757455498">Odaberite drugog pružaoca</translation>
-<translation id="3275122921244685452">Prijavljujete se pomoću računa kojim upravlja domena <ph name="MANAGED_DOMAIN"/> te njenom administratoru dajete kontrolu nad svojim Brave podacima. Vaši podaci će se trajno povezati s ovim računom. Odjavljivanjem iz Bravea ćete izbrisati podatke s ovog uređaja, ali će oni ostati pohranjeni na vašem Brave računu.</translation>
+<translation id="3275122921244685452">Prijavljujete se pomoću računa kojim upravlja domena <ph name="MANAGED_DOMAIN"/> te njenom administratoru dajete kontrolu nad svojim Asil podacima. Vaši podaci će se trajno povezati s ovim računom. Odjavljivanjem iz Bravea ćete izbrisati podatke s ovog uređaja, ali će oni ostati pohranjeni na vašem Asil računu.</translation>
 <translation id="9022774213089566801">Često posjećivano</translation>
 <translation id="9041669420854607037">{FILE_COUNT,plural, =1{# videozapis}one{# videozapis}few{# videozapisa}other{# videozapisa}}</translation>
 <translation id="9042893549633094279">Privatnost i sigurnost</translation>
 <translation id="9050666287014529139">Pristupni izraz</translation>
 <translation id="9063523880881406963">Isključivanje zahtjeva za verziju web lokacije za računar</translation>
 <translation id="9065203028668620118">Uredi</translation>
-<translation id="5496925146144075335">Pohranjeni podaci koje Brave ne smatra važnim (npr. web lokacije bez sačuvanih postavki ili koje ne posjećujete često)</translation>
+<translation id="5496925146144075335">Pohranjeni podaci koje Asil ne smatra važnim (npr. web lokacije bez sačuvanih postavki ili koje ne posjećujete često)</translation>
 <translation id="906781307897697745">u: <ph name="PRODUCT_NAME"/></translation>
 <translation id="9069999660519089861">Nema nepročitanih stranica</translation>
 <translation id="9070377983101773829">Pokretanje glasovnog pretraživanja</translation>
-<translation id="8494430740943879273">Da dobijete prilagođeni sadržaj koji predlaže Brave, prijavite se i uključite sinhronizaciju</translation>
+<translation id="8494430740943879273">Da dobijete prilagođeni sadržaj koji predlaže Asil, prijavite se i uključite sinhronizaciju</translation>
 <translation id="9074739597929991885">Bluetooth</translation>
 <translation id="9086302186042011942">Sinhroniziranje</translation>
 <translation id="9086455579313502267">Nije moguće pristupiti mreži</translation>
@@ -1513,14 +1513,14 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="9212845824145208577">Nije moguće pomjeriti niže. Pokušajte započeti na nižem mjestu na stranici.</translation>
 <translation id="9219103736887031265">Slike</translation>
 <translation id="9219582468404818260">Pomozite nam da izgradimo bolji web</translation>
-<translation id="6946179564366058239">Kada web lokacija zatraži da privatno predučita linkove na svojim stranicama, Brave će šifrirati i predučitati stranice putem Braveovih servera bez kolačića. Ovim se skriva vaš identitet na predučitanoj web lokaciji.</translation>
+<translation id="6946179564366058239">Kada web lokacija zatraži da privatno predučita linkove na svojim stranicama, Asil će šifrirati i predučitati stranice putem Braveovih servera bez kolačića. Ovim se skriva vaš identitet na predučitanoj web lokaciji.</translation>
 <translation id="4596514158372210596">Uklonite aktivnosti Bravea iz Digitalnog blagostanja</translation>
 <translation id="2830145431802238213">Koristite Jednostavni način rada u Braveu</translation>
 <translation id="928550791203542716">Pratite web lokaciju <ph name="SITE_NAME"/></translation>
 <translation id="932327136139879170">Dom</translation>
 <translation id="938850635132480979">Greška: <ph name="ERROR_CODE"/></translation>
 <translation id="939598580284253335">Unesite pristupni izraz</translation>
-<translation id="5406914950576900927">Brave može koristiti <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> za pretraživanje u Kini. To možete promijeniti u <ph name="BEGIN_LINK"/>Postavkama<ph name="END_LINK"/>.</translation>
+<translation id="5406914950576900927">Asil može koristiti <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> za pretraživanje u Kini. To možete promijeniti u <ph name="BEGIN_LINK"/>Postavkama<ph name="END_LINK"/>.</translation>
 <translation id="962979164594783469">Instalirajte ovu aplikaciju</translation>
 <translation id="96681097142096641">Prikazati pojednostavljenu stranicu?</translation>
 <translation id="968900484120156207">Stranice koje posjetite će se pojaviti ovdje</translation>
@@ -1546,7 +1546,7 @@ Naprimjer, neke web lokacije mogu reagirati na ovaj zahtjev prikazivanjem oglasa
 <translation id="4526803704855831732">Anonimne kartice</translation>
 <translation id="5248610748197335423">Zatvori sve anonimne kartice</translation>
 <translation id="4660964651149493586">Otključaj anonimni način rada</translation>
-<translation id="3763131702135887799">Pomozite da poboljšamo Brave za osobe koje ga koriste na način kao i vi</translation>
+<translation id="3763131702135887799">Pomozite da poboljšamo Asil za osobe koje ga koriste na način kao i vi</translation>
 <translation id="4167670741834902166">Nova anonimna kartica</translation>
 <translation id="9148151251783962691">Da privatno pregledate na ovom uređaju, isprobajte anonimni način rada</translation>
 <translation id="8355284051444779553">Da otvorite novu anonimnu karticu, otvorite meni</translation>

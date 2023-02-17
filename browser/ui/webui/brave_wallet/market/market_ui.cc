@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -52,7 +52,7 @@ UntrustedMarketUI::UntrustedMarketUI(content::WebUI* web_ui)
       std::string("font-src 'self' data:;"));
   untrusted_source->OverrideContentSecurityPolicy(
       network::mojom::CSPDirectiveName::ImgSrc,
-      std::string("img-src 'self' https://assets.cgproxy.brave.com;"));
+      std::string("img-src 'self' https://assets.cgproxy.asil.com;"));
 
   untrusted_source->AddResourcePath("load_time_data_deprecated.js",
                                     IDR_WEBUI_JS_LOAD_TIME_DATA_DEPRECATED_JS);

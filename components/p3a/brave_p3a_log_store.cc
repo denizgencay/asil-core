@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -37,7 +37,7 @@ void RecordSentAnswersCount(uint64_t answers_count) {
   } else if (10 <= answers_count) {
     answer = 3;
   }
-  UMA_HISTOGRAM_EXACT_LINEAR("Brave.P3A.SentAnswersCount", answer, 3);
+  UMA_HISTOGRAM_EXACT_LINEAR("Asil.P3A.SentAnswersCount", answer, 3);
 }
 
 const char* GetPrefName(MetricLogType type) {
@@ -52,7 +52,7 @@ const char* GetPrefName(MetricLogType type) {
 }
 
 std::string GetUploadType(const std::string& histogram_name) {
-  if (base::StartsWith(histogram_name, "Brave.P2A",
+  if (base::StartsWith(histogram_name, "Asil.P2A",
                        base::CompareCase::SENSITIVE)) {
     return kP2AUploadType;
   } else if (base::StartsWith(histogram_name, kCreativeMetricPrefix,

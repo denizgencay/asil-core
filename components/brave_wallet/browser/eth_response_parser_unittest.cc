@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -562,7 +562,7 @@ TEST(EthResponseParserUnitTest, ParseDataURIAndExtractJSON) {
   // Invalid URL
   EXPECT_FALSE(ParseDataURIAndExtractJSON(GURL(""), &json));
   // Valid URL, incorrect scheme
-  EXPECT_FALSE(ParseDataURIAndExtractJSON(GURL("https://brave.com"),
+  EXPECT_FALSE(ParseDataURIAndExtractJSON(GURL("https://asil.com"),
                                           &json));  // Incorrect scheme
   // Valid URL and scheme, invalid mime_type
   EXPECT_FALSE(ParseDataURIAndExtractJSON(
@@ -631,7 +631,7 @@ TEST(EthResponseParserUnitTest, ParseTokenUri) {
   EXPECT_FALSE(eth::ParseTokenUri(ParseJson(body), &url));
   EXPECT_EQ(url.spec(), "");
 
-  // (2/2) Invalid URL returns false (https//brave.com)
+  // (2/2) Invalid URL returns false (https//asil.com)
   body = R"({
       "jsonrpc":"2.0",
       "id":1,

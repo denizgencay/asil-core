@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -74,7 +74,7 @@ IPFSOnboardingPage::~IPFSOnboardingPage() = default;
 void IPFSOnboardingPage::UseLocalNode() {
   controller()->GetPrefService()->SetInteger(
       kIPFSResolveMethod,
-      static_cast<int>(ipfs::IPFSResolveMethodTypes::IPFS_LOCAL));
+      static_cast<int>(ipfs::IPFSResolveMethodTypes::IPFS_GATEWAY));
   start_time_ticks_ = base::TimeTicks::Now();
   if (!ipfs_service_->IsDaemonLaunched()) {
     ipfs_service_->LaunchDaemon(base::NullCallback());

@@ -17,7 +17,7 @@
               "payload": {
                 "body": "Test Body",
                 "title": "Test Title",
-                "targetUrl": "https://brave.com"
+                "targetUrl": "https://asil.com"
               }
             }
           ],
@@ -32,7 +32,7 @@
           "conversions": [
             {
               "observationWindow": 30,
-              "urlPattern": "https://www.brave.com/*",
+              "urlPattern": "https://www.asil.com/*",
               "type": "postview"
             }
           ],

@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -443,7 +443,7 @@ TEST_F(PrivacySandboxSettingsTest, IsPrivacySandboxEnabled) {
       /*managed_cookie_setting=*/privacy_sandbox_test_util::kNoSetting,
       /*managed_cookie_exceptions=*/{});
 
-  // Trying to enable the privacy sandbox doesn't make a difference in Brave.
+  // Trying to enable the privacy sandbox doesn't make a difference in Asil.
   EXPECT_FALSE(privacy_sandbox_settings()->IsPrivacySandboxEnabled());
 
   // Check that even bypassing PrivacySandboxSettings::SetPrivacySandboxEnabled,

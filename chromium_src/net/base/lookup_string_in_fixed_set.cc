@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -52,6 +52,7 @@ int LookupSuffixInReversedSet(const unsigned char* graph,
       return kDafsaFound;
     }
   }
+
   if (base::EndsWith(host, decentralized_dns::kEthDomain)) {
     *suffix_length = strlen(decentralized_dns::kEthDomain) - 1;
     return kDafsaFound;

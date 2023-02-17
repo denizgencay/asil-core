@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -91,7 +91,7 @@ void BraveSyncServiceImplDelegate::RecordP3ASyncStatus() {
   // 3 - three or more devices in chain
   int p3a_value = std::min(num_devices, 3);
 
-  base::UmaHistogramExactLinear("Brave.Sync.Status.2", p3a_value, 3);
+  base::UmaHistogramExactLinear("Asil.Sync.Status.2", p3a_value, 3);
 }
 
 void BraveSyncServiceImplDelegate::SetLocalDeviceAppearedCallback(

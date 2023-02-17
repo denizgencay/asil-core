@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -20,10 +20,10 @@ class RewardsPublisherUtilsTest : public testing::Test {
 };
 
 TEST_F(RewardsPublisherUtilsTest, GetPublisherIdFromURL) {
-  EXPECT_EQ(GetPublisherId("https://brave.com"), "brave.com");
-  EXPECT_EQ(GetPublisherId("http://brave.com"), "brave.com");
-  EXPECT_EQ(GetPublisherId("https://search.brave.com"), "brave.com");
-  EXPECT_EQ(GetPublisherId("http://search.brave.com"), "brave.com");
+  EXPECT_EQ(GetPublisherId("https://asil.com"), "asil.com");
+  EXPECT_EQ(GetPublisherId("http://asil.com"), "asil.com");
+  EXPECT_EQ(GetPublisherId("https://search.asil.com"), "asil.com");
+  EXPECT_EQ(GetPublisherId("http://search.asil.com"), "asil.com");
 
   EXPECT_EQ(GetPublisherId("https://brave.co.uk"), "brave.co.uk");
   EXPECT_EQ(GetPublisherId("https://www.brave.co.uk"), "brave.co.uk");

@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -128,7 +128,7 @@ class HSTSPartitioningBrowserTestBase : public InProcessBrowserTest {
   }
 
   void ExpectPreloadWorks() {
-    for (const auto* preloaded_host : {"brave.com", "accounts.google.com"}) {
+    for (const auto* preloaded_host : {"asil.com", "accounts.google.com"}) {
       GURL url(base::StrCat({"http://", preloaded_host, "/simple.html"}));
       auto* rfh = ui_test_utils::NavigateToURL(browser(), url);
       ASSERT_TRUE(rfh);

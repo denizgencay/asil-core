@@ -13,7 +13,7 @@ void MaybeOnWidevineRequest(MediaKeySystemAccessInitializer* initializer,
 }  // namespace
 }  // namespace blink
 
-// Notify Brave about the widevine availability request.
+// Notify Asil about the widevine availability request.
 #define BRAVE_NAVIGATOR_REQUEST_MEDIA_KEY_SYSTEM_ACCESS \
   MaybeOnWidevineRequest(initializer, window->GetFrame());
 
@@ -29,7 +29,7 @@ void MaybeOnWidevineRequest(MediaKeySystemAccessInitializer* initializer,
 namespace blink {
 namespace {
 
-// Notifies Brave about the widevine availability request.
+// Notifies Asil about the widevine availability request.
 void MaybeOnWidevineRequest(MediaKeySystemAccessInitializer* initializer,
                             LocalFrame* frame) {
   if (initializer->KeySystem() == "com.widevine.alpha") {

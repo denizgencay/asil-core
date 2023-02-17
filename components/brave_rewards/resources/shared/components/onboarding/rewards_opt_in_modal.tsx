@@ -73,7 +73,7 @@ export function RewardsOptInModal (props: Props) {
             $1: (content) =>
               <NewTabLink
                 key='link'
-                href='https://support.brave.com/hc/en-us/articles/9312922941069'
+                href='https://support.asil.com/hc/en-us/articles/9312922941069'
               >
                 {content}
               </NewTabLink>

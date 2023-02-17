@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -1859,7 +1859,7 @@ TEST_F(JsonRpcServiceUnitTest, AddEthereumChainApprovedForOrigin) {
           .is_valid());
   SetEthChainIdInterceptor(GetActiveEndpointUrl(chain), "0x111");
   json_rpc_service_->AddEthereumChainForOrigin(
-      chain.Clone(), url::Origin::Create(GURL("https://brave.com")),
+      chain.Clone(), url::Origin::Create(GURL("https://asil.com")),
       base::BindLambdaForTesting(
           [&callback_is_called, &expected](const std::string& chain_id,
                                            mojom::ProviderError error,
@@ -1924,7 +1924,7 @@ TEST_F(JsonRpcServiceUnitTest, AddEthereumChainForOriginRejected) {
           .is_valid());
   SetEthChainIdInterceptor(GetActiveEndpointUrl(chain), "0x111");
   json_rpc_service_->AddEthereumChainForOrigin(
-      chain.Clone(), url::Origin::Create(GURL("https://brave.com")),
+      chain.Clone(), url::Origin::Create(GURL("https://asil.com")),
       base::BindLambdaForTesting(
           [&callback_is_called, &expected](const std::string& chain_id,
                                            mojom::ProviderError error,
@@ -2118,7 +2118,7 @@ TEST_F(JsonRpcServiceUnitTest, AddEthereumChainError) {
 
 TEST_F(JsonRpcServiceUnitTest, AddEthereumChainForOriginError) {
   mojom::NetworkInfo chain = GetTestNetworkInfo1("0x1");
-  auto origin = url::Origin::Create(GURL("https://brave.com"));
+  auto origin = url::Origin::Create(GURL("https://asil.com"));
 
   // Known eth chain should be rejected.
   ASSERT_TRUE(
@@ -2715,12 +2715,12 @@ class UnstoppableDomainsUnitTest : public JsonRpcServiceUnitTest {
 
   std::string DnsIpfsResponse() const {
     return MakeJsonRpcStringArrayResponse(
-        {"ipfs_hash", "", "", "", "", "https://brave.com"});
+        {"ipfs_hash", "", "", "", "", "https://asil.com"});
   }
 
   std::string DnsBraveResponse() const {
     return MakeJsonRpcStringArrayResponse(
-        {"", "", "", "", "", "https://brave.com"});
+        {"", "", "", "", "", "https://asil.com"});
   }
 
   std::string DnsEmptyResponse() const {
@@ -2999,7 +2999,7 @@ TEST_F(UnstoppableDomainsUnitTest, ResolveDns_PolygonNetworkError) {
 
 TEST_F(UnstoppableDomainsUnitTest, ResolveDns_PolygonResult) {
   base::MockCallback<ResolveDnsCallback> callback;
-  EXPECT_CALL(callback, Run(GURL("https://brave.com"),
+  EXPECT_CALL(callback, Run(GURL("https://asil.com"),
                             mojom::ProviderError::kSuccess, ""));
   SetEthTimeoutResponse();
   SetPolygonRawResponse(DnsBraveResponse());
@@ -3008,7 +3008,7 @@ TEST_F(UnstoppableDomainsUnitTest, ResolveDns_PolygonResult) {
   base::RunLoop().RunUntilIdle();
   testing::Mock::VerifyAndClearExpectations(&callback);
 
-  EXPECT_CALL(callback, Run(GURL("https://brave.com"),
+  EXPECT_CALL(callback, Run(GURL("https://asil.com"),
                             mojom::ProviderError::kSuccess, ""));
   SetEthRawResponse(DnsIpfsResponse());
   SetPolygonRawResponse(DnsBraveResponse());
@@ -3017,7 +3017,7 @@ TEST_F(UnstoppableDomainsUnitTest, ResolveDns_PolygonResult) {
   base::RunLoop().RunUntilIdle();
   testing::Mock::VerifyAndClearExpectations(&callback);
 
-  EXPECT_CALL(callback, Run(GURL("https://brave.com"),
+  EXPECT_CALL(callback, Run(GURL("https://asil.com"),
                             mojom::ProviderError::kSuccess, ""));
   SetEthRawResponse(DnsEmptyResponse());
   SetPolygonRawResponse(DnsBraveResponse());
@@ -3037,7 +3037,7 @@ TEST_F(UnstoppableDomainsUnitTest, ResolveDns_FallbackToEthMainnet) {
   base::RunLoop().RunUntilIdle();
   testing::Mock::VerifyAndClearExpectations(&callback);
 
-  EXPECT_CALL(callback, Run(GURL("https://brave.com"),
+  EXPECT_CALL(callback, Run(GURL("https://asil.com"),
                             mojom::ProviderError::kSuccess, ""));
   SetEthRawResponse(DnsBraveResponse());
   SetPolygonRawResponse(
@@ -3082,10 +3082,10 @@ TEST_F(UnstoppableDomainsUnitTest, ResolveDns_InvalidDomain) {
 
 TEST_F(UnstoppableDomainsUnitTest, ResolveDns_ManyCalls) {
   base::MockCallback<ResolveDnsCallback> callback1;
-  EXPECT_CALL(callback1, Run(GURL("https://brave.com"),
+  EXPECT_CALL(callback1, Run(GURL("https://asil.com"),
                              mojom::ProviderError::kSuccess, ""));
   base::MockCallback<ResolveDnsCallback> callback2;
-  EXPECT_CALL(callback2, Run(GURL("https://brave.com"),
+  EXPECT_CALL(callback2, Run(GURL("https://asil.com"),
                              mojom::ProviderError::kSuccess, ""));
   base::MockCallback<ResolveDnsCallback> callback3;
   EXPECT_CALL(callback3, Run(GURL("ipfs://ipfs_hash"),
@@ -3097,16 +3097,16 @@ TEST_F(UnstoppableDomainsUnitTest, ResolveDns_ManyCalls) {
   eth_mainnet_getmany_call_handler_->AddItem("brave.crypto", keys[0],
                                              "ipfs_hash");
   eth_mainnet_getmany_call_handler_->AddItem("brave.crypto", keys[5],
-                                             "https://brave.com");
+                                             "https://asil.com");
   polygon_getmany_call_handler_->AddItem("brave.crypto", keys[5],
-                                         "https://brave.com");
+                                         "https://asil.com");
 
   // This will resolve brave.x requests.
   polygon_getmany_call_handler_->AddItem("brave.x", keys[0], "ipfs_hash");
   polygon_getmany_call_handler_->AddItem("brave.x", keys[5],
-                                         "https://brave.com");
+                                         "https://asil.com");
   eth_mainnet_getmany_call_handler_->AddItem("brave.x", keys[5],
-                                             "https://brave.com");
+                                             "https://asil.com");
 
   EXPECT_EQ(0, eth_mainnet_getmany_call_handler_->calls_number());
   EXPECT_EQ(0, polygon_getmany_call_handler_->calls_number());
@@ -4970,7 +4970,7 @@ class ENSL2JsonRpcServiceUnitTest : public JsonRpcServiceUnitTest {
 
   std::string ens_host() { return "offchainexample.eth"; }
   std::string ens_subdomain_host() { return "test.offchainexample.eth"; }
-  GURL gateway_url() { return GURL("https://gateway.brave.com/"); }
+  GURL gateway_url() { return GURL("https://gateway.asil.com/"); }
   EthAddress resolver_address() {
     return EthAddress::FromHex("0xc1735677a60884abbcf72295e88d47764beda282");
   }
@@ -5464,7 +5464,7 @@ class SnsJsonRpcServiceUnitTest : public JsonRpcServiceUnitTest {
         "RecPwner11111111111111111111111111111111111");
   }
 
-  GURL url_value() const { return GURL("https://brave.com"); }
+  GURL url_value() const { return GURL("https://asil.com"); }
   GURL ipfs_value() const {
     return GURL(
         "ipfs://bafybeibd4ala53bs26dvygofvr6ahpa7gbw4eyaibvrbivf4l5rr44yqu4");

@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Brave Authors. All rights reserved.
+// Copyright (c) 2020 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -13,7 +13,7 @@ export default function useScrollIntoView<T extends HTMLElement = HTMLAnchorElem
     if (shouldScrollIntoView && cardRef.current) {
       cardRef.current.scrollIntoView({ block: 'center' })
     } else if (shouldScrollIntoView) {
-      console.warn('Brave News: attempted to scroll to a card that was not rendered')
+      console.warn('Asil News: attempted to scroll to a card that was not rendered')
     }
   }, [cardRef.current]) // only re-run if the ref element changesa
   return [cardRef]

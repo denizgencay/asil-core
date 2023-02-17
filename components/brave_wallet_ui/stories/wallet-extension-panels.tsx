@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Brave Authors. All rights reserved.
+// Copyright (c) 2022 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -882,7 +882,7 @@ export const _ConnectHardwareWallet = () => {
 
   const onClickInstructions = () => {
     // Open support link in new tab
-    window.open('https://support.brave.com/hc/en-us/articles/4409309138701', '_blank')
+    window.open('https://support.asil.com/hc/en-us/articles/4409309138701', '_blank')
   }
 
   return (

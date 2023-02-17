@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -364,7 +364,7 @@ bool CosmeticFiltersJSHandler::ProcessURL(
 
   if (callback.has_value()) {
     SCOPED_UMA_HISTOGRAM_TIMER_MICROS(
-        "Brave.CosmeticFilters.UrlCosmeticResources");
+        "Asil.CosmeticFilters.UrlCosmeticResources");
     TRACE_EVENT1("brave.adblock", "UrlCosmeticResources", "url", url_.spec());
     cosmetic_filters_resources_->UrlCosmeticResources(
         url_.spec(), enabled_1st_party_cf_,
@@ -374,7 +374,7 @@ bool CosmeticFiltersJSHandler::ProcessURL(
     TRACE_EVENT1("brave.adblock", "UrlCosmeticResourcesSync", "url",
                  url_.spec());
     SCOPED_UMA_HISTOGRAM_TIMER_MICROS(
-        "Brave.CosmeticFilters.UrlCosmeticResourcesSync");
+        "Asil.CosmeticFilters.UrlCosmeticResourcesSync");
     base::Value result;
     cosmetic_filters_resources_->UrlCosmeticResources(
         url_.spec(), enabled_1st_party_cf_, &result);
@@ -405,7 +405,7 @@ void CosmeticFiltersJSHandler::ApplyRules(bool de_amp_enabled) {
   if (!resources_dict_ || web_frame->IsProvisional())
     return;
 
-  SCOPED_UMA_HISTOGRAM_TIMER_MICROS("Brave.CosmeticFilters.ApplyRules");
+  SCOPED_UMA_HISTOGRAM_TIMER_MICROS("Asil.CosmeticFilters.ApplyRules");
   TRACE_EVENT1("brave.adblock", "ApplyRules", "url", url_.spec());
 
   std::string scriptlet_script;
@@ -449,7 +449,7 @@ void CosmeticFiltersJSHandler::ApplyRules(bool de_amp_enabled) {
 
 void CosmeticFiltersJSHandler::CSSRulesRoutine(
     const base::Value::Dict& resources_dict) {
-  SCOPED_UMA_HISTOGRAM_TIMER_MICROS("Brave.CosmeticFilters.CSSRulesRoutine");
+  SCOPED_UMA_HISTOGRAM_TIMER_MICROS("Asil.CosmeticFilters.CSSRulesRoutine");
   TRACE_EVENT1("brave.adblock", "CSSRulesRoutine", "url", url_.spec());
 
   blink::WebLocalFrame* web_frame = render_frame_->GetWebFrame();
@@ -534,7 +534,7 @@ void CosmeticFiltersJSHandler::OnHiddenClassIdSelectors(
   }
 
   SCOPED_UMA_HISTOGRAM_TIMER_MICROS(
-      "Brave.CosmeticFilters.OnHiddenClassIdSelectors");
+      "Asil.CosmeticFilters.OnHiddenClassIdSelectors");
   TRACE_EVENT1("brave.adblock", "OnHiddenClassIdSelectors", "url", url_.spec());
 
   base::Value::List* hide_selectors = result.FindList("hide_selectors");
@@ -594,7 +594,7 @@ void CosmeticFiltersJSHandler::ExecuteObservingBundleEntryPoint() {
 
   if (!bundle_injected_) {
     SCOPED_UMA_HISTOGRAM_TIMER_MICROS(
-        "Brave.CosmeticFilters.ExecuteObservingBundleEntryPoint");
+        "Asil.CosmeticFilters.ExecuteObservingBundleEntryPoint");
     TRACE_EVENT1("brave.adblock", "ExecuteObservingBundleEntryPoint", "url",
                  url_.spec());
 

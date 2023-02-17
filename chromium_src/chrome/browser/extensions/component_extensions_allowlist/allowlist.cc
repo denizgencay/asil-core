@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -23,8 +23,9 @@ namespace extensions {
 
   bool IsComponentExtensionAllowlisted(const std::string& extension_id) {
     const char* const kAllowed[] = {
-      brave_extension_id,
 #if BUILDFLAG(ETHEREUM_REMOTE_CLIENT_ENABLED)
+
+      brave_extension_id,
       ethereum_remote_client_extension_id,
 #endif
       brave_webtorrent_extension_id

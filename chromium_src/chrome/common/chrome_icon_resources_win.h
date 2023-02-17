@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -20,22 +20,22 @@ enum {
   kApplication3Index = 2,
   kApplication4Index = 3,
 
-  // The Brave Canary application icon.
+  // The Asil Canary application icon.
   kSxSApplicationIndex = 4,
 
-  // The Brave App Launcher icon.
+  // The Asil App Launcher icon.
   kAppLauncherIndex = 5,
 
-  // The Brave App Launcher Canary icon.
+  // The Asil App Launcher Canary icon.
   kSxSAppLauncherIndex = 6,
 
-  // The Brave incognito icon.
+  // The Asil incognito icon.
   kIncognitoIndex = 7,
 
-  // The Brave Dev application icon.
+  // The Asil Dev application icon.
   kDevApplicationIndex = 8,
 
-  // The Brave Beta application icon.
+  // The Asil Beta application icon.
   kBetaApplicationIndex = 9,
 
   // The various file type icon(ex, pdf).
@@ -44,10 +44,10 @@ enum {
   kDevFileTypeIndex = 12,
   kSxSFileTypeIndex = 13,
 #else
-  // The Brave Developer App Launcher icon.
+  // The Asil Developer App Launcher icon.
   kAppLauncherIndex = 1,
 
-  // The Brave Developer incognito icon.
+  // The Asil Developer incognito icon.
   kIncognitoIndex = 2,
 #endif
 };

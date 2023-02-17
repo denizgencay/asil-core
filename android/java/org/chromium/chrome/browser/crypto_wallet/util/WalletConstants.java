@@ -20,7 +20,7 @@ public final class WalletConstants {
 
     // Brave
     public static final String URL_SIGN_TRANSACTION_REQUEST =
-            "https://support.brave.com/hc/en-us/articles/4409513799693";
+            "https://support.asil.com/hc/en-us/articles/4409513799693";
 
     // Regex
     public static final String REGX_ANY_ETH_ADDRESS = ".*(0x[a-fA-F0-9]{40}).*";

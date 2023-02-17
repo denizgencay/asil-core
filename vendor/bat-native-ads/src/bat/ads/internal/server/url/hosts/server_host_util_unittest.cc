@@ -24,7 +24,7 @@ TEST_F(BatAdsServerHostUtilTest, GetStaticHost) {
   const std::string host = server::GetStaticHost();
 
   // Assert
-  const std::string expected_host = "https://static.ads.brave.com";
+  const std::string expected_host = "https://static.ads.asil.com";
   EXPECT_EQ(expected_host, host);
 }
 
@@ -37,7 +37,7 @@ TEST_F(BatAdsServerHostUtilTest, GetGeoHost) {
   const std::string host = server::GetGeoHost();
 
   // Assert
-  const std::string expected_host = "https://geo.ads.brave.com";
+  const std::string expected_host = "https://geo.ads.asil.com";
   EXPECT_EQ(expected_host, host);
 }
 
@@ -50,7 +50,7 @@ TEST_F(BatAdsServerHostUtilTest, GetNonAnonymousHost) {
   const std::string host = server::GetNonAnonymousHost();
 
   // Assert
-  const std::string expected_host = "https://mywallet.ads.brave.com";
+  const std::string expected_host = "https://mywallet.ads.asil.com";
   EXPECT_EQ(expected_host, host);
 }
 
@@ -63,7 +63,7 @@ TEST_F(BatAdsServerHostUtilTest, GetAnonymousHost) {
   const std::string host = server::GetAnonymousHost();
 
   // Assert
-  const std::string expected_host = "https://anonymous.ads.brave.com";
+  const std::string expected_host = "https://anonymous.ads.asil.com";
   EXPECT_EQ(expected_host, host);
 }
 

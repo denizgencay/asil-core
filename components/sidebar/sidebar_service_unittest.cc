@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -109,7 +109,7 @@ TEST_F(SidebarServiceTest, AddRemoveItems) {
   EXPECT_EQ(0UL, service_->GetHiddenDefaultSidebarItems().size());
 
   const SidebarItem item2 = SidebarItem::Create(
-      GURL("https://www.brave.com/"), u"brave software",
+      GURL("https://www.asil.com/"), u"brave software",
       SidebarItem::Type::kTypeWeb, SidebarItem::BuiltInItemType::kNone, false);
   EXPECT_TRUE(IsWebType(item2));
   EXPECT_CALL(observer_, OnItemAdded(item2, 4)).Times(1);
@@ -126,7 +126,7 @@ TEST_F(SidebarServiceTest, MoveItem) {
 
   // Add one more item to test with 5 items.
   SidebarItem new_item = SidebarItem::Create(
-      GURL("https://www.brave.com/"), u"brave software",
+      GURL("https://www.asil.com/"), u"brave software",
       SidebarItem::Type::kTypeWeb, SidebarItem::BuiltInItemType::kNone, false);
   service_->AddItem(new_item);
   EXPECT_EQ(5UL, service_->items().size());
@@ -194,8 +194,8 @@ TEST_F(SidebarServiceTest, UpdateItem) {
   EXPECT_FALSE(service_->IsEditableItemAt(last_item_index));
 
   SidebarItem brave_item;
-  const GURL brave_url("https://brave.com/");
-  const std::u16string brave_title(u"Brave software");
+  const GURL brave_url("https://asil.com/");
+  const std::u16string brave_title(u"Asil software");
   brave_item.url = brave_url;
   brave_item.title = brave_title;
   brave_item.type = SidebarItem::Type::kTypeWeb;
@@ -211,15 +211,15 @@ TEST_F(SidebarServiceTest, UpdateItem) {
   update.title_updated = true;
   update.url_updated = false;
   EXPECT_CALL(observer_, OnItemUpdated(testing::_, update)).Times(1);
-  service_->UpdateItem(brave_url, brave_url, brave_title, u"Brave");
+  service_->UpdateItem(brave_url, brave_url, brave_title, u"Asil");
   testing::Mock::VerifyAndClearExpectations(&observer_);
-  EXPECT_EQ(u"Brave", service_->items()[last_item_index].title);
+  EXPECT_EQ(u"Asil", service_->items()[last_item_index].title);
 
   // Update title & url.
   update.title_updated = true;
   update.url_updated = true;
   EXPECT_CALL(observer_, OnItemUpdated(testing::_, update)).Times(1);
-  service_->UpdateItem(brave_url, GURL("https://a.com/"), u"Brave", u"a");
+  service_->UpdateItem(brave_url, GURL("https://a.com/"), u"Asil", u"a");
   testing::Mock::VerifyAndClearExpectations(&observer_);
   EXPECT_EQ(u"a", service_->items()[last_item_index].title);
   EXPECT_EQ(GURL("https://a.com/"), service_->items()[last_item_index].url);
@@ -242,7 +242,7 @@ TEST_F(SidebarServiceTest, MoveItemSavedToPrefs) {
 
   // Add one more item to test with 4 items.
   SidebarItem new_item = SidebarItem::Create(
-      GURL("https://www.brave.com/"), u"brave software",
+      GURL("https://www.asil.com/"), u"brave software",
       SidebarItem::Type::kTypeWeb, SidebarItem::BuiltInItemType::kNone, false);
   service_->AddItem(new_item);
   EXPECT_EQ(5UL, service_->items().size());
@@ -270,7 +270,7 @@ TEST_F(SidebarServiceTest, HideBuiltInItem) {
   }
   {
     base::Value::Dict dict;
-    dict.Set(sidebar::kSidebarItemURLKey, "https://custom1.brave.com/");
+    dict.Set(sidebar::kSidebarItemURLKey, "https://custom1.asil.com/");
     dict.Set(sidebar::kSidebarItemTitleKey, "Custom Item 1");
     dict.Set(sidebar::kSidebarItemTypeKey,
              static_cast<int>(SidebarItem::Type::kTypeWeb));
@@ -304,7 +304,7 @@ TEST_F(SidebarServiceTest, NewDefaultItemAdded) {
   }
   {
     base::Value::Dict dict;
-    dict.Set(sidebar::kSidebarItemURLKey, "https://custom1.brave.com/");
+    dict.Set(sidebar::kSidebarItemURLKey, "https://custom1.asil.com/");
     dict.Set(sidebar::kSidebarItemTitleKey, "Custom Item 1");
     dict.Set(sidebar::kSidebarItemTypeKey,
              static_cast<int>(SidebarItem::Type::kTypeWeb));
@@ -354,7 +354,7 @@ TEST_F(SidebarServiceTest, MigratePrefSidebarBuiltInItemsSomeHidden) {
   // initialization.
   {
     base::Value::Dict dict;
-    dict.Set(sidebar::kSidebarItemURLKey, "https://anything.brave.com/");
+    dict.Set(sidebar::kSidebarItemURLKey, "https://anything.asil.com/");
     dict.Set(sidebar::kSidebarItemTitleKey, "Anything");
     dict.Set(sidebar::kSidebarItemTypeKey,
              static_cast<int>(SidebarItem::Type::kTypeBuiltIn));
@@ -411,7 +411,7 @@ TEST_F(SidebarServiceTest, MigratePrefSidebarBuiltInItemsNoneHidden) {
     base::Value::List list;
     for (const auto& built_in_type : hideable_types) {
       base::Value::Dict dict;
-      dict.Set(sidebar::kSidebarItemURLKey, "https://anything.brave.com/");
+      dict.Set(sidebar::kSidebarItemURLKey, "https://anything.asil.com/");
       dict.Set(sidebar::kSidebarItemTitleKey, "Anything");
       dict.Set(sidebar::kSidebarItemTypeKey,
                static_cast<int>(SidebarItem::Type::kTypeBuiltIn));
@@ -422,7 +422,7 @@ TEST_F(SidebarServiceTest, MigratePrefSidebarBuiltInItemsNoneHidden) {
     }
 
     base::Value::Dict dict;
-    dict.Set(sidebar::kSidebarItemURLKey, "https://custom1.brave.com/");
+    dict.Set(sidebar::kSidebarItemURLKey, "https://custom1.asil.com/");
     dict.Set(sidebar::kSidebarItemTitleKey, "Custom Item 1");
     dict.Set(sidebar::kSidebarItemTypeKey,
              static_cast<int>(SidebarItem::Type::kTypeWeb));
@@ -494,7 +494,7 @@ TEST_F(SidebarServiceTest, MigratePrefSidebarBuiltInItemsNoType) {
   {
     // Items should not receive a built-in-item-type.
     std::vector<std::string> urls{
-        "https://together.brave.com/",
+        "https://together.asil.com/",
         "chrome://wallet/",
         "chrome://bookmarks/",
         "chrome://history/",
@@ -601,8 +601,8 @@ TEST_F(SidebarServiceTest, BuiltInItemUpdateTestWithBuiltInItemTypeKey) {
   // And it has old url in old pref format (storing built-in items).
   {
     base::Value::Dict dict;
-    dict.Set(sidebar::kSidebarItemURLKey, "https://deprecated.brave.com/");
-    dict.Set(sidebar::kSidebarItemTitleKey, "Brave together");
+    dict.Set(sidebar::kSidebarItemURLKey, "https://deprecated.asil.com/");
+    dict.Set(sidebar::kSidebarItemTitleKey, "Asil together");
     dict.Set(sidebar::kSidebarItemTypeKey,
              static_cast<int>(SidebarItem::Type::kTypeBuiltIn));
     dict.Set(sidebar::kSidebarItemBuiltInItemTypeKey,
@@ -635,7 +635,7 @@ TEST_F(SidebarServiceTest, BuiltInItemDoesntHaveHistoryItem) {
   // And it has history item.
   {
     base::Value::Dict dict;
-    dict.Set(sidebar::kSidebarItemURLKey, "https://deprecated.brave.com/");
+    dict.Set(sidebar::kSidebarItemURLKey, "https://deprecated.asil.com/");
     dict.Set(sidebar::kSidebarItemTypeKey,
              static_cast<int>(SidebarItem::Type::kTypeBuiltIn));
     dict.Set(sidebar::kSidebarItemBuiltInItemTypeKey,

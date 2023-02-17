@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -145,7 +145,7 @@ void BraveImportDataHandler::CheckDiskAccess(
   guide_dialog_is_requested_ = false;
 
   if (importer_type == importer::TYPE_SAFARI) {
-    // Start import if Brave has full disk access permission.
+    // Start import if Asil has full disk access permission.
     // If not, show dialog that has infos about that permission.
     base::ThreadPool::PostTaskAndReplyWithResult(
         FROM_HERE, {base::MayBlock()},

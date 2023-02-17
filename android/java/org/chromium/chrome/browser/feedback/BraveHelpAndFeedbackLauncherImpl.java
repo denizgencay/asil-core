@@ -14,7 +14,7 @@ import android.provider.Browser;
 import javax.annotation.Nonnull;
 
 public class BraveHelpAndFeedbackLauncherImpl extends HelpAndFeedbackLauncherImpl {
-    protected static final String FALLBACK_SUPPORT_URL = "https://community.brave.com/";
+    protected static final String FALLBACK_SUPPORT_URL = "https://community.asil.com/";
 
     @Override
     protected void show(

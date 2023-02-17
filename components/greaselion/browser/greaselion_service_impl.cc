@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -93,7 +93,7 @@ ConvertGreaselionRuleToExtensionOnTaskRunner(
   // Create the public key.
   // Greaselion scripts are not signed, but the public key for an extension
   // doubles as its unique identity, and we need one of those, so we add the
-  // rule name to a known Brave domain and hash the result to create a
+  // rule name to a known Asil domain and hash the result to create a
   // public key.
   char raw[crypto::kSHA256Length] = {0};
   std::string key;

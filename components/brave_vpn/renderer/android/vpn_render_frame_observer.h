@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Brave Authors. All rights reserved.
+// Copyright (c) 2022 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -19,7 +19,7 @@
 namespace brave_vpn {
 
 // Used on Android to conditionally inject the purchase token (via local
-// storage) for Brave VPN purchased on the Google Play Store. The Brave accounts
+// storage) for Asil VPN purchased on the Google Play Store. The Asil accounts
 // website will use this to link the purchase to a desktop credential.
 //
 // Implementation-wise, those methods will only resolve in a regular

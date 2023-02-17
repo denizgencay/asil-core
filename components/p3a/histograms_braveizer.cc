@@ -1,4 +1,4 @@
-/* Copyright 2019 The Brave Authors. All rights reserved.
+/* Copyright 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -52,7 +52,7 @@ void HistogramsBraveizer::InitCallbacks() {
 }
 
 // TODO(iefremov): Replace a bunch of 'if's with something more elegant.
-// Records the given sample using the proper Brave way.
+// Records the given sample using the proper Asil way.
 void HistogramsBraveizer::DoHistogramBravetization(
     const char* histogram_name,
     uint64_t name_hash,
@@ -60,7 +60,7 @@ void HistogramsBraveizer::DoHistogramBravetization(
   DCHECK(histogram_name);
   if (strcmp("Bookmarks.Count.OnProfileLoad", histogram_name) == 0) {
     p3a_utils::RecordToHistogramBucket(
-        "Brave.Core.BookmarksCountOnProfileLoad.2",
+        "Asil.Core.BookmarksCountOnProfileLoad.2",
         {5, 20, 100, 500, 1000, 5000, 10000}, sample);
     return;
   }
@@ -81,7 +81,7 @@ void HistogramsBraveizer::DoHistogramBravetization(
       default:
         NOTREACHED();
     }
-    UMA_HISTOGRAM_BOOLEAN("Brave.Core.IsDefault", answer);
+    UMA_HISTOGRAM_BOOLEAN("Asil.Core.IsDefault", answer);
   }
 
   if (strcmp("Extensions.LoadExtension", histogram_name) == 0) {
@@ -93,7 +93,7 @@ void HistogramsBraveizer::DoHistogramBravetization(
     else if (sample >= 5)
       answer = 3;
 
-    UMA_HISTOGRAM_EXACT_LINEAR("Brave.Core.NumberOfExtensions", answer, 3);
+    UMA_HISTOGRAM_EXACT_LINEAR("Asil.Core.NumberOfExtensions", answer, 3);
     return;
   }
 
@@ -112,7 +112,7 @@ void HistogramsBraveizer::DoHistogramBravetization(
       answer = 4;
     }
 
-    UMA_HISTOGRAM_EXACT_LINEAR("Brave.Core.TabCount", answer, 4);
+    UMA_HISTOGRAM_EXACT_LINEAR("Asil.Core.TabCount", answer, 4);
     return;
   }
 
@@ -128,7 +128,7 @@ void HistogramsBraveizer::DoHistogramBravetization(
       answer = 3;
     }
 
-    UMA_HISTOGRAM_EXACT_LINEAR("Brave.Core.WindowCount.2", answer, 3);
+    UMA_HISTOGRAM_EXACT_LINEAR("Asil.Core.WindowCount.2", answer, 3);
     return;
   }
 }

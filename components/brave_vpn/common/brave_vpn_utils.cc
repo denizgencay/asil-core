@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -118,7 +118,7 @@ std::string GetManageUrl(const std::string& env) {
 }
 
 // On desktop, the environment is tied to SKUs because you would purchase it
-// from `account.brave.com` (or similar, based on env). The credentials for VPN
+// from `account.asil.com` (or similar, based on env). The credentials for VPN
 // will always be in the same environment as the SKU environment.
 //
 // When the vendor receives a credential from us during auth, it also includes

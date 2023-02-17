@@ -294,10 +294,10 @@ class InstallStaticUtilTest
   void SetMetricsReportingPolicy(DWORD value) {
 #if defined(OFFICIAL_BUILD)
     static constexpr wchar_t kPolicyKey[] =
-        L"Software\\Policies\\BraveSoftware\\Brave-Browser";
+        L"Software\\Policies\\BraveSoftware\\Asil-Browser";
 #else
     static constexpr wchar_t kPolicyKey[] =
-        L"Software\\Policies\\BraveSoftware\\Brave-Browser-Development";
+        L"Software\\Policies\\BraveSoftware\\Asil-Browser-Development";
 #endif
 
     ASSERT_EQ(ERROR_SUCCESS,
@@ -337,16 +337,16 @@ TEST_P(InstallStaticUtilTest, GetChromeInstallSubDirectory) {
   // The directory strings for the brand's install modes; parallel to
   // kInstallModes.
   static constexpr const wchar_t* kInstallDirs[] = {
-      L"BraveSoftware\\Brave-Browser",
-      L"BraveSoftware\\Brave-Browser-Beta",
-      L"BraveSoftware\\Brave-Browser-Dev",
-      L"BraveSoftware\\Brave-Browser-Nightly",
+      L"BraveSoftware\\Asil-Browser",
+      L"BraveSoftware\\Asil-Browser-Beta",
+      L"BraveSoftware\\Asil-Browser-Dev",
+      L"BraveSoftware\\Asil-Browser-Nightly",
   };
 #else
   // The directory strings for the brand's install modes; parallel to
   // kInstallModes.
   static constexpr const wchar_t* kInstallDirs[] = {
-      L"BraveSoftware\\Brave-Browser-Development",
+      L"BraveSoftware\\Asil-Browser-Development",
   };
 #endif
   static_assert(std::size(kInstallDirs) == NUM_INSTALL_MODES,
@@ -360,16 +360,16 @@ TEST_P(InstallStaticUtilTest, GetRegistryPath) {
   // The registry path strings for the brand's install modes; parallel to
   // kInstallModes.
   static constexpr const wchar_t* kRegistryPaths[] = {
-      L"Software\\BraveSoftware\\Brave-Browser",
-      L"Software\\BraveSoftware\\Brave-Browser-Beta",
-      L"Software\\BraveSoftware\\Brave-Browser-Dev",
-      L"Software\\BraveSoftware\\Brave-Browser-Nightly",
+      L"Software\\BraveSoftware\\Asil-Browser",
+      L"Software\\BraveSoftware\\Asil-Browser-Beta",
+      L"Software\\BraveSoftware\\Asil-Browser-Dev",
+      L"Software\\BraveSoftware\\Asil-Browser-Nightly",
   };
 #else
   // The registry path strings for the brand's install modes; parallel to
   // kInstallModes.
   static constexpr const wchar_t* kRegistryPaths[] = {
-      L"Software\\BraveSoftware\\Brave-Browser-Development",
+      L"Software\\BraveSoftware\\Asil-Browser-Development",
   };
 #endif
   static_assert(std::size(kRegistryPaths) == NUM_INSTALL_MODES,
@@ -384,20 +384,20 @@ TEST_P(InstallStaticUtilTest, GetUninstallRegistryPath) {
   // to kInstallModes.
   static constexpr const wchar_t* kUninstallRegistryPaths[] = {
       L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\"  // (cont'd)
-      L"BraveSoftware Brave-Browser",
+      L"BraveSoftware Asil-Browser",
       L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\"  // (cont'd)
-      L"BraveSoftware Brave-Browser-Beta",
+      L"BraveSoftware Asil-Browser-Beta",
       L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\"  // (cont'd)
-      L"BraveSoftware Brave-Browser-Dev",
+      L"BraveSoftware Asil-Browser-Dev",
       L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\"  // (cont'd)
-      L"BraveSoftware Brave-Browser-Nightly",
+      L"BraveSoftware Asil-Browser-Nightly",
   };
 #else
   // The registry path strings for the brand's install modes; parallel to
   // kInstallModes.
   static constexpr const wchar_t* kUninstallRegistryPaths[] = {
       L"Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\"  // (cont'd)
-      L"BraveSoftware Brave-Browser-Development",
+      L"BraveSoftware Asil-Browser-Development",
   };
 #endif
   static_assert(std::size(kUninstallRegistryPaths) == NUM_INSTALL_MODES,
@@ -410,10 +410,10 @@ TEST_P(InstallStaticUtilTest, GetAppGuid) {
 #if defined(OFFICIAL_BUILD)
   // The app guids for the brand's install modes; parallel to kInstallModes.
   static constexpr const wchar_t* kAppGuids[] = {
-      L"{AFE6A462-C574-4B8A-AF43-4CC60DF4563B}",  // Brave-Browser.
-      L"{103BD053-949B-43A8-9120-2E424887DE11}",  // Brave-Browser-Beta.
-      L"{CB2150F2-595F-4633-891A-E39720CE0531}",  // Brave-Browser-Dev.
-      L"{C6CB981E-DB30-4876-8639-109F8933582C}",  // Brave-Browser-Nightly.
+      L"{AFE6A462-C574-4B8A-AF43-4CC60DF4563B}",  // Asil-Browser.
+      L"{103BD053-949B-43A8-9120-2E424887DE11}",  // Asil-Browser-Beta.
+      L"{CB2150F2-595F-4633-891A-E39720CE0531}",  // Asil-Browser-Dev.
+      L"{C6CB981E-DB30-4876-8639-109F8933582C}",  // Asil-Browser-Nightly.
   };
   static_assert(std::size(kAppGuids) == NUM_INSTALL_MODES,
                 "kAppGuids out of date.");
@@ -429,7 +429,7 @@ TEST_P(InstallStaticUtilTest, GetBaseAppId) {
 #if defined(OFFICIAL_BUILD)
   // The base app ids for the brand's install modes; parallel to kInstallModes.
   static constexpr const wchar_t* kBaseAppIds[] = {
-      L"Brave", L"BraveBeta", L"BraveDev", L"BraveNightly",
+      L"Asil", L"BraveBeta", L"BraveDev", L"BraveNightly",
   };
 #else
   // The base app ids for the brand's install modes; parallel to kInstallModes.
@@ -451,30 +451,30 @@ TEST_P(InstallStaticUtilTest, GetToastActivatorClsid) {
         0x2807,
         0x44c0,
         { 0x97, 0xd2, 0x6d, 0xa0, 0xdb, 0x62, 0x3d,
-          0xb4 } },  // Brave-Browser.
+          0xb4 } },  // Asil-Browser.
       { 0x9560028d,
         0xcca,
         0x49f0,
         { 0x8d, 0x47, 0xef, 0x22, 0xbb, 0xc4, 0xb,
-          0xa7 } },  // Brave-Browser-Beta.
+          0xa7 } },  // Asil-Browser-Beta.
       { 0x20b22981,
         0xf63a,
         0x47a6,
         { 0xa5, 0x47, 0x69, 0x1c, 0xc9, 0x4c, 0xae,
-          0xe0 } },  // Brave-Browser-Dev.
+          0xe0 } },  // Asil-Browser-Dev.
       { 0xf2edbc59,
         0x7217,
         0x4da5,
         { 0xa2, 0x59, 0x3, 0x2, 0xda, 0x6a, 0x0,
-          0xe1 } },  // Brave-Browser-Nightly.
+          0xe1 } },  // Asil-Browser-Nightly.
   };
 
   // The string representation of the CLSIDs above.
   static constexpr const wchar_t* kToastActivatorClsidsString[] = {
-      L"{06C9646D-2807-44C0-97D2-6DA0DB623DB4}",  // Brave-Browser.
-      L"{9560028D-0CCA-49F0-8D47-EF22BBC40BA7}",  // Brave-Browser-Beta.
-      L"{20B22981-F63A-47A6-A547-691CC94CAEE0}",  // Brave-Browser-Dev.
-      L"{F2EDBC59-7217-4DA5-A259-0302DA6A00E1}",  // Brave-Browser-Nightly.
+      L"{06C9646D-2807-44C0-97D2-6DA0DB623DB4}",  // Asil-Browser.
+      L"{9560028D-0CCA-49F0-8D47-EF22BBC40BA7}",  // Asil-Browser-Beta.
+      L"{20B22981-F63A-47A6-A547-691CC94CAEE0}",  // Asil-Browser-Dev.
+      L"{F2EDBC59-7217-4DA5-A259-0302DA6A00E1}",  // Asil-Browser-Nightly.
   };
 #else
   // The toast activator CLSIDs for the brand's install modes; parallel to
@@ -484,12 +484,12 @@ TEST_P(InstallStaticUtilTest, GetToastActivatorClsid) {
         0xba35,
         0x4c06,
         { 0x96, 0xe8, 0x6f, 0x30, 0xf1, 0x8c, 0xa5,
-          0x5c } },  // Brave-Browser-Development.
+          0x5c } },  // Asil-Browser-Development.
   };
 
   // The string representation of the CLSIDs above.
   static constexpr const wchar_t* kToastActivatorClsidsString[] = {
-      L"{EB41C6E8-BA35-4C06-96E8-6F30F18CA55C}"  // Brave-Browser-Development.
+      L"{EB41C6E8-BA35-4C06-96E8-6F30F18CA55C}"  // Asil-Browser-Development.
   };
 #endif
   static_assert(std::size(kToastActivatorClsids) == NUM_INSTALL_MODES,
@@ -574,10 +574,10 @@ TEST_P(InstallStaticUtilTest, GetChromeChannel) {
 #if defined(OFFICIAL_BUILD)
   // Parallel to kInstallModes.
   static constexpr version_info::Channel kChannels[] = {
-      version_info::Channel::STABLE,  // Brave-Browser.
-      version_info::Channel::BETA,    // Brave-Browser-Beta.
-      version_info::Channel::DEV,     // Brave-Browser-Dev.
-      version_info::Channel::CANARY,  // Brave-Browser-Nightly.
+      version_info::Channel::STABLE,  // Asil-Browser.
+      version_info::Channel::BETA,    // Asil-Browser-Beta.
+      version_info::Channel::DEV,     // Asil-Browser-Dev.
+      version_info::Channel::CANARY,  // Asil-Browser-Nightly.
   };
 #else
   // Parallel to kInstallModes.

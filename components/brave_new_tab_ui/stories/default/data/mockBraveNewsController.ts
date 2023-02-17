@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Brave Authors. All rights reserved.
+// Copyright (c) 2022 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -231,7 +231,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/944ee78cb12ebda3d46c51a4fb91db1a961d3dee13b8eb1034798ae5ca2150dc.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/944ee78cb12ebda3d46c51a4fb91db1a961d3dee13b8eb1034798ae5ca2150dc.jpg.pad'
                     }
                   },
                   'publisherId': '5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -264,7 +264,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/9bd848550d4f968a1f93c46a1c4f142cb293ad8220092d8d3017b32d38b08c67.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/9bd848550d4f968a1f93c46a1c4f142cb293ad8220092d8d3017b32d38b08c67.jpg.pad'
                     }
                   },
                   'publisherId': 'fc5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -297,7 +297,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/023e9e849e2a2af24c5271faa0ba5b25b15f4c90481a3583e948829ef40e881a.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/023e9e849e2a2af24c5271faa0ba5b25b15f4c90481a3583e948829ef40e881a.jpg.pad'
                     }
                   },
                   'publisherId': '5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -325,7 +325,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/b735cb231cc73ce065177509ecda0ef35203e55bee5bfa798401a7bc67893182.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/b735cb231cc73ce065177509ecda0ef35203e55bee5bfa798401a7bc67893182.jpg.pad'
                     }
                   },
                   'publisherId': '5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -345,7 +345,7 @@ export const feed: BraveNews.Feed = {
               deal: undefined,
               promotedArticle: {
                 'data': {
-                  'categoryName': 'Brave Partners',
+                  'categoryName': 'Asil Partners',
                   'publishTime': {
                     internalValue: BigInt('13278621628000000')
                   },
@@ -358,7 +358,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/5b3d8da219eee17bce800689085994a6a851545aa99b35c374874f42a93c672b.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/5b3d8da219eee17bce800689085994a6a851545aa99b35c374874f42a93c672b.jpg.pad'
                     }
                   },
                   'publisherId': 'a5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -392,7 +392,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/1d465c5238d91f25be576c554f691bd651be6d1346382888a9636c52258f2d67.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/1d465c5238d91f25be576c554f691bd651be6d1346382888a9636c52258f2d67.jpg.pad'
                     }
                   },
                   'publisherId': '5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -420,7 +420,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/40a3ae95c9d10d6988236d4e17e0533f2528259d67ae3ed4b44f8243b65f764e.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/40a3ae95c9d10d6988236d4e17e0533f2528259d67ae3ed4b44f8243b65f764e.jpg.pad'
                     }
                   },
                   'publisherId': 'd4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -448,7 +448,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/e9f94baedccb0fe6aa4679dba6762ded76b6d4a412149c55b29d5090fff182c5.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/e9f94baedccb0fe6aa4679dba6762ded76b6d4a412149c55b29d5090fff182c5.jpg.pad'
                     }
                   },
                   'publisherId': 'eb4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -481,7 +481,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/c02a9c39546df2890a411e6afdac5f8a10ceded30947c4688fcfde43010c1d84.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/c02a9c39546df2890a411e6afdac5f8a10ceded30947c4688fcfde43010c1d84.jpg.pad'
                     }
                   },
                   'publisherId': 'eb4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -514,7 +514,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/31b73f47c42c5323b6db05ff9907eee4b5217ca9a097e4aa810272609aebb06b.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/31b73f47c42c5323b6db05ff9907eee4b5217ca9a097e4aa810272609aebb06b.jpg.pad'
                     }
                   },
                   'publisherId': 'eb4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -547,7 +547,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/d00bc1449477f06cf7640231fd898be6c4e6fbd9f6eda99f1b845bb739419376.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/d00bc1449477f06cf7640231fd898be6c4e6fbd9f6eda99f1b845bb739419376.jpg.pad'
                     }
                   },
                   'publisherId': 'eb4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -575,7 +575,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/3b6d9b50f065b320acd02393d96199d9f45028b14399c2b971a85590da89ae33.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/3b6d9b50f065b320acd02393d96199d9f45028b14399c2b971a85590da89ae33.jpg.pad'
                     }
                   },
                   'publisherId': 'fc5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -608,7 +608,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/d42fe1b86e568d6dca5dc3623a2bb982f3fb337ff79ae338a3544b3cc4cab1b9.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/d42fe1b86e568d6dca5dc3623a2bb982f3fb337ff79ae338a3544b3cc4cab1b9.jpg.pad'
                     }
                   },
                   'publisherId': 'c5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -636,7 +636,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/cbf6594866c44ef06f3cd74ba057559fac2e8dc659e33fa406d11a3583f4b2ed.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/cbf6594866c44ef06f3cd74ba057559fac2e8dc659e33fa406d11a3583f4b2ed.jpg.pad'
                     }
                   },
                   'publisherId': 'a5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -673,7 +673,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/66475a510a759c80d3ed6bfac562fa8c4dd802b510326c8d0cae28eaae250444.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/66475a510a759c80d3ed6bfac562fa8c4dd802b510326c8d0cae28eaae250444.jpg.pad'
                     }
                   },
                   'publisherId': 'c5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -706,7 +706,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/191782169a17e5df634109ecd2bb76c24cb48faa48f876edb3a5b2694fa497ba.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/191782169a17e5df634109ecd2bb76c24cb48faa48f876edb3a5b2694fa497ba.jpg.pad'
                     }
                   },
                   'publisherId': 'd4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -739,7 +739,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/2904d64d82725230da6b1531aab85f54ff91cc55328e61f35319bcb3e5ba5abf.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/2904d64d82725230da6b1531aab85f54ff91cc55328e61f35319bcb3e5ba5abf.jpg.pad'
                     }
                   },
                   'publisherId': 'b4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -767,7 +767,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/a071a47e75db68c74fc1eaf6931d9420b2345a0c12b1247cdb05da135c0d5735.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/a071a47e75db68c74fc1eaf6931d9420b2345a0c12b1247cdb05da135c0d5735.jpg.pad'
                     }
                   },
                   'publisherId': 'd4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -795,7 +795,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/d302f28efc872481f715f40ef457e419b7c35c03f514ca4a624aed099a8ec814.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/d302f28efc872481f715f40ef457e419b7c35c03f514ca4a624aed099a8ec814.jpg.pad'
                     }
                   },
                   'publisherId': 'c5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -828,7 +828,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/5afe29078068e7413a7f15a16657453217fc8ad630e8291ee1c66d69c2df6f48.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/5afe29078068e7413a7f15a16657453217fc8ad630e8291ee1c66d69c2df6f48.jpg.pad'
                     }
                   },
                   'publisherId': '4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -856,7 +856,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/b406b13e1fe493f9ab11140f5c33809a19125da6d5a3f1125810d299a9539da2.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/b406b13e1fe493f9ab11140f5c33809a19125da6d5a3f1125810d299a9539da2.jpg.pad'
                     }
                   },
                   'publisherId': '4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -889,7 +889,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/87267b91579ebbf8ead3f305759376022fd50d3273209e851727cdf24b142304.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/87267b91579ebbf8ead3f305759376022fd50d3273209e851727cdf24b142304.jpg.pad'
                     }
                   },
                   'publisherId': 'c5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -909,7 +909,7 @@ export const feed: BraveNews.Feed = {
               promotedArticle: undefined,
               deal: {
                 'data': {
-                  'categoryName': 'Brave',
+                  'categoryName': 'Asil',
                   'publishTime': {
                     internalValue: BigInt('13258305902000000')
                   },
@@ -922,11 +922,11 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/a29e3a601efa77ba5f2f35e58b40037b527f4e577112ea9967ced44741dcce32.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/a29e3a601efa77ba5f2f35e58b40037b527f4e577112ea9967ced44741dcce32.jpg.pad'
                     }
                   },
                   'publisherId': '5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
-                  'publisherName': 'Brave Offers',
+                  'publisherName': 'Asil Offers',
                   'score': 33.65394030598059,
                   'relativeTimeDescription': '235 days ago'
                 },
@@ -938,12 +938,12 @@ export const feed: BraveNews.Feed = {
               promotedArticle: undefined,
               deal: {
                 'data': {
-                  'categoryName': 'Brave',
+                  'categoryName': 'Asil',
                   'publishTime': {
                     internalValue: BigInt('13258305902000000')
                   },
                   'title': 'Amazon Prime Music',
-                  'description': 'Listen to your favourite songs online from Brave.',
+                  'description': 'Listen to your favourite songs online from Asil.',
                   'url': {
                     'url': 'https://www.amazon.com/music/prime'
                   },
@@ -951,11 +951,11 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/04256e526b5cc73ddf7679ed907ac0f89e01d7d6af3a9d1c9faba288468c03ff.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/04256e526b5cc73ddf7679ed907ac0f89e01d7d6af3a9d1c9faba288468c03ff.jpg.pad'
                     }
                   },
                   'publisherId': 'c5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
-                  'publisherName': 'Brave Offers',
+                  'publisherName': 'Asil Offers',
                   'score': 67.3078806123441,
                   'relativeTimeDescription': '235 days ago'
                 },
@@ -967,7 +967,7 @@ export const feed: BraveNews.Feed = {
               promotedArticle: undefined,
               deal: {
                 'data': {
-                  'categoryName': 'Brave',
+                  'categoryName': 'Asil',
                   'publishTime': {
                     internalValue: BigInt('13258305902000000')
                   },
@@ -980,11 +980,11 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/c12d5200d342e72919e8420ccea6581ee4bf8e7ab510dd58bbc24d49ef22c36f.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/c12d5200d342e72919e8420ccea6581ee4bf8e7ab510dd58bbc24d49ef22c36f.jpg.pad'
                     }
                   },
                   'publisherId': 'd4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
-                  'publisherName': 'Brave Offers',
+                  'publisherName': 'Asil Offers',
                   'score': 134.6157612254411,
                   'relativeTimeDescription': '235 days ago'
                 },
@@ -1014,7 +1014,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/4caf1b03489028604884ce33a6ac6f427f117de3670f4fefb047d92dccd3706c.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/4caf1b03489028604884ce33a6ac6f427f117de3670f4fefb047d92dccd3706c.jpg.pad'
                     }
                   },
                   'publisherId': '4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1047,7 +1047,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/2e81e99a21735bb5f0d3b7c8ac030a368b6e35711809a3475ba2bc6bdf7e300a.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/2e81e99a21735bb5f0d3b7c8ac030a368b6e35711809a3475ba2bc6bdf7e300a.jpg.pad'
                     }
                   },
                   'publisherId': 'b4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1075,7 +1075,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/c972ec42d40a1d2a5d2b180095407f119cd2c1b17ff41b5305c5b7987b7c0280.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/c972ec42d40a1d2a5d2b180095407f119cd2c1b17ff41b5305c5b7987b7c0280.jpg.pad'
                     }
                   },
                   'publisherId': '4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1112,7 +1112,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/ba5b2874d167e19150f3be8bf99a09717d912699a853321939dfbdef5bb9ff87.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/ba5b2874d167e19150f3be8bf99a09717d912699a853321939dfbdef5bb9ff87.jpg.pad'
                     }
                   },
                   'publisherId': 'eb4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1145,7 +1145,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/3816eb674df32251c4b9fbda44a33acfe85764931d36c26d1f5af0cd86a0a960.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/3816eb674df32251c4b9fbda44a33acfe85764931d36c26d1f5af0cd86a0a960.jpg.pad'
                     }
                   },
                   'publisherId': '5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1178,7 +1178,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/07fd83154e9157f70207bd1aa6dd7998ec3aa6a1b730aef93868a9ac950e912e.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/07fd83154e9157f70207bd1aa6dd7998ec3aa6a1b730aef93868a9ac950e912e.jpg.pad'
                     }
                   },
                   'publisherId': 'fc5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1206,7 +1206,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/dbb85cea85bf1cb02a2e31827af8f4621a7fe1e3cd465739db8cda2e5c45e5db.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/dbb85cea85bf1cb02a2e31827af8f4621a7fe1e3cd465739db8cda2e5c45e5db.jpg.pad'
                     }
                   },
                   'publisherId': 'd4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1226,7 +1226,7 @@ export const feed: BraveNews.Feed = {
               deal: undefined,
               promotedArticle: {
                 'data': {
-                  'categoryName': 'Brave Partners',
+                  'categoryName': 'Asil Partners',
                   'publishTime': {
                     internalValue: BigInt('13278528021000000')
                   },
@@ -1239,7 +1239,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/9d2f7ab67a81520a1e281d9def23ce4f4fbcf46cac8be01707f0cd0fb24e597a.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/9d2f7ab67a81520a1e281d9def23ce4f4fbcf46cac8be01707f0cd0fb24e597a.jpg.pad'
                     }
                   },
                   'publisherId': 'b4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1260,24 +1260,24 @@ export const feed: BraveNews.Feed = {
               deal: undefined,
               article: {
                 'data': {
-                  'categoryName': 'Brave',
+                  'categoryName': 'Asil',
                   'publishTime': {
                     internalValue: BigInt('13276800071000000')
                   },
-                  'title': 'Brave Launches Brave Talk for Privacy-Preserving Video Conferencing',
-                  'description': 'Today, Brave launched Brave Talk, a new privacy-focused video conferencing feature built directly into the Brave browser.\nThe post Brave Launches Brave Talk for Privacy-Preserving Video Conferencing appeared first on Brave Browser.',
+                  'title': 'Asil Launches Asil Talk for Privacy-Preserving Video Conferencing',
+                  'description': 'Today, Asil launched Asil Talk, a new privacy-focused video conferencing feature built directly into the Asil browser.\nThe post Asil Launches Asil Talk for Privacy-Preserving Video Conferencing appeared first on Asil Browser.',
                   'url': {
-                    'url': 'https://brave.com/brave-talk-launch/'
+                    'url': 'https://asil.com/brave-talk-launch/'
                   },
                   'urlHash': '',
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/8bc59275469ab8db7c8245e5269b5bfa84a8e77586de349dd1bce0435c27a6a5.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/8bc59275469ab8db7c8245e5269b5bfa84a8e77586de349dd1bce0435c27a6a5.jpg.pad'
                     }
                   },
                   'publisherId': 'b4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
-                  'publisherName': 'Brave Blog',
+                  'publisherName': 'Asil Blog',
                   'score': 28.831838413657156,
                   'relativeTimeDescription': '21 days ago'
                 }
@@ -1288,24 +1288,24 @@ export const feed: BraveNews.Feed = {
               deal: undefined,
               article: {
                 'data': {
-                  'categoryName': 'Brave',
+                  'categoryName': 'Asil',
                   'publishTime': {
                     internalValue: BigInt('13276723068000000')
                   },
                   'title': 'Research Paper: Privacy and Security Issues in Web 3.0',
-                  'description': 'We at Brave Research just published a technical report called “Privacy and Security Issues in Web 3.0” on arXiv. This blog post summarizes our findings and puts them in perspective for Brave users.\nThe post Research Paper: Privacy and Security Issues in Web 3.0 appeared first on Brave Browser.',
+                  'description': 'We at Asil Research just published a technical report called “Privacy and Security Issues in Web 3.0” on arXiv. This blog post summarizes our findings and puts them in perspective for Asil users.\nThe post Research Paper: Privacy and Security Issues in Web 3.0 appeared first on Asil Browser.',
                   'url': {
-                    'url': 'https://brave.com/research-paper-privacy-and-security-issues-in-web-3-0/'
+                    'url': 'https://asil.com/research-paper-privacy-and-security-issues-in-web-3-0/'
                   },
                   'urlHash': '',
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/260702227df254d2ada663cbdb14442933161f55da5b891d59f82335015a025d.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/260702227df254d2ada663cbdb14442933161f55da5b891d59f82335015a025d.jpg.pad'
                     }
                   },
                   'publisherId': '4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
-                  'publisherName': 'Brave Blog',
+                  'publisherName': 'Asil Blog',
                   'score': 57.82917689204489,
                   'relativeTimeDescription': '22 days ago'
                 }
@@ -1316,24 +1316,24 @@ export const feed: BraveNews.Feed = {
               deal: undefined,
               article: {
                 'data': {
-                  'categoryName': 'Brave',
+                  'categoryName': 'Asil',
                   'publishTime': {
                     internalValue: BigInt('13276712102000000')
                   },
-                  'title': 'What’s Brave Done For My Privacy Lately? Episode #10: Custom Filter List Subscriptions',
-                  'description': 'This is the tenth in a series of blog posts on new Brave privacy features. This post describes work done by Anton Lazarev, Research Engineer. Authors: Peter Snyder and Anton Lazarev.\nThe post What’s Brave Done For My Privacy Lately? Episode #10: Custom Filter List Subscriptions appeared first on Brave Browser.',
+                  'title': 'What’s Asil Done For My Privacy Lately? Episode #10: Custom Filter List Subscriptions',
+                  'description': 'This is the tenth in a series of blog posts on new Asil privacy features. This post describes work done by Anton Lazarev, Research Engineer. Authors: Peter Snyder and Anton Lazarev.\nThe post What’s Asil Done For My Privacy Lately? Episode #10: Custom Filter List Subscriptions appeared first on Asil Browser.',
                   'url': {
-                    'url': 'https://brave.com/privacy-updates-10/'
+                    'url': 'https://asil.com/privacy-updates-10/'
                   },
                   'urlHash': '',
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/2d9c785ca6d8dcdcf2d2046796d97a81cb99a002fb91895cca43a6846aeb3a2f.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/2d9c785ca6d8dcdcf2d2046796d97a81cb99a002fb91895cca43a6846aeb3a2f.jpg.pad'
                     }
                   },
                   'publisherId': '4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
-                  'publisherName': 'Brave Blog',
+                  'publisherName': 'Asil Blog',
                   'score': 115.70439692971131,
                   'relativeTimeDescription': '22 days ago'
                 }
@@ -1362,7 +1362,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/d299252e34751a7d534376404149e30c574809d4f2a297dfc8ef4ac97e55fa3d.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/d299252e34751a7d534376404149e30c574809d4f2a297dfc8ef4ac97e55fa3d.jpg.pad'
                     }
                   },
                   'publisherId': 'd4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1395,7 +1395,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/9a51fc8831ae2c54f2a02293bc472e88abe2f9ded6310dc18506badcf581837a.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/9a51fc8831ae2c54f2a02293bc472e88abe2f9ded6310dc18506badcf581837a.jpg.pad'
                     }
                   },
                   'publisherId': 'a5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1428,7 +1428,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/3cdc6866dee932665c37ac1ae515c360ff77b47c6a555c3f02a534a79bd49308.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/3cdc6866dee932665c37ac1ae515c360ff77b47c6a555c3f02a534a79bd49308.jpg.pad'
                     }
                   },
                   'publisherId': '4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1456,7 +1456,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/3d1c2c118390f7d72a6502148c8733a2cbcb3a4eb3795307ab5a6c8b43671f19.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/3d1c2c118390f7d72a6502148c8733a2cbcb3a4eb3795307ab5a6c8b43671f19.jpg.pad'
                     }
                   },
                   'publisherId': 'a5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1489,7 +1489,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/932bcb6a3ce07dc885c0ce7b881c3dfeb9fb643e6d5ce968decf14d1983dbbdd.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/932bcb6a3ce07dc885c0ce7b881c3dfeb9fb643e6d5ce968decf14d1983dbbdd.jpg.pad'
                     }
                   },
                   'publisherId': 'b4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1517,7 +1517,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/1e4526119064ccbd65d5fc372fe878ff60b64c1ba9047f3cb664b2afdeddf73f.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/1e4526119064ccbd65d5fc372fe878ff60b64c1ba9047f3cb664b2afdeddf73f.jpg.pad'
                     }
                   },
                   'publisherId': 'fc5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1554,7 +1554,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/3352539771a4ac7482f4486de7900c458f052e11b605609fafcf206bb4634075.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/3352539771a4ac7482f4486de7900c458f052e11b605609fafcf206bb4634075.jpg.pad'
                     }
                   },
                   'publisherId': 'a5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1587,7 +1587,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/98683b85d91545ed868557351adee4d1b6fa45337082c356c36cedcc9a1c0085.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/98683b85d91545ed868557351adee4d1b6fa45337082c356c36cedcc9a1c0085.jpg.pad'
                     }
                   },
                   'publisherId': '5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1620,7 +1620,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/f2dbdd22cf97479e7c2bccae2d3becc8346edd6b603ca2350ee02c35546de347.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/f2dbdd22cf97479e7c2bccae2d3becc8346edd6b603ca2350ee02c35546de347.jpg.pad'
                     }
                   },
                   'publisherId': 'eb4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1648,7 +1648,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/39c1559de30f9abf91d6035ad655be5e8ba09f64ab4a73201010cb8921248068.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/39c1559de30f9abf91d6035ad655be5e8ba09f64ab4a73201010cb8921248068.jpg.pad'
                     }
                   },
                   'publisherId': 'c5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1676,7 +1676,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/c6147aad0103a239ba49c79fa7696593bbf82558ba08a5362462fbbeea0a195c.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/c6147aad0103a239ba49c79fa7696593bbf82558ba08a5362462fbbeea0a195c.jpg.pad'
                     }
                   },
                   'publisherId': '5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1709,7 +1709,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/01dde228cf27287b3ef5d3c9b5293c7b8cdaa59e269aa856f080c535016b7e01.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/01dde228cf27287b3ef5d3c9b5293c7b8cdaa59e269aa856f080c535016b7e01.jpg.pad'
                     }
                   },
                   'publisherId': 'eb4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1737,7 +1737,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/876f15ba1c5582a0bef82b3cd6b2d567d04d9394ef208dc3e3749a3d3da46df2.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/876f15ba1c5582a0bef82b3cd6b2d567d04d9394ef208dc3e3749a3d3da46df2.jpg.pad'
                     }
                   },
                   'publisherId': 'c5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1770,7 +1770,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/e1bab8826e0dc937e0c1ee4f79a3e63d3fbc8caf11773259dbea1cb3202b9a1a.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/e1bab8826e0dc937e0c1ee4f79a3e63d3fbc8caf11773259dbea1cb3202b9a1a.jpg.pad'
                     }
                   },
                   'publisherId': 'a5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1790,7 +1790,7 @@ export const feed: BraveNews.Feed = {
               promotedArticle: undefined,
               deal: {
                 'data': {
-                  'categoryName': 'Brave',
+                  'categoryName': 'Asil',
                   'publishTime': {
                     internalValue: BigInt('13256920996000000')
                   },
@@ -1803,11 +1803,11 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/6b0de702b8c1596cb713c89f3b79b568959cfebf4af6611e63c54d39a43e0233.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/6b0de702b8c1596cb713c89f3b79b568959cfebf4af6611e63c54d39a43e0233.jpg.pad'
                     }
                   },
                   'publisherId': '4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
-                  'publisherName': 'Brave Offers',
+                  'publisherName': 'Asil Offers',
                   'score': 270.2865946654164,
                   'relativeTimeDescription': '251 days ago'
                 },
@@ -1819,7 +1819,7 @@ export const feed: BraveNews.Feed = {
               promotedArticle: undefined,
               deal: {
                 'data': {
-                  'categoryName': 'Brave',
+                  'categoryName': 'Asil',
                   'publishTime': {
                     internalValue: BigInt('13256920996000000')
                   },
@@ -1832,11 +1832,11 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/b8b0e9f54885248f635c620d638c716164972f0b7f72c5ec79357517e2d2a171.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/b8b0e9f54885248f635c620d638c716164972f0b7f72c5ec79357517e2d2a171.jpg.pad'
                     }
                   },
                   'publisherId': 'fc5eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
-                  'publisherName': 'Brave Offers',
+                  'publisherName': 'Asil Offers',
                   'score': 540.5731893340486,
                   'relativeTimeDescription': '251 days ago'
                 },
@@ -1848,7 +1848,7 @@ export const feed: BraveNews.Feed = {
               promotedArticle: undefined,
               deal: {
                 'data': {
-                  'categoryName': 'Brave',
+                  'categoryName': 'Asil',
                   'publishTime': {
                     internalValue: BigInt('13256920996000000')
                   },
@@ -1861,11 +1861,11 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/e2bc4f0ca84cc9bc7183a92072bf41cbcdd4bd4e31da0a5d6e084a1da2c2c7fd.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/e2bc4f0ca84cc9bc7183a92072bf41cbcdd4bd4e31da0a5d6e084a1da2c2c7fd.jpg.pad'
                     }
                   },
                   'publisherId': 'b4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
-                  'publisherName': 'Brave Offers',
+                  'publisherName': 'Asil Offers',
                   'score': 1081.146378673966,
                   'relativeTimeDescription': '251 days ago'
                 },
@@ -1895,7 +1895,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/c85762ffe3bd48886ed1ce58f868958989ad89b0723f5844a7ffe0fef57fa1c5.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/c85762ffe3bd48886ed1ce58f868958989ad89b0723f5844a7ffe0fef57fa1c5.jpg.pad'
                     }
                   },
                   'publisherId': '4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1928,7 +1928,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/703dace4d9ab2590c184826c2a7b39ed2249cace04101f891c011c31021a3b9d.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/703dace4d9ab2590c184826c2a7b39ed2249cace04101f891c011c31021a3b9d.jpg.pad'
                     }
                   },
                   'publisherId': '4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',
@@ -1956,7 +1956,7 @@ export const feed: BraveNews.Feed = {
                   'image': {
                     imageUrl: undefined,
                     paddedImageUrl: {
-                      'url': 'https://pcdn.brave.com/brave-today/cache/1261719cac8a7c5d7d5ab0d2cc3b5b6a43cf177b3fd0a103f366f59b397efd9d.jpg.pad'
+                      'url': 'https://pcdn.asil.com/brave-today/cache/1261719cac8a7c5d7d5ab0d2cc3b5b6a43cf177b3fd0a103f366f59b397efd9d.jpg.pad'
                     }
                   },
                   'publisherId': 'eb4eece347713f329f156cd0204cf9b12629f1dc8f4ea3c1b67984cfbfd66cdca5',

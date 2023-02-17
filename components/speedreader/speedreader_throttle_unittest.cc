@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -63,7 +63,7 @@ class SpeedreaderThrottleTest : public testing::Test {
     profile_manager_->DeleteTestingProfile(kTestProfileName);
   }
 
-  GURL url() { return GURL("https://brave.com"); }
+  GURL url() { return GURL("https://asil.com"); }
 
   TestingProfile* profile() { return profile_; }
 
@@ -131,9 +131,9 @@ TEST_F(SpeedreaderThrottleTest, ThrottleNestedURL) {
   std::unique_ptr<SpeedReaderThrottle> throttle;
 
   // Even though we call this function on SetSiteSpeedreadable, it should apply
-  // to all of brave.com.
+  // to all of asil.com.
   speedreader::SetEnabledForSite(
-      content_settings(), GURL("https://brave.com/some/nested/page"), false);
+      content_settings(), GURL("https://asil.com/some/nested/page"), false);
   throttle = speedreader_throttle(url(), true /* check_disabled_sites */);
   EXPECT_EQ(throttle.get(), nullptr);
 }

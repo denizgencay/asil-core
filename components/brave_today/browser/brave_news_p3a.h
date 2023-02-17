@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Brave Authors. All rights reserved.
+// Copyright (c) 2022 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -15,24 +15,24 @@ namespace brave_news {
 namespace p3a {
 
 constexpr char kDaysInMonthUsedCountHistogramName[] =
-    "Brave.Today.DaysInMonthUsedCount";
+    "Asil.Today.DaysInMonthUsedCount";
 constexpr char kWeeklySessionCountHistogramName[] =
-    "Brave.Today.WeeklySessionCount";
+    "Asil.Today.WeeklySessionCount";
 constexpr char kWeeklyMaxCardVisitsHistogramName[] =
-    "Brave.Today.WeeklyMaxCardVisitsCount";
+    "Asil.Today.WeeklyMaxCardVisitsCount";
 constexpr char kWeeklyMaxCardViewsHistogramName[] =
-    "Brave.Today.WeeklyMaxCardViewsCount";
+    "Asil.Today.WeeklyMaxCardViewsCount";
 constexpr char kTotalCardViewsHistogramName[] =
-    "Brave.Today.WeeklyTotalCardViews";
+    "Asil.Today.WeeklyTotalCardViews";
 constexpr char kWeeklyDisplayAdsViewedHistogramName[] =
-    "Brave.Today.WeeklyDisplayAdsViewedCount";
+    "Asil.Today.WeeklyDisplayAdsViewedCount";
 constexpr char kDirectFeedsTotalHistogramName[] =
-    "Brave.Today.DirectFeedsTotal";
+    "Asil.Today.DirectFeedsTotal";
 constexpr char kWeeklyAddedDirectFeedsHistogramName[] =
-    "Brave.Today.WeeklyAddedDirectFeedsCount";
-constexpr char kLastUsageTimeHistogramName[] = "Brave.Today.LastUsageTime";
+    "Asil.Today.WeeklyAddedDirectFeedsCount";
+constexpr char kLastUsageTimeHistogramName[] = "Asil.Today.LastUsageTime";
 constexpr char kNewUserReturningHistogramName[] =
-    "Brave.Today.NewUserReturning";
+    "Asil.Today.NewUserReturning";
 
 void RecordAtInit(PrefService* prefs);
 void RecordAtSessionStart(PrefService* prefs);

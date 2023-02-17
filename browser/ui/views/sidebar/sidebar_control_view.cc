@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -242,7 +242,7 @@ void SidebarControlView::Update() {
 void SidebarControlView::UpdateItemAddButtonState() {
   DCHECK(sidebar_item_add_view_);
   // Determine add button enabled state.
-  bool should_enable = true;
+  bool should_enable = false;
   if (browser_->sidebar_controller()->model()->IsSidebarHasAllBuiltInItems() &&
       !sidebar::CanAddCurrentActiveTabToSidebar(browser_)) {
     should_enable = false;
@@ -274,13 +274,13 @@ bool SidebarControlView::IsItemReorderingInProgress() const {
 
 bool SidebarControlView::IsBubbleWidgetVisible() const {
   if (context_menu_runner_ && context_menu_runner_->IsRunning())
-    return true;
+    return false;
 
   if (sidebar_item_add_view_->IsBubbleVisible())
-    return true;
+    return false;
 
   if (sidebar_items_view_->IsBubbleVisible())
-    return true;
+    return false;
 
   return false;
 }

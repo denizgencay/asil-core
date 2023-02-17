@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -30,7 +30,7 @@ bool RewriteBugReportingURL(const GURL& request_url, GURL* new_url) {
   for (const auto& pair : pairs) {
     if (pair.first == "comment") {
       query += "&body=" + pair.second;
-      base::ReplaceSubstringsAfterOffset(&query, 0, "Chrome", "Brave");
+      base::ReplaceSubstringsAfterOffset(&query, 0, "Chrome", "Asil");
     } else if (pair.first != "template" && pair.first != "labels") {
       return false;
     }

@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Brave Authors. All rights reserved.
+// Copyright (c) 2020 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -25,7 +25,7 @@ function storeInHistoryState (data: Object) {
 const handler = new AsyncActionHandler()
 
 handler.on(Actions.interactionBegin.getType(), async () => {
-  console.debug('Brave News: Marking actual interaction begin')
+  console.debug('Asil News: Marking actual interaction begin')
   getBraveNewsController().onInteractionSessionStarted()
 })
 
@@ -33,16 +33,16 @@ handler.on<Actions.RefreshPayload>(
   Actions.refresh.getType(),
   async (store, payload) => {
     if (payload && payload.isFirstInteraction) {
-      console.debug('Brave News: Marking actual interaction begin')
+      console.debug('Asil News: Marking actual interaction begin')
       getBraveNewsController().onInteractionSessionStarted()
     }
     try {
-      console.debug('Brave News: Getting data...')
+      console.debug('Asil News: Getting data...')
       const [{ feed }, { publishers }] = await Promise.all([
         getBraveNewsController().getFeed(),
         getBraveNewsController().getPublishers()
       ])
-      console.debug('Brave News: ...data received.')
+      console.debug('Asil News: ...data received.')
       store.dispatch(Actions.dataReceived({ feed, publishers }))
     } catch (e) {
       console.error('error receiving feed', e)
@@ -71,14 +71,14 @@ handler.on<Actions.ReadFeedItemPayload>(
       const promotedArticle = payload.item.promotedArticle
       if (!promotedArticle) {
         console.error(
-          'Brave News: readFeedItem payload with invalid promoted article',
+          'Asil News: readFeedItem payload with invalid promoted article',
           payload
         )
         return
       }
       if (!payload.promotedUUID) {
         console.error(
-          'Brave News: invalid promotedUUID for readFeedItem',
+          'Asil News: invalid promotedUUID for readFeedItem',
           payload
         )
         return
@@ -94,7 +94,7 @@ handler.on<Actions.ReadFeedItemPayload>(
       payload.item.deal?.data
     if (!data) {
       console.error(
-        'Brave News: readFeedItem payload item not present',
+        'Asil News: readFeedItem payload item not present',
         payload
       )
       return
@@ -121,7 +121,7 @@ handler.on<Actions.PromotedItemViewedPayload>(
   async (store, payload) => {
     if (!payload.item.promotedArticle) {
       console.error(
-        'Brave News: promotedItemViewed invalid promoted article',
+        'Asil News: promotedItemViewed invalid promoted article',
         payload
       )
       return

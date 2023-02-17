@@ -1,4 +1,4 @@
-/* Copyright 2020 The Brave Authors. All rights reserved.
+/* Copyright 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -21,10 +21,10 @@ BraveFarblingLevel WorkerContentSettingsClient::GetBraveFarblingLevel() {
       }
     }
     if (setting == CONTENT_SETTING_BLOCK) {
-      // Brave Shields is down
+      // Asil Shields is down
       setting = CONTENT_SETTING_ALLOW;
     } else {
-      // Brave Shields is up, so check fingerprinting rules
+      // Asil Shields is up, so check fingerprinting rules
       setting = brave_shields::GetBraveFPContentSettingFromRules(
           content_setting_rules_->fingerprinting_rules, primary_url);
     }

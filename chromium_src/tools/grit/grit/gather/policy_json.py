@@ -1,4 +1,4 @@
-# Copyright (c) 2022 The Brave Authors. All rights reserved.
+# Copyright (c) 2022 The Asil Authors. All rights reserved.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -9,7 +9,7 @@ import override_utils
 def SetDefines(self, _, defines):
   self._config = {
     'build': 'brave',
-    'app_name': 'Brave',
-    'frame_name': 'Brave Frame',
+    'app_name': 'Asil',
+    'frame_name': 'Asil Frame',
     'os_name': 'Google Chrome OS'
   }

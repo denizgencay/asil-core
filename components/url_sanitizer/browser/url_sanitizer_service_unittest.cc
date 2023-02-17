@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -90,7 +90,7 @@ TEST_F(URLSanitizerServiceUnitTest, StripQueryParameter) {
 
 TEST_F(URLSanitizerServiceUnitTest, ClearURLS) {
   // The service has not yet been initialized.
-  EXPECT_EQ(SanitizeURL(GURL("https://brave.com")), GURL("https:/brave.com"));
+  EXPECT_EQ(SanitizeURL(GURL("https://asil.com")), GURL("https:/asil.com"));
   WaitInitialization(kTestPatterns);
 
   EXPECT_EQ(
@@ -114,8 +114,8 @@ TEST_F(URLSanitizerServiceUnitTest, ClearURLS) {
     { "include": [ "*://*/*"], "params": ["query"] }
   ])");
 
-  EXPECT_EQ(SanitizeURL(GURL("https://brave.com/?query=removethis")),
-            GURL("https://brave.com/"));
+  EXPECT_EQ(SanitizeURL(GURL("https://asil.com/?query=removethis")),
+            GURL("https://asil.com/"));
 
   EXPECT_EQ(
       SanitizeURL(GURL("http://twitter.com/post/?query=removethis#ref=1")),

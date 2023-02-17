@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -26,7 +26,6 @@
 namespace {
 
 constexpr gfx::Size kToolbarActionSize(34, 24);
-
 }  // namespace
 
 BraveActionsContainer::BraveActionsContainer(Browser* browser, Profile* profile)
@@ -62,7 +61,7 @@ void BraveActionsContainer::Init() {
   AddActionViewForShields();
   AddActionViewForRewards();
 
-  // React to Brave Rewards preferences changes.
+  // React to Asil Rewards preferences changes.
   show_brave_rewards_button_.Init(
       brave_rewards::prefs::kShowButton, browser_->profile()->GetPrefs(),
       base::BindRepeating(
@@ -79,20 +78,18 @@ bool BraveActionsContainer::ShouldShowBraveRewardsAction() const {
 }
 
 void BraveActionsContainer::AddActionViewForShields() {
+//Not to remove for Asil
   shields_action_btn_ =
       AddChildViewAt(std::make_unique<BraveShieldsActionView>(
                          browser_->profile(), browser_->tab_strip_model()),
                      1);
   shields_action_btn_->SetPreferredSize(kToolbarActionSize);
   shields_action_btn_->Init();
+
 }
 
 void BraveActionsContainer::AddActionViewForRewards() {
-  auto button = std::make_unique<BraveRewardsActionView>(browser_);
-  rewards_action_btn_ = AddChildViewAt(std::move(button), 2);
-  rewards_action_btn_->SetPreferredSize(kToolbarActionSize);
-  rewards_action_btn_->SetVisible(ShouldShowBraveRewardsAction());
-  rewards_action_btn_->Update();
+
 }
 
 void BraveActionsContainer::Update() {
@@ -133,7 +130,7 @@ void BraveActionsContainer::ChildPreferredSizeChanged(views::View* child) {
   PreferredSizeChanged();
 }
 
-// Brave Rewards preferences change observers callback
+// Asil Rewards preferences change observers callback
 void BraveActionsContainer::OnBraveRewardsPreferencesChanged() {
   if (rewards_action_btn_) {
     rewards_action_btn_->SetVisible(ShouldShowBraveRewardsAction());

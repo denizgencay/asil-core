@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Brave Authors. All rights reserved.
+// Copyright (c) 2020 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -29,7 +29,7 @@ export function getSectionElement (templateContent, sectionName) {
     templateContent.querySelector(`template[if*='pageVisibility.${sectionName}']`) ||
     templateContent.querySelector(`settings-section[section="${sectionName}"]`)
   if (!sectionEl) {
-    console.error(`[Brave Settings Overrides] Could not find section '${sectionName}'`)
+    console.error(`[Asil Settings Overrides] Could not find section '${sectionName}'`)
   }
   return sectionEl
 }
@@ -105,16 +105,16 @@ RegisterPolymerTemplateModifications({
     // Entire content is wrapped in another conditional template
     const actualTemplate = templateContent.querySelector('template')
     if (!actualTemplate) {
-      console.error('[Brave Settings Overrides] Could not find basic-page template')
+      console.error('[Asil Settings Overrides] Could not find basic-page template')
       return
     }
     const basicPageEl = actualTemplate.content.querySelector('#basicPage')
     if (!basicPageEl) {
-      console.error('[Brave Settings Overrides] Could not find basicPage element to insert Getting Started section')
+      console.error('[Asil Settings Overrides] Could not find basicPage element to insert Getting Started section')
     } else {
       const privacyGuidePromoSection = actualTemplate.content.querySelector('#privacyGuidePromoSection')
       if (!privacyGuidePromoSection) {
-        console.error('[Brave Settings Overrides] Could not find privacyGuidePromoSection element to hide')
+        console.error('[Asil Settings Overrides] Could not find privacyGuidePromoSection element to hide')
       } else {
         privacyGuidePromoSection.remove()
       }
@@ -224,7 +224,8 @@ RegisterPolymerTemplateModifications({
       ))
       const isBraveRewardsSupported = loadTimeData.getBoolean('isBraveRewardsSupported')
       let sectionRewards = undefined
-      if (isBraveRewardsSupported) {
+      let skip = false; 
+      if (isBraveRewardsSupported && skip) {
         sectionRewards = document.createElement('template')
         sectionRewards.setAttribute('is', 'dom-if')
         sectionRewards.setAttribute('restamp', true)
@@ -315,11 +316,11 @@ RegisterPolymerTemplateModifications({
       // Advanced
       const advancedTemplate = templateContent.querySelector('template[if="[[showAdvancedSettings_(pageVisibility.advancedSettings)]]"]')
       if (!advancedTemplate) {
-        console.error('[Brave Settings Overrides] Could not find advanced section')
+        console.error('[Asil Settings Overrides] Could not find advanced section')
       }
       const advancedSubSectionsTemplate = advancedTemplate.content.querySelector('settings-idle-load template')
       if (!advancedSubSectionsTemplate) {
-        console.error('[Brave Settings Overrides] Could not find advanced sub-sections container')
+        console.error('[Asil Settings Overrides] Could not find advanced sub-sections container')
       }
       // Move autofill to before languages
       const sectionAutofill = getSectionElement(actualTemplate.content, 'autofill')

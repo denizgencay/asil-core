@@ -51,12 +51,12 @@ TEST_F(BatAdsTransferTest, DoNotTransferAdIfUrlIsMissingHTTPOrHTTPSScheme) {
   transfer_->SetLastClickedAd(ad);
 
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
       /*is_visible*/ true,
       /*is_incognito*/ false);
 
   // Act
-  transfer_->MaybeTransferAd(1, {GURL("brave.com")});
+  transfer_->MaybeTransferAd(1, {GURL("asil.com")});
   AdvanceClockBy(base::Seconds(10));
 
   // Assert
@@ -76,7 +76,7 @@ TEST_F(BatAdsTransferTest,
       /*is_incognito*/ false);
 
   // Act
-  transfer_->MaybeTransferAd(1, {GURL("brave.com")});
+  transfer_->MaybeTransferAd(1, {GURL("asil.com")});
   AdvanceClockBy(base::Seconds(10));
 
   // Assert
@@ -90,14 +90,14 @@ TEST_F(BatAdsTransferTest, DoNotTransferAdIfTheSameAdIsAlreadyTransferring) {
   transfer_->SetLastClickedAd(ad);
 
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
       /*is_visible*/ true,
       /*is_incognito*/ false);
 
-  transfer_->MaybeTransferAd(1, {GURL("https://brave.com")});
+  transfer_->MaybeTransferAd(1, {GURL("https://asil.com")});
 
   // Act
-  transfer_->MaybeTransferAd(1, {GURL("https://brave.com")});
+  transfer_->MaybeTransferAd(1, {GURL("https://asil.com")});
 
   FastForwardClockBy(base::Seconds(10));
 
@@ -124,12 +124,12 @@ TEST_F(BatAdsTransferTest, TransferAdIfAnotherAdIsAlreadyTransferring) {
       /*is_incognito*/ false);
 
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 2, /*redirect_chain*/ {GURL("https://brave.com")},
+      /*id*/ 2, /*redirect_chain*/ {GURL("https://asil.com")},
       /*is_visible*/ true,
       /*is_incognito*/ false);
 
   // Act
-  transfer_->MaybeTransferAd(2, {GURL("https://brave.com")});
+  transfer_->MaybeTransferAd(2, {GURL("https://asil.com")});
 
   FastForwardClockBy(base::Seconds(10));
 
@@ -145,12 +145,12 @@ TEST_F(BatAdsTransferTest,
   transfer_->SetLastClickedAd(ad);
 
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
       /*is_visible*/ true,
       /*is_incognito*/ false);
 
   // Act
-  transfer_->MaybeTransferAd(1, {GURL("https://brave.com")});
+  transfer_->MaybeTransferAd(1, {GURL("https://asil.com")});
 
   FastForwardClockBy(base::Seconds(10));
 
@@ -165,12 +165,12 @@ TEST_F(BatAdsTransferTest, FailToTransferAdIfNotVisible) {
   transfer_->SetLastClickedAd(ad);
 
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
       /*is_visible*/ false,
       /*is_incognito*/ false);
 
   // Act
-  transfer_->MaybeTransferAd(1, {GURL("https://brave.com")});
+  transfer_->MaybeTransferAd(1, {GURL("https://asil.com")});
 
   FastForwardClockBy(base::Seconds(10));
 
@@ -186,11 +186,11 @@ TEST_F(BatAdsTransferTest,
   transfer_->SetLastClickedAd(ad);
 
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
       /*is_visible*/ true,
       /*is_incognito*/ false);
 
-  transfer_->MaybeTransferAd(1, {GURL("https://brave.com")});
+  transfer_->MaybeTransferAd(1, {GURL("https://asil.com")});
 
   // Act
   TabManager::GetInstance()->OnDidChange(

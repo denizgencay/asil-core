@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -58,11 +58,11 @@ struct BraveAdsUpgradePathParamInfo {
   // to a newly supported locale; otherwise, should be set to false
   bool newly_supported_locale;
 
-  // |rewards_enabled| should be set to true if Brave rewards should be enabled
+  // |rewards_enabled| should be set to true if Asil rewards should be enabled
   // after upgrade; otherwise, should be set to false
   bool rewards_enabled;
 
-  // |ads_enabled| should be set to true if Brave ads should be enabled after
+  // |ads_enabled| should be set to true if Asil ads should be enabled after
   // upgrade; otherwise, should be set to false
   bool ads_enabled;
 };
@@ -504,7 +504,7 @@ const BraveAdsUpgradePathParamInfo kTests[] = {
         false /*ads_enabled*/
     },
     //
-    // Upgrade from 0.63 to current version (Initial release of Brave ads)
+    // Upgrade from 0.63 to current version (Initial release of Asil ads)
     {
         "PreferencesForVersion063WithRewardsAndAdsDisabled",
         false, /*supported_locale*/

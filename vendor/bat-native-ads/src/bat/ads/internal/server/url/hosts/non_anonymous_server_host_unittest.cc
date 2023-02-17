@@ -23,7 +23,7 @@ TEST_F(BatAdsNonAnonymousServerHostTest, GetProductionHost) {
   const std::string host = server::GetNonAnonymousHost();
 
   // Assert
-  const std::string expected_host = "https://mywallet.ads.brave.com";
+  const std::string expected_host = "https://mywallet.ads.asil.com";
   EXPECT_EQ(expected_host, host);
 }
 

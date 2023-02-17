@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -470,7 +470,7 @@ TEST_F(SolanaProviderImplUnitTest, Connect) {
   EXPECT_EQ(error, mojom::SolanaProviderError::kInternalError);
   EXPECT_FALSE(IsConnected());
 
-  GURL url("https://brave.com");
+  GURL url("https://asil.com");
   Navigate(url);
   AddSolanaPermission(GetOrigin(), address);
   account = Connect(absl::nullopt, &error, &error_message);
@@ -541,7 +541,7 @@ TEST_F(SolanaProviderImplUnitTest, EagerlyConnect) {
   std::string address = GetAddressByIndex(0);
   SetSelectedAccount(address, mojom::CoinType::SOL);
 
-  Navigate(GURL("https://brave.com"));
+  Navigate(GURL("https://asil.com"));
   mojom::SolanaProviderError error;
   std::string error_message;
   base::Value::Dict dict;
@@ -587,7 +587,7 @@ TEST_F(SolanaProviderImplUnitTest, ConnectWithNoSolanaAccount) {
   bool account_creation_callback_called = false;
   SetCallbackForAccountCreationForTesting(base::BindLambdaForTesting(
       [&]() { account_creation_callback_called = true; }));
-  Navigate(GURL("https://brave.com"));
+  Navigate(GURL("https://asil.com"));
 
   mojom::SolanaProviderError error;
   std::string error_message;
@@ -615,7 +615,7 @@ TEST_F(SolanaProviderImplUnitTest, Disconnect) {
   std::string address = GetAddressByIndex(0);
   SetSelectedAccount(address, mojom::CoinType::SOL);
 
-  Navigate(GURL("https://brave.com"));
+  Navigate(GURL("https://asil.com"));
   AddSolanaPermission(GetOrigin(), address);
   std::string account = Connect(absl::nullopt, nullptr, nullptr);
   ASSERT_TRUE(!account.empty());
@@ -637,7 +637,7 @@ TEST_F(SolanaProviderImplUnitTest,
   observer_->Reset();
 
   // Connect the account.
-  Navigate(GURL("https://brave.com"));
+  Navigate(GURL("https://asil.com"));
   AddSolanaPermission(GetOrigin(), kHardwareAccountAddr);
   std::string account = Connect(absl::nullopt, nullptr, nullptr);
   ASSERT_TRUE(!account.empty());
@@ -663,7 +663,7 @@ TEST_F(SolanaProviderImplUnitTest, AccountChangedEvent) {
   // since it is not connected, account is empty
   EXPECT_TRUE(observer_->GetAccount().empty());
   // connect the account
-  Navigate(GURL("https://brave.com"));
+  Navigate(GURL("https://asil.com"));
   AddSolanaPermission(GetOrigin(), address);
   std::string account = Connect(absl::nullopt, nullptr, nullptr);
   ASSERT_TRUE(!account.empty());
@@ -693,7 +693,7 @@ TEST_F(SolanaProviderImplUnitTest, AccountChangedEvent) {
 }
 
 TEST_F(SolanaProviderImplUnitTest, NoSelectedAccount) {
-  Navigate(GURL("https://brave.com"));
+  Navigate(GURL("https://asil.com"));
   mojom::SolanaProviderError error;
   std::string error_message;
   // connect
@@ -725,7 +725,7 @@ TEST_F(SolanaProviderImplUnitTest, SignMessage) {
   AddAccount();
   std::string address = GetAddressByIndex(0);
   SetSelectedAccount(address, mojom::CoinType::SOL);
-  Navigate(GURL("https://brave.com"));
+  Navigate(GURL("https://asil.com"));
 
   mojom::SolanaProviderError error;
   std::string error_message;
@@ -795,7 +795,7 @@ TEST_F(SolanaProviderImplUnitTest, SignMessage_Hardware) {
   CreateWallet();
   AddHardwareAccount(kHardwareAccountAddr);
   SetSelectedAccount(kHardwareAccountAddr, mojom::CoinType::SOL);
-  Navigate(GURL("https://brave.com"));
+  Navigate(GURL("https://asil.com"));
 
   AddSolanaPermission(GetOrigin(), kHardwareAccountAddr);
   Connect(absl::nullopt, &error, &error_message);
@@ -870,7 +870,7 @@ TEST_F(SolanaProviderImplUnitTest, SignTransactionAPIs) {
   AddAccount();
   std::string address = GetAddressByIndex(0);
   SetSelectedAccount(address, mojom::CoinType::SOL);
-  Navigate(GURL("https://brave.com"));
+  Navigate(GURL("https://asil.com"));
 
   // Disconnected state will be rejcted.
   ASSERT_FALSE(IsConnected());
@@ -910,7 +910,7 @@ TEST_F(SolanaProviderImplUnitTest, SignTransactionAPIs_Hardware) {
   CreateWallet();
   AddHardwareAccount(kHardwareAccountAddr);
   SetSelectedAccount(kHardwareAccountAddr, mojom::CoinType::SOL);
-  Navigate(GURL("https://brave.com"));
+  Navigate(GURL("https://asil.com"));
   AddSolanaPermission(GetOrigin(), kHardwareAccountAddr);
   Connect(absl::nullopt, nullptr, nullptr);
   ASSERT_TRUE(IsConnected());

@@ -17,10 +17,10 @@
               "payload": {
                 "title": "Test Title",
                 "description": "Test Description",
-                "imageUrl": "https://www.brave.com",
+                "imageUrl": "https://www.asil.com",
                 "dimensions": "200x100",
                 "ctaText": "Test Call to Action Text",
-                "targetUrl": "https://brave.com"
+                "targetUrl": "https://asil.com"
               }
             }
           ],
@@ -35,7 +35,7 @@
           "conversions": [
             {
               "observationWindow": 30,
-              "urlPattern": "https://www.brave.com/*",
+              "urlPattern": "https://www.asil.com/*",
               "type": "postview"
             }
           ],

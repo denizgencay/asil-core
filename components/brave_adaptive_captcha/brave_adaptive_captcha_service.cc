@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -37,12 +37,12 @@ net::NetworkTrafficAnnotationTag kAnnotationTag =
     net::DefineNetworkTrafficAnnotation("brave_adaptive_captcha_service", R"(
         semantics {
           sender:
-            "Brave Adaptive Captcha service"
+            "Asil Adaptive Captcha service"
           description:
-            "Fetches CAPTCHA data from Brave."
+            "Fetches CAPTCHA data from Asil."
           trigger:
-            "The Brave service indicates that it's time to solve a CAPTCHA."
-          data: "Brave CAPTCHA data."
+            "The Asil service indicates that it's time to solve a CAPTCHA."
+          data: "Asil CAPTCHA data."
           destination: WEBSITE
         }
         policy {

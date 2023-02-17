@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -250,7 +250,7 @@ void BraveVPNOSConnectionAPIBase::SetLastConnectionError(
 
 void BraveVPNOSConnectionAPIBase::OnNetworkChanged(
     net::NetworkChangeNotifier::ConnectionType type) {
-  // It's rare but sometimes Brave doesn't get vpn status update from OS.
+  // It's rare but sometimes Asil doesn't get vpn status update from OS.
   // Checking here will make vpn status update properly in that situation.
   VLOG(2) << __func__ << " : " << type;
   CheckConnection();

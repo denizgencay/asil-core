@@ -1,4 +1,4 @@
-/* Copyright 2022 The Brave Authors. All rights reserved.
+/* Copyright 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -23,7 +23,7 @@ void BraveSpellingOptionsSubMenuObserver::InitMenu(
   SpellingOptionsSubMenuObserver::InitMenu(params);
 
   // Assumptions:
-  // 1. Use of spelling service is disabled in Brave profile preferences.
+  // 1. Use of spelling service is disabled in Asil profile preferences.
   // 2. We overrode RenderViewContextMenu::AddSpellCheckServiceItem so that the
   // spelling suggestions toggle isn't added to the menu by the base class.
   DCHECK(!use_spelling_service_.GetValue());

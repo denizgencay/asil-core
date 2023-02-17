@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -227,7 +227,7 @@ class PermissionLifetimeManagerTest : public testing::Test {
 
  protected:
   const GURL kOrigin{"https://example.com"};
-  const GURL kOrigin2{"https://brave.com"};
+  const GURL kOrigin2{"https://asil.com"};
   const base::TimeDelta kLifetime{base::Seconds(5)};
   const base::TimeDelta kOneSecond{base::Seconds(1)};
 

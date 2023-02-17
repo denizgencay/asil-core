@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -39,7 +39,7 @@ void BraveRewardsSource::StartDataRequest(
     const content::WebContents::Getter& wc_getter,
     content::URLDataSource::GotDataCallback got_data_callback) {
   // URL here comes in the form of
-  // chrome://rewards-image/https://rewards.brave.com/...
+  // chrome://rewards-image/https://rewards.asil.com/...
   // We need to take the path and make it into a URL.
   GURL actual_url(URLDataSource::URLToRequestPath(url));
   if (!actual_url.is_valid()) {
@@ -50,7 +50,7 @@ void BraveRewardsSource::StartDataRequest(
   auto it =
       find(resource_fetchers_.begin(), resource_fetchers_.end(), actual_url);
   if (it != resource_fetchers_.end()) {
-    LOG(WARNING) << "Already fetching specified Brave Rewards resource, url: "
+    LOG(WARNING) << "Already fetching specified Asil Rewards resource, url: "
                  << actual_url;
     return;
   }
@@ -62,12 +62,12 @@ void BraveRewardsSource::StartDataRequest(
         net::DefineNetworkTrafficAnnotation("brave_rewards_resource_fetcher", R"(
         semantics {
           sender:
-            "Brave Rewards resource fetcher"
+            "Asil Rewards resource fetcher"
           description:
-            "Fetches resources related to Brave Rewards."
+            "Fetches resources related to Asil Rewards."
           trigger:
             "User visits a media publisher's site."
-          data: "Brave Rewards related resources."
+          data: "Asil Rewards related resources."
           destination: WEBSITE
         }
         policy {
@@ -116,7 +116,7 @@ void BraveRewardsSource::OnBitmapFetched(
     const GURL& url,
     const SkBitmap& bitmap) {
   if (bitmap.isNull()) {
-    LOG(ERROR) << "Failed to retrieve Brave Rewards resource, url: " << url;
+    LOG(ERROR) << "Failed to retrieve Asil Rewards resource, url: " << url;
     std::move(got_data_callback).Run(nullptr);
     return;
   }

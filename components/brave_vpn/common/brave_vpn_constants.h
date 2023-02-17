@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -10,14 +10,14 @@
 
 namespace brave_vpn {
 
-constexpr char kManageUrlProd[] = "https://account.brave.com/account/";
+constexpr char kManageUrlProd[] = "https://account.asil.com/account/";
 constexpr char kManageUrlStaging[] =
     "https://account.bravesoftware.com/account/";
 constexpr char kManageUrlDev[] = "https://account.brave.software/account/";
 
 // TODO(simonhong): Update when vpn feedback url is ready.
-constexpr char kFeedbackUrl[] = "https://support.brave.com/";
-constexpr char kAboutUrl[] = "https://brave.com/firewall-vpn/";
+constexpr char kFeedbackUrl[] = "https://support.asil.com/";
+constexpr char kAboutUrl[] = "https://asil.com/firewall-vpn/";
 
 constexpr char kRegionContinentKey[] = "continent";
 constexpr char kRegionNameKey[] = "name";

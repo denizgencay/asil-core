@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -75,9 +75,17 @@ void CustomizeWebUIHTMLSource(content::WebUI* web_ui,
         { "fd85070af5114d6ac462c466e78448e4.svg", IDR_BRAVE_NEW_TAB_IMG1 },
         { "314e7529efec41c8867019815f4d8dad.svg", IDR_BRAVE_NEW_TAB_IMG4 },
         { "6c337c63662ee0ba4e57f6f8156d69ce.svg", IDR_BRAVE_NEW_TAB_IMG2 },
+        
         // New tab Backgrounds
 #if !BUILDFLAG(IS_ANDROID)
-        { "dylan-malval_sea-min.webp", IDR_BRAVE_NEW_TAB_BACKGROUND1 },
+        { "ekrem-osmanoglu-2R0gbZXaUqM-unsplash.webp", IDR_BRAVE_NEW_TAB_BACKGROUND1 },
+        { "ayse-bek-YLdYVzHopto-unsplash.webp", IDR_BRAVE_NEW_TAB_BACKGROUND2 },
+        { "fatih-yurur-kNSREmtaGOE-unsplash.webp", IDR_BRAVE_NEW_TAB_BACKGROUND3 },
+
+        { "fahrul-azmi-gyKmF0vnfBs-unsplash.webp", IDR_BRAVE_NEW_TAB_BACKGROUND4 },
+        { "dhru-j-r7H8kkoYyCY-unsplash.webp", IDR_BRAVE_NEW_TAB_BACKGROUND5 },
+        { "abdurahman-iseini-DNwQ35LdxXQ-unsplash.webp", IDR_BRAVE_NEW_TAB_BACKGROUND6 },
+
 #endif
         // private tab
         { "c168145d6bf1abf2c0322636366f7dbe.svg", IDR_BRAVE_PRIVATE_TAB_TOR_IMG },               // NOLINT
@@ -169,6 +177,8 @@ void CustomizeWebUIHTMLSource(content::WebUI* web_ui,
         { "sponsoredImageOnDescription", IDS_BRAVE_NEW_TAB_SPONSORED_IMAGE_ON_DESCRIPTION},  // NOLINT
         { "sponsoredImageOffDescription", IDS_BRAVE_NEW_TAB_SPONSORED_IMAGE_OFF_DESCRIPTION},  // NOLINT
         { "topSitesTitle", IDS_BRAVE_NEW_TAB_TOP_SITES },
+        { "exploreSitesTitle", IDS_BRAVE_NEW_TAB_EXPLORE_SITES },
+
         { "statsTitle", IDS_BRAVE_NEW_TAB_STATS },
         { "clockTitle", IDS_BRAVE_NEW_TAB_CLOCK },
         { "backgroundImageTitle", IDS_BRAVE_NEW_TAB_BACKGROUND_IMAGE },
@@ -226,8 +236,8 @@ void CustomizeWebUIHTMLSource(content::WebUI* web_ui,
         { "braveNewsNoContentHeading", IDS_BRAVE_NEWS_NO_CONTENT_HEADING},
         { "braveNewsNoContentMessage", IDS_BRAVE_NEWS_NO_CONTENT_MESSAGE},
         { "braveNewsNoContentActionLabel", IDS_BRAVE_NEWS_NO_CONTENT_ACTION_LABEL},  // NOLINT
-        // Brave News Channels
-        { "braveNewsChannel-Brave", IDS_BRAVE_NEWS_CHANNEL_BRAVE},
+        // Asil News Channels
+        { "braveNewsChannel-Asil", IDS_BRAVE_NEWS_CHANNEL_BRAVE},
         { "braveNewsChannel-Business", IDS_BRAVE_NEWS_CHANNEL_BUSINESS},
         { "braveNewsChannel-Cars", IDS_BRAVE_NEWS_CHANNEL_CARS},
         { "braveNewsChannel-Crypto", IDS_BRAVE_NEWS_CHANNEL_CRYPTO},
@@ -296,7 +306,7 @@ void CustomizeWebUIHTMLSource(content::WebUI* web_ui,
         { "boxTorText2", IDS_BRAVE_PRIVATE_NEW_TAB_BOX_TOR_TEXT_2 },
         { "boxTorButton", IDS_BRAVE_PRIVATE_NEW_TAB_BOX_TOR_BUTTON },
 
-        // Brave Talk prompt
+        // Asil Talk prompt
         { "braveTalkPromptTitle", IDS_BRAVE_TALK_PROMPT_TITLE },
         { "braveTalkPromptDescription", IDS_BRAVE_TALK_PROMPT_DESCRIPTION },
         { "braveTalkPromptAction", IDS_BRAVE_TALK_PROMPT_ACTION },
@@ -346,7 +356,7 @@ void CustomizeWebUIHTMLSource(content::WebUI* web_ui,
         {"rewardsVBATNoticeTitle1", IDS_REWARDS_VBAT_NOTICE_TITLE1},
         {"rewardsVBATNoticeTitle2", IDS_REWARDS_VBAT_NOTICE_TITLE2},
 
-        // Brave Talk  Widget
+        // Asil Talk  Widget
         { "braveTalkWidgetTitle", IDS_BRAVE_TALK_WIDGET_TITLE },
         { "braveTalkWidgetWelcomeTitle", IDS_BRAVE_TALK_WIDGET_WELCOME_TITLE },
         { "braveTalkWidgetStartButton", IDS_BRAVE_TALK_WIDGET_START_BUTTON },
@@ -944,9 +954,9 @@ content::WebUIDataSource* CreateWebUIDataSource(
     int html_resource_id,
     bool disable_trusted_types_csp) {
   content::WebUIDataSource* source = content::WebUIDataSource::Create(name);
-  // Some parts of Brave's UI pages are not yet migrated to work without doing
+  // Some parts of Asil's UI pages are not yet migrated to work without doing
   // assignments of strings directly into |innerHTML| elements (i.e. see usage
-  // of |dangerouslySetInnerHTML| in .tsx files). This will break Brave due to
+  // of |dangerouslySetInnerHTML| in .tsx files). This will break Asil due to
   // committing a Trusted Types related violation now that Trusted Types are
   // enforced on WebUI pages (see crrev.com/c/2234238 and crrev.com/c/2353547).
   // We should migrate those pages not to require using |innerHTML|, but for now

@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -21,12 +21,12 @@ namespace {
 // Preference name switch events are stored under.
 constexpr char kSwitchSearchEngineP3AStorage[] =
     "brave.search.p3a_default_switch";
-constexpr char kBraveDomain[] = "brave.com";
+constexpr char kBraveDomain[] = "asil.com";
 constexpr char kGoogleDomain[] = "google.com";
 constexpr char kDDGDomain[] = "duckduckgo.com";
 
 // Deduces the search engine from |type|, if nothing is found - from |url|.
-// Not all engines added by Brave are present in |SearchEngineType| enumeration.
+// Not all engines added by Asil are present in |SearchEngineType| enumeration.
 void RecordSearchEngineP3A(const GURL& search_engine_url,
                            SearchEngineType type) {
   SearchEngineP3A answer = SearchEngineP3A::kOther;
@@ -51,7 +51,7 @@ void RecordSearchEngineP3A(const GURL& search_engine_url,
     if (base::EndsWith(search_engine_url.host(), "startpage.com",
                        base::CompareCase::INSENSITIVE_ASCII)) {
       answer = SearchEngineP3A::kStartpage;
-    } else if (base::EndsWith(search_engine_url.host(), "brave.com",
+    } else if (base::EndsWith(search_engine_url.host(), "asil.com",
                               base::CompareCase::INSENSITIVE_ASCII)) {
       answer = SearchEngineP3A::kBrave;
     }
@@ -68,7 +68,7 @@ SearchEngineSwitchP3A SearchEngineSwitchP3AMapAnswer(const GURL& to,
   DCHECK(to.is_valid());
 
   if (from.DomainIs(kBraveDomain)) {
-    // Switching away from Brave Search.
+    // Switching away from Asil Search.
     if (to.DomainIs(kGoogleDomain)) {
       answer = SearchEngineSwitchP3A::kBraveToGoogle;
     } else if (to.DomainIs(kDDGDomain)) {
@@ -77,7 +77,7 @@ SearchEngineSwitchP3A SearchEngineSwitchP3AMapAnswer(const GURL& to,
       answer = SearchEngineSwitchP3A::kBraveToOther;
     }
   } else if (to.DomainIs(kBraveDomain)) {
-    // Switching to Brave Search.
+    // Switching to Asil Search.
     if (from.DomainIs(kGoogleDomain)) {
       answer = SearchEngineSwitchP3A::kGoogleToBrave;
     } else if (from.DomainIs(kDDGDomain)) {

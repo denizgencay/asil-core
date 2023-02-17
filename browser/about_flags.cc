@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -128,7 +128,7 @@ constexpr char kBraveAdblockCspRulesDescription[] =
 constexpr char kBraveAdblockDefault1pBlockingName[] =
     "Shields first-party network blocking";
 constexpr char kBraveAdblockDefault1pBlockingDescription[] =
-    "Allow Brave Shields to block first-party network requests in Standard "
+    "Allow Asil Shields to block first-party network requests in Standard "
     "blocking mode";
 
 constexpr char kBraveAdblockMobileNotificationsListDefaultName[] =
@@ -138,14 +138,14 @@ constexpr char kBraveAdblockMobileNotificationsListDefaultDescription[] =
     "toggle in brave://adblock hasn't otherwise been modified";
 
 constexpr char kBraveAdsCustomNotificationsName[] =
-    "Enable Brave Ads custom push notifications";
+    "Enable Asil Ads custom push notifications";
 constexpr char kBraveAdsCustomNotificationsDescription[] =
-    "Enable Brave Ads custom push notifications to support rich media";
+    "Enable Asil Ads custom push notifications to support rich media";
 
 constexpr char kBraveAdsCustomNotificationsFallbackName[] =
-    "Allow Brave Ads to fallback from native to custom push notifications";
+    "Allow Asil Ads to fallback from native to custom push notifications";
 constexpr char kBraveAdsCustomNotificationsFallbackDescription[] =
-    "Allow Brave Ads to fallback from native to custom push notifications on "
+    "Allow Asil Ads to fallback from native to custom push notifications on "
     "operating systems which do not support native notifications";
 
 constexpr char kBraveDarkModeBlockName[] =
@@ -160,7 +160,7 @@ constexpr char kBraveDomainBlockDescription[] =
 constexpr char kBraveDomainBlock1PESName[] =
     "Enable domain blocking using First Party Ephemeral Storage";
 constexpr char kBraveDomainBlock1PESDescription[] =
-    "When visiting a blocked domain, Brave will try to enable Ephemeral "
+    "When visiting a blocked domain, Asil will try to enable Ephemeral "
     "Storage for a first party context, meaning neither cookies nor "
     "localStorage data will be persisted after a website is closed. Ephemeral "
     "Storage will be auto-enabled only if no data was previously stored for a "
@@ -229,15 +229,15 @@ constexpr char kBraveSpeedreaderLegacyDescription[] =
     "Enables the legacy backend for SpeedReader. Uses adblock rules to "
     "determine if pages are readable and distills using CSS selector rules.";
 
-constexpr char kBraveSyncName[] = "Enable Brave Sync v2";
+constexpr char kBraveSyncName[] = "Enable Asil Sync v2";
 constexpr char kBraveSyncDescription[] =
-    "Brave Sync v2 integrates with chromium sync engine with Brave specific "
+    "Asil Sync v2 integrates with chromium sync engine with Asil specific "
     "authentication flow and enforce client side encryption";
 
-constexpr char kBraveVPNName[] = "Enable experimental Brave VPN";
+constexpr char kBraveVPNName[] = "Enable experimental Asil VPN";
 constexpr char kBraveVPNDescription[] = "Experimental native VPN support";
 #if BUILDFLAG(IS_WIN)
-constexpr char kBraveVPNDnsProtectionName[] = "Enable DoH for Brave VPN";
+constexpr char kBraveVPNDnsProtectionName[] = "Enable DoH for Asil VPN";
 constexpr char kBraveVPNDnsProtectionDescription[] =
     "Override DoH settings with Cloudflare dns if necessary to avoid leaking "
     "requests due to Smart Multi-Home Named Resolution";
@@ -245,12 +245,12 @@ constexpr char kBraveVPNDnsProtectionDescription[] =
 constexpr char kBraveSkusSdkName[] = "Enable experimental SKU SDK";
 constexpr char kBraveSkusSdkDescription[] = "Experimental SKU SDK support";
 
-constexpr char kBraveShieldsV1Name[] = "Enable Brave Shields v1";
+constexpr char kBraveShieldsV1Name[] = "Enable Asil Shields v1";
 constexpr char kBraveShieldsV1Description[] =
-    "Legacy extension-based panel UX/UI for Brave Shields";
-constexpr char kBraveShieldsV2Name[] = "Enable Brave Shields v2";
+    "Legacy extension-based panel UX/UI for Asil Shields";
+constexpr char kBraveShieldsV2Name[] = "Enable Asil Shields v2";
 constexpr char kBraveShieldsV2Description[] =
-    "Major UX/UI overhaul of Brave Shields panel";
+    "Major UX/UI overhaul of Asil Shields panel";
 
 constexpr char kBraveDecentralizedDnsName[] = "Enable decentralized DNS";
 constexpr char kBraveDecentralizedDnsDescription[] =
@@ -274,84 +274,84 @@ constexpr char kBraveFirstPartyEphemeralStorageDescription[] =
     "cookie setting";
 
 #if BUILDFLAG(ENABLE_GEMINI_WALLET)
-constexpr char kBraveRewardsGeminiName[] = "Enable Gemini for Brave Rewards";
+constexpr char kBraveRewardsGeminiName[] = "Enable Gemini for Asil Rewards";
 constexpr char kBraveRewardsGeminiDescription[] =
-    "Enables support for Gemini as an external wallet provider for Brave";
+    "Enables support for Gemini as an external wallet provider for Asil";
 #endif
 
 constexpr char kBraveRewardsVBatNoticeName[] =
-    "Enable Brave Rewards VBAT notices";
+    "Enable Asil Rewards VBAT notices";
 constexpr char kBraveRewardsVBatNoticeDescription[] =
-    "Enables notices in the Brave Rewards UI about VBAT deadlines.";
+    "Enables notices in the Asil Rewards UI about VBAT deadlines.";
 
 constexpr char kBraveRewardsVerboseLoggingName[] =
-    "Enable Brave Rewards verbose logging";
+    "Enable Asil Rewards verbose logging";
 constexpr char kBraveRewardsVerboseLoggingDescription[] =
-    "Enables detailed logging of Brave Rewards system events to a log file "
+    "Enables detailed logging of Asil Rewards system events to a log file "
     "stored on your device. Please note that this log file could include "
     "information such as browsing history and credentials such as passwords "
     "and access tokens depending on your activity. Please do not share it "
-    "unless asked to by Brave staff.";
+    "unless asked to by Asil staff.";
 
 constexpr char kBraveRewardsAllowUnsupportedWalletProvidersName[] =
-    "Always show Brave Rewards custodial connection options";
+    "Always show Asil Rewards custodial connection options";
 constexpr char kBraveRewardsAllowUnsupportedWalletProvidersDescription[] =
-    "Allows all custodial options to be selected in Brave Rewards, "
+    "Allows all custodial options to be selected in Asil Rewards, "
     "including those not supported for your Rewards country.";
 
 constexpr char kBraveSearchDefaultAPIName[] =
-    "Enable Brave Search website default search provider API";
+    "Enable Asil Search website default search provider API";
 constexpr char kBraveSearchDefaultAPIDescription[] =
     "Enable javascript API only on "
-    "Brave Search websites which will allow the user to make the search engine "
+    "Asil Search websites which will allow the user to make the search engine "
     "their default search provider.";
 
-constexpr char kBraveSuperReferralName[] = "Enable Brave Super Referral";
+constexpr char kBraveSuperReferralName[] = "Enable Asil Super Referral";
 constexpr char kBraveSuperReferralDescription[] =
-    "Use custom theme for Brave Super Referral";
+    "Use custom theme for Asil Super Referral";
 
 constexpr char kBraveWalletNftPinningFeatureName[] = "Enable NFT pinning";
 constexpr char kBraveWalletNftPinningFeatureDescription[] =
-    "Enable NFT pinning for Brave Wallet";
+    "Enable NFT pinning for Asil Wallet";
 
-constexpr char kNativeBraveWalletName[] = "Enable Brave Wallet";
+constexpr char kNativeBraveWalletName[] = "Enable Asil Wallet";
 constexpr char kNativeBraveWalletDescription[] =
     "Native cryptocurrency wallet support without the use of extensions";
 
 constexpr char kBraveWalletFilecoinName[] =
-    "Enable Brave Wallet Filecoin support";
+    "Enable Asil Wallet Filecoin support";
 constexpr char kBraveWalletFilecoinDescription[] =
-    "Filecoin support for native Brave Wallet";
+    "Filecoin support for native Asil Wallet";
 
-constexpr char kBraveWalletSolanaName[] = "Enable Brave Wallet Solana support";
+constexpr char kBraveWalletSolanaName[] = "Enable Asil Wallet Solana support";
 constexpr char kBraveWalletSolanaDescription[] =
-    "Solana support for native Brave Wallet";
+    "Solana support for native Asil Wallet";
 constexpr char kBraveWalletSolanaProviderName[] =
-    "Enable Brave Wallet Solana provider support";
+    "Enable Asil Wallet Solana provider support";
 constexpr char kBraveWalletSolanaProviderDescription[] =
-    "Solana provider support for native Brave Wallet";
+    "Solana provider support for native Asil Wallet";
 constexpr char kBraveWalletSnsName[] = "Enable Solana Name Service support";
 constexpr char kBraveWalletSnsDescription[] =
     "Enable Solana Name Service(.sol) support for Wallet and omnibox address "
     "resolution";
 constexpr char kBraveWalletDappsSupportName[] =
-    "Enable Brave Wallet Dapps support";
+    "Enable Asil Wallet Dapps support";
 constexpr char kBraveWalletDappsSupportDescription[] =
-    "Brave Wallet Dapps support";
+    "Asil Wallet Dapps support";
 
-constexpr char kBraveNewsName[] = "Enable Brave News";
+constexpr char kBraveNewsName[] = "Enable Asil News";
 constexpr char kBraveNewsDescription[] =
-    "Brave News is completely private and includes anonymized ads matched on "
+    "Asil News is completely private and includes anonymized ads matched on "
     "your device.";
 
-constexpr char kBraveNewsV2Name[] = "Enable Brave News V2";
+constexpr char kBraveNewsV2Name[] = "Enable Asil News V2";
 constexpr char kBraveNewsV2Description[] =
-    "Use the new Brave News UI and sources lists";
+    "Use the new Asil News UI and sources lists";
 
 constexpr char kBraveNewsCardPeekFeatureName[] =
-    "Brave News prompts on New Tab Page";
+    "Asil News prompts on New Tab Page";
 constexpr char kBraveNewsCardPeekFeatureDescription[] =
-    "Prompt Brave News via the top featured article peeking up from the bottom "
+    "Prompt Asil News via the top featured article peeking up from the bottom "
     "of the New Tab Page, after a short delay.";
 
 constexpr char kCryptoWalletsForNewInstallsName[] =
@@ -393,12 +393,12 @@ constexpr char kAllowIncognitoPermissionInheritanceDescription[] =
     "BLOCK will be automatically set to BLOCK in incognito.";
 
 constexpr char kBraveSyncHistoryDiagnosticsName[] =
-    "Enable Brave Sync History Diagnostics";
+    "Enable Asil Sync History Diagnostics";
 constexpr char kBraveSyncHistoryDiagnosticsDescription[] =
-    "Brave Sync History Diagnostics flag displays additional sync related "
+    "Asil Sync History Diagnostics flag displays additional sync related "
     "information on History page";
 constexpr char kBraveSyncSendAllHistoryName[] =
-    "Send All History to Brave Sync";
+    "Send All History to Asil Sync";
 constexpr char kBraveSyncSendAllHistoryDescription[] =
     "With Send All History flag all sync entries are sent to Sync server "
     "including transitions of link, bookmark, reload, etc";

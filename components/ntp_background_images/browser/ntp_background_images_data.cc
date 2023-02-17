@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -20,10 +20,10 @@
     {
       "name": "ntp-2020/2021-1",
       "source": "background-image-source.png",
-      "author": "Brave Software",
-      "link": "https://brave.com/",
+      "author": "Asil Software",
+      "link": "https://asil.com/",
       "originalUrl": "Contributor sent the hi-res version through email",
-      "license": "https://brave.com/about/"
+      "license": "https://asil.com/about/"
     },
   ]
 }

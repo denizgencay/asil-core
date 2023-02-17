@@ -68,6 +68,7 @@ export default class FooterInfo extends React.PureComponent<Props, {}> {
         }
         <S.GridItemNavigation>
           <Navigation>
+            {supportsBraveTalk &&
             <IconButtonContainer textDirection={textDirection}>
               <IconButtonSideText textDirection={textDirection}>
                 <IconButton onClick={onClickSettings}>
@@ -75,7 +76,7 @@ export default class FooterInfo extends React.PureComponent<Props, {}> {
                 </IconButton>
                 {getLocale('customize')}
               </IconButtonSideText>
-            </IconButtonContainer>
+            </IconButtonContainer>}
             <IconLink title={getLocale('preferencesPageTitle')} href='chrome://settings'>
               <SettingsAdvancedIcon />
             </IconLink>

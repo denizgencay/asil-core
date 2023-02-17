@@ -1,4 +1,4 @@
-// Copyright (c) 2023 The Brave Authors. All rights reserved.
+// Copyright (c) 2023 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -10,7 +10,7 @@
 
 namespace google_sign_in_permission::features {
 
-// When enabled, Brave will prompt for permission on sites which want to use
+// When enabled, Asil will prompt for permission on sites which want to use
 // Google Sign In.
 BASE_FEATURE(kBraveGoogleSignInPermission,
              "BraveGoogleSignInPermission",

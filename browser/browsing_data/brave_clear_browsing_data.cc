@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -98,7 +98,7 @@ bool BrowsingDataRemovalWatcher::GetClearBrowsingDataOnExitSettings(
     *origin_mask |= content::BrowsingDataRemover::ORIGIN_TYPE_PROTECTED_WEB;
   }
 
-  // Note: this will also delete Brave Shields site-specific settings.
+  // Note: this will also delete Asil Shields site-specific settings.
   // Corresponds to "Content settings" checkbox in the Clear Browsing Data
   // dialog.
   if (prefs->GetBoolean(browsing_data::prefs::kDeleteSiteSettingsOnExit))

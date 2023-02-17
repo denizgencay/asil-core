@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -286,7 +286,7 @@ class EthTxManagerUnitTest : public testing::Test {
   }
 
   url::Origin GetOrigin() const {
-    return url::Origin::Create(GURL("https://brave.com"));
+    return url::Origin::Create(GURL("https://asil.com"));
   }
 
   EthTxManager* eth_tx_manager() { return tx_service_->GetEthTxManager(); }

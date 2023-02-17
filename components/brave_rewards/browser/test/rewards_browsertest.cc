@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -295,7 +295,7 @@ IN_PROC_BROWSER_TEST_F(RewardsBrowserTest, ResetRewards) {
 
   rewards_browsertest_util::WaitForElementToContain(
       contents(), "[data-test-id='reset-text']",
-      "By resetting, your current Brave Rewards profile will be deleted");
+      "By resetting, your current Asil Rewards profile will be deleted");
 }
 
 IN_PROC_BROWSER_TEST_F(RewardsBrowserTest, ResetRewardsWithBAT) {

@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -123,7 +123,7 @@ void FeedController::EnsureFeedIsUpdating() {
       [](FeedController* controller, Publishers publishers) {
         // Handle no publishers
         if (publishers.empty()) {
-          LOG(ERROR) << "Brave News Publisher list was empty";
+          LOG(ERROR) << "Asil News Publisher list was empty";
           controller->NotifyUpdateDone();
           return;
         }
@@ -266,7 +266,7 @@ void FeedController::UpdateIfRemoteChanged() {
                     // always fetch the body at these times.
                     if (etag.empty()) {
                       LOG(ERROR)
-                          << "Brave News did not get correct etag, "
+                          << "Asil News did not get correct etag, "
                              "therefore assuming etags aren't working and feed "
                              "changed.";
                       has_update_callback.Run(false);

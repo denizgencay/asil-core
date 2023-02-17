@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -28,7 +28,7 @@ GURL GetURLForUIType(const std::string& type, GURL manage_url) {
     replacements.SetQueryStr(query);
     return manage_url.ReplaceComponents(replacements);
   } else if (type == "privacy") {
-    return GURL("https://brave.com/privacy/browser/#vpn");
+    return GURL("https://asil.com/privacy/browser/#vpn");
   } else if (type == "about") {
     return GURL(brave_vpn::kAboutUrl);
   }

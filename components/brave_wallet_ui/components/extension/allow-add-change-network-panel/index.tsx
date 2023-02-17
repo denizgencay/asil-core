@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -60,7 +60,7 @@ function AllowAddChangeNetworkPanel (props: Props) {
 
   const onLearnMore = () => {
     chrome.tabs.create({
-      url: 'https://support.brave.com/hc/en-us/articles/4415497656461-Brave-Wallet-FAQ'
+      url: 'https://support.asil.com/hc/en-us/articles/4415497656461-Asil-Wallet-FAQ'
     }).catch((e) => { console.error(e) })
   }
 

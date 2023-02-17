@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -56,7 +56,7 @@ const size_t EthereumRemoteClientService::kSeedByteLength = 32;
 // access to the master seed, but it does have a deterministic seed.
 // The salt value is the same intentionally on all clients.
 // See
-// https://github.com/brave/brave-browser/wiki/Brave-Ethereum-Remote-Client-Wallet-Seed-Information#note-on-salts
+// https://github.com/brave/brave-browser/wiki/Asil-Ethereum-Remote-Client-Wallet-Seed-Information#note-on-salts
 // static
 std::string
 EthereumRemoteClientService::GetEthereumRemoteClientSeedFromRootSeed(
@@ -152,7 +152,7 @@ void EthereumRemoteClientService::ResetCryptoWallets() {
 // If this function is called multiple times, the previous value
 // from prefs will be re-used.
 // The return value will be true if successful
-// https://github.com/brave/brave-browser/wiki/Brave-Ethereum-Remote-Client-Wallet-Seed-Information
+// https://github.com/brave/brave-browser/wiki/Asil-Ethereum-Remote-Client-Wallet-Seed-Information
 bool EthereumRemoteClientService::LoadRootSeedInfo(std::vector<uint8_t> key,
                                                    std::string* seed) {
   std::string nonce;
@@ -195,7 +195,7 @@ bool EthereumRemoteClientService::LoadRootSeedInfo(std::vector<uint8_t> key,
 // deterministic hash of that seed with HKDF, so that we can use
 // other HKDF hashes with different info parameters for different purposes.
 // For more information, see:
-// https://github.com/brave/brave-browser/wiki/Brave-Ethereum-Remote-Client-Wallet-Seed-Information
+// https://github.com/brave/brave-browser/wiki/Asil-Ethereum-Remote-Client-Wallet-Seed-Information
 std::string EthereumRemoteClientService::GetWalletSeed(
     std::vector<uint8_t> key) {
   std::string seed;

@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -57,7 +57,7 @@ void CheckUserAgentMetadataVersionsList(
     const base::Value::List& versions_list,
     const std::string& expected_version,
     std::function<void(const std::string&)> check_greased_version) {
-  // Expect 3 items in the list: Brave, Chromium, and greased.
+  // Expect 3 items in the list: Asil, Chromium, and greased.
   EXPECT_EQ(3UL, versions_list.size());
 
   bool has_brave_brand = false;
@@ -67,7 +67,7 @@ void CheckUserAgentMetadataVersionsList(
     ASSERT_NE(nullptr, brand);
     const std::string* version = brand_version.GetDict().FindString("version");
     ASSERT_NE(nullptr, version);
-    if (*brand == "Brave") {
+    if (*brand == "Asil") {
       has_brave_brand = true;
       EXPECT_EQ(expected_version, *version);
     } else if (*brand == "Chromium") {
@@ -341,7 +341,7 @@ IN_PROC_BROWSER_TEST_F(BraveNavigatorUserAgentFarblingBrowserTest,
   GURL url = https_server()->GetURL("a.com", "/simple.html");
   NavigateToURLUntilLoadStop(url);
   std::string brands = EvalJs(contents(), kBrandScript).ExtractString();
-  EXPECT_NE(std::string::npos, brands.find("Brave"));
+  EXPECT_NE(std::string::npos, brands.find("Asil"));
   EXPECT_NE(std::string::npos, brands.find("Chromium"));
 }
 
@@ -360,7 +360,7 @@ IN_PROC_BROWSER_TEST_F(BraveNavigatorUserAgentFarblingBrowserTest,
   const base::Value::List* brands_list = values->FindList("brands");
   ASSERT_NE(nullptr, brands_list);
 
-  // Expected major version for Brave and Chromium.
+  // Expected major version for Asil and Chromium.
   const std::string major_version = version_info::GetMajorVersionNumber();
 
   CheckUserAgentMetadataVersionsList(
@@ -373,7 +373,7 @@ IN_PROC_BROWSER_TEST_F(BraveNavigatorUserAgentFarblingBrowserTest,
       values->FindList("fullVersionList");
   ASSERT_NE(nullptr, full_version_list);
 
-  // Expected version string for Brave and Chromium.
+  // Expected version string for Asil and Chromium.
   const std::string expected_full_version =
       base::StrCat({major_version, ".0.0.0"});
 

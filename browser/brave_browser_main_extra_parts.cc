@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -48,7 +48,7 @@ void RecordInitialP3AValues() {
   // Record crash reporting status stats.
   const bool crash_reports_enabled = g_browser_process->local_state()->
       GetBoolean(metrics::prefs::kMetricsReportingEnabled);
-  UMA_HISTOGRAM_BOOLEAN("Brave.Core.CrashReportsEnabled",
+  UMA_HISTOGRAM_BOOLEAN("Asil.Core.CrashReportsEnabled",
                         crash_reports_enabled);
 }
 

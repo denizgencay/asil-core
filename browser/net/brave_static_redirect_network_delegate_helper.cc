@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -117,7 +117,7 @@ int OnBeforeURLRequest_StaticRedirectWorkForGURL(
 
   if (crxDownload_pattern.MatchesURL(request_url)) {
     replacements.SetSchemeStr("https");
-    replacements.SetHostStr("crxdownload.brave.com");
+    replacements.SetHostStr("crxdownload.asil.com");
     *new_url = request_url.ReplaceComponents(replacements);
     return net::OK;
   }
@@ -131,28 +131,28 @@ int OnBeforeURLRequest_StaticRedirectWorkForGURL(
 
   if (crlSet_pattern1.MatchesURL(request_url)) {
     replacements.SetSchemeStr("https");
-    replacements.SetHostStr("redirector.brave.com");
+    replacements.SetHostStr("redirector.asil.com");
     *new_url = request_url.ReplaceComponents(replacements);
     return net::OK;
   }
 
   if (crlSet_pattern2.MatchesURL(request_url)) {
     replacements.SetSchemeStr("https");
-    replacements.SetHostStr("redirector.brave.com");
+    replacements.SetHostStr("redirector.asil.com");
     *new_url = request_url.ReplaceComponents(replacements);
     return net::OK;
   }
 
   if (crlSet_pattern3.MatchesURL(request_url)) {
     replacements.SetSchemeStr("https");
-    replacements.SetHostStr("redirector.brave.com");
+    replacements.SetHostStr("redirector.asil.com");
     *new_url = request_url.ReplaceComponents(replacements);
     return net::OK;
   }
 
   if (crlSet_pattern4.MatchesURL(request_url)) {
     replacements.SetSchemeStr("https");
-    replacements.SetHostStr("redirector.brave.com");
+    replacements.SetHostStr("redirector.asil.com");
     *new_url = request_url.ReplaceComponents(replacements);
     return net::OK;
   }

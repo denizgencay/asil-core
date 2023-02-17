@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -19,7 +19,7 @@ namespace settings {
 
 namespace {
 constexpr char kBraveSearchForTorKeyword[] =
-    ":search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion";
+    ":google.com";
 }  // namespace
 
 BraveSearchEnginesHandler::BraveSearchEnginesHandler(Profile* profile)

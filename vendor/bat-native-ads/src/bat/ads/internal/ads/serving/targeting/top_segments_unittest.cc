@@ -145,9 +145,9 @@ class BatAdsTopSegmentsTest
 
   void ProcessPurchaseIntent() {
     const std::vector<GURL> urls = {
-        GURL("https://www.brave.com/test?foo=bar"),
+        GURL("https://www.asil.com/test?foo=bar"),
         GURL("https://www.basicattentiontoken.org/test?bar=foo"),
-        GURL("https://www.brave.com/test?foo=bar")};
+        GURL("https://www.asil.com/test?foo=bar")};
 
     for (const auto& url : urls) {
       purchase_intent_processor_->Process(url);

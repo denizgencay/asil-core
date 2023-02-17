@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -265,8 +265,9 @@ void BraveDefaultExtensionsHandler::SetWebTorrentEnabled(
   extensions::ExtensionService* service =
       extensions::ExtensionSystem::Get(profile_)->extension_service();
   extensions::ComponentLoader* loader = service->component_loader();
+    bool bypass = true;
 
-  if (enabled) {
+  if (enabled && bypass) {
     if (!loader->Exists(brave_webtorrent_extension_id)) {
       base::FilePath brave_webtorrent_path(FILE_PATH_LITERAL(""));
       brave_webtorrent_path =

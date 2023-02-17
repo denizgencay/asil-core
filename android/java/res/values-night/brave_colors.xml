@@ -21,7 +21,7 @@
     <color name="onboarding_bg_color">#1E2029</color>
     <color name="onboarding_timer_color">#478AFF</color>
 
-    <color name="onboarding_progress_start_color">#FA7250</color>
+    <color name="onboarding_progress_start_color">#FF0103</color>
     <color name="onboarding_progress_mid_color">#FF1893</color>
     <color name="onboarding_progress_end_color">#A78AFF</color>
 

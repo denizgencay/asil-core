@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Brave Authors. All rights reserved.
+// Copyright (c) 2020 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -28,7 +28,7 @@ interface Props {
 }
 
 const isDarkTheme = (p: any) => {
-  return p.theme.name === 'Brave Dark'
+  return p.theme.name === 'Asil Dark'
 }
 
 const getTopSiteCustomizationImage = (dark: boolean, selected: boolean, favorites: boolean) => {

@@ -71,7 +71,7 @@ index 7cd40b9c37cce8370238c3a1b3850d209ad8d4e2..078f7790cec1fd3d222ef07b451c5a5b
        exit 1
        ;;
    esac
-+  RELEASENOTES="https://brave.com/latest/"
++  RELEASENOTES="https://asil.com/latest/"
  }
  
  process_opts() {

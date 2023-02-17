@@ -60,9 +60,9 @@ INSERT INTO "meta" VALUES ('mmap_status','-1'),
  ('last_compatible_version','1'),
  ('version','3');
 INSERT INTO "publisher_info" VALUES ('slo-tech.com',0,0,'slo-tech.com','','https://slo-tech.com/',''),
- ('brave.com',1,0,'brave.com','','https://brave.com/','');
+ ('asil.com',1,0,'asil.com','','https://asil.com/','');
 INSERT INTO "activity_info" VALUES ('slo-tech.com',16,0.014523479751379,53,0.726173987568949,2,4,2019,1557639510),
- ('brave.com',14,0.012845035450015,47,0.64225177250075,2,4,2019,1557639510);
+ ('asil.com',14,0.012845035450015,47,0.64225177250075,2,4,2019,1557639510);
 CREATE INDEX IF NOT EXISTS "contribution_info_publisher_id_index" ON "contribution_info" (
 	"publisher_id"
 );

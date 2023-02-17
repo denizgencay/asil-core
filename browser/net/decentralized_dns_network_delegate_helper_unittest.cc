@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -155,7 +155,7 @@ TEST_F(DecentralizedDnsNetworkDelegateHelperTest,
       {"https://brave.bitcoin", true},
       {"https://brave.zil", true},
       {"https://brave", false},
-      {"https://brave.com", false},
+      {"https://asil.com", false},
       {"", false},
   };
 
@@ -192,12 +192,12 @@ TEST_F(DecentralizedDnsNetworkDelegateHelperTest,
   test_url_loader_factory().SimulateResponseForPendingRequest(
       polygon_spec,
       brave_wallet::MakeJsonRpcStringArrayResponse(
-          {"", "", "", "", "", "https://brave.com"}),
+          {"", "", "", "", "", "https://asil.com"}),
       net::HTTP_REQUEST_TIMEOUT);
   test_url_loader_factory().SimulateResponseForPendingRequest(
       eth_spec,
       brave_wallet::MakeJsonRpcStringArrayResponse(
-          {"", "", "", "", "", "https://brave.com"}),
+          {"", "", "", "", "", "https://asil.com"}),
       net::HTTP_REQUEST_TIMEOUT);
   base::RunLoop().RunUntilIdle();
   EXPECT_TRUE(brave_request_info->new_url_spec.empty());
@@ -209,7 +209,7 @@ TEST_F(DecentralizedDnsNetworkDelegateHelperTest,
   test_url_loader_factory().SimulateResponseForPendingRequest(
       polygon_spec,
       brave_wallet::MakeJsonRpcStringArrayResponse(
-          {"", "", "", "", "", "https://brave.com"}),
+          {"", "", "", "", "", "https://asil.com"}),
       net::HTTP_OK);
   test_url_loader_factory().SimulateResponseForPendingRequest(
       eth_spec,
@@ -217,7 +217,7 @@ TEST_F(DecentralizedDnsNetworkDelegateHelperTest,
           {"hash", "", "", "", "", ""}),
       net::HTTP_OK);
   base::RunLoop().RunUntilIdle();
-  EXPECT_EQ(brave_request_info->new_url_spec, "https://brave.com/");
+  EXPECT_EQ(brave_request_info->new_url_spec, "https://asil.com/");
 
   // Eth result.
   EXPECT_EQ(net::ERR_IO_PENDING,
@@ -321,9 +321,9 @@ TEST_F(DecentralizedDnsNetworkDelegateHelperTest, SnsRedirectWork) {
 
   // Redirect for valid url.
   OnBeforeURLRequest_SnsRedirectWork(
-      base::DoNothing(), brave_request_info, GURL("https://brave.com"),
+      base::DoNothing(), brave_request_info, GURL("https://asil.com"),
       brave_wallet::mojom::SolanaProviderError::kSuccess, "");
-  EXPECT_EQ(brave_request_info->new_url_spec, GURL("https://brave.com"));
+  EXPECT_EQ(brave_request_info->new_url_spec, GURL("https://asil.com"));
 
   EXPECT_FALSE(brave_request_info->pending_error.has_value());
 }

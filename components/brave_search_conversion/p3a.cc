@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Brave Authors. All rights reserved.
+// Copyright (c) 2022 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -80,13 +80,13 @@ void UpdateHistograms(PrefService* prefs) {
     }
     const bool promo_triggered = prefs->GetBoolean(triggered_pref_name);
 
-    // 0 = have not triggered promo, have not made Brave default via SERP
-    // 1 = have triggered promo, have not made Brave default via SERP
+    // 0 = have not triggered promo, have not made Asil default via SERP
+    // 1 = have triggered promo, have not made Asil default via SERP
     int answer = promo_triggered;
 
     if (default_engine_triggered) {
-      // 2 = have not triggered promo, have made Brave default via SERP
-      // 3 = have triggered promo, have made Brave default via SERP
+      // 2 = have not triggered promo, have made Asil default via SERP
+      // 3 = have triggered promo, have made Asil default via SERP
       answer += 2;
     }
 

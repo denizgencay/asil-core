@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -97,7 +97,7 @@ TEST(SolanaKeyringUnitTest, SignMessage) {
   EXPECT_EQ(keyring.GetAddress(0),
             "8J7fu34oNJSKXcauNQMXRdKAHY7zQ7rEaQng8xtQNpSu");
 
-  // Message: Hello Brave
+  // Message: Hello Asil
   const std::vector<uint8_t> message = {72, 101, 108, 108, 111, 32,
                                         66, 114, 97,  118, 101};
   const std::vector<uint8_t> expected_signature = {

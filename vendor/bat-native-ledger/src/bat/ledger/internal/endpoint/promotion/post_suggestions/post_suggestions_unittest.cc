@@ -58,7 +58,7 @@ TEST_F(PostSuggestionsTest, ServerOK) {
   token.public_key = "dvpysTSiJdZUPihius7pvGOfngRWfDiIbrowykgMi1I=";
 
   credential::CredentialsRedeem redeem;
-  redeem.publisher_key = "brave.com";
+  redeem.publisher_key = "asil.com";
   redeem.type = mojom::RewardsType::ONE_TIME_TIP;
   redeem.processor = mojom::ContributionProcessor::BRAVE_TOKENS;
   redeem.token_list = {token};
@@ -86,7 +86,7 @@ TEST_F(PostSuggestionsTest, ServerError400) {
   token.public_key = "dvpysTSiJdZUPihius7pvGOfngRWfDiIbrowykgMi1I=";
 
   credential::CredentialsRedeem redeem;
-  redeem.publisher_key = "brave.com";
+  redeem.publisher_key = "asil.com";
   redeem.type = mojom::RewardsType::ONE_TIME_TIP;
   redeem.processor = mojom::ContributionProcessor::BRAVE_TOKENS;
   redeem.token_list = {token};
@@ -114,7 +114,7 @@ TEST_F(PostSuggestionsTest, ServerError500) {
   token.public_key = "dvpysTSiJdZUPihius7pvGOfngRWfDiIbrowykgMi1I=";
 
   credential::CredentialsRedeem redeem;
-  redeem.publisher_key = "brave.com";
+  redeem.publisher_key = "asil.com";
   redeem.type = mojom::RewardsType::ONE_TIME_TIP;
   redeem.processor = mojom::ContributionProcessor::BRAVE_TOKENS;
   redeem.token_list = {token};

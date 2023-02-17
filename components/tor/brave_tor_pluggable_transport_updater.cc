@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -20,7 +20,7 @@
 namespace tor {
 
 #if BUILDFLAG(IS_WIN)
-constexpr const char kComponentName[] = "Brave Pluggable Transports (Windows)";
+constexpr const char kComponentName[] = "Asil Pluggable Transports (Windows)";
 constexpr const char kTorPluggableTransportComponentId[] =
     "dnkcahhmfcanmkjhnjejoomdihffoefm";
 constexpr const char kComponentBase64PublicKey[] =
@@ -32,7 +32,7 @@ constexpr const char kComponentBase64PublicKey[] =
     "L1qWBpBR2LCk8SpDXluT4CZeDWJ/Ux9c5nb1yma/"
     "uOscVniKvRRohudxoXxwsGSFtowmNLOZWSo49j+k3eBrFjdkzxn6QIDAQAB";
 #elif BUILDFLAG(IS_MAC)
-constexpr const char kComponentName[] = "Brave Pluggable Transports (Mac)";
+constexpr const char kComponentName[] = "Asil Pluggable Transports (Mac)";
 constexpr const char kTorPluggableTransportComponentId[] =
     "einfndjnccmoohcngmlldpmellegjjnk";
 constexpr const char kComponentBase64PublicKey[] =
@@ -44,7 +44,7 @@ constexpr const char kComponentBase64PublicKey[] =
     "XO6PsXziSEJUIqbMBjeeLKrrFd7C7jU92MYAUzT3FWPW4Bd270iMfyLxbMhIpMeqzJvs+"
     "wZdPOb8kowtrAtpRAQAFDX/twIDAQAB";
 #elif BUILDFLAG(IS_LINUX)
-constexpr const char kComponentName[] = "Brave Pluggable Transports (Linux)";
+constexpr const char kComponentName[] = "Asil Pluggable Transports (Linux)";
 constexpr const char kTorPluggableTransportComponentId[] =
     "apfggiafobakjahnkchiecbomjgigkkn";
 constexpr const char kComponentBase64PublicKey[] =

@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -261,7 +261,7 @@ function SwapInputComponent (props: Props) {
     : ''
 
   const onClickLearnMore = () => {
-    chrome.tabs.create({ url: 'https://support.brave.com/hc/en-us/articles/4441999049101' }, () => {
+    chrome.tabs.create({ url: 'https://support.asil.com/hc/en-us/articles/4441999049101' }, () => {
       if (chrome.runtime.lastError) {
         console.error('tabs.create failed: ' + chrome.runtime.lastError.message)
       }

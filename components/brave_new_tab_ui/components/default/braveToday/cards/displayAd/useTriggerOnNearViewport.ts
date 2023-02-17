@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -19,12 +19,12 @@ export default function useTriggerOnNearViewport (handlerRef: React.MutableRefOb
   }, [])
   // Setup ad fetch trigger observer on first mount
   React.useEffect(() => {
-    console.debug('Brave News: creating observer', debugInstanceId)
+    console.debug('Asil News: creating observer', debugInstanceId)
     contentTriggerObserver.current = new IntersectionObserver(async (entries) => {
       // Only request an ad the first time it passes threshold
       if (!hasPassedAdRequestThreshold.current && entries.some((entry) => entry.isIntersecting)) {
         hasPassedAdRequestThreshold.current = true
-        console.debug('Brave News: asking for an ad', debugInstanceId)
+        console.debug('Asil News: asking for an ad', debugInstanceId)
         handlerRef.current && handlerRef.current()
       }
     }, {
@@ -35,14 +35,14 @@ export default function useTriggerOnNearViewport (handlerRef: React.MutableRefOb
   // Observe and disconnect from content trigger when it's appropriate
   React.useEffect(() => {
     if (hasPassedAdRequestThreshold.current || !contentTrigger.current || !contentTriggerObserver.current) {
-      console.debug('Brave News: not creating trigger', debugInstanceId)
+      console.debug('Asil News: not creating trigger', debugInstanceId)
       return
     }
     const observer = contentTriggerObserver.current
-    console.debug('Brave News: ad fetch trigger observer connected', debugInstanceId)
+    console.debug('Asil News: ad fetch trigger observer connected', debugInstanceId)
     observer.observe(contentTrigger.current)
     return () => {
-      console.debug('Brave News: ad fetch trigger observer disconnected', debugInstanceId)
+      console.debug('Asil News: ad fetch trigger observer disconnected', debugInstanceId)
       observer.disconnect()
     }
   }, [

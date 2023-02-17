@@ -1,4 +1,4 @@
-/* Copyright 2021 The Brave Authors. All rights reserved.
+/* Copyright 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -26,7 +26,7 @@
 
 namespace {
 
-static constexpr char kCollectionEndpoint[] = "https://fl.brave.com/";
+static constexpr char kCollectionEndpoint[] = "https://fl.asil.com/";
 
 constexpr char kLastSentSlotPrefName[] = "brave.federated.last_checked_slot";
 constexpr char kCollectionIdPrefName[] = "brave.federated.collection_id";
@@ -46,7 +46,7 @@ net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotationTag() {
             "https://github.com/brave/brave-browser/wiki/Operational-Patterns"
           trigger:
             "Reports are automatically generated on startup and at intervals "
-            "while Brave is running."
+            "while Asil is running."
           data:
             "Anonymized and encrypted engagement data."
           destination: WEBSITE
@@ -246,7 +246,7 @@ void OperationalPatterns::MaybeRestartMockTaskTimer() {
 void OperationalPatterns::SendCollectionPing(int slot) {
   auto request = std::make_unique<network::ResourceRequest>();
   request->url = GURL(kCollectionEndpoint);
-  request->headers.SetHeader("X-Brave-FL-Operational-Patterns", "?1");
+  request->headers.SetHeader("X-Asil-FL-Operational-Patterns", "?1");
   request->credentials_mode = network::mojom::CredentialsMode::kOmit;
   request->method = net::HttpRequestHeaders::kPostMethod;
 
@@ -300,7 +300,7 @@ void OperationalPatterns::OnCollectionPingSendSuccess() {
 void OperationalPatterns::SendDeletePing() {
   auto request = std::make_unique<network::ResourceRequest>();
   request->url = GURL(kCollectionEndpoint);
-  request->headers.SetHeader("X-Brave-FL-Operational-Patterns", "?1");
+  request->headers.SetHeader("X-Asil-FL-Operational-Patterns", "?1");
   request->credentials_mode = network::mojom::CredentialsMode::kOmit;
   request->method = net::HttpRequestHeaders::kDeleteMethod;
 

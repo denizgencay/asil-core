@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Brave Authors. All rights reserved.
+// Copyright (c) 2020 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -55,7 +55,7 @@ export const localeStrings = {
   tipDelayNote: 'Note: Your tip can take several minutes to process',
   tipHasBeenSent: 'Your one-time tip has been sent.',
   tipIsPending: 'You’ve set up a pending tip!',
-  tippingFeeNote: 'Brave collects 5% of the tip amount as a processing fee.',
+  tippingFeeNote: 'Asil collects 5% of the tip amount as a processing fee.',
   tipPostSubtitle: 'for their post',
   tokens: 'tokens',
   tweetAboutSupport: 'Tweet about your support',

@@ -53,7 +53,7 @@ version_info::Channel GetChannel() {
 }
 
 bool IsExtendedStableChannel() {
-  // No extended stable channel for Brave.
+  // No extended stable channel for Asil.
   return false;
 }
 

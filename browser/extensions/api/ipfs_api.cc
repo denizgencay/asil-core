@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -349,13 +349,13 @@ ExtensionFunction::ResponseAction IpfsGetResolveMethodTypeFunction::Run() {
   if (::ipfs::IpfsServiceFactory::IsIpfsEnabled(browser_context())) {
     switch (GetIpfsService(browser_context())->GetIPFSResolveMethodType()) {
       case IPFSResolveMethodTypes::IPFS_ASK:
-        value = "ask";
+        value = "disabled";
         break;
       case IPFSResolveMethodTypes::IPFS_GATEWAY:
-        value = "gateway";
+        value = "disabled";
         break;
       case IPFSResolveMethodTypes::IPFS_LOCAL:
-        value = "local";
+        value = "disabled";
         break;
       case IPFSResolveMethodTypes::IPFS_DISABLED:
         value = "disabled";

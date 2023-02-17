@@ -1,4 +1,4 @@
-/* Copyright 2019 The Brave Authors. All rights reserved.
+/* Copyright 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -88,7 +88,7 @@ void BraveUptimeTracker::RecordP3A() {
       answer = 3;
     }
   }
-  UMA_HISTOGRAM_EXACT_LINEAR("Brave.Uptime.BrowserOpenMinutes", answer, 3);
+  UMA_HISTOGRAM_EXACT_LINEAR("Asil.Uptime.BrowserOpenMinutes", answer, 3);
 }
 
 BraveUptimeTracker::~BraveUptimeTracker() = default;
@@ -162,13 +162,13 @@ void BraveWindowTracker::UpdateP3AValues() const {
     bucket = WindowUsageStats::kEverUsed;
   }
 
-  UMA_HISTOGRAM_ENUMERATION("Brave.Core.LastTimeIncognitoUsed", bucket,
+  UMA_HISTOGRAM_ENUMERATION("Asil.Core.LastTimeIncognitoUsed", bucket,
                             WindowUsageStats::kSize);
 
   // Record if the TOR window was ever used.
   // 0 -> Yes; 1 -> No.
   const int tor_used = !local_state_->GetBoolean(kTorUsed);
-  UMA_HISTOGRAM_EXACT_LINEAR("Brave.Core.TorEverUsed", tor_used, 1);
+  UMA_HISTOGRAM_EXACT_LINEAR("Asil.Core.TorEverUsed", tor_used, 1);
 }
 
 }  // namespace brave

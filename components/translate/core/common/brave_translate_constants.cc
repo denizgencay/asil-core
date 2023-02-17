@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -7,9 +7,9 @@
 
 namespace translate {
 
-const char kBraveTranslateOrigin[] = "https://translate.brave.com";
+const char kBraveTranslateOrigin[] = "https://translate.asil.com";
 const char kBraveTranslateScriptURL[] =
-    "https://translate.brave.com/static/v1/element.js";
+    "https://translate.asil.com/static/v1/element.js";
 
 // The used version of translate static resources (js/css files).
 // Used in brave_translate.js as a replacement to /translate_static/ part in

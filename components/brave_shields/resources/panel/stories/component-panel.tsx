@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -35,8 +35,8 @@ const LIST_JS = [
 ]
 
 const LIST_ADS = [
-  { url: 'ads.brave.com' },
-  { url: 'ads2.brave.com' }
+  { url: 'ads.asil.com' },
+  { url: 'ads2.asil.com' }
 ]
 
 export default {
@@ -52,7 +52,7 @@ export default {
       // mock data
       const store = {
         siteBlockInfo: {
-          host: text('Host name', 'brave.com'),
+          host: text('Host name', 'asil.com'),
           totalBlockedResources: (LIST_ADS.length + LIST_JS.length),
           isBraveShieldsEnabled: boolean('Enable Shields', true),
           isBraveShieldsManaged: boolean('Shields Managed', false),
@@ -60,7 +60,7 @@ export default {
           jsList: LIST_JS,
           httpRedirectsList: [],
           fingerprintsList: [],
-          faviconUrl: { url: 'https://brave.com/static-assets/images/brave-favicon.png' }
+          faviconUrl: { url: 'https://asil.com/static-assets/images/brave-favicon.png' }
         },
         siteSettings: {
           adBlockMode: AdBlockMode.ALLOW,

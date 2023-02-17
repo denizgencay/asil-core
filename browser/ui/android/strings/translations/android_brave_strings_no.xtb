@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="no">
-<translation id="2524310205387880526">Ranger Brave</translation>
+<translation id="2524310205387880526">Ranger Asil</translation>
 <translation id="915758461293673891">Tipsbeløp:</translation>
 <translation id="1420756770787071946">Støtt denne skaperen</translation>
 <translation id="4147995007712611681">Du har satt opp et ventende tips!</translation>
-<translation id="8966035543003363155">Brave-varsler gjør ting enklere</translation>
+<translation id="8966035543003363155">Asil-varsler gjør ting enklere</translation>
 <translation id="7662771815233894695">Administrer nedlastinger, tjen tokener, se ukentlig bruksstatistikk med mer.</translation>
 <translation id="4265429476391459783">Du tjener ikke opp Rewards eller mottar personvernrapporter</translation>
-<translation id="1305714751384738456">Du tjener ikke opp Brave Rewards</translation>
+<translation id="1305714751384738456">Du tjener ikke opp Asil Rewards</translation>
 <translation id="1483391942610220726">Du mottar ikke personvernrapporter</translation>
 <translation id="4683790942451502796">Slå på varsler igjen hvis du vil fortsette å tjene BAT og motta ukentlige personvernrapporter.</translation>
 <translation id="8618359751943259593">Slå på varsler igjen hvis du vil fortsette å tjene BAT.</translation>
 <translation id="760355165169399836">Slå på varsler igjen hvis du vil fortsette å motta ukentlige personvernrapporter.</translation>
 <translation id="6268959058971634697">Du tjener ikke opp Rewards</translation>
-<translation id="1088637159642753509">Slå på enhetsvarslinger for å tjene Brave-belønninger og se personvernrapporter.</translation>
-<translation id="312404770066229090">Slå på enhetsvarsler for å tjene Brave-belønninger.</translation>
-<translation id="2241529840361230499">Slå på enhetsvarsler for å motta Brave-personvernrapporter.</translation>
-<translation id="4930155581888391118">Slå på varsler fra Brave for å tjene Brave-belønninger.</translation>
-<translation id="325187916104529570">Åpne Innstillinger og slå på enhetsvarsler for Brave-annonser.</translation>
-<translation id="5744802588121897886">Slå på Brave-varsler</translation>
-<translation id="7307834434086582547">Aktiver eller deaktiver Brave Shields</translation>
+<translation id="1088637159642753509">Slå på enhetsvarslinger for å tjene Asil-belønninger og se personvernrapporter.</translation>
+<translation id="312404770066229090">Slå på enhetsvarsler for å tjene Asil-belønninger.</translation>
+<translation id="2241529840361230499">Slå på enhetsvarsler for å motta Asil-personvernrapporter.</translation>
+<translation id="4930155581888391118">Slå på varsler fra Asil for å tjene Asil-belønninger.</translation>
+<translation id="325187916104529570">Åpne Innstillinger og slå på enhetsvarsler for Asil-annonser.</translation>
+<translation id="5744802588121897886">Slå på Asil-varsler</translation>
+<translation id="7307834434086582547">Aktiver eller deaktiver Asil Shields</translation>
 <translation id="6945863270524203017">Få ukentlige personvernoppdateringer om blokkering av sporere og annonseblokkering.</translation>
 <translation id="4324735664183300693">Slå på varsler</translation>
 <translation id="3570081523466826008">Oppgrader tilkoblinger til HTTPS</translation>
@@ -37,7 +37,7 @@
 <translation id="2978223787436054634">Tweet om støtten din</translation>
 <translation id="1166682575529520472">Månedlig</translation>
 <translation id="5906820630265272615">BAT-midler</translation>
-<translation id="3586352807094428968">Brave tar 5 % av tipsen som et behandlingsgebyr.</translation>
+<translation id="3586352807094428968">Asil tar 5 % av tipsen som et behandlingsgebyr.</translation>
 <translation id="7723816962634734185">Tilpasset beløp</translation>
 <translation id="1986030365413628297">f.eks. 12,75 BAT</translation>
 <translation id="5087864757604726239">tilbake</translation>
@@ -47,8 +47,8 @@
 <translation id="8195146845495346281">Minste tipsbeløp er 0,25 BAT</translation>
 <translation id="4647657427328119430">Ikke nok tokener.</translation>
 <translation id="2359808026110333948">Fortsett</translation>
-<translation id="4227681408214010862">Jeg elsker at #Brave lar meg støtte innholdsskapere! Jeg ga nettopp tips til <ph name="NAME"/> med BAT. Hvis de bekrefter på https://creators.brave.com før <ph name="DATE"/>, får de BAT-ene!</translation>
-<translation id="6231182869178328516">Jeg ga nettopp tips til <ph name="NAME"/> via Brave-nettleseren. Ta en titt på https://brave.com/tips.</translation>
+<translation id="4227681408214010862">Jeg elsker at #Asil lar meg støtte innholdsskapere! Jeg ga nettopp tips til <ph name="NAME"/> med BAT. Hvis de bekrefter på https://creators.asil.com før <ph name="DATE"/>, får de BAT-ene!</translation>
+<translation id="6231182869178328516">Jeg ga nettopp tips til <ph name="NAME"/> via Asil-nettleseren. Ta en titt på https://asil.com/tips.</translation>
 <translation id="7172012963002631836">Det oppstod et problem ved sending av tips.</translation>
 <translation id="8994556588732085585">Vennligst lukk og gjenåpne tipsebanneret for å prøve på nytt.</translation>
 <translation id="2278950434998763147">Åpner enkelte nettsteder med en trygg HTTPS-tilkobling i stedet for standard HTTP.</translation>
@@ -61,11 +61,11 @@
 <translation id="863171915776379000">Tillat Facebook-innlogginger og innebygde innlegg</translation>
 <translation id="5165042248369837294">Tillatt innebygde tvitringer fra Twitter</translation>
 <translation id="958971637207126733">Tillat LinkedIn-innebygde innlegg</translation>
-<translation id="6302422639282249274">Administrer Brave Rewards</translation>
+<translation id="6302422639282249274">Administrer Asil Rewards</translation>
 <translation id="8877432762827303535">Utsjekking på nett</translation>
 <translation id="6583902294974160967">Støtte</translation>
 <translation id="1799030480311994998">Funksjoner</translation>
-<translation id="2005732746077850308">Brave-skjold og -personvern</translation>
+<translation id="2005732746077850308">Asil-skjold og -personvern</translation>
 <translation id="4692623383562244444">Søkemotorer</translation>
 <translation id="1468415711258933398">Standardfane</translation>
 <translation id="3377025655491224618">Privat fane</translation>
@@ -83,10 +83,10 @@
 <translation id="4176463684765177261">Deaktivert</translation>
 <translation id="59174027418879706">Aktivert</translation>
 <translation id="6252490671914511928">Dagens topphistorier i en helt privat strøm, kun til deg.</translation>
-<translation id="8300751939969131609">Slå på Brave News og gå aldri mer glipp av siste nytt</translation>
-<translation id="7266075701303521777">Brave-nyheter er annonsestøttet med helt private og anonymiserte annonser som samsvarer med enheten din.</translation>
-<translation id="7699565323725789472">Følg favorittkildene dine i én samlet feed. Bare åpne en fane i Brave, rull ned – og voilà!\nBrave News støttes av private, anonymiserte annonser.</translation>
-<translation id="1765217911817124376">Slå på Brave-nyheter</translation>
+<translation id="8300751939969131609">Slå på Asil News og gå aldri mer glipp av siste nytt</translation>
+<translation id="7266075701303521777">Asil-nyheter er annonsestøttet med helt private og anonymiserte annonser som samsvarer med enheten din.</translation>
+<translation id="7699565323725789472">Følg favorittkildene dine i én samlet feed. Bare åpne en fane i Asil, rull ned – og voilà!\nBrave News støttes av private, anonymiserte annonser.</translation>
+<translation id="1765217911817124376">Slå på Asil-nyheter</translation>
 <translation id="8981973962043893066">Søk etter nettsted, emne eller RSS-feed</translation>
 <translation id="3225021799163709119">Populært</translation>
 <translation id="4750394297954878236">Forslag</translation>
@@ -95,7 +95,7 @@
 <translation id="4108314971463891922">Følg</translation>
 <translation id="3861486700625780712">Slutt å følge</translation>
 <translation id="4541978218358617681">Annonse</translation>
-<translation id="7823038307453615214">Vis Brave News</translation>
+<translation id="7823038307453615214">Vis Asil News</translation>
 <translation id="6527303717912515753">Del</translation>
 <translation id="1654539412343893324">Finn ut mer om dataene dine</translation>
 <translation id="2989805286512600854">Åpne i ny fane</translation>
@@ -104,8 +104,8 @@
 <translation id="6332791358521956870"><ph name="PUBLISHER"/> deaktivert</translation>
 <translation id="1276592121036104130">Last inn nytt innhold</translation>
 <translation id="3189348785087463371">Anbefalt</translation>
-<translation id="7554145152551782675">Flere tilbud fra Brave</translation>
-<translation id="1717242776111689224">Slå på Brave Nyheter</translation>
+<translation id="7554145152551782675">Flere tilbud fra Asil</translation>
+<translation id="1717242776111689224">Slå på Asil Nyheter</translation>
 <translation id="4732255422524275223">Dine kilder</translation>
 <translation id="152579389256498990">Feed eller nettstedsadresse</translation>
 <translation id="4975944254857623648">Standard kilder</translation>
@@ -116,42 +116,42 @@
 <translation id="2448893613530489637">Forhindrer sporere og annonser fra å lastes inn og vises på nettsider</translation>
 <translation id="1680858055899097121">Ikke behold faner på tvers av surfeøkter</translation>
 <translation id="7142548388914389999">Tillat produktanalyse som ivaretar personvern (P3A)</translation>
-<translation id="5254037869598726291">Anonymisert P3A-informasjon hjelper Brave med å anslå den totale bruken, og sikrer at vi forbedrer populære funksjoner.</translation>
+<translation id="5254037869598726291">Anonymisert P3A-informasjon hjelper Asil med å anslå den totale bruken, og sikrer at vi forbedrer populære funksjoner.</translation>
 <translation id="933652931229970927">Send krasjrapporter automatisk</translation>
-<translation id="5987838417172370108">Bidra til å forbedre produktstabiliteten for Brave\u2019s ved å automatisk sende diagnoserapporter hvis Brave-nettleseren krasjer eller slutter å fungere.</translation>
+<translation id="5987838417172370108">Bidra til å forbedre produktstabiliteten for Asil\u2019s ved å automatisk sende diagnoserapporter hvis Asil-nettleseren krasjer eller slutter å fungere.</translation>
 <translation id="7977176350719484850">Est. data\nlagret</translation>
 <translation id="9008534313521214777">Beregnet tid\nspart</translation>
-<translation id="1842747674580016420">Videoavspilling i Brave</translation>
-<translation id="5368992950177874750">Hvis dette er på, blir videoer spilt av i Brave i stedet for i den tilhørende appen</translation>
+<translation id="1842747674580016420">Videoavspilling i Asil</translation>
+<translation id="5368992950177874750">Hvis dette er på, blir videoer spilt av i Asil i stedet for i den tilhørende appen</translation>
 <translation id="410351446219883937">Autoavspilling</translation>
 <translation id="7445411102860286510">Gi nettsteder tillatelse til automatisk avspilling av videoer med kuttet lyd (anbefales)</translation>
 <translation id="7837721118676387834">Tillat automatisk avspilling av videoer med dempet lyd for et bestemt nettsted.</translation>
-<translation id="181905442828471321">Globale standarder for Brave-skjold</translation>
+<translation id="181905442828471321">Globale standarder for Asil-skjold</translation>
 <translation id="2675679258824361492">Andre innstillinger for personvern</translation>
 <translation id="8026334261755873520">Slett nettleserdata</translation>
 <translation id="5965081608816406060">Videoavspilling i bakgrunnen</translation>
-<translation id="6332924730165919598">Hvis du lukker alle fanene, lukkes Brave</translation>
-<translation id="3872768973878059926">Lar lyden fortsatt spilles av når du bytter til en annen fane i Brave, går til en annen app eller skjermen på enheten er av.</translation>
+<translation id="6332924730165919598">Hvis du lukker alle fanene, lukkes Asil</translation>
+<translation id="3872768973878059926">Lar lyden fortsatt spilles av når du bytter til en annen fane i Asil, går til en annen app eller skjermen på enheten er av.</translation>
 <translation id="4150201353443180367">Skjerm</translation>
 <translation id="2433507940547922241">Utseende</translation>
-<translation id="6333347122924254968">Vis Brave Rewards-ikonet i adresselinjen</translation>
+<translation id="6333347122924254968">Vis Asil Rewards-ikonet i adresselinjen</translation>
 <translation id="8495235435594442882">Aktiver verktøylinje nederst</translation>
-<translation id="6587448235155023666">Endringene trer i kraft neste gang du starter Brave på nytt</translation>
+<translation id="6587448235155023666">Endringene trer i kraft neste gang du starter Asil på nytt</translation>
 <translation id="8701563696941209024">START PÅ NYTT NÅ</translation>
 <translation id="834487290629916192">SENERE</translation>
-<translation id="7207456302801184289">Velkommen til Brave</translation>
+<translation id="7207456302801184289">Velkommen til Asil</translation>
 <translation id="4117451092682672487">Personvern. Helt enkelt.</translation>
-<translation id="7909375417585209817">Med Brave som standard åpnes alle linker du trykker på, med Braves personvernbeskyttelser.</translation>
+<translation id="7909375417585209817">Med Asil som standard åpnes alle linker du trykker på, med Braves personvernbeskyttelser.</translation>
 <translation id="7370959926683925817">Blokker reklame. Spar data. Hver dag.</translation>
-<translation id="7281027579943912834">Med Brave som standard, vil hver lenke du trykker på få Braves reklameblokkering. Alle sider, videoer og strømminger.</translation>
-<translation id="5148943178722443958">Bidra til å gjøre Brave bedre.</translation>
+<translation id="7281027579943912834">Med Asil som standard, vil hver lenke du trykker på få Braves reklameblokkering. Alle sider, videoer og strømminger.</translation>
+<translation id="5148943178722443958">Bidra til å gjøre Asil bedre.</translation>
 <translation id="6718362830686703942">Send diagnoserapporter hvis du opplever at systemet krasjer eller henger seg opp.</translation>
-<translation id="1929905278861178845">Send fullstendig privat og anonym produktinformasjon om hvilke funksjoner som brukes av Brave-brukerne.</translation>
+<translation id="1929905278861178845">Send fullstendig privat og anonym produktinformasjon om hvilke funksjoner som brukes av Asil-brukerne.</translation>
 <translation id="2877653791257935258">Skriv inn et nettstedsnavn eller en nettadresse</translation>
-<translation id="5329830149661250028">Opplev forskjellen med Brave: Ingen annonser. Ingen sporere. Mye raskere sideinnlasting.</translation>
-<translation id="3941792073703079607">Sjekk ut Brave-forskjellen: Blokker reklame. Spar data. Strøm fortere.</translation>
-<translation id="3545804467215833536">Trykk for å vise Brave Shields</translation>
-<translation id="1724327820822194498">Se alt det kjipe Brave har blokkert, på alle sider, med Shields.</translation>
+<translation id="5329830149661250028">Opplev forskjellen med Asil: Ingen annonser. Ingen sporere. Mye raskere sideinnlasting.</translation>
+<translation id="3941792073703079607">Sjekk ut Asil-forskjellen: Blokker reklame. Spar data. Strøm fortere.</translation>
+<translation id="3545804467215833536">Trykk for å vise Asil Shields</translation>
+<translation id="1724327820822194498">Se alt det kjipe Asil har blokkert, på alle sider, med Shields.</translation>
 <translation id="5386259141409498372"><ph name="BIG_TECH"/> og <ph name="TRACKER"/> annonser og sporere er blokkert</translation>
 <translation id="7256200875155794202"><ph name="BIG_TECH"/> og andre annonsetjenester og sporere er blokkert</translation>
 <translation id="3092683655478890840"><ph name="TRACKER_COUNT"/> sporere er blokkert</translation>
@@ -161,23 +161,23 @@
 <translation id="986879628471635371">Feilsøking av introduksjonsprogram</translation>
 <translation id="5808759341041733958">Velg den tidligere valgte søkemotoren</translation>
 <translation id="1331593888918588693">Du kan alltid endre valgene dine senere i appinnstillingene.</translation>
-<translation id="5806601733251372221">Brave Shields</translation>
+<translation id="5806601733251372221">Asil Shields</translation>
 <translation id="8537217141725709400">Tjen <ph name="TOKEN"/>er</translation>
-<translation id="3333887201479867589">Brave-belønninger</translation>
+<translation id="3333887201479867589">Asil-belønninger</translation>
 <translation id="5870330605209713397">ved å se annonser som respekterer personvernet og støtter dine favorittsider og skapere som standard.</translation>
 <translation id="5302488867897327287">Ved å tappe på Tjen &amp; Gi, aksepterer du</translation>
 <translation id="4281844954008187215">Brukervilkår</translation>
 <translation id="6871397658902960384">Begynn å surfe</translation>
 <translation id="454386012157232640">Jeg så ingen annonse</translation>
-<translation id="1448877943847791441">Brave viser den første annonsen din om</translation>
-<translation id="4410793187232041318">Nå tjener du poletter fra Brave Ads.</translation>
-<translation id="6511854390690723657">Dette er din første Brave-annonse. Trykk for å finne ut mer.</translation>
+<translation id="1448877943847791441">Asil viser den første annonsen din om</translation>
+<translation id="4410793187232041318">Nå tjener du poletter fra Asil Ads.</translation>
+<translation id="6511854390690723657">Dette er din første Asil-annonse. Trykk for å finne ut mer.</translation>
 <translation id="2070991379950719711">Earn &amp; Gi</translation>
 <translation id="48520986898237073">Fortsett til lommeboken</translation>
 <translation id="3570367516044491911">Angi som standardnettleser</translation>
 <translation id="6800338374677644736">Sett som standardnettleser</translation>
-<translation id="19715420010996093">Velg Brave Browser og trykk på 'Alltid'</translation>
-<translation id="3546439402724649282">Brave er allerede angitt som standardnettleser.</translation>
+<translation id="19715420010996093">Velg Asil Browser og trykk på 'Alltid'</translation>
+<translation id="3546439402724649282">Asil er allerede angitt som standardnettleser.</translation>
 <translation id="8389661903259423907">Du har allerede angitt en standardnettleser. Du kan endre standardnettleseren i appinnstillingene.</translation>
 <translation id="1545749641540134597">Skann QR-kode</translation>
 <translation id="5317781812114905957">Instruksjoner</translation>
@@ -186,18 +186,18 @@
 <translation id="6665366815203065060">Du sendte nettopp tips til:</translation>
 <translation id="5441565662498481293">Du sender automatisk et tips til:</translation>
 <translation id="1628742278973105368">Ditt første månedlige tips sendes:</translation>
-<translation id="1642952941091001113">Denne innholdsskaperen har ennå ikke registrert seg for å motta bidrag fra Brave-brukere. Vi fortsetter å prøve å bidra frem til de bekrefter, eller til det har gått 90 dager.</translation>
+<translation id="1642952941091001113">Denne innholdsskaperen har ennå ikke registrert seg for å motta bidrag fra Asil-brukere. Vi fortsetter å prøve å bidra frem til de bekrefter, eller til det har gått 90 dager.</translation>
 <translation id="635752162765375187">MERK: Denne innholdsskaperen har ikke konfigurert kontoen til å motta tips fra Belønninger-lommebøker. Eventuell tips du gir, kommer til å få ventestatus. Vi prøver å overføre tipsen automatisk i 90 dager.</translation>
 <translation id="1910721550319506122">Velkommen!</translation>
 <translation id="5830114181292529917">Du kan støtte denne nettsiden ved å sende tips. Det er en måte å takke dem på for å skape flott innhold.</translation>
 <translation id="7658239707568436148">Avbryt</translation>
 <translation id="1201402288615127009">Neste</translation>
-<translation id="8481779960444041069">Sett Brave som standardnettleser for å forbedre sikkerheten</translation>
-<translation id="1938402585819943124">Velg Brave på det neste skjermbildet.</translation>
+<translation id="8481779960444041069">Sett Asil som standardnettleser for å forbedre sikkerheten</translation>
+<translation id="1938402585819943124">Velg Asil på det neste skjermbildet.</translation>
 <translation id="8926389886865778422">Ikke spør igjen</translation>
 <translation id="745974920645827035">Uavhengig søking med pedre personvern</translation>
-<translation id="4717018805430015801">Brave-søk sporer verken deg, det du spør om eller klikkene dine.</translation>
-<translation id="5240031343741051161">Prøv Brave-søk</translation>
+<translation id="4717018805430015801">Asil-søk sporer verken deg, det du spør om eller klikkene dine.</translation>
+<translation id="5240031343741051161">Prøv Asil-søk</translation>
 <translation id="5234764350956374838">Lukk</translation>
 <translation id="6639570430554986719">JANUAR</translation>
 <translation id="1807352595146144483">FEBRUAR</translation>
@@ -211,8 +211,8 @@
 <translation id="8220228041552340594">OKTOBER</translation>
 <translation id="8280223431922155812">NOVEMBER</translation>
 <translation id="4254029385847607686">DESEMBER</translation>
-<translation id="3960619311638643872">Brave VPN</translation>
-<translation id="1772301834467143364">Brave-nyheter</translation>
+<translation id="3960619311638643872">Asil VPN</translation>
+<translation id="1772301834467143364">Asil-nyheter</translation>
 <translation id="7760215798627399379"><ph name="VALUE"/> USD</translation>
 <translation id="8428213095426709021">Innstillinger</translation>
 <translation id="6020176662032623904">Verifisert Skaper</translation>
@@ -224,11 +224,11 @@
 <translation id="2429828319207652823">Det oppstod et problem under behandlingen av bidraget ditt.</translation>
 <translation id="2221902203895354376">En ny tokenopptjening er tilgjengelig!</translation>
 <translation id="2323069945529668668">Oisann!</translation>
-<translation id="7510166204621526816">Brave-serveren svarer ikke. Vi vil rette opp i dette så raskt som mulig.</translation>
+<translation id="7510166204621526816">Asil-serveren svarer ikke. Vi vil rette opp i dette så raskt som mulig.</translation>
 <translation id="683765328936486920">på YouTube</translation>
 <translation id="8969049974285901797">på Twitch</translation>
 <translation id="3101693828171454453">ikke nok <ph name="TOKEN"/>er</translation>
-<translation id="8038539967102225446">Brave Ads er her!</translation>
+<translation id="8038539967102225446">Asil Ads er her!</translation>
 <translation id="222883304157347087">(denne enheten)</translation>
 <translation id="4157741509680155021">ENHETER PÅ SYNKRONISERINGSKJEDEN</translation>
 <translation id="279635009973773843">LASTER INN ENHETER …</translation>
@@ -236,13 +236,13 @@
 <translation id="2569646144216067185">Antall ord: <ph name="WORD_COUNT"/></translation>
 <translation id="7507533586185621084">Feil synkkode</translation>
 <translation id="8284063834901328650">Feil synk av QR-kode</translation>
-<translation id="859506441384380749">Denne koden ble generert av en utdatert versjon av Brave. Oppgrader den andre enheten din først.</translation>
+<translation id="859506441384380749">Denne koden ble generert av en utdatert versjon av Asil. Oppgrader den andre enheten din først.</translation>
 <translation id="3132642509209154999">Denne koden har utløpt. Generer en ny kode på den andre enheten din, og prøv på nytt.</translation>
 <translation id="2859229680945501779">Denne koden er ugyldig. Kontroller at klokkeslettet og tidssonen er korrekt angitt på enheten.</translation>
-<translation id="3149880132460839085">Brave-synkronisering</translation>
-<translation id="3680755684186855422">Med Brave-synkronisering kan du synkronisere bokmerkene dine privat mellom Brave-nettleserne på de forskjellige enhetene dine.</translation>
+<translation id="3149880132460839085">Asil-synkronisering</translation>
+<translation id="3680755684186855422">Med Asil-synkronisering kan du synkronisere bokmerkene dine privat mellom Asil-nettleserne på de forskjellige enhetene dine.</translation>
 <translation id="3735228155296883311">Bare skann koden fra synkroniseringskjeden du opprettet på en annen enhet. Eller start en ny synkroniseringskjede.</translation>
-<translation id="2614069607859982576">Gjennom den synkroniserte enheten din åpner du Brave-innstillingene og går til Innstillinger &gt; Synkroniser. Velg «Legg til ny enhet» og skann QR-koden som vises på skjermen.</translation>
+<translation id="2614069607859982576">Gjennom den synkroniserte enheten din åpner du Asil-innstillingene og går til Innstillinger &gt; Synkroniser. Velg «Legg til ny enhet» og skann QR-koden som vises på skjermen.</translation>
 <translation id="5241263629636958324">Kopiert til utklippstavle</translation>
 <translation id="5817918615728894473">Koble sammen</translation>
 <translation id="7090325819305486658">Kategorier</translation>
@@ -252,12 +252,12 @@
 <translation id="1602067095281698985">Start en ny synkroniseringskjede</translation>
 <translation id="1475223680121592371">Legg til en mobilenhet</translation>
 <translation id="2965377893636908578">Legg til en datamaskin</translation>
-<translation id="6604289897677913048">Gå til Brave-innstillingene &gt; Skann på en annen telefon eller et annet nettbrett.</translation>
-<translation id="8508856434435157945">På mobilenheten din går du til Brave-synkronisering i Innstillinger-panelet og klikker på knappen «Skann synkroniseringskode». Bruk kameraet til å skanne QR-koden under.</translation>
-<translation id="2590683710114839102">På datamaskinen din går du til Brave-innstillingene &gt; Synkronisering. Velg «Skriv inn en kode for synkroniseringskjede».</translation>
+<translation id="6604289897677913048">Gå til Asil-innstillingene &gt; Skann på en annen telefon eller et annet nettbrett.</translation>
+<translation id="8508856434435157945">På mobilenheten din går du til Asil-synkronisering i Innstillinger-panelet og klikker på knappen «Skann synkroniseringskode». Bruk kameraet til å skanne QR-koden under.</translation>
+<translation id="2590683710114839102">På datamaskinen din går du til Asil-innstillingene &gt; Synkronisering. Velg «Skriv inn en kode for synkroniseringskjede».</translation>
 <translation id="65315202420929965">Skann denne synkroniseringskoden</translation>
 <translation id="6764016175302339802">Behandle denne koden som et passord. Hvis noen får tak i den, kan vedkommende lese og endre de synkroniserte dataene dine.</translation>
-<translation id="6707003343517029414">På måldatamaskinen går du til Brave Sync i innstillingene og klikker på knappen «Jeg har en synkroniseringskode».\nSkriv inn synkroniseringskjede-kodeordene som vises under.</translation>
+<translation id="6707003343517029414">På måldatamaskinen går du til Asil Sync i innstillingene og klikker på knappen «Jeg har en synkroniseringskode».\nSkriv inn synkroniseringskjede-kodeordene som vises under.</translation>
 <translation id="2731921493694251495">Angi synkroniseringskjedekode</translation>
 <translation id="2175927920773552910">QR-kode</translation>
 <translation id="8653433343015102968">Kodeord</translation>
@@ -267,44 +267,44 @@
 <translation id="6776430845975754238">Endring av innstillinger berører kun data som denne enheten deler med andre.</translation>
 <translation id="1061533051865606843">Legg til ny enhet</translation>
 <translation id="7539985410310934287">Angi kodeord</translation>
-<translation id="2886391679017857869">Gjennom den synkroniserte enheten din åpner du Brave-innstillingene og går til Innstillinger &gt; synkroniser. Velg «Legg til ny enhet» og deretter «Vis kodeord i stedet».</translation>
+<translation id="2886391679017857869">Gjennom den synkroniserte enheten din åpner du Asil-innstillingene og går til Innstillinger &gt; synkroniser. Velg «Legg til ny enhet» og deretter «Vis kodeord i stedet».</translation>
 <translation id="8131740175452115882">Bekreft</translation>
 <translation id="4973653569293835178">Jeg vil bruke kameraet mitt …</translation>
 <translation id="326454632686131209">Synkroniser enhet</translation>
 <translation id="327726072512457161">Avslutt innstillinger</translation>
-<translation id="8050847734948770789">Aktiver Brave-belønninger</translation>
+<translation id="8050847734948770789">Aktiver Asil-belønninger</translation>
 <translation id="9187185473011056079">Jeg er med!</translation>
-<translation id="8185825081026121627">Få grunnleggende oppmerksomhetstoken for å se på Brave Rewards-annonser som bevarer personvernet.</translation>
+<translation id="8185825081026121627">Få grunnleggende oppmerksomhetstoken for å se på Asil Rewards-annonser som bevarer personvernet.</translation>
 <translation id="5321518976657560663">Tilbakestillingsfeil</translation>
-<translation id="4114170343590425996">En feil oppsto under tilbakestilling av Brave Rewards. Start Brave på nytt, og prøv igjen.</translation>
-<translation id="6393502589311632553">Vis annonser når Brave ikke er i bruk</translation>
-<translation id="3349204812119681938">Tilbakestill Brave Rewards</translation>
-<translation id="6606319453795180219">Dette medfører sletting av Brave Rewards og tilbakestilling av alle Brave Rewards-dataene dine</translation>
+<translation id="4114170343590425996">En feil oppsto under tilbakestilling av Asil Rewards. Start Asil på nytt, og prøv igjen.</translation>
+<translation id="6393502589311632553">Vis annonser når Asil ikke er i bruk</translation>
+<translation id="3349204812119681938">Tilbakestill Asil Rewards</translation>
+<translation id="6606319453795180219">Dette medfører sletting av Asil Rewards og tilbakestilling av alle Asil Rewards-dataene dine</translation>
 <translation id="6810078320346589989">Opprett et bokmerke</translation>
-<translation id="3396347744975515056">Brave Sync er oppgradert og må konfigureres</translation>
+<translation id="3396347744975515056">Asil Sync er oppgradert og må konfigureres</translation>
 <translation id="7473245612074035141">Begynn konfigurering</translation>
 <translation id="8985635554450124959">Synkronisering kunne ikke konfigureres</translation>
-<translation id="2514300153301737214">Vi ser at du har Brave Sync aktivert, men systemsynkroniseringen din er slått av og hindrer Brave å synkronisere. Trykk for å åpne innstillinger</translation>
+<translation id="2514300153301737214">Vi ser at du har Asil Sync aktivert, men systemsynkroniseringen din er slått av og hindrer Asil å synkronisere. Trykk for å åpne innstillinger</translation>
 <translation id="7173114856073700355">Åpne Innstillinger</translation>
 <translation id="6965382102122355670">OK</translation>
 <translation id="4450893287417543264">Ikke vis igjen</translation>
 <translation id="1056898198331236512">Advarsel</translation>
 <translation id="1426410128494586442">Ja</translation>
-<translation id="7811264919113243207">Dette dine Brave-dataene dine, potensielt inkludert passordene dine, med enheten som genererte denne QR-koden.
+<translation id="7811264919113243207">Dette dine Asil-dataene dine, potensielt inkludert passordene dine, med enheten som genererte denne QR-koden.
 Dobbeltsjekk at denne QR-koden ble generert av en enhet du eier.
 Er du sikker på at du vil gjøre dette?</translation>
-<translation id="3097089005389027085">Dette deler dine Brave-data, potensielt inkludert passordene dine, med enheten som genererte disse kodeordene.
+<translation id="3097089005389027085">Dette deler dine Asil-data, potensielt inkludert passordene dine, med enheten som genererte disse kodeordene.
 Dobbeltsjekk at disse kodeordene ble generert av en enhet du eier.
 Er du sikker på at du vil gjøre dette?</translation>
 <translation id="4550208292810542331">Kameratillatelse ble ikke gitt</translation>
-<translation id="597993392929850353">Brave-lisens</translation>
+<translation id="597993392929850353">Asil-lisens</translation>
 <translation id="6336451774241870485">Ny privat fane</translation>
 <translation id="6199596294742117349">Dette er en privat fane</translation>
 <translation id="5858455511731621847">Selv om nettsteder du besøker i private faner, ikke lagres lokalt, er du ikke anonym eller usynlig overfor internettleverandøren, arbeidsgiveren eller nettstedene du besøker.</translation>
-<translation id="5789441016350810005">Brave Ads blir sendt når nettleseren er i bakgrunnen</translation>
+<translation id="5789441016350810005">Asil Ads blir sendt når nettleseren er i bakgrunnen</translation>
 <translation id="2892744985635833293">Den månedlige tipsen er behandlet.</translation>
 <translation id="3124090095880236567">Slå på Ads</translation>
-<translation id="2975780980638932742">Brave Ads er her!</translation>
+<translation id="2975780980638932742">Asil Ads er her!</translation>
 <translation id="7541582550122501404">Ventende bidrag</translation>
 <translation id="8520059774736886747">Skaper som <ph name="PUBLISHER_NAME"/> nylig har verifisert</translation>
 <translation id="1486343603936278248">token</translation>
@@ -312,9 +312,9 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="8522669544471808198">Vis bakgrunnsbilder</translation>
 <translation id="3870475560794762985">Vis sponsede bilder</translation>
 <translation id="8643377320501056697">Vis toppnettsteder</translation>
-<translation id="7275773481201277457">Vis Brave-statistikk</translation>
+<translation id="7275773481201277457">Vis Asil-statistikk</translation>
 <translation id="8297488609722895137">Foto av <ph name="PHOTO_BY"/></translation>
-<translation id="4761229094276239865">Ved å trykke på 'Begynn å bruke Brave Rewards' samtykker du til <ph name="TERMS_OF_SERVICE"/>.</translation>
+<translation id="4761229094276239865">Ved å trykke på 'Begynn å bruke Asil Rewards' samtykker du til <ph name="TERMS_OF_SERVICE"/>.</translation>
 <translation id="3794079107601824147">Få betalt for å se dette bakgrunnsbildet.</translation>
 <translation id="7136586167396205364">Skjul sponsede bilder</translation>
 <translation id="2927095357213611519">Du kan støtte nettskapere med tokener.\nTjen tokener ved å se på annonser som respekterer personvernet.</translation>
@@ -326,28 +326,28 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="8558636200953226885">Men hvis du verifiserer, kan du …</translation>
 <translation id="8697510149346635496">Ta ut BAT som du tjener på å se på annonser som respekterer personvernet</translation>
 <translation id="1481480653609649134">Kjøp flere BAT med kredittkort og andre betalingskilder</translation>
-<translation id="9096003370755878766">Ta ut BAT som du kan ha satt inn i Brave Rewards-lommeboken din tidligere</translation>
+<translation id="9096003370755878766">Ta ut BAT som du kan ha satt inn i Asil Rewards-lommeboken din tidligere</translation>
 <translation id="1554282356558968486">Lommeboktjenesten vår leveres av</translation>
 <translation id="6569877533335686968">Oppretthold</translation>
 <translation id="734105583050813665">Bitflyer</translation>
 <translation id="8533411848724153701">Gemini</translation>
 <translation id="8465442795593991224">Uphold kan kreve at du verifiserer identiteten din basert på tjenestene du har forespurt.</translation>
-<translation id="3200197118442451932">Brave Software Inc. verken behandler, lagrer eller bruker noe av den personlige informasjonen du gir til  <ph name="WALLET_PROVIDER"/> når du etablerer en konto hos dem.</translation>
+<translation id="3200197118442451932">Asil Software Inc. verken behandler, lagrer eller bruker noe av den personlige informasjonen du gir til  <ph name="WALLET_PROVIDER"/> når du etablerer en konto hos dem.</translation>
 <translation id="1665118090708049096">Gå til <ph name="WALLET_PROVIDER"/>-kontoen min</translation>
 <translation id="8874184842967597500">Ikke tilkoblet</translation>
-<translation id="2495032782748793764">Standardinnstilling for Brave</translation>
-<translation id="9132378787893584761">Del Brave med dine venner!</translation>
+<translation id="2495032782748793764">Standardinnstilling for Asil</translation>
+<translation id="9132378787893584761">Del Asil med dine venner!</translation>
 <translation id="717952606991220586">Opp sann, noe er galt. Prøv igjen senere.</translation>
 <translation id="987264212798334818">Generelt</translation>
 <translation id="1116694919640316211">Info</translation>
 <translation id="7961015016161918242">Aldri</translation>
 <translation id="1275213816424141989">Kanskje senere</translation>
 <translation id="4406937629441301400">Få tokener ved å se på dette bildet og viderebetal til skapere. <ph name="LEARN_MORE"/></translation>
-<translation id="1992363542751124282">Tjen tokener for å se på dette bildet. Trykk på 'Begynn å bruke Brave Rewards' for å gjøre krav på andelen din.</translation>
+<translation id="1992363542751124282">Tjen tokener for å se på dette bildet. Trykk på 'Begynn å bruke Asil Rewards' for å gjøre krav på andelen din.</translation>
 <translation id="6632345639591919543">Du tjener tokener ved å se på dette bildet.\n<ph name="LEARN_MORE"/></translation>
 <translation id="1465733111003593696">Du får tokener ved å se på dette bildet.</translation>
 <translation id="7877201489035217175">Lær mer om sponsede bilder</translation>
-<translation id="828092975561478703">For hvert sponset bilde du ser på, mottar du 70% av inntekten i tokener. Med Brave-annonser har du alltid kontroll over hvilke annonser du ser.</translation>
+<translation id="828092975561478703">For hvert sponset bilde du ser på, mottar du 70% av inntekten i tokener. Med Asil-annonser har du alltid kontroll over hvilke annonser du ser.</translation>
 <translation id="3624048886326677117">Blokker sporere og annonsen (aggressiv)</translation>
 <translation id="7151914815476509258">Blokker sporere og annonsen (standard)</translation>
 <translation id="7384778069178817075">Tillat alle sporere og annonser</translation>
@@ -366,31 +366,31 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="769702552748212954">Tillat all bruk av fingeravtrykk</translation>
 <translation id="876424292214881779">Annonser og andre ekle ting blokkert</translation>
 <translation id="6930134873084561197">Nettsteder inkluderer ofte informasjonskapsler og skript som prøver å identifisere deg og din enhet. De ønsker å finne ut av hvem du er, følge deg på nettet og spore det du gjør på alle nettsider. \n\nBrave blokkerer dette, slik at du kan surfe på nett uten å bli fulgt.</translation>
-<translation id="8553998445606452168">Om Brave Shields</translation>
+<translation id="8553998445606452168">Om Asil Shields</translation>
 <translation id="8912304686498704084">OPP</translation>
 <translation id="4963218453264888510">NED</translation>
-<translation id="7474113515179313724">Du blar nå gjennom denne nettsiden uten personvern fra Brave. Fungerer den ikke som den skal med Shields aktivert?</translation>
+<translation id="7474113515179313724">Du blar nå gjennom denne nettsiden uten personvern fra Asil. Fungerer den ikke som den skal med Shields aktivert?</translation>
 <translation id="9055546041146396417">Hvis denne siden ikke ser ut til å fungere, prøv uten Shields.</translation>
 <translation id="1209739344687072997">Rapporter et nettsted som ikke fungerer</translation>
-<translation id="8510478288840333677">Gi utviklerne av Brave beskjed om at dette nettstedet ikke fungerer skikkelig med Shields:</translation>
-<translation id="5429200298326665264">Merk: denne nettstedsadressen blir innsendt med ditt Brave-versjonsnummer og din IP-adresse (som ikke vil bli oppbevart).</translation>
+<translation id="8510478288840333677">Gi utviklerne av Asil beskjed om at dette nettstedet ikke fungerer skikkelig med Shields:</translation>
+<translation id="5429200298326665264">Merk: denne nettstedsadressen blir innsendt med ditt Asil-versjonsnummer og din IP-adresse (som ikke vil bli oppbevart).</translation>
 <translation id="5299848999918506028">Takk skal du ha!</translation>
-<translation id="76550953340008122">Takk for at du ga beskjed til utviklerne av Brave om at noe er galt med dette nettstedet. Vi skal gjøre vårt beste for å rette det!</translation>
+<translation id="76550953340008122">Takk for at du ga beskjed til utviklerne av Asil om at noe er galt med dette nettstedet. Vi skal gjøre vårt beste for å rette det!</translation>
 <translation id="650318023204990401">Avanserte kontroller</translation>
 <translation id="1275664486910646411">Vis toppsider i autofullfør</translation>
 <translation id="5370478469168390143">Lagre data på nett</translation>
-<translation id="1118508688433541158">Gå raskere fra side til side og blokker annonser med Brave</translation>
-<translation id="7427391215172269363">Hver dag sparer jeg data ved å surfe på nettet med Brave.</translation>
-<translation id="4776948189086901857">Brave fungerer overalt</translation>
-<translation id="1606322780901645965">Last ned Brave på brave.com på din bærbare PC eller nettbrett for et raskere og mer privat nett</translation>
+<translation id="1118508688433541158">Gå raskere fra side til side og blokker annonser med Asil</translation>
+<translation id="7427391215172269363">Hver dag sparer jeg data ved å surfe på nettet med Asil.</translation>
+<translation id="4776948189086901857">Asil fungerer overalt</translation>
+<translation id="1606322780901645965">Last ned Asil på asil.com på din bærbare PC eller nettbrett for et raskere og mer privat nett</translation>
 <translation id="8374242949413616101">Personvernbeskyttelse</translation>
-<translation id="4955406228638026265">Brave hindrer annonser &amp; trackere i å samle inn informasjon om deg uten ditt samtykke.</translation>
+<translation id="4955406228638026265">Asil hindrer annonser &amp; trackere i å samle inn informasjon om deg uten ditt samtykke.</translation>
 <translation id="752842701893882688">Spar data og batteri</translation>
 <translation id="1685837926613452362">Uten annonser og sporingskapsler bruker nettsteder mindre data og batteri. Du kan til og med spare penger på operatørgebyrer.</translation>
 <translation id="5440744330377972191">Nettsteder lastes raskere</translation>
-<translation id="3000738865641747653">Mindre lasting av data betyr at nettsteder i Brave laster raskere – opptil 8x raskere enn andre nettlesere.</translation>
+<translation id="3000738865641747653">Mindre lasting av data betyr at nettsteder i Asil laster raskere – opptil 8x raskere enn andre nettlesere.</translation>
 <translation id="8903462729414407077">Få ukentlige oppdateringer</translation>
-<translation id="7450323860390658083">Hold deg informert om hvilke av nettstedene du besøker som er mest invaderende for personvernet.\n\nDet er bare du som kan se denne personvernstatistikken. Ingen personopplysninger eller historikk om nettleserbruk forlater noen gang Brave-nettleseren på enheten din.</translation>
+<translation id="7450323860390658083">Hold deg informert om hvilke av nettstedene du besøker som er mest invaderende for personvernet.\n\nDet er bare du som kan se denne personvernstatistikken. Ingen personopplysninger eller historikk om nettleserbruk forlater noen gang Asil-nettleseren på enheten din.</translation>
 <translation id="6170159749517116894">Slå på personvernrapporter</translation>
 <translation id="5966707198760109579">Uke</translation>
 <translation id="8987927404178983737">Måned</translation>
@@ -406,17 +406,17 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="3694122362646626770">Nettsteder</translation>
 <translation id="2225863440766607138">Trackere</translation>
 <translation id="2993367530362078067"><ph name="COUNT"/><ph name="COUNT_TEXT"/></translation>
-<translation id="6737820963776538947">Du har blokkert <ph name="COUNT"/> trackere &amp; annonser med Brave-nettleseren de siste 3 timene.</translation>
-<translation id="3621193901658023971">Opp til 6 ganger raskere nettleserbruk på viktige nyhetsnettsteder i Brave ved å blokkere trackere &amp; annonser.</translation>
+<translation id="6737820963776538947">Du har blokkert <ph name="COUNT"/> trackere &amp; annonser med Asil-nettleseren de siste 3 timene.</translation>
+<translation id="3621193901658023971">Opp til 6 ganger raskere nettleserbruk på viktige nyhetsnettsteder i Asil ved å blokkere trackere &amp; annonser.</translation>
 <translation id="7427567994475794038">Slå på Personvernrapporter for å se hvor mange trackere og annonser som har blitt blokkert de siste 3 timene.</translation>
-<translation id="2053891538879944400">Du lagret <ph name="DATA"/> <ph name="DATA_TEXT"/> data med Brave-nettleseren.</translation>
+<translation id="2053891538879944400">Du lagret <ph name="DATA"/> <ph name="DATA_TEXT"/> data med Asil-nettleseren.</translation>
 <translation id="8640064498452534195">Slå på Personvernrapporter for å se hvor mye data du har spart.</translation>
-<translation id="2252497442547961651">Brave-nettleseren bruker i gjennomsnitt 40 % mindre batteri.🔋</translation>
-<translation id="1945330434665345785">Du blokkerte <ph name="COUNT"/> trackere &amp; annonser med Brave-nettleseren  forrige uke.</translation>
+<translation id="2252497442547961651">Asil-nettleseren bruker i gjennomsnitt 40 % mindre batteri.🔋</translation>
+<translation id="1945330434665345785">Du blokkerte <ph name="COUNT"/> trackere &amp; annonser med Asil-nettleseren  forrige uke.</translation>
 <translation id="2883868922264431515">Tjen polletter ved å se annonser som repekterer personvernet ditt og støtt favorittnettstedene dine.</translation>
 <translation id="7408493389591475748">Begynn å bruke nettleseren for å se personvernrapportering</translation>
-<translation id="9080777565335515917">Sett Brave som din standardnettleser for privat og trygg weblesing.</translation>
-<translation id="1390943217516275883">Lar Brave vise statistikken din for personvern</translation>
+<translation id="9080777565335515917">Sett Asil som din standardnettleser for privat og trygg weblesing.</translation>
+<translation id="1390943217516275883">Lar Asil vise statistikken din for personvern</translation>
 <translation id="1763352720905582220">Sender en ukentlig personvernrapport</translation>
 <translation id="1811691435325545066">Slett alle personvernrapport-data</translation>
 <translation id="5966003059662780423">Fjern data ved lukking</translation>
@@ -435,8 +435,8 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="631124996535890460">Ved å fortsette samtykker du til <ph name="TERMS_OF_SERVICE"/> og <ph name="PRIVACY_POLICY"/>.</translation>
 <translation id="8804164990146287819">Personvernerklæring</translation>
 <translation id="185034574799484512">La oss ta en rask omvisning</translation>
-<translation id="7930505144430343145">Velkommen til Brave Rewards!</translation>
-<translation id="3477340970981564961">Brave Private Ads belønner deg med polletter for å støtte innholdsskapere, i motsetning til tradisjonelle annonser – samtidig som den personlige informasjonen din beskyttes.</translation>
+<translation id="7930505144430343145">Velkommen til Asil Rewards!</translation>
+<translation id="3477340970981564961">Asil Private Ads belønner deg med polletter for å støtte innholdsskapere, i motsetning til tradisjonelle annonser – samtidig som den personlige informasjonen din beskyttes.</translation>
 <translation id="6973095375773523904">Hvor vises annonsene?</translation>
 <translation id="7712287524451429139">Gi tilbake uten anstrengelser</translation>
 <translation id="105037569026952831">Skapere mottar pollettbidragene dine automatisk basert på engasjementsnivåene dine, som vi måler som "Oppmerksomhet".</translation>
@@ -444,7 +444,7 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="3494356595346329740">Du kan endre dette senere.</translation>
 <translation id="3115702351969988294">Hvor ofte ønsker du å se annonser?</translation>
 <translation id="827315274423079662">Hurra, du er helt klar!</translation>
-<translation id="3895246934788932488">Ved å bruke Brave Rewards styrker du personvernet ditt og bidrar til å gjøre nettet til et bedre sted for alle. Det er bare fantastisk!</translation>
+<translation id="3895246934788932488">Ved å bruke Asil Rewards styrker du personvernet ditt og bidrar til å gjøre nettet til et bedre sted for alle. Det er bare fantastisk!</translation>
 <translation id="5705882733397021510">Gå tilbake</translation>
 <translation id="3985567919248057638">La oss ta en kjapp omvisning</translation>
 <translation id="7889432931837317731">Åpne automatisk når mulig</translation>
@@ -468,8 +468,8 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="1689062823386843231">Deaktiver ikke-proxied UDP</translation>
 <translation id="1483493594462132177">Send</translation>
 <translation id="538450413584738399">Bytt</translation>
-<translation id="1420318137760245955">Velkommen til den nye Brave-lommeboken</translation>
-<translation id="8339846196588658366">Hold kryptoaktivaene dine nært og følg prestasjonen til porteføljen din. Alt i den personvernfokuserte nettleseren fra Brave.</translation>
+<translation id="1420318137760245955">Velkommen til den nye Asil-lommeboken</translation>
+<translation id="8339846196588658366">Hold kryptoaktivaene dine nært og følg prestasjonen til porteføljen din. Alt i den personvernfokuserte nettleseren fra Asil.</translation>
 <translation id="4472575034687746823">Kom i gang</translation>
 <translation id="2759836790106646094">Ta sikkerhetskopi av lommeboken din nå!</translation>
 <translation id="1078873179929044999">I neste trinn får du se en setning for gjenoppretting på 12 ord, som du kan bruke til å gjenopprette de primære kryptokontoene dine. Oppbevar det et trygt sted. Gjenopprettingssetningen din er den eneste måten du kan få tilbake kontotilgangen om du har glemt passordet, tapt eller blitt frastjålet enheten, eller du ønsker å bytte lommebok.</translation>
@@ -507,13 +507,13 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="8030647312184163932">Opplåsing med fingeravtrykk</translation>
 <translation id="4090490645603511157">Bruk biometri for raskt å låse opp lommeboken uten å skrive inn passordet ditt.</translation>
 <translation id="1544192797660353713">Lommebok</translation>
-<translation id="6901810042765869341">Angi gjenopprettingsfrasen for å gjenopprette Brave Wallet-kryptokontoen din.</translation>
+<translation id="6901810042765869341">Angi gjenopprettingsfrasen for å gjenopprette Asil Wallet-kryptokontoen din.</translation>
 <translation id="9120654436199628567">Gjenopprette kryptokonto</translation>
 <translation id="4811736040444856406">Vis gjenopprettingsfrase</translation>
 <translation id="283071225285270357">Angi gjenopprettingsfrasen</translation>
 <translation id="3943857333388298514">Lim inn</translation>
 <translation id="3331452756822160641">Nytt passord</translation>
-<translation id="4359319875297001084">Vil du importere fra utrangerte Brave-kryptolommebøker?</translation>
+<translation id="4359319875297001084">Vil du importere fra utrangerte Asil-kryptolommebøker?</translation>
 <translation id="2339124864228588937">Bekreft gjenopprettingsfrase</translation>
 <translation id="3747079125031086337">Velg ordene i sikkerhetsfrasen din i riktig rekkefølge.</translation>
 <translation id="6518133107902771759">Bekreft</translation>
@@ -544,8 +544,8 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="5698094150392720512">1 måned</translation>
 <translation id="5483736362376139517">1 år</translation>
 <translation id="6979737339423435258">Alle datoer</translation>
-<translation id="6284218950354553099">Automatisk ping dagsforbruk til Brave</translation>
-<translation id="5288333155754958121">Denne anonyme, private pingen gjør at Brave kan estimere antall aktive brukere.</translation>
+<translation id="6284218950354553099">Automatisk ping dagsforbruk til Asil</translation>
+<translation id="5288333155754958121">Denne anonyme, private pingen gjør at Asil kan estimere antall aktive brukere.</translation>
 <translation id="3819257035322786455">Sikkerhetskopi</translation>
 <translation id="4608713693379664295">Primære kryptokontoer</translation>
 <translation id="4003821417160006384">Sekundære kontoer</translation>
@@ -561,15 +561,15 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="5050890334032852465">Lagre kontoliste</translation>
 <translation id="7755766175599167100">Søk etter tokener</translation>
 <translation id="3835223348537121988">Saldo:</translation>
-<translation id="8488282162676695335">Brave-lommebok</translation>
+<translation id="8488282162676695335">Asil-lommebok</translation>
 <translation id="3784455785234192852">Lås</translation>
 <translation id="3866249974567520381">Beskrivelse</translation>
 <translation id="4378475168089649292">Blockchain</translation>
 <translation id="9033453977881595182">Token-ID</translation>
-<translation id="8239147115686034860">Lås Brave-lommeboken automatisk</translation>
-<translation id="414639769490080648">Antall minutter før Brave-lommeboken automatisk låses</translation>
-<translation id="4993345308607970390">Tilbakestill Brave-lommebok</translation>
-<translation id="4322846864135539519">Er du sikker på at du vil tilbakestille Brave-belønningene dine? Hvis du ikke har sikkerhetskopiert lommeboken din, vil dette gjøre at du mister alle kontodataene (inkludert tilknyttede midler). Skriv inn «<ph name="CONFIRMATION_PHRASE"/>» for å bekrefte dette.</translation>
+<translation id="8239147115686034860">Lås Asil-lommeboken automatisk</translation>
+<translation id="414639769490080648">Antall minutter før Asil-lommeboken automatisk låses</translation>
+<translation id="4993345308607970390">Tilbakestill Asil-lommebok</translation>
+<translation id="4322846864135539519">Er du sikker på at du vil tilbakestille Asil-belønningene dine? Hvis du ikke har sikkerhetskopiert lommeboken din, vil dette gjøre at du mister alle kontodataene (inkludert tilknyttede midler). Skriv inn «<ph name="CONFIRMATION_PHRASE"/>» for å bekrefte dette.</translation>
 <translation id="4862812525895306758">Fjern transaksjons- og nonce-info</translation>
 <translation id="5693968582510626466">Sletting av transaksjoner kan være nyttig for utviklere eller ved sletting av tilstanden på en lokal server</translation>
 <translation id="5421107279168565467">Er du sikker på at du vil tilbakestille transaksjons- og nonce-informasjonen? Dette alternativet brukes primært av utviklere som kjører en lokal testserver. Skriv inn «<ph name="CONFIRMATION_PHRASE"/>» for å bekrefte valget.</translation>
@@ -580,7 +580,7 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="1721710839767183848">Ingen annonser på siden</translation>
 <translation id="4647035642622555398">Ingen avbrytelser</translation>
 <translation id="4122515759479497554">Søk etter videoer</translation>
-<translation id="4449475351935531438">Brave brannmur + VPN</translation>
+<translation id="4449475351935531438">Asil brannmur + VPN</translation>
 <translation id="719977489961414786">Oppgrader til en VPN for å sikre tilkoblingen din og blokkere invaderende trackere hvor som helst.</translation>
 <translation id="3435896845095436175">Slå på</translation>
 <translation id="8814357473522731680">Driftet av</translation>
@@ -607,7 +607,7 @@ Er du sikker på at du vil gjøre dette?</translation>
 <translation id="6053992191006521518">Prøv GRATIS</translation>
 <translation id="721747358270435486">Installer VPN</translation>
 <translation id="836074276610740314">Installer VPN-profil</translation>
-<translation id="8021842065465097929">Brave vil nå installere en VPN-profil.</translation>
+<translation id="8021842065465097929">Asil vil nå installere en VPN-profil.</translation>
 <translation id="229286271464650057">Denne profilen tillater at VPN kobles til automatisk og sikrer trafikken på enheten din – i alle apper, hele tiden. Denne VPN-tilkoblingen blir kryptert og rutet gjennom Guardians intelligente brannmur for å blokkere annonser og trackere.</translation>
 <translation id="9073255657908892407">Kontakt teknisk brukerstøtte</translation>
 <translation id="1139934321138152517">VPN er nå aktivert</translation>
@@ -702,14 +702,14 @@ Hvis du ikke godtar forespørselen, kobler ikke VPN seg opp igjen, og internetti
 <translation id="1165039591588034296">Feil</translation>
 <translation id="8364362220156372884">Avgift: <ph name="VALUE"/> <ph name="CHAIN_ASSET"/> ($<ph name="FIAT_VALUE"/>)</translation>
 <translation id="2561824823738097741">Bruker du den raskeste nettleseren?</translation>
-<translation id="2065971949051836200">Tre ganger raskere Internett er allerede på telefonen din. Bruk Brave for all nettsurfingen din.</translation>
-<translation id="2888278614497184977">Brave = Tre ganger raskere nettsurfing</translation>
+<translation id="2065971949051836200">Tre ganger raskere Internett er allerede på telefonen din. Bruk Asil for all nettsurfingen din.</translation>
+<translation id="2888278614497184977">Asil = Tre ganger raskere nettsurfing</translation>
 <translation id="6887232551109532144">Få lengre batterilevetid ved hver opplading</translation>
-<translation id="5388885352353494741">Batterisparing er bare et skritt unna. Bruk Brave for all nettsurfingen din.</translation>
-<translation id="3164151360474408351">Brave = mer liv ved hver opplading</translation>
+<translation id="5388885352353494741">Batterisparing er bare et skritt unna. Bruk Asil for all nettsurfingen din.</translation>
+<translation id="3164151360474408351">Asil = mer liv ved hver opplading</translation>
 <translation id="3211051910418903298">Fyll på mobildataen din sjeldnere</translation>
-<translation id="1092355580602106002">Færre annonser = mindre data på hver side du laster inn. Bruk Brave for all nettsurfingen din.</translation>
-<translation id="623962032102267945">Brave = mindre mobildata på hver side</translation>
+<translation id="1092355580602106002">Færre annonser = mindre data på hver side du laster inn. Bruk Asil for all nettsurfingen din.</translation>
+<translation id="623962032102267945">Asil = mindre mobildata på hver side</translation>
 <translation id="4355217341028673744">• Bedre personvern</translation>
 <translation id="3679020972083025535">• Ingen plagsomme annonser</translation>
 <translation id="8047527352810290817">Rediger «gas»</translation>
@@ -725,9 +725,9 @@ Hvis du ikke godtar forespørselen, kobler ikke VPN seg opp igjen, og internetti
 <translation id="1254969878422524947">Tipsgrense per «gas» (Gwei)</translation>
 <translation id="7373308452149471621">Prisgrense per «gas» (Gwei)</translation>
 <translation id="5891811606602061966">Kunne ikke importere kontoen – prøv på nytt.</translation>
-<translation id="1822506443689803572">Brave bruker <ph name="DEX_PROVIDER"/> som en DEX-aggregator.</translation>
+<translation id="1822506443689803572">Asil bruker <ph name="DEX_PROVIDER"/> som en DEX-aggregator.</translation>
 <translation id="5061574358754621254">Prisdata levert av CoinGecko</translation>
-<translation id="4626407663177532837">Tilbudet omfatter en Brave-avgift på 0,875 %.</translation>
+<translation id="4626407663177532837">Tilbudet omfatter en Asil-avgift på 0,875 %.</translation>
 <translation id="8574289650879708853">Legg til egendefinert ressurs</translation>
 <translation id="1974060860693918893">Avansert</translation>
 <translation id="7791543448312431591">Legg til</translation>
@@ -782,7 +782,7 @@ Hvis du ikke godtar forespørselen, kobler ikke VPN seg opp igjen, og internetti
 <translation id="4945690646623486292">Velg nettverk</translation>
 <translation id="8853725596990766789">Endre beløp</translation>
 <translation id="5233638681132016545">Ny fane</translation>
-<translation id="8006088103295786154">Gå til Brave-lommeboken</translation>
+<translation id="8006088103295786154">Gå til Asil-lommeboken</translation>
 <translation id="8030169304546394654">Koblet fra</translation>
 <translation id="3423275441470187644">Godta</translation>
 <translation id="2391762656119864333">Opphev</translation>
@@ -791,7 +791,7 @@ Hvis du ikke godtar forespørselen, kobler ikke VPN seg opp igjen, og internetti
 <translation id="3897092660631435901">Meny</translation>
 <translation id="42981349822642051">Utvid</translation>
 <translation id="3586752056660754651">Undertegn</translation>
-<translation id="6592721981110586529">Koble til Brave-lommeboken</translation>
+<translation id="6592721981110586529">Koble til Asil-lommeboken</translation>
 <translation id="329813193938846695">Velg konto(er)</translation>
 <translation id="291375746846291973">Koble kun til nettsteder som du stoler på.</translation>
 <translation id="385051799172605136">Tilbake</translation>
@@ -802,10 +802,10 @@ Hvis du ikke godtar forespørselen, kobler ikke VPN seg opp igjen, og internetti
 <translation id="5242300593039211344">Lås lommeboken</translation>
 <translation id="1108298724135935307">Tilkoblede nettsteder</translation>
 <translation id="4255623233927788178">Vis i Block Explorer</translation>
-<translation id="8274201358637112807">Denne siden vil koble til Brave-lommeboken</translation>
+<translation id="8274201358637112807">Denne siden vil koble til Asil-lommeboken</translation>
 <translation id="3355936511340229503">Tilkoblingsfeil</translation>
 <translation id="4891604214809245310">Kan ikke sette nettverket til <ph name="NETWORK_NAME"/></translation>
-<translation id="685345388423515592">Det ser ut til at du har andre VPN-tilkoblinger på denne enheten som er satt til «Alltid på». For å aktivere Brave-brannmuren + VPN, må du slå av «Alltid på»-innstillingen for de andre VPN-tilkoblingene før du kobler til igjen. Hvis problemet vedvarer, kan du prøve å avinstallere de andre VPN-ene.</translation>
+<translation id="685345388423515592">Det ser ut til at du har andre VPN-tilkoblinger på denne enheten som er satt til «Alltid på». For å aktivere Asil-brannmuren + VPN, må du slå av «Alltid på»-innstillingen for de andre VPN-tilkoblingene før du kobler til igjen. Hvis problemet vedvarer, kan du prøve å avinstallere de andre VPN-ene.</translation>
 <translation id="85136472535634474">Åpne VPN-innstillingene</translation>
 <translation id="8352805003811526272">Tilbakestiller konfigurasjonen …</translation>
 <translation id="6809312301323611382">Du har allerede valgt samme server.</translation>
@@ -825,21 +825,21 @@ Hvis du ikke godtar forespørselen, kobler ikke VPN seg opp igjen, og internetti
 <translation id="4822132585477111396">Blokkjede</translation>
 <translation id="7131971375297699539">Valutasymbol</translation>
 <translation id="7982789257301363584">Nettverk</translation>
-<translation id="6936860995365507185">Dette vil tillate at dette nettverket brukes i Brave-lommeboken. <ph name="CLICK_START"/>Finn ut mer<ph name="CLICK_END"/>.</translation>
+<translation id="6936860995365507185">Dette vil tillate at dette nettverket brukes i Asil-lommeboken. <ph name="CLICK_START"/>Finn ut mer<ph name="CLICK_END"/>.</translation>
 <translation id="4717431746210146708">Vil du tillate at denne nettsiden legger til et nettverk?</translation>
 <translation id="4857321293515555666">Denne DApp-en vil lese denne meldingen for å fullføre forespørselen din.</translation>
 <translation id="714506544401754321">Dekrypter melding</translation>
 <translation id="5039804452771397117">Tillat</translation>
 <translation id="3378339846292573874">Legg til foreslåtte token</translation>
 <translation id="2322227405137827074">Ønsker du å legge til dette tokenet?</translation>
-<translation id="1324417023773393937">Brave-nettleser</translation>
-<translation id="6044189892950611565">Varslingskanal for Brave-nettleseren</translation>
+<translation id="1324417023773393937">Asil-nettleser</translation>
+<translation id="6044189892950611565">Varslingskanal for Asil-nettleseren</translation>
 <translation id="1173919438868967364">Velg konto</translation>
 <translation id="8922793255489232731">Kunne ikke finne tidssonen for: <ph name="VALUE"/></translation>
 <translation id="6471216025161697462">Koblet til <ph name="VALUE"/></translation>
 <translation id="1968852757206592413">Prøveperiode</translation>
 <translation id="7733890291091968191">Vis Web3-varsler</translation>
-<translation id="1371627247679035769">\n\n\n\n#### Brave verken sporer deg eller vet hvordan du bruker appen vår, så vi vet ikke hvordan du har satt opp VPN-nettverket. Fortell oss om problemet du opplever, så gjør vi vårt beste for å løse det så raskt vi kan. ####\n\n</translation>
+<translation id="1371627247679035769">\n\n\n\n#### Asil verken sporer deg eller vet hvordan du bruker appen vår, så vi vet ikke hvordan du har satt opp VPN-nettverket. Fortell oss om problemet du opplever, så gjør vi vårt beste for å løse det så raskt vi kan. ####\n\n</translation>
 <translation id="3367162038532116157">\n\nVPN Vertsnavn\n <ph name="VALUE"/></translation>
 <translation id="6173438324126027458">\n\nAbonnementstype\n <ph name="VALUE"/></translation>
 <translation id="1478875290576741766">\n\nPlaystore-token\n <ph name="VALUE"/></translation>
@@ -868,11 +868,11 @@ Hvis du ikke godtar forespørselen, kobler ikke VPN seg opp igjen, og internetti
 <translation id="1065082006518490444"><ph name="APP_NAME"/> er en uavhengig tjeneste som hjelper deg å brygge bro mellom ressurser på tvers av nettverk, og bruke kryptoen din i andre nettverk og DApp-økosystemer. Å bygge broer mellom nettverk kan noen ganger være forbudet med en viss risiko.</translation>
 <translation id="8423380132356660250">Åpne <ph name="APP_NAME"/>-appen</translation>
 <translation id="168154537623654021">Oppdaterer VPN-profilen ...</translation>
-<translation id="7457027586454688423">Skriv inn passordet til Brave-lommeboken din</translation>
+<translation id="7457027586454688423">Skriv inn passordet til Asil-lommeboken din</translation>
 <translation id="6588595775439619209">Blokker informasjonskapsel-varsler</translation>
 <translation id="264682546981571963">Lei av meldinger om å godta informasjonskapsler?</translation>
-<translation id="4986297793092101884">Brave blokkerer allerede informasjonskapsler fra tredjepart. Vi kan blokkere meldinger om å godta informasjonskapsler også.</translation>
-<translation id="4784306439879850873">Merk at Brave ikke kan verifisere hva som skjer hvis du signerer. En signatur kan autorisere praktisk talt enhver operasjon på kontoen din på dine vegne, inkludert (men ikke begrenset til) å gi total kontroll over kontoen din og kryptoressursene sine til nettstedet som kommer med forespørselen. Du må bare signere hvis du er sikker på at du vil utføre denne handlingen, og stoler på nettstedet som kommer med forespørselen.</translation>
+<translation id="4986297793092101884">Asil blokkerer allerede informasjonskapsler fra tredjepart. Vi kan blokkere meldinger om å godta informasjonskapsler også.</translation>
+<translation id="4784306439879850873">Merk at Asil ikke kan verifisere hva som skjer hvis du signerer. En signatur kan autorisere praktisk talt enhver operasjon på kontoen din på dine vegne, inkludert (men ikke begrenset til) å gi total kontroll over kontoen din og kryptoressursene sine til nettstedet som kommer med forespørselen. Du må bare signere hvis du er sikker på at du vil utføre denne handlingen, og stoler på nettstedet som kommer med forespørselen.</translation>
 <translation id="3474375934783434676">Signer på egen risiko</translation>
 <translation id="7134370164002095282"><ph name="CURRENT"/> av <ph name="SIZE"/></translation>
 <translation id="756701799684433105">Godkjenn transaksjon</translation>
@@ -920,8 +920,8 @@ Hvis du ikke godtar forespørselen, kobler ikke VPN seg opp igjen, og internetti
 <translation id="583281660410589416">Ukjent</translation>
 <translation id="2862978891748913252">Velg landet ditt</translation>
 <translation id="3832588024105436400">Velg landet ditt, så vi kan vise deg de riktige alternativene og annonsene for regionen din. <ph name="PRIVACY_POLICY"/></translation>
-<translation id="5666264859501108700">Brave Rewards-regionen din er angitt som <ph name="COUNTRY_NAME"/></translation>
-<translation id="909076461795862330">Dessverre oppstod det en feil under forsøket på å konfigurere Brave Rewards. Prøv på nytt.</translation>
+<translation id="5666264859501108700">Asil Rewards-regionen din er angitt som <ph name="COUNTRY_NAME"/></translation>
+<translation id="909076461795862330">Dessverre oppstod det en feil under forsøket på å konfigurere Asil Rewards. Prøv på nytt.</translation>
 <translation id="7352651011704765696">Noe gikk galt</translation>
 <translation id="7144878232160441200">Prøv på nytt</translation>
 <translation id="6040143037577758943">Lukk</translation>
@@ -930,24 +930,24 @@ Hvis du ikke godtar forespørselen, kobler ikke VPN seg opp igjen, og internetti
 <translation id="8496335570810457">Preflight-forpliktelse:</translation>
 <translation id="5100124500279922001">Hopp over Preflight:</translation>
 <translation id="7152095322071766507">Mest besøkte side</translation>
-<translation id="7230006500876504868">Søk med Brave</translation>
+<translation id="7230006500876504868">Søk med Asil</translation>
 <translation id="5888208462949095139">Søk med <ph name="DEFAULT_SEARCH_ENGINE"/></translation>
 <translation id="5456039738087398178">Widget for Hjem-skjerm</translation>
 <translation id="703185154752046151">Widget lagt til Hjem-skjermen</translation>
-<translation id="3290805388004282161">Prøv Brave-søkewidgeten</translation>
+<translation id="3290805388004282161">Prøv Asil-søkewidgeten</translation>
 <translation id="4809681171446727314">Få tilgang til private, uavhengige søk rett fra Hjem-skjermen.</translation>
 <translation id="7751715172931488388">Legg til widget</translation>
-<translation id="7285167584112910782">Brave-hurtigsøk</translation>
-<translation id="2326703104633309781">Bruk Brave Translate</translation>
+<translation id="7285167584112910782">Asil-hurtigsøk</translation>
+<translation id="2326703104633309781">Bruk Asil Translate</translation>
 <translation id="5802752138057422257">Ikke-ASCII-tegn funnet!</translation>
 <translation id="442709594176931966">Vis opprinnelig melding</translation>
 <translation id="2239252396088484499">Vis meldingen i ASCII-koding</translation>
 <translation id="4220693114674044366">Token-adresse</translation>
-<translation id="5658257029899993935">Link kjøpet til Brave-kontoen din</translation>
-<translation id="1187061015547219282">Link Play Store-kjøpet til Brave-kontoen din for å bruke Brave VPN på andre enheter.</translation>
+<translation id="5658257029899993935">Link kjøpet til Asil-kontoen din</translation>
+<translation id="1187061015547219282">Link Play Store-kjøpet til Asil-kontoen din for å bruke Asil VPN på andre enheter.</translation>
 <translation id="6662142137695589205">Link VPN-abonnementet ditt</translation>
-<translation id="2674077112509133024">Utvid Brave Firewall+VPN-beskyttelsen</translation>
-<translation id="6365389672683343144">Brave VPN-abonnementet kan sikre opptil 5 enheter – på tvers av Android, iOS og PC/Mac. Bare link Google Play-abonnementet til Brave-kontoen, så er du i gang.</translation>
+<translation id="2674077112509133024">Utvid Asil Firewall+VPN-beskyttelsen</translation>
+<translation id="6365389672683343144">Asil VPN-abonnementet kan sikre opptil 5 enheter – på tvers av Android, iOS og PC/Mac. Bare link Google Play-abonnementet til Asil-kontoen, så er du i gang.</translation>
 <translation id="6278643716658443228">Rewards-innstillinger</translation>
 <translation id="579702532610384533">Tilkoble på nytt</translation>
 <translation id="1619753851206150396">Du er logget ut.</translation>
@@ -956,9 +956,9 @@ Hvis du ikke godtar forespørselen, kobler ikke VPN seg opp igjen, og internetti
 <translation id="9074594632540931067">Feil: BAT utilgjengelig</translation>
 <translation id="5382684862562314222">BAT støttes ikke enda i regionen din på Uphold.</translation>
 <translation id="6996157559236886133">Feil: Begrenset Uphold-kontofunksjonalitet</translation>
-<translation id="6417420737057016607">Brave-annonser</translation>
-<translation id="5425006356459378415">Brave Rewards er ikke tilgjengelig</translation>
-<translation id="833643743158564518">Nye registreringer for Brave-belønninger er deaktivert for din region for tiden. Du kan alltids prøve igjen senere. <ph name="LEARN_MORE"/></translation>
+<translation id="6417420737057016607">Asil-annonser</translation>
+<translation id="5425006356459378415">Asil Rewards er ikke tilgjengelig</translation>
+<translation id="833643743158564518">Nye registreringer for Asil-belønninger er deaktivert for din region for tiden. Du kan alltids prøve igjen senere. <ph name="LEARN_MORE"/></translation>
 <translation id="8528916244724490964">Alle nettverk</translation>
 <translation id="2781668117338732220">Sekundære nettverk</translation>
 <translation id="6309721369749814582">Domenet <ph name="DOMAIN"/> er ikke registrert</translation>

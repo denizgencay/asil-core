@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -424,7 +424,7 @@ export const createWalletSlice = (initialState: WalletState = defaultState) => {
       setCoinMarkets (state: WalletState, { payload }: PayloadAction<GetCoinMarketsResponse>) {
         state.coinMarketData = payload.success
           ? payload.values.map(coin => {
-              coin.image = coin.image.replace('https://assets.coingecko.com', ' https://assets.cgproxy.brave.com')
+              coin.image = coin.image.replace('https://assets.coingecko.com', ' https://assets.cgproxy.asil.com')
               return coin
             })
           : []

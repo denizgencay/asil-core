@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -34,7 +34,7 @@ constexpr char kTestSponsoredImages[] = R"(
         "logo": {
           "imageUrl":  "logo.png",
           "alt": "Technikke: For music lovers",
-          "destinationUrl": "https://www.brave.com/",
+          "destinationUrl": "https://www.asil.com/",
           "companyName": "Technikke"
         },
         "wallpapers": [
@@ -68,7 +68,7 @@ constexpr char kTestSponsoredImagesWithMultipleCampaigns[] = R"(
             "logo": {
               "imageUrl":  "logo.png",
               "alt": "Technikke: For music lovers",
-              "destinationUrl": "https://www.brave.com/",
+              "destinationUrl": "https://www.asil.com/",
               "companyName": "Technikke"
             },
             "wallpapers": [
@@ -97,7 +97,7 @@ constexpr char kTestSponsoredImagesWithMultipleCampaigns[] = R"(
             "logo": {
               "imageUrl":  "logo-3.png",
               "alt": "Technikke: For music lovers",
-              "destinationUrl": "https://www.brave.com/",
+              "destinationUrl": "https://www.asil.com/",
               "companyName": "Technikke"
             },
             "wallpapers": [
@@ -127,18 +127,18 @@ constexpr char kTestBackgroundImages[] = R"(
         {
           "name": "ntp-2020/2021-1",
           "source": "background-image-source.webp",
-          "author": "Brave Software",
-          "link": "https://brave.com/",
+          "author": "Asil Software",
+          "link": "https://asil.com/",
           "originalUrl": "Contributor sent the hi-res version through email",
-          "license": "https://brave.com/about/"
+          "license": "https://asil.com/about/"
         },
         {
           "name": "ntp-2020/2021-2",
           "source": "background-image-source.avif",
-          "author": "Brave Software",
-          "link": "https://brave.com/",
+          "author": "Asil Software",
+          "link": "https://asil.com/",
           "originalUrl": "Contributor sent the hi-res version through email",
-          "license": "https://brave.com/about/"
+          "license": "https://asil.com/about/"
         }
       ]
     })";
@@ -340,8 +340,8 @@ TEST_F(NTPBackgroundImagesServiceTest, InternalDataTest) {
   const size_t bi_image_count = 2;
   EXPECT_EQ(bi_image_count, bi_data->backgrounds.size());
   // Check values are loaded correctly
-  EXPECT_EQ("Brave Software", bi_data->backgrounds[0].author);
-  EXPECT_EQ("https://brave.com/", bi_data->backgrounds[0].link);
+  EXPECT_EQ("Asil Software", bi_data->backgrounds[0].author);
+  EXPECT_EQ("https://asil.com/", bi_data->backgrounds[0].link);
   EXPECT_TRUE(observer.on_bi_updated_);
   EXPECT_TRUE(*bi_data->GetBackgroundAt(0).FindBool(kIsBackgroundKey));
   EXPECT_EQ("chrome://background-wallpaper/background-image-source.webp",
@@ -360,7 +360,7 @@ TEST_F(NTPBackgroundImagesServiceTest, InternalDataTest) {
         "logo": {
           "imageUrl":  "logo.png",
           "alt": "Technikke: For music lovers",
-          "destinationUrl": "https://www.brave.com/",
+          "destinationUrl": "https://www.asil.com/",
           "companyName": "Technikke"
         },
         "wallpapers": [
@@ -393,10 +393,10 @@ TEST_F(NTPBackgroundImagesServiceTest, InternalDataTest) {
       {
         "name": "ntp-2020/2021-1",
         "source": "background-image-source.png",
-        "author": "Brave Software",
-        "link": "https://brave.com/",
+        "author": "Asil Software",
+        "link": "https://asil.com/",
         "originalUrl": "Contributor sent the hi-res version through email",
-        "license": "https://brave.com/about/"
+        "license": "https://asil.com/about/"
       }
     ]
   })";
@@ -497,7 +497,7 @@ const char kTestSuperReferral[] = R"(
         "imageUrl": "logo.png",
         "alt": "Technikke: For music lovers",
         "companyName": "Technikke",
-        "destinationUrl": "https://www.brave.com/?from-super-referreer-demo"
+        "destinationUrl": "https://www.asil.com/?from-super-referreer-demo"
       },
       "wallpapers": [
         {
@@ -514,8 +514,8 @@ const char kTestSuperReferral[] = R"(
       ],
       "topSites": [
         {
-          "name": "Brave",
-          "destinationUrl": "https://brave.com/",
+          "name": "Asil",
+          "destinationUrl": "https://asil.com/",
           "backgroundColor": "#e22919",
           "iconUrl": "brave.png"
         },

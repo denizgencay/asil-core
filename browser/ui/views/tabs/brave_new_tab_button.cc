@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * you can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -35,7 +35,7 @@ SkPath BraveNewTabButton::GetBorderPath(const gfx::Point& origin,
                                         bool extend_to_top,
                                         int corner_radius,
                                         const gfx::Size& contents_bounds) {
-  // Overriden to use Brave's non-circular shape
+  // Overriden to use Asil's non-circular shape
   gfx::PointF scaled_origin(origin);
   scaled_origin.Scale(scale);
   const float radius = corner_radius * scale;
@@ -52,7 +52,7 @@ SkPath BraveNewTabButton::GetBorderPath(const gfx::Point& origin,
 }
 
 gfx::Size BraveNewTabButton::CalculatePreferredSize() const {
-  // Overriden so that we use Brave's custom button size
+  // Overriden so that we use Asil's custom button size
   gfx::Size size = kButtonSize;
   const auto insets = GetInsets();
   size.Enlarge(insets.width(), insets.height());

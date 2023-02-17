@@ -1,4 +1,4 @@
-// Copyright (c) 2023 The Brave Authors. All rights reserved.
+// Copyright (c) 2023 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -35,7 +35,7 @@ base::Value GetItem(std::string url) {
 }  // namespace
 
 TEST(BraveNewsFeedParsing, Success) {
-  // Create an entry which should be valid as a Brave News item
+  // Create an entry which should be valid as a Asil News item
   auto item = GetItem("https://www.hello.com");
   base::Value::List list;
   list.Append(std::move(item));
@@ -49,7 +49,7 @@ TEST(BraveNewsFeedParsing, Success) {
 }
 
 TEST(BraveNewsFeedParsing, FailBadProtocol) {
-  // Create an entry which should be invalid as a Brave News item
+  // Create an entry which should be invalid as a Asil News item
   // A chrome: protocol should not be allowed
   auto item = GetItem("chrome://settings");
   base::Value::List list;

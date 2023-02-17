@@ -23,7 +23,7 @@ TEST_F(BatAdsStaticServerHostTest, GetProductionHost) {
   const std::string host = server::GetStaticHost();
 
   // Assert
-  const std::string expected_host = "https://static.ads.brave.com";
+  const std::string expected_host = "https://static.ads.asil.com";
   EXPECT_EQ(expected_host, host);
 }
 

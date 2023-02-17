@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -9,7 +9,7 @@
 namespace brave_search_conversion {
 
 constexpr char kBraveSearchConversionPromotionURL[] =
-    "https://search.brave.com/search?q={SearchTerms}&action=makeDefault";
+    "https://search.asil.com/search?q={SearchTerms}&action=makeDefault";
 constexpr char kSearchTermsParameter[] = "{SearchTerms}";
 
 }  // namespace brave_search_conversion

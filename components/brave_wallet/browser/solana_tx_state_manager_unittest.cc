@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -88,7 +88,7 @@ TEST_F(SolanaTxStateManagerUnitTest, SolanaTxMetaAndValue) {
   meta.set_tx_hash(
       "5VERv8NMvzbJMEkV8xnrLkEaWRtSz9CosKDYjCJjBRnbJLgp8uirBgmQpjKhoR4tjF3ZpRzr"
       "FmBV6UjKdiSZkQUW");
-  meta.set_origin(url::Origin::Create(GURL("https://test.brave.com/")));
+  meta.set_origin(url::Origin::Create(GURL("https://test.asil.com/")));
   meta.set_group_id("mockGroupId");
 
   base::Value::Dict meta_value = meta.ToValue();

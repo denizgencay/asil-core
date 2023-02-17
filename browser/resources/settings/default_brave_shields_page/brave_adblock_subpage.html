@@ -1,6 +1,6 @@
 <style include="cr-shared-style settings-shared iron-flex">
   :root {
-    --brave-primary-hover: #ff977d;
+    --brave-primary-hover: #ff977d !important;
     --selected-background-color: #F8F9FA;
     --table-header-background-color: #E9E9F4;
     --tinted-color: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 97.4%);
@@ -285,7 +285,7 @@
     <div class="label shields-primary-title">
       $i18n{adblockCustomFiltersLabel}
     </div>
-    <div class="label secondary shields-secondary-title" inner-h-t-m-l="[[getStringHtml_('adblockCustomFiltersDesc', 'https://support.brave.com/hc/en-us/articles/6449369961741')]]"></div>
+    <div class="label secondary shields-secondary-title" inner-h-t-m-l="[[getStringHtml_('adblockCustomFiltersDesc', 'https://support.asil.com/hc/en-us/articles/6449369961741')]]"></div>
     <adblock-filter-editor
       value="{{customFilters_}}"
       on-save="handleSave_"

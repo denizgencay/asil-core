@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -31,7 +31,7 @@ void CheckUrl(const std::string& test_url,
 
 TEST(BraveBlockReportingUrlsHelperTest, PreserveNormalUrls) {
   const std::vector<const std::string> normalUrls({
-      "https://brave.com/",
+      "https://asil.com/",
       "https://safebrowsing.google.com/safebrowsing",
       "https://safebrowsing.google.com/safebrowsing/clientreport/crx-list-info",
       "https://safebrowsing.googleapis.com/v4",

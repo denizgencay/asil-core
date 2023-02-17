@@ -1,4 +1,4 @@
-/* Copyright (c) 2023 The Brave Authors. All rights reserved.
+/* Copyright (c) 2023 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -19,7 +19,7 @@
 namespace settings {
 
 // This class handles bulk requests to import multiple profiles to
-// new target Brave profiles.
+// new target Asil profiles.
 class BraveImportBulkDataHandler : public BraveImportDataHandler {
  public:
   BraveImportBulkDataHandler();

@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -45,7 +45,7 @@ v8::MaybeLocal<v8::Value> ExecuteScript(blink::WebLocalFrame* web_frame,
                                         const std::string& name);
 
 // By default we allow extensions to overwrite the window.[provider] object
-// but if the user goes into settings and explicitly selects to use Brave Wallet
+// but if the user goes into settings and explicitly selects to use Asil Wallet
 // then we will block modifications to window.[provider] here.
 void SetProviderNonWritable(v8::Local<v8::Context> context,
                             v8::Local<v8::Object> global,

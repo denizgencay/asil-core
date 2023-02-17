@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Brave Authors. All rights reserved.
+// Copyright (c) 2020 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -39,7 +39,7 @@ function getMenuElement(templateContent, href) {
         return menuEl
       }
     }
-    console.error(`[Brave Settings Overrides] Could not find menu item '${href}'`)
+    console.error(`[Asil Settings Overrides] Could not find menu item '${href}'`)
   }
   return menuEl
 }
@@ -217,7 +217,7 @@ RegisterPolymerTemplateModifications({
     titleEl.textContent = loadTimeData.getString('settings')
     const menuEl = templateContent.querySelector('#menu')
     if (!menuEl) {
-      console.error('[Brave Settings Overrides] Could not find menu element to add title after')
+      console.error('[Asil Settings Overrides] Could not find menu element to add title after')
     } else {
       menuEl.insertAdjacentElement('afterbegin', titleEl)
     }
@@ -253,7 +253,7 @@ RegisterPolymerTemplateModifications({
     // Add Rewards item
     const isBraveRewardsSupported = loadTimeData.getBoolean('isBraveRewardsSupported')
     let rewardsEl = undefined
-    if (isBraveRewardsSupported) {
+    if (isBraveRewardsSupported && false) {
       rewardsEl = createMenuElement(
         loadTimeData.getString('braveRewards'),
         '/rewards',
@@ -269,11 +269,10 @@ RegisterPolymerTemplateModifications({
       'brave_settings:social-permissions',
       'socialBlocking',
     )
-    if (isBraveRewardsSupported) {
-      rewardsEl.insertAdjacentElement('afterend', embedEl)
-    } else {
-      shieldsEl.insertAdjacentElement('afterend', embedEl)
-    }
+
+
+    shieldsEl.insertAdjacentElement('afterend', embedEl)
+
     // Add privacy
     const privacyEl = getMenuElement(templateContent, '/privacy')
     embedEl.insertAdjacentElement('afterend', privacyEl)
@@ -298,14 +297,6 @@ RegisterPolymerTemplateModifications({
     searchEl.insertAdjacentElement('afterend', extensionEl)
 
 
-    const web3El = createMenuElement(
-      loadTimeData.getString('braveWeb3'),
-      '/web3',
-      'brave_settings:wallet',
-      'wallet',
-    )
-
-    extensionEl.insertAdjacentElement('afterend', web3El)
 
     // Move autofill to advanced
     const autofillEl = getMenuElement(templateContent, '/autofill')
@@ -326,13 +317,13 @@ RegisterPolymerTemplateModifications({
     // Remove extensions link
     const extensionsLinkEl = templateContent.querySelector('#extensionsLink')
     if (!extensionsLinkEl) {
-      console.error('[Brave Settings Overrides] Could not find extensionsLinkEl to remove')
+      console.error('[Asil Settings Overrides] Could not find extensionsLinkEl to remove')
     }
     extensionsLinkEl.remove()
     // Add version number to 'about' link
     const aboutEl = templateContent.querySelector('#about-menu')
     if (!aboutEl) {
-      console.error('[Brave Settings Overrides] Could not find about-menu element')
+      console.error('[Asil Settings Overrides] Could not find about-menu element')
       return
     }
     const parent = aboutEl.parentNode

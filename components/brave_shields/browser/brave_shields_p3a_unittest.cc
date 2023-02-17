@@ -1,4 +1,4 @@
-/*  Copyright (c) 2022 The Brave Authors. All rights reserved.
+/*  Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -36,7 +36,7 @@ class BraveShieldsP3ATest : public testing::Test {
 TEST_F(BraveShieldsP3ATest, RecordGlobalAdBlockSetting) {
   auto* map = HostContentSettingsMapFactory::GetForProfile(GetProfile());
   SetCosmeticFilteringControlType(map, ControlType::BLOCK,
-                                  GURL("https://brave.com"));
+                                  GURL("https://asil.com"));
   // Should not report to histogram if not a global change
   histogram_tester_->ExpectTotalCount(kAdsSettingHistogramName, 0);
 
@@ -55,7 +55,7 @@ TEST_F(BraveShieldsP3ATest, RecordGlobalAdBlockSetting) {
 TEST_F(BraveShieldsP3ATest, RecordGlobalFingerprintBlockSetting) {
   auto* map = HostContentSettingsMapFactory::GetForProfile(GetProfile());
   SetFingerprintingControlType(map, ControlType::BLOCK,
-                               GURL("https://brave.com"));
+                               GURL("https://asil.com"));
   // Should not report to histogram if not a global change
   histogram_tester_->ExpectTotalCount(kFingerprintSettingHistogramName, 0);
 
@@ -77,7 +77,7 @@ TEST_F(BraveShieldsP3ATest, RecordDomainAdBlockCounts) {
 
   SetCosmeticFilteringControlType(map, ControlType::BLOCK_THIRD_PARTY, GURL());
   SetCosmeticFilteringControlType(map, ControlType::BLOCK,
-                                  GURL("https://brave.com"));
+                                  GURL("https://asil.com"));
 
   // Test initial count
   MaybeRecordInitialShieldsSettings(GetProfile()->GetPrefs(), map);
@@ -88,7 +88,7 @@ TEST_F(BraveShieldsP3ATest, RecordDomainAdBlockCounts) {
 
   // Test delta counting
   SetCosmeticFilteringControlType(map, ControlType::ALLOW,
-                                  GURL("https://brave.com"), nullptr, prefs);
+                                  GURL("https://asil.com"), nullptr, prefs);
   histogram_tester_->ExpectBucketCount(kDomainAdsSettingsAboveHistogramName, 0,
                                        1);
   histogram_tester_->ExpectBucketCount(kDomainAdsSettingsBelowHistogramName, 1,
@@ -110,7 +110,7 @@ TEST_F(BraveShieldsP3ATest, RecordDomainAdBlockCounts) {
                                        6);
 
   SetCosmeticFilteringControlType(map, ControlType::BLOCK,
-                                  GURL("https://brave.com"), nullptr, prefs);
+                                  GURL("https://asil.com"), nullptr, prefs);
   histogram_tester_->ExpectBucketCount(kDomainAdsSettingsAboveHistogramName, 2,
                                        1);
   histogram_tester_->ExpectBucketCount(kDomainAdsSettingsBelowHistogramName, 0,
@@ -138,7 +138,7 @@ TEST_F(BraveShieldsP3ATest, RecordDomainFingerprintBlockCounts) {
 
   SetFingerprintingControlType(map, ControlType::DEFAULT, GURL());
   SetFingerprintingControlType(map, ControlType::BLOCK,
-                               GURL("https://brave.com"));
+                               GURL("https://asil.com"));
 
   // Test initial count
   MaybeRecordInitialShieldsSettings(GetProfile()->GetPrefs(), map);
@@ -149,7 +149,7 @@ TEST_F(BraveShieldsP3ATest, RecordDomainFingerprintBlockCounts) {
 
   // Test delta counting
   SetFingerprintingControlType(map, ControlType::ALLOW,
-                               GURL("https://brave.com"), nullptr, prefs);
+                               GURL("https://asil.com"), nullptr, prefs);
   histogram_tester_->ExpectBucketCount(kDomainFPSettingsAboveHistogramName, 0,
                                        1);
   histogram_tester_->ExpectBucketCount(kDomainFPSettingsBelowHistogramName, 1,
@@ -171,7 +171,7 @@ TEST_F(BraveShieldsP3ATest, RecordDomainFingerprintBlockCounts) {
                                        6);
 
   SetFingerprintingControlType(map, ControlType::BLOCK,
-                               GURL("https://brave.com"), nullptr, prefs);
+                               GURL("https://asil.com"), nullptr, prefs);
   histogram_tester_->ExpectBucketCount(kDomainFPSettingsAboveHistogramName, 2,
                                        1);
   histogram_tester_->ExpectBucketCount(kDomainFPSettingsBelowHistogramName, 0,

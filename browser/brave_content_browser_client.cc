@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -606,7 +606,7 @@ void BraveContentBrowserClient::RegisterBrowserInterfaceBindersForFrame(
   }
 #endif
 
-// Brave News
+// Asil News
 #if !BUILDFLAG(IS_ANDROID)
   if (base::FeatureList::IsEnabled(brave_today::features::kBraveNewsFeature)) {
     content::RegisterWebUIControllerInterfaceBinder<
@@ -945,24 +945,7 @@ BraveContentBrowserClient::CreateThrottlesForNavigation(
   content::BrowserContext* context =
       handle->GetWebContents()->GetBrowserContext();
 
-#if BUILDFLAG(ENABLE_TOR)
-  std::unique_ptr<content::NavigationThrottle> tor_navigation_throttle =
-      tor::TorNavigationThrottle::MaybeCreateThrottleFor(handle,
-                                                         context->IsTor());
-  if (tor_navigation_throttle)
-    throttles.push_back(std::move(tor_navigation_throttle));
-  std::unique_ptr<tor::OnionLocationNavigationThrottleDelegate>
-      onion_location_navigation_throttle_delegate =
-          std::make_unique<tor::OnionLocationNavigationThrottleDelegate>();
-  std::unique_ptr<content::NavigationThrottle>
-      onion_location_navigation_throttle =
-          tor::OnionLocationNavigationThrottle::MaybeCreateThrottleFor(
-              handle, TorProfileServiceFactory::IsTorDisabled(),
-              std::move(onion_location_navigation_throttle_delegate),
-              context->IsTor());
-  if (onion_location_navigation_throttle)
-    throttles.push_back(std::move(onion_location_navigation_throttle));
-#endif
+
 
 #if BUILDFLAG(ENABLE_IPFS)
   throttles.insert(

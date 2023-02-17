@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -138,7 +138,7 @@ void CheckCommandsAreInOrderInMenuModel(
 }
 
 // Test brave menu order test.
-// Brave menu is inserted based on corresponding commands enable status.
+// Asil menu is inserted based on corresponding commands enable status.
 // So, this doesn't test for each profiles(normal, private, tor and guest).
 // Instead, BraveBrowserCommandControllerTest will do that.
 IN_PROC_BROWSER_TEST_F(BraveAppMenuBrowserTest, MenuOrderTest) {

@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -14,7 +14,7 @@ namespace skus {
 
 TEST(SkusUtilsUnitTest, IsSafeOrigin) {
   EXPECT_TRUE(skus::IsSafeOrigin(
-      blink::WebSecurityOrigin::Create(GURL("https://account.brave.com"))));
+      blink::WebSecurityOrigin::Create(GURL("https://account.asil.com"))));
   EXPECT_TRUE(skus::IsSafeOrigin(blink::WebSecurityOrigin::Create(
       GURL("https://account.bravesoftware.com"))));
   EXPECT_TRUE(skus::IsSafeOrigin(blink::WebSecurityOrigin::Create(
@@ -23,14 +23,14 @@ TEST(SkusUtilsUnitTest, IsSafeOrigin) {
   EXPECT_FALSE(skus::IsSafeOrigin(blink::WebSecurityOrigin::Create(
       GURL("https://a.account.brave.software"))));
   EXPECT_FALSE(skus::IsSafeOrigin(
-      blink::WebSecurityOrigin::Create(GURL("https://vpm.brave.com"))));
+      blink::WebSecurityOrigin::Create(GURL("https://vpm.asil.com"))));
   EXPECT_FALSE(skus::IsSafeOrigin(blink::WebSecurityOrigin::Create(GURL())));
   EXPECT_FALSE(skus::IsSafeOrigin(
-      blink::WebSecurityOrigin::Create(GURL("http://account.brave.com"))));
+      blink::WebSecurityOrigin::Create(GURL("http://account.asil.com"))));
   EXPECT_FALSE(skus::IsSafeOrigin(
-      blink::WebSecurityOrigin::Create(GURL("https://brave.com"))));
+      blink::WebSecurityOrigin::Create(GURL("https://asil.com"))));
   EXPECT_FALSE(skus::IsSafeOrigin(
-      blink::WebSecurityOrigin::Create(GURL("file://brave.com"))));
+      blink::WebSecurityOrigin::Create(GURL("file://asil.com"))));
 }
 
 }  // namespace skus

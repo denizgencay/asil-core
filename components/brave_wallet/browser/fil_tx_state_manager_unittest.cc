@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -75,7 +75,7 @@ TEST_F(FilTxStateManagerUnitTest, FilTxMetaAndValue) {
   meta.set_submitted_time(base::Time::Now());
   meta.set_confirmed_time(base::Time::Now());
   meta.set_tx_hash("cid");
-  meta.set_origin(url::Origin::Create(GURL("https://test.brave.com")));
+  meta.set_origin(url::Origin::Create(GURL("https://test.asil.com")));
 
   base::Value::Dict meta_value = meta.ToValue();
   auto meta_from_value = fil_tx_state_manager_->ValueToFilTxMeta(meta_value);

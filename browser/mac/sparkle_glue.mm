@@ -491,7 +491,7 @@ class PerformBridge : public base::RefCountedThreadSafe<PerformBridge> {
   }
 
   return [NSString stringWithFormat:@"https://updates.bravesoftware.com/"
-                                    @"sparkle/Brave-Browser/%s/appcast.xml",
+                                    @"sparkle/Asil-Browser/%s/appcast.xml",
                                     GetUpdateChannel().c_str()];
 }
 @end

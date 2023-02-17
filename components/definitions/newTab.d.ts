@@ -1,4 +1,4 @@
-// Copyright (c) 2019 The Brave Authors. All rights reserved.
+// Copyright (c) 2019 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -11,7 +11,7 @@ declare namespace NewTab {
     random?: boolean
   }
 
-  // Backgrounds based on image. Custom image background or Brave background.
+  // Backgrounds based on image. Custom image background or Asil background.
   export type ImageBackground = {
     type: 'image'
     wallpaperImageUrl: string

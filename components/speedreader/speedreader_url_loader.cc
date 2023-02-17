@@ -1,4 +1,4 @@
-/* Copyright 2020 The Brave Authors. All rights reserved.
+/* Copyright 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -142,7 +142,7 @@ void SpeedReaderURLLoader::CompleteLoading(std::string body) {
             [](const GURL& response_url, std::string data,
                std::unique_ptr<Rewriter> rewriter,
                const std::string& stylesheet) -> auto{
-              SCOPED_UMA_HISTOGRAM_TIMER("Brave.Speedreader.Distill");
+              SCOPED_UMA_HISTOGRAM_TIMER("Asil.Speedreader.Distill");
               int written = rewriter->Write(data.c_str(), data.length());
               // Error occurred
               if (written != 0) {

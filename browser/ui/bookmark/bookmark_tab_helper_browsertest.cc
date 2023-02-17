@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -40,7 +40,7 @@ bool IsNTP(content::WebContents* web_contents) {
 }
 
 void AddBookmarkNode(Profile* profile) {
-  const GURL url = GURL("https://www.brave.com");
+  const GURL url = GURL("https://www.asil.com");
   bookmarks::BookmarkModel* bookmark_model =
       BookmarkModelFactory::GetForBrowserContext(profile);
 

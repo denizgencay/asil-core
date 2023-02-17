@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -15,20 +15,20 @@ RegisterPolymerTemplateModifications({
     if (!loadTimeData.getBoolean('isIdleDetectionFeatureEnabled')) {
       const idleDetectionItem = templateContent.querySelector('[category="[[contentSettingsTypesEnum_.IDLE_DETECTION]]"]')
       if (!idleDetectionItem) {
-        console.error(`[Brave Settings Overrides] Couldn't find idle detection item`)
+        console.error(`[Asil Settings Overrides] Couldn't find idle detection item`)
       } else {
         idleDetectionItem.hidden = true
       }
     }
     const adsItem = templateContent.querySelector('[category="[[contentSettingsTypesEnum_.ADS]]"]')
     if (!adsItem) {
-      console.error(`[Brave Settings Overrides] Couldn't find ads item`)
+      console.error(`[Asil Settings Overrides] Couldn't find ads item`)
     } else {
       adsItem.hidden = true
     }
     const firstPermissionItem = templateContent.querySelector('div.list-frame > site-details-permission:nth-child(1)')
     if (!firstPermissionItem) {
-      console.error(`[Brave Settings Overrides] Couldn't find first permission item`)
+      console.error(`[Asil Settings Overrides] Couldn't find first permission item`)
     } else {
       firstPermissionItem.insertAdjacentHTML(
         'beforebegin',
@@ -43,7 +43,7 @@ RegisterPolymerTemplateModifications({
         querySelector(`div.list-frame > site-details-permission:nth-child(${curChild})`)
       if (!autoplaySettings) {
         console.error(
-          '[Brave Settings Overrides] Couldn\'t find autoplay settings')
+          '[Asil Settings Overrides] Couldn\'t find autoplay settings')
       } else {
         autoplaySettings.setAttribute(
           'label', I18nBehavior.i18n('siteSettingsAutoplay'))
@@ -65,7 +65,7 @@ RegisterPolymerTemplateModifications({
           querySelector(`div.list-frame > site-details-permission:nth-child(${curChild})`)
         if (!googleSignInSettings) {
           console.error(
-            '[Brave Settings Overrides] Couldn\'t find Google signin settings')
+            '[Asil Settings Overrides] Couldn\'t find Google signin settings')
         } else {
           googleSignInSettings.setAttribute(
             'label', I18nBehavior.i18n('siteSettingsGoogleSignIn'))
@@ -86,7 +86,7 @@ RegisterPolymerTemplateModifications({
           querySelector(`div.list-frame > site-details-permission:nth-child(${curChild})`)
         if (!ethereumSettings) {
           console.error(
-            '[Brave Settings Overrides] Couldn\'t find Ethereum settings')
+            '[Asil Settings Overrides] Couldn\'t find Ethereum settings')
         } else {
           ethereumSettings.setAttribute(
             'label', I18nBehavior.i18n('siteSettingsEthereum'))
@@ -104,7 +104,7 @@ RegisterPolymerTemplateModifications({
           querySelector(`div.list-frame > site-details-permission:nth-child(${curChild})`)
         if (!solanaSettings) {
           console.error(
-            '[Brave Settings Overrides] Couldn\'t find Solana settings')
+            '[Asil Settings Overrides] Couldn\'t find Solana settings')
         } else {
           solanaSettings.setAttribute(
             'label', I18nBehavior.i18n('siteSettingsSolana'))
@@ -113,7 +113,7 @@ RegisterPolymerTemplateModifications({
     }
     const usageSection = templateContent.querySelector('div#usage')    
     if (!usageSection) {
-      console.error(`[Brave Settings Overrides] Couldn't find usageSection item`)
+      console.error(`[Asil Settings Overrides] Couldn't find usageSection item`)
     } else {
       usageSection.insertAdjacentHTML(
         'afterend',
@@ -134,7 +134,7 @@ RegisterPolymerTemplateModifications({
         templateContent.querySelector('div#shieldsHeader h2')
       if (!shieldsHeader) {
         console.error(
-          '[Brave Settings Overrides] Couldn\'t find Shields header')
+          '[Asil Settings Overrides] Couldn\'t find Shields header')
       } else {
         shieldsHeader.textContent = I18nBehavior.i18n('siteSettingsShields')
       }
@@ -142,7 +142,7 @@ RegisterPolymerTemplateModifications({
         'div#shields div.list-frame > site-details-permission:nth-child(1)')
       if (!shieldsSettings) {
         console.error(
-          '[Brave Settings Overrides] Couldn\'t find Shields settings')
+          '[Asil Settings Overrides] Couldn\'t find Shields settings')
       } else {
         shieldsSettings.setAttribute(
           'label', I18nBehavior.i18n('siteSettingsShieldsStatus'))

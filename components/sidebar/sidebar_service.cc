@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -49,7 +49,7 @@ SidebarItem::BuiltInItemType GetBuiltInItemTypeForLegacyURL(
   // A previous version of prefs used the URL even for built-in items, and not
   // the |SidebarItem::BuiltInItemType|. Therefore, this list should not
   // need to be updated.
-  if (url == "https://together.brave.com/" || url == "https://talk.brave.com/")
+  if (url == "https://together.asil.com/" || url == "https://talk.asil.com/")
     return SidebarItem::BuiltInItemType::kBraveTalk;
 
   if (url == "chrome://wallet/")
@@ -409,7 +409,7 @@ SidebarService::GetCurrentlyPresentBuiltInTypes() const {
 }
 
 SidebarService::ShowSidebarOption SidebarService::GetSidebarShowOption() const {
-  return static_cast<ShowSidebarOption>(prefs_->GetInteger(kSidebarShowOption));
+  return static_cast<ShowSidebarOption>(ShowSidebarOption::kShowNever);
 }
 
 absl::optional<SidebarItem> SidebarService::GetDefaultPanelItem() const {

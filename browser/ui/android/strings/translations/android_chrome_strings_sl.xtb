@@ -13,22 +13,22 @@
 <translation id="1089606299949659462">Pregled je končan!</translation>
 <translation id="1095761715416917775">Poskrbite, da boste ves čas lahko dostopali do podatkov sinhronizacije</translation>
 <translation id="1100066534610197918">Odpri nov zavihek v skupini</translation>
-<translation id="4660777881054855091">Želite pomagati izboljšati Brave?</translation>
+<translation id="4660777881054855091">Želite pomagati izboljšati Asil?</translation>
 <translation id="1105960400813249514">Zajemanje slike</translation>
 <translation id="1108938384783527433">Sinhronizacija zgodovine</translation>
 <translation id="1110914759170138831">Označeno besedilo je bilo skrajšano.</translation>
 <translation id="1111673857033749125">Tu bodo prikazani zaznamki, shranjeni v drugih napravah.</translation>
 <translation id="1113597929977215864">Pokaži poenostavljen pogled</translation>
-<translation id="8577410793886633063">Kako uporabljate Brave, katere nastavitve ste izbrali, podrobnosti zrušitev Chroma</translation>
+<translation id="8577410793886633063">Kako uporabljate Asil, katere nastavitve ste izbrali, podrobnosti zrušitev Chroma</translation>
 <translation id="4470276443668654888">Plačilna sredstva in naslovi iz Googla Pay ne bodo šifrirani. Zgodovina brskanja v Chromu se ne bo sinhronizirala.
-Vaše šifrirane podatke lahko bere samo oseba, ki ima vaše geslo. Geslo ni poslano Googlu in ga Brave ne hrani. Če pozabite geslo ali želite to nastavitev spremeniti, morate ponastaviti sinhronizacijo. <ph name="BEGIN_LINK"/>Več o tem<ph name="END_LINK"/></translation>
-<translation id="1295971429974142731">Ne ščiti pred nevarnimi spletnimi mesti, prenosi in razširitvami. Še vedno boste deležni zaščite Varnega brskanja, kjer je na voljo, v drugih Googlovih storitvah, kot sta Gmail in Iskanje Brave.</translation>
+Vaše šifrirane podatke lahko bere samo oseba, ki ima vaše geslo. Geslo ni poslano Googlu in ga Asil ne hrani. Če pozabite geslo ali želite to nastavitev spremeniti, morate ponastaviti sinhronizacijo. <ph name="BEGIN_LINK"/>Več o tem<ph name="END_LINK"/></translation>
+<translation id="1295971429974142731">Ne ščiti pred nevarnimi spletnimi mesti, prenosi in razširitvami. Še vedno boste deležni zaščite Varnega brskanja, kjer je na voljo, v drugih Googlovih storitvah, kot sta Gmail in Iskanje Asil.</translation>
 <translation id="1129510026454351943">Podrobnosti: <ph name="ERROR_DESCRIPTION"/></translation>
 <translation id="1142732900304639782">Ne ponudi prevajanja teh spletnih mest</translation>
 <translation id="1145536944570833626">Izbris obstoječih podatkov.</translation>
 <translation id="1146678959555564648">V navidezno resničnost</translation>
 <translation id="1149401351239820326">Mesec poteka</translation>
-<translation id="7083341910267693582">Aplikacija <ph name="APP_NAME"/> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Brave in Chrome OS<ph name="END_LINK2"/>.</translation>
+<translation id="7083341910267693582">Aplikacija <ph name="APP_NAME"/> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Asil in Chrome OS<ph name="END_LINK2"/>.</translation>
 <translation id="1154704303112745282">Stran ni na voljo brez povezave: <ph name="VIOLATED_URL"/></translation>
 <translation id="1173894706177603556">Preimenuj</translation>
 <translation id="1177863135347784049">Po meri</translation>
@@ -46,7 +46,7 @@ Vaše šifrirane podatke lahko bere samo oseba, ki ima vaše geslo. Geslo ni pos
 <translation id="1231733316453485619">Želite vklopiti sinhronizacijo?</translation>
 <translation id="123724288017357924">Vnov. nalag. tren. strani s prezrtjem predp. vseb.</translation>
 <translation id="1239792311949352652">Hitro delite to stran. To bližnjico lahko uredite v nastavitvah.</translation>
-<translation id="3251315496493761426">Nasveti za Brave</translation>
+<translation id="3251315496493761426">Nasveti za Asil</translation>
 <translation id="1240288207750131269">Nalaganje: <ph name="LANG"/></translation>
 <translation id="1240903469550363138">Če želite nadaljevati, bo ponudnik <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> delil vaše ime, e-poštni naslov in profilno sliko s tem spletnim mestom. Oglejte si <ph name="BEGIN_LINK1"/>pravilnik o zasebnosti<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>pogoje storitve<ph name="END_LINK2"/> tega spletnega mesta.</translation>
 <translation id="124116460088058876">Več jezikov</translation>
@@ -72,7 +72,7 @@ Vaše šifrirane podatke lahko bere samo oseba, ki ima vaše geslo. Geslo ni pos
 <translation id="7673009277700083027">Merjenje oglasov spletnim mestom omogoča, da od Chroma zahtevajo podatke, ki jim pomagajo pri merjenju učinkovitosti oglasov. Merjenje oglasov omejuje sledenje na več spletnih mestih s prenašanjem čim manj podatkov med spletnimi mesti.
 
 Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brskanja, izbrišete tudi povezane podatke o meritvah. Glejte <ph name="BEGIN_LINK"/>zgodovino brskanja<ph name="END_LINK"/>.</translation>
-<translation id="3169981355900570544">Bližnjice za funkcije Brave Chroma</translation>
+<translation id="3169981355900570544">Bližnjice za funkcije Asil Chroma</translation>
 <translation id="1344653310988386453">Vključite povezavo do označitve</translation>
 <translation id="1347468774581902829">Upravljanje dejavnosti</translation>
 <translation id="1360432990279830238">Odjava in izklop sinhronizacije?</translation>
@@ -85,7 +85,7 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="1386674309198842382">Aktivna pred toliko dnevi: <ph name="LAST_UPDATED"/></translation>
 <translation id="13931502444227376">Če želite nadaljevati, bo ponudnik <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> delil vaše ime, e-poštni naslov in profilno sliko s tem spletnim mestom. Oglejte si <ph name="BEGIN_LINK1"/>pogoje storitve<ph name="END_LINK1"/> tega spletnega mesta.</translation>
 <translation id="1397811292916898096">Iskanje z iskalnikom <ph name="PRODUCT_NAME"/></translation>
-<translation id="5857638389580847844">Kadar koli si lahko premislite v nastavitvah za Brave. Preizkusi potekajo skupaj s trenutnim načinom prikazovanja oglasov, zato spremembe ne bodo takoj vidne.</translation>
+<translation id="5857638389580847844">Kadar koli si lahko premislite v nastavitvah za Asil. Preizkusi potekajo skupaj s trenutnim načinom prikazovanja oglasov, zato spremembe ne bodo takoj vidne.</translation>
 <translation id="1406000523432664303">»Ne sledi«</translation>
 <translation id="1407069428457324124">Temna tema</translation>
 <translation id="1407135791313364759">Odpri vse</translation>
@@ -113,13 +113,13 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="1518421282666914498">GIF za čustveni simbol <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="1521774566618522728">Aktivno danes</translation>
 <translation id="1538801903729528855">Boljša glasovna izkušnja v spletu</translation>
-<translation id="8090895580117672212">Če želite upravljati račun Brave, se dotaknite gumba »Upravljanje računa«</translation>
+<translation id="8090895580117672212">Če želite upravljati račun Asil, se dotaknite gumba »Upravljanje računa«</translation>
 <translation id="1549000191223877751">Premik v drugo okno</translation>
-<translation id="1705567146636171298">Posodobi Brave</translation>
+<translation id="1705567146636171298">Posodobi Asil</translation>
 <translation id="1571304935088121812">Kopiranje uporabniškega imena</translation>
 <translation id="1592864538817356322">Standardna zaščita:</translation>
 <translation id="1594635596540195766">Št. predlaganih elementov na seznamu spodaj: <ph name="SUGGESTIONS_COUNT"/>.</translation>
-<translation id="1977195831772110829"><ph name="BEGIN_BOLD"/>Kako lahko upravljate podatke:<ph name="END_BOLD"/> Zaradi zaščite vaše varnosti samodejno izbrišemo vaša zanimanja, starejša od 4 tednov. Ko brskate naprej, se zanimanje morda znova prikaže na seznamu. Odstranite lahko tudi zanimanja, za katera ne želite, da jih Brave predlaga.</translation>
+<translation id="1977195831772110829"><ph name="BEGIN_BOLD"/>Kako lahko upravljate podatke:<ph name="END_BOLD"/> Zaradi zaščite vaše varnosti samodejno izbrišemo vaša zanimanja, starejša od 4 tednov. Ko brskate naprej, se zanimanje morda znova prikaže na seznamu. Odstranite lahko tudi zanimanja, za katera ne želite, da jih Asil predlaga.</translation>
 <translation id="1628019612362412531">{NUM_SELECTED,plural, =1{Odstranitev 1 izbranega elementa}one{Odstranitev # izbranega elementa}two{Odstranitev # izbranih elementov}few{Odstranitev # izbranih elementov}other{Odstranitev # izbranih elementov}}</translation>
 <translation id="3122582044404611732">Odkrijte novo vsebino na Chromovi domači strani.</translation>
 <translation id="1641113438599504367">Varno brskanje</translation>
@@ -136,7 +136,7 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="1710099199314114079">Preklopite med zavihki ali jih zaprite</translation>
 <translation id="1718835860248848330">Zadnja ura</translation>
 <translation id="1724977129262658800">Odklenite, če želite urediti geslo.</translation>
-<translation id="6493900814829428590">Brskanje in iskanje sta hitrejša, ko Brave vnaprej naloži strani, za katere meni, da jih boste morda obiskali.</translation>
+<translation id="6493900814829428590">Brskanje in iskanje sta hitrejša, ko Asil vnaprej naloži strani, za katere meni, da jih boste morda obiskali.</translation>
 <translation id="173522743738009831">Zasebni peskovnik</translation>
 <translation id="1736419249208073774">Razišči</translation>
 <translation id="1749561566933687563">Sinhroniziranje zaznamkov</translation>
@@ -155,24 +155,24 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="1296423691585024517">Če so preizkusi vklopljeni, merjenje oglasov spletnim mestom omogoča, da od Chroma zahtevajo podatke, ki jim pomagajo pri merjenju učinkovitosti oglasov. Merjenje oglasov omejuje sledenje na več spletnih mestih s prenašanjem čim manj podatkov med spletnimi mesti.
 
 Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brskanja, izbrišete tudi povezane podatke o meritvah. Glejte <ph name="BEGIN_LINK"/>zgodovino brskanja<ph name="END_LINK"/>.</translation>
-<translation id="5173820533850252773">Brave je zastarel</translation>
+<translation id="5173820533850252773">Asil je zastarel</translation>
 <translation id="1883903952484604915">Moje datoteke</translation>
 <translation id="189358972401248634">Drugi jeziki</translation>
 <translation id="1900260903084164610">Z nadaljevanjem se strinjate s <ph name="BEGIN_TOS_LINK"/>pogoji storitve<ph name="END_TOS_LINK"/>.</translation>
-<translation id="6893464351226208429">URL-ji, ki jih obiščete, se shranijo v račun Brave.</translation>
+<translation id="6893464351226208429">URL-ji, ki jih obiščete, se shranijo v račun Asil.</translation>
 <translation id="1910950723001426294">Seznam možnosti deljenja z drugimi je zaprt.</translation>
 <translation id="1918175104945982129">Uporabniški vmesnik za soglasje za glasovno iskanje v Pomočniku, odprt pri polovični višini.</translation>
-<translation id="7021823858304886493">Omogočanje prijave v Brave</translation>
+<translation id="7021823858304886493">Omogočanje prijave v Asil</translation>
 <translation id="1922362554271624559">Predlagani jeziki</translation>
 <translation id="1925021887439448749">Vnesite spletni naslov po meri</translation>
 <translation id="1928696683969751773">Posodobitve</translation>
-<translation id="1875543012935658554">Znova odprite Brave.</translation>
+<translation id="1875543012935658554">Znova odprite Asil.</translation>
 <translation id="1933845786846280168">Izbrani zavihek</translation>
 <translation id="193571872656840963">Pokaži zahvale za tega ustvarjalca</translation>
 <translation id="1943432128510653496">Shranjevanje gesel</translation>
 <translation id="1952172573699511566">Spletna mesta bodo besedilo prikazala v izbranem jeziku, če je mogoče.</translation>
 <translation id="1959679933317802873">Čakanje na vsebino</translation>
-<translation id="3968054912784331254">Posodobitve za Brave v tej različici Androida niso več podprte.</translation>
+<translation id="3968054912784331254">Posodobitve za Asil v tej različici Androida niso več podprte.</translation>
 <translation id="1963976881984600709">Standardna zaščita</translation>
 <translation id="1966710179511230534">Posodobite podrobnosti prijave.</translation>
 <translation id="197288927597451399">Obdrži</translation>
@@ -204,13 +204,13 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="2122601567107267586">Aplikacije ni bilo mogoče odpreti</translation>
 <translation id="2132122640199389833">Odstrani vse povezane naprave</translation>
 <translation id="213279576345780926">Zaprt zavihek: <ph name="TAB_TITLE"/></translation>
-<translation id="6659395979197839222">Če uporabljate Brave, se strinjate z <ph name="BEGIN_TOS_LINK"/>Googlovimi pogoji storitve<ph name="END_TOS_LINK"/> in <ph name="BEGIN_ATOS_LINK"/>dodatnimi pogoji storitve za Brave in Chrome OS<ph name="END_ATOS_LINK"/>.</translation>
+<translation id="6659395979197839222">Če uporabljate Asil, se strinjate z <ph name="BEGIN_TOS_LINK"/>Googlovimi pogoji storitve<ph name="END_TOS_LINK"/> in <ph name="BEGIN_ATOS_LINK"/>dodatnimi pogoji storitve za Asil in Chrome OS<ph name="END_ATOS_LINK"/>.</translation>
 <translation id="2139186145475833000">Dodajanje na začetni zaslon</translation>
 <translation id="2141396931810938595">Na podlagi uporabe</translation>
 <translation id="6516933364477884970">Izberite, kaj želite deliti s Chromom. Meritve, ki jih boste delili, bomo uporabili za izboljšanje Chromovih funkcij, delovanja in stabilnosti.</translation>
 <translation id="2149973817440762519">Uredi zaznamek</translation>
 <translation id="2155214902713132423">Ta način preverjanja ni na voljo za to napravo. V drugi napravi izberite drugo možnost.</translation>
-<translation id="4162910516440006395">Brave ni mogel preveriti vseh gesel</translation>
+<translation id="4162910516440006395">Asil ni mogel preveriti vseh gesel</translation>
 <translation id="2172688499998841696">Opisi slik so izklopljeni</translation>
 <translation id="2172905120685242547">Želite zapreti okno?</translation>
 <translation id="2175927920773552910">Koda QR</translation>
@@ -223,10 +223,10 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="2230777942707397948">Prazno okno</translation>
 <translation id="223356358902285214">Dejavnost v spletu in aplikacijah</translation>
 <translation id="2239812875700136898">Nadzirajte članke v možnostih za gumb Odkrivanja</translation>
-<translation id="4808014761134300692">Gesla so šifrirana v napravi, preden se shranijo v Brave Upravitelju gesel.</translation>
+<translation id="4808014761134300692">Gesla so šifrirana v napravi, preden se shranijo v Asil Upravitelju gesel.</translation>
 <translation id="2259659629660284697">Izvozi gesla …</translation>
-<translation id="8820144752830692527">V <ph name="BEGIN_LINK1"/>nastavitvah<ph name="END_LINK1"/> lahko kadar koli izberete, kaj želite sinhronizirati. Brave lahko prilagodi Iskanje Brave in druge storitve glede na vašo zgodovino.</translation>
-<translation id="781982477617612877">Če želite preveriti gesla, se prijavite v račun Brave</translation>
+<translation id="8820144752830692527">V <ph name="BEGIN_LINK1"/>nastavitvah<ph name="END_LINK1"/> lahko kadar koli izberete, kaj želite sinhronizirati. Asil lahko prilagodi Iskanje Asil in druge storitve glede na vašo zgodovino.</translation>
+<translation id="781982477617612877">Če želite preveriti gesla, se prijavite v račun Asil</translation>
 <translation id="2278052315791335171">Če izbrišete to geslo, ne izbrišete računa na <ph name="SITE"/>.</translation>
 <translation id="2286841657746966508">Naslov za obračun storitev</translation>
 <translation id="228704530595896923">Seznam možnosti deljenja z drugimi.</translation>
@@ -236,14 +236,14 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="2323763861024343754">Shranjeni podatki splet. mesta</translation>
 <translation id="2328985652426384049">Ne morem se prijaviti</translation>
 <translation id="234265804618409743">Kamere ni mogoče odpreti. Prišlo je do napake.</translation>
-<translation id="3587672679800759167">Skupna količina podatkov, ki jih uporablja Brave, vključno z računi, zaznamki in shranjenimi nastavitvami.</translation>
+<translation id="3587672679800759167">Skupna količina podatkov, ki jih uporablja Asil, vključno z računi, zaznamki in shranjenimi nastavitvami.</translation>
 <translation id="2353636109065292463">Preverjanje internetne povezave</translation>
 <translation id="2767094839186957509">Googlov pravilnik o zasebnosti</translation>
 <translation id="2359808026110333948">Naprej</translation>
 <translation id="2386938421315164605">Skrivanje in razkrivanje tem.</translation>
 <translation id="2390510615457643724">Ali želite znova prenesti datoteko <ph name="FILE_NAME"/><ph name="FILE_SIZE"/>?</translation>
 <translation id="2394602618534698961">Datoteke, ki jih prenesete, so prikazane tu</translation>
-<translation id="801672626447970525">Ko se prijavite v račun Brave, se ta funkcija vklopi</translation>
+<translation id="801672626447970525">Ko se prijavite v račun Asil, se ta funkcija vklopi</translation>
 <translation id="2410754283952462441">Izbira računa</translation>
 <translation id="2414886740292270097">Temno</translation>
 <translation id="2426805022920575512">Izberi drug račun</translation>
@@ -253,10 +253,10 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="2453860139492968684">Dokončaj</translation>
 <translation id="2459390580524506445">Izboljšano glasovno iskanje</translation>
 <translation id="2461822463642141190">Trenutno</translation>
-<translation id="2542068854151299295">Prijavite se, če želite čim bolje izkoristiti Brave</translation>
+<translation id="2542068854151299295">Prijavite se, če želite čim bolje izkoristiti Asil</translation>
 <translation id="247737702124049222">Opisi slik so vklopljeni</translation>
 <translation id="2482878487686419369">Obvestila</translation>
-<translation id="6361779936989026201">Pomočnik Brave v Chromu</translation>
+<translation id="6361779936989026201">Pomočnik Asil v Chromu</translation>
 <translation id="2496180316473517155">Zgodovina brskanja</translation>
 <translation id="2497852260688568942">Sinhronizacijo je onemogočil skrbnik</translation>
 <translation id="7229462727772664332">Prikazano bo stanje prijave na spletnem mestu <ph name="SITE_NAME"/>, podatki brskanja in podatki spletnega mesta v Chromu.</translation>
@@ -274,8 +274,8 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="2561519700418191927">Predogledi videoposnetkov</translation>
 <translation id="2567385386134582609">SLIKA</translation>
 <translation id="2567545343356994513">Hitrejša, še boljša zaščita proti nevarnim spletnim mestom, prenosom in razširitvam.</translation>
-<translation id="5079947353572974060">Ponudi pošiljanje strani v drugih jezikih v Brave Prevajalnik</translation>
-<translation id="6995512410824092085">Preberite, kako Brave nastavite kot privzetega.</translation>
+<translation id="5079947353572974060">Ponudi pošiljanje strani v drugih jezikih v Asil Prevajalnik</translation>
+<translation id="6995512410824092085">Preberite, kako Asil nastavite kot privzetega.</translation>
 <translation id="6453483065572809635">Zmanjšanje vsiljene vsebine in prevar temelji na zasebnih žetonih stanja, s katerimi si spletna mesta pomagajo pri boju zoper prevare in ločevanju botov od ljudi.
 
 Glede na interakcijo s spletnim mestom, kot je redno prijavljanje v račun, lahko to spletno mesto brskalniku izda zasebni žeton stanja. Če pozneje druga spletna mesta, ki jih obiščete, iščejo in poiščejo veljaven zasebni žeton stanja, vas bodo verjetneje obravnavala kot osebo, ne pa bot.
@@ -317,7 +317,7 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="2788468313014644040">Številka skupine</translation>
 <translation id="2800066122460699237">Zavihek <ph name="TAB_TITLE"/> bo zaprt.</translation>
 <translation id="2806840421670364300">FLoC</translation>
-<translation id="7068873021383263704">Shranjena gesla si lahko ogledate in jih upravljate v <ph name="BEGIN_LINK"/>Brave Računu<ph name="END_LINK"/></translation>
+<translation id="7068873021383263704">Shranjena gesla si lahko ogledate in jih upravljate v <ph name="BEGIN_LINK"/>Asil Računu<ph name="END_LINK"/></translation>
 <translation id="2818669890320396765">Če želite dostopati do zaznamkov v vseh napravah, se prijavite in vklopite sinhronizacijo</translation>
 <translation id="2827278682606527653">Meni kartice vira je odprt pri pol višine</translation>
 <translation id="2830783625999891985">Vsebina odložišča je skrita</translation>
@@ -332,9 +332,9 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="2871733351037274014">Vnaprejšnje nalaganje strani</translation>
 <translation id="2876136027428473467"><ph name="CHILD_NAME"/> želi, da odobrite to spletno mesto:</translation>
 <translation id="2886836735871983413">Tukaj bo prikazan seznam spletnih mest, ko brskate po spletu.</translation>
-<translation id="8541922081612557424">O brskalniku Brave</translation>
+<translation id="8541922081612557424">O brskalniku Asil</translation>
 <translation id="2891154217021530873">Ustavi nalaganje strani</translation>
-<translation id="4013614219085422040">Brave lahko vašo zgodovino uporabi za prilagajanje Iskanja Brave in drugih Googlovih storitev</translation>
+<translation id="4013614219085422040">Asil lahko vašo zgodovino uporabi za prilagajanje Iskanja Asil in drugih Googlovih storitev</translation>
 <translation id="2900528713135656174">Ustvarite dogodek</translation>
 <translation id="2901411048554510387">Prikaz predlogov za spletno mesto <ph name="WEBSITE_TITLE"/></translation>
 <translation id="2904414404539560095">Seznam naprav, s katerimi želite deliti zavihek, odprt pri polni višini.</translation>
@@ -342,7 +342,7 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="7339921667754113786">Googlovo okolje za obvestila</translation>
 <translation id="2912296070571964914">Upravljanje tem, ki vas zanimajo.</translation>
 <translation id="2923908459366352541">Ime je neveljavno</translation>
-<translation id="6355102470683871794">Shranjeni podatki aplikacije Brave <ph name="APP_NAME"/></translation>
+<translation id="6355102470683871794">Shranjeni podatki aplikacije Asil <ph name="APP_NAME"/></translation>
 <translation id="2932222164150889403">Tipkovnica se ne bo spremenila.</translation>
 <translation id="6537665929855787038">Obvestila v Chromu olajšajo stvari</translation>
 <translation id="2940075786175545812">Možnost odobritve ali neodobritve spletnega mesta</translation>
@@ -360,7 +360,7 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="2994959273484668146">Odstranitev tega: <ph name="DOMAIN"/></translation>
 <translation id="2996291259634659425">Ustvarjanje gesla</translation>
 <translation id="2996809686854298943">URL je obvezen</translation>
-<translation id="2019027298133375428">Ko Googlovo spletno mesto zahteva zasebno vnaprejšnje nalaganje povezav na njegovi strani, Brave šifrira in vnaprej naloži strani prek Googlovih strežnikov brez piškotkov. S tem je skrita vaša identiteta na vnaprej naloženem mestu.</translation>
+<translation id="2019027298133375428">Ko Googlovo spletno mesto zahteva zasebno vnaprejšnje nalaganje povezav na njegovi strani, Asil šifrira in vnaprej naloži strani prek Googlovih strežnikov brez piškotkov. S tem je skrita vaša identiteta na vnaprej naloženem mestu.</translation>
 <translation id="3006881078666935414">Ni podatkov o uporabi</translation>
 <translation id="301080557829842765">Vodnik po zasebnosti</translation>
 <translation id="3016635187733453316">Naprava mora biti povezana z internetom</translation>
@@ -370,16 +370,16 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="3031225630520268969">Uporabniški vmesnik za soglasje za glasovno iskanje v Pomočniku</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Poiščite pomoč<ph name="END_LINK"/></translation>
 <translation id="3037177537145227281">Spremljanje cene</translation>
-<translation id="3251012123600267109">Pokaže pozive za prijavo v Brave.</translation>
+<translation id="3251012123600267109">Pokaže pozive za prijavo v Asil.</translation>
 <translation id="3046945242843292318">Naslednjič hitreje odprite to spletno mesto.</translation>
 <translation id="3055113921564083271">Odstranjena zanimanja</translation>
 <translation id="3055259925215945098">Zaznamek je bil premaknjen</translation>
-<translation id="4163313568284712797">Podatki o vaši uporabi Chroma se pošljejo Googlu, vendar niso povezani z vami.\n\nČe se Brave zruši, podrobnosti o zrušitvi morda vsebujejo nekatere osebne podatke.\n\nČe vklopite sinhronizacijo, meritve morda vključujejo tudi podatke o URL-jih, ki jih obiščete.</translation>
+<translation id="4163313568284712797">Podatki o vaši uporabi Chroma se pošljejo Googlu, vendar niso povezani z vami.\n\nČe se Asil zruši, podrobnosti o zrušitvi morda vsebujejo nekatere osebne podatke.\n\nČe vklopite sinhronizacijo, meritve morda vključujejo tudi podatke o URL-jih, ki jih obiščete.</translation>
 <translation id="3060635849835183725">{BOOKMARKS_COUNT,plural, =1{<ph name="BOOKMARKS_COUNT_ONE"/> zaznamek}one{<ph name="BOOKMARKS_COUNT_MANY"/> zaznamek}two{<ph name="BOOKMARKS_COUNT_MANY"/> zaznamka}few{<ph name="BOOKMARKS_COUNT_MANY"/> zaznamki}other{<ph name="BOOKMARKS_COUNT_MANY"/> zaznamkov}}</translation>
 <translation id="6153252609477956632">Članki na temo vaših zanimanj v Chromu</translation>
 <translation id="3066573403916685335">Premik dol</translation>
 <translation id="3070005020161560471">Samodejno prevedi</translation>
-<translation id="1094255666887095087">Aplikacija <ph name="APP_NAME"/> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Brave in Chrome OS<ph name="END_LINK2"/>. Uporablja se tudi <ph name="BEGIN_LINK3"/>pravilnik o zasebnosti<ph name="END_LINK3"/>.</translation>
+<translation id="1094255666887095087">Aplikacija <ph name="APP_NAME"/> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1"/>Googlovimi pogoji storitve<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>dodatnimi pogoji storitve za Asil in Chrome OS<ph name="END_LINK2"/>. Uporablja se tudi <ph name="BEGIN_LINK3"/>pravilnik o zasebnosti<ph name="END_LINK3"/>.</translation>
 <translation id="3091010850649238832">Prikaz vsebine odložišča</translation>
 <translation id="821565628224723530">Nekatere slike so poslane Googlu zaradi izboljšanja opisov.</translation>
 <translation id="3114507951000454849">Preberite današnje novice <ph name="NEWS_ICON"/></translation>
@@ -390,17 +390,17 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="5063487983358782016">Chromova začetna stran</translation>
 <translation id="3157931365184549694">Obnovi</translation>
 <translation id="3166827708714933426">Bližnjice za zavihke in okna</translation>
-<translation id="7249949543831830993">Brave se že izvaja tu.</translation>
+<translation id="7249949543831830993">Asil se že izvaja tu.</translation>
 <translation id="3169472444629675720">Discover</translation>
 <translation id="3187472288455401631">Merjenje oglasov</translation>
 <translation id="3207960819495026254">Dodano med zaznamke</translation>
 <translation id="3208584281581115441">Preveri</translation>
 <translation id="3211426585530211793">Izbrisano: <ph name="ITEM_TITLE"/></translation>
-<translation id="1892217432793359605"><ph name="BEGIN_LINK1"/>Zgodovina iskanja<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>druge oblike dejavnosti<ph name="END_LINK2"/> se morda shranjujejo v računu Brave, ko ste prijavljeni. Izbrišete jih lahko kadar koli.</translation>
+<translation id="1892217432793359605"><ph name="BEGIN_LINK1"/>Zgodovina iskanja<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>druge oblike dejavnosti<ph name="END_LINK2"/> se morda shranjujejo v računu Asil, ko ste prijavljeni. Izbrišete jih lahko kadar koli.</translation>
 <translation id="321773570071367578">Če ste pozabili geslo ali želite spremeniti to nastavitev, <ph name="BEGIN_LINK"/>ponastavite sinhronizacijo<ph name="END_LINK"/></translation>
 <translation id="3220943972464248773">Če želite sinhronizirati gesla, potrdite, da ste to vi.</translation>
 <translation id="3223522355830797639">Vaša banka želi potrditi, da ste to vi.</translation>
-<translation id="9047551989591319903">Brave kot varnostni ključ</translation>
+<translation id="9047551989591319903">Asil kot varnostni ključ</translation>
 <translation id="3232754137068452469">Spletna aplikacija</translation>
 <translation id="3234978181857588512">Shrani v napravo</translation>
 <translation id="3236059992281584593">Še 1 min</translation>
@@ -417,7 +417,7 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="3265534588625245297">Upravljajte spletna mesta, ki jim sledite.</translation>
 <translation id="3269093882174072735">Naloži sliko</translation>
 <translation id="3280562213547448728">Glasovno iskanje</translation>
-<translation id="82609232232243542">Prijava v Brave</translation>
+<translation id="82609232232243542">Prijava v Asil</translation>
 <translation id="1793814306828610181">Videoposnetki o uporabi Chroma</translation>
 <translation id="3288003805934695103">znova naložiti stran</translation>
 <translation id="3290249595466894471">Prav tako pošlje manjši vzorec strani, prenosov, dejavnosti razširitev in podatkov o sistemu zaradi pomoči pri odkrivanju novih groženj.</translation>
@@ -427,10 +427,10 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="3334729583274622784">Želite spremeniti pripono datoteke?</translation>
 <translation id="3341262203274374114">Spremljanja ni mogoče preklicati. Prišlo je do napake.</translation>
 <translation id="3359667936385849800">Uporaba trenutnega ponudnika storitev</translation>
-<translation id="449001704952013438">Brave lahko upošteva to zanimanje</translation>
+<translation id="449001704952013438">Asil lahko upošteva to zanimanje</translation>
 <translation id="3367813778245106622">Prijavite se znova, če želite začeti sinhronizacijo</translation>
 <translation id="2746024117903470217">Če želite to stran deliti z drugo napravo, v drugi napravi v nastavitvah Chroma vklopite sinhronizacijo</translation>
-<translation id="8801234437789558906">Vaši zaznamki, zgodovina, gesla in drugi podatki v Chromu ne bodo več sinhronizirani z računom za Brave</translation>
+<translation id="8801234437789558906">Vaši zaznamki, zgodovina, gesla in drugi podatki v Chromu ne bodo več sinhronizirani z računom za Asil</translation>
 <translation id="3384347053049321195">Skupna raba slike</translation>
 <translation id="3387650086002190359">Prenos datoteke <ph name="FILE_NAME"/> ni uspel zaradi napak v datotečnem sistemu.</translation>
 <translation id="3389286852084373014">Besedilo je preveliko</translation>
@@ -445,7 +445,7 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="3435738964857648380">Varnost</translation>
 <translation id="3443221991560634068">Vnovično nalaganje trenutne strani</translation>
 <translation id="3444179773590444986">Želite poslati povratne informacije o temni temi za spletna mesta?</translation>
-<translation id="7384339501748168186">Brave zaradi varstva vaše zasebnosti ne bo samodejno izpolnil polja za vnos gesla.</translation>
+<translation id="7384339501748168186">Asil zaradi varstva vaše zasebnosti ne bo samodejno izpolnil polja za vnos gesla.</translation>
 <translation id="3474624961160222204">Nadaljuj kot <ph name="NAME"/></translation>
 <translation id="3478363558367712427">Izberete lahko iskalnik</translation>
 <translation id="3479552764303398839">Ne zdaj</translation>
@@ -453,7 +453,7 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="3495219333887281978">Razdelek na dnu zaslona za prijavo je odprt pri polovični višini.</translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="3507132249039706973">Standardna zaščita je vklopljena</translation>
-<translation id="8669829441518807650">Brez povezave. Brave ne more preveriti, ali so na voljo posodobitve.</translation>
+<translation id="8669829441518807650">Brez povezave. Asil ne more preveriti, ali so na voljo posodobitve.</translation>
 <translation id="3513704683820682405">Razširjena resničnost</translation>
 <translation id="3518985090088779359">Sprejmi in nadaljuj</translation>
 <translation id="3522247891732774234">Posodobitev je na voljo. Več možnosti.</translation>
@@ -466,7 +466,7 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="3560491354538957576">Spletno mesto lahko določi zanimanja</translation>
 <translation id="3563767357928833671">Vsebina odložišča je prikazana</translation>
 <translation id="3566639033325271639">Posodobi nastavitve</translation>
-<translation id="1908301351964700579">Brave se še vedno pripravlja na navidezno resničnost. Znova zaženite Brave pozneje.</translation>
+<translation id="1908301351964700579">Asil se še vedno pripravlja na navidezno resničnost. Znova zaženite Asil pozneje.</translation>
 <translation id="3568688522516854065">Če želite dostopati do zavihkov iz drugih naprav, vklopite sinhronizacijo</translation>
 <translation id="357465026686164600">Telefon kot varnostni ključ</translation>
 <translation id="3577473026931028326">Prišlo je do napake. Poskusite znova.</translation>
@@ -486,8 +486,8 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="3699022356773522638">Želite prenesti datoteko?</translation>
 <translation id="371230970611282515">Predvideva nevarne dogodke, preden se zgodijo, in vas opozarja nanje.</translation>
 <translation id="3714981814255182093">Odpiranje vrstice za iskanje</translation>
-<translation id="5805364706385912897">Ta stran uporablja preveč pomnilnika, zato jo je Brave zaustavil.</translation>
-<translation id="8397843425685839889">Vi in Brave</translation>
+<translation id="5805364706385912897">Ta stran uporablja preveč pomnilnika, zato jo je Asil zaustavil.</translation>
+<translation id="8397843425685839889">Vi in Asil</translation>
 <translation id="3737319253362202215">Nastavitve prevajanja</translation>
 <translation id="3737402728074743863">Če želite to napravo uporabljati kot varnostni ključ, nastavite zaklepanje zaslona.</translation>
 <translation id="3738139272394829648">Dotaknite se za iskanje</translation>
@@ -521,17 +521,17 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="3934366560681368531">»</translation>
 <translation id="393697183122708255">Glasovno iskanje ni na voljo</translation>
 <translation id="395377504920307820">Uporabi brez računa</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Brave bo naložil stran, ko bo pripravljen}one{Brave bo naložil strani, ko bo pripravljen}two{Brave bo naložil strani, ko bo pripravljen}few{Brave bo naložil strani, ko bo pripravljen}other{Brave bo naložil strani, ko bo pripravljen}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Asil bo naložil stran, ko bo pripravljen}one{Asil bo naložil strani, ko bo pripravljen}two{Asil bo naložil strani, ko bo pripravljen}few{Asil bo naložil strani, ko bo pripravljen}other{Asil bo naložil strani, ko bo pripravljen}}</translation>
 <translation id="3962119236270174787">Standardna zaščita proti spletnim mestom, prenosom in razširitvam, za katere vemo, da so nevarni.</translation>
 <translation id="4908545308856135643">Šifriranje gesla ne vključuje plačilnih sredstev in naslovov iz Googla Pay. Vaše šifrirane podatke lahko bere samo oseba z vašim geslom. Geslo ni poslano Googlu in ni shranjeno v Googlu. Če ga pozabite ali želite spremeniti to nastavitev, boste morali sinhronizacijo ponastaviti. <ph name="BEGIN_LINK"/>Več o tem<ph name="END_LINK"/></translation>
-<translation id="1453002554835005700">Brave ne more preveriti vaših gesel</translation>
+<translation id="1453002554835005700">Asil ne more preveriti vaših gesel</translation>
 <translation id="3969863827134279083">Premik gor</translation>
 <translation id="397583555483684758">Sinhronizacija je prenehala delovati</translation>
 <translation id="3976396876660209797">Odstranite in znova ustvarite to bližnjico</translation>
 <translation id="3981902534690264083">Oglaševalci lahko razumejo, kako delujejo oglasi.</translation>
 <translation id="3985215325736559418">Ali želite znova prenesti datoteko <ph name="FILE_NAME"/>?</translation>
 <translation id="3987993985790029246">Kopiranje povezave</translation>
-<translation id="5846727201643228411">Vidite ali odstranite lahko teme zanimanja, ki jih spletna mesta uporabljajo, da vam prikazujejo oglase. Brave oceni vaša zanimanja glede na nedavno zgodovino brskanja.</translation>
+<translation id="5846727201643228411">Vidite ali odstranite lahko teme zanimanja, ki jih spletna mesta uporabljajo, da vam prikazujejo oglase. Asil oceni vaša zanimanja glede na nedavno zgodovino brskanja.</translation>
 <translation id="4000212216660919741">Začetna stran brez povezave</translation>
 <translation id="4016425174436051808">Ni mogoče spremljati. Prišlo je do napake.</translation>
 <translation id="4034817413553209278">{HOURS,plural, =1{# h}one{# h}two{# h}few{# h}other{# h}}</translation>
@@ -544,14 +544,14 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="4062305924942672200">Pravne informacije</translation>
 <translation id="4072805772816336153">Poskusite znova pozneje</translation>
 <translation id="4084682180776658562">Zaznamek</translation>
-<translation id="4521874409998847950">Vsebino objavil <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>prikazuje jo Brave<ph name="END_DEEMPHASIZED"/></translation>
+<translation id="4521874409998847950">Vsebino objavil <ph name="PUBLISHER_ORIGIN"/> – <ph name="BEGIN_DEEMPHASIZED"/>prikazuje jo Asil<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="409109920254068737">Ta tablični računalnik lahko uporabite za prijavo v napravi, v kateri je prikazana ta koda QR.</translation>
 <translation id="4095146165863963773">Izbris podatkov aplikacije?</translation>
 <translation id="4096227151372679484">Postopek shranjevanja zaznamka, odprt pri polovični višini</translation>
-<translation id="673197144963363525">Pomagajte izboljšati Brave s pošiljanjem statističnih podatkov o uporabi in poročil o zrušitvah Googlu.</translation>
+<translation id="673197144963363525">Pomagajte izboljšati Asil s pošiljanjem statističnih podatkov o uporabi in poročil o zrušitvah Googlu.</translation>
 <translation id="4101475238162928417">S sinhronizacijo si zagotovite gesla, zaznamke in drugo v drugih napravah.</translation>
 <translation id="410351446219883937">Samodejno predvajanje</translation>
-<translation id="8112581848375017126">Brave raziskuje nove funkcije, ki spletnim mestom omogočajo, da zagotavljajo isto izkušnjo pri brskanju, pri tem pa uporabljajo manj vaših podatkov.</translation>
+<translation id="8112581848375017126">Asil raziskuje nove funkcije, ki spletnim mestom omogočajo, da zagotavljajo isto izkušnjo pri brskanju, pri tem pa uporabljajo manj vaših podatkov.</translation>
 <translation id="4108314971463891922">Spremljaj</translation>
 <translation id="4108998448622696017">Zaznava nevarne dogodke, ko se zgodijo, in vas opozarja nanje.</translation>
 <translation id="4116038641877404294">Prenesite strani, če jih želite uporabljati brez povezave</translation>
@@ -571,8 +571,8 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="4195643157523330669">Odpri v novem zavihku</translation>
 <translation id="4196597275619698563">Ustvari kartico</translation>
 <translation id="4198423547019359126">Ni razpoložljivih mest za prenos</translation>
-<translation id="6003646045106347985">Če želite prejemati prilagojeno vsebino, ki jo predlaga Brave, vklopite sinhronizacijo</translation>
-<translation id="1675646381334855139">Če omogočite piškotke, jih bo Brave morda uporabil za vnaprejšnje nalaganje.</translation>
+<translation id="6003646045106347985">Če želite prejemati prilagojeno vsebino, ki jo predlaga Asil, vklopite sinhronizacijo</translation>
+<translation id="1675646381334855139">Če omogočite piškotke, jih bo Asil morda uporabil za vnaprejšnje nalaganje.</translation>
 <translation id="4225895483398857530">Bližnjica do orodne vrstice</translation>
 <translation id="4242533952199664413">Odpri nastavitve</translation>
 <translation id="4248098802131000011">Varuje gesla pred podatkovnimi kršitvami in drugimi varnostnimi težavami</translation>
@@ -585,7 +585,7 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="4269820728363426813">Kopiraj naslov povezave</translation>
 <translation id="4283102315569707115">Želite privzeto zahtevati namizna spletna mesta?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK"/>Vklop zaklepanja zaslona v nastavitvah za Android<ph name="END_LINK"/></translation>
-<translation id="6299940168852877221">Če uporabljate Brave, se strinjate z <ph name="BEGIN_TOS_LINK"/>Googlovimi pogoji storitve<ph name="END_TOS_LINK"/> in <ph name="BEGIN_ATOS_LINK"/>dodatnimi pogoji storitve za Brave in Chrome OS<ph name="END_ATOS_LINK"/>. Uporablja se tudi <ph name="BEGIN_PRIVACY_LINK"/>pravilnik o zasebnosti<ph name="END_PRIVACY_LINK"/>.</translation>
+<translation id="6299940168852877221">Če uporabljate Asil, se strinjate z <ph name="BEGIN_TOS_LINK"/>Googlovimi pogoji storitve<ph name="END_TOS_LINK"/> in <ph name="BEGIN_ATOS_LINK"/>dodatnimi pogoji storitve za Asil in Chrome OS<ph name="END_ATOS_LINK"/>. Uporablja se tudi <ph name="BEGIN_PRIVACY_LINK"/>pravilnik o zasebnosti<ph name="END_PRIVACY_LINK"/>.</translation>
 <translation id="4298388696830689168">Povezana spletna mesta</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="4307992518367153382">Osnove</translation>
@@ -602,7 +602,7 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="4405224443901389797">Premakni v …</translation>
 <translation id="4405636711880428279">Želite odstraniti navidezno kartico?</translation>
 <translation id="4409271659088619928">Vaš iskalnik je <ph name="DSE"/>. Oglejte si navodila iskalnika za brisanje zgodovine iskanja, če je na voljo.</translation>
-<translation id="5749788945734786627">Upravljanje računa Brave</translation>
+<translation id="5749788945734786627">Upravljanje računa Asil</translation>
 <translation id="4425140285732600465">Spremljanje cene. Prejmite opozorila, če se cena zniža na katerem koli spletnem mestu.</translation>
 <translation id="442518031075347249">Navidezne kartice ne bo več mogoče uporabljati v Googlu Pay. <ph name="BEGIN_LINK1"/>Preberite več o navideznih karticah<ph name="END_LINK1"/></translation>
 <translation id="4428065317363009941">Osebno prilagajanje oglasov</translation>
@@ -611,10 +611,10 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="4461614516424362539">Če povežete drugo napravo s kodo QR, lahko uporabi ta telefon kot varnostni ključ. Če ga odstranite, boste morali optično prebrati kodo QR, če ga boste želeli znova povezati.</translation>
 <translation id="4472118726404937099">Če želite sinhronizirati in prilagajati v vseh napravah, se prijavite in vklopite sinhronizacijo</translation>
 <translation id="4479839115899251637">Izbriši z bralnega seznama</translation>
-<translation id="3133489217401741157">Nameščanje modula <ph name="MODULE"/> za Brave …</translation>
+<translation id="3133489217401741157">Nameščanje modula <ph name="MODULE"/> za Asil …</translation>
 <translation id="4484496141267039529">Ni povezave. Poskusite pozneje.</translation>
-<translation id="53119194224775367">Vsi podatki aplikacije Brave bodo trajno izbrisani, vključno z vsemi datotekami, nastavitvami, računi, zbirkami podatkov ipd.</translation>
-<translation id="3966104135245031874">Šifriranje sinhroniziranih gesel z računom Brave</translation>
+<translation id="53119194224775367">Vsi podatki aplikacije Asil bodo trajno izbrisani, vključno z vsemi datotekami, nastavitvami, računi, zbirkami podatkov ipd.</translation>
+<translation id="3966104135245031874">Šifriranje sinhroniziranih gesel z računom Asil</translation>
 <translation id="4504667196171871375">»V omrežju Wi-Fi ali mobilnem omrežju«</translation>
 <translation id="4508528996305412043">Meni kartice vira je odprt</translation>
 <translation id="4508642716788467538">Izberite jezik</translation>
@@ -622,7 +622,7 @@ Zasebni žetoni stanja izboljšujejo zaupanje v spletu in jih ni mogoče uporabi
 <translation id="451872707440238414">Poiščite zaznamke</translation>
 <translation id="1664855196866195614">Izbrani podatki so bili odstranjeni iz Chroma in sinhroniziranih naprav.
 
-V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejavnosti iz drugih Googlovih storitev, na <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/>.</translation>
+V Asil Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejavnosti iz drugih Googlovih storitev, na <ph name="BEGIN_LINK"/>history.google.com<ph name="END_LINK"/>.</translation>
 <translation id="452750746583162491">Pregled sinhroniziranih podatkov</translation>
 <translation id="4532845899244822526">Izbira mape</translation>
 <translation id="4549903594034243526">chrome_emotion_gif_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
@@ -654,7 +654,7 @@ V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejav
 <translation id="4699172675775169585">Predpomnjene slike in datoteke</translation>
 <translation id="4719927025381752090">Ponudi prevajanje</translation>
 <translation id="4720023427747327413">Odpri v: <ph name="PRODUCT_NAME"/></translation>
-<translation id="4939482511480190003">Pomagajte izboljšati Brave. <ph name="BEGIN_LINK"/>Sodelujte v anketi.<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Pomagajte izboljšati Asil. <ph name="BEGIN_LINK"/>Sodelujte v anketi.<ph name="END_LINK"/></translation>
 <translation id="47217992755561375">Ogled najbolj priljubljenih spletnih mest</translation>
 <translation id="4732120983431207637">Modul za odstranitev sklada</translation>
 <translation id="4736934858538408121">Navidezna kartica</translation>
@@ -683,16 +683,16 @@ V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejav
 <translation id="4831037795716408498">Prenos vsebine</translation>
 <translation id="4834007576107377210">Oglejte si navodila iskalnika za brisanje zgodovine iskanja, če je na voljo.</translation>
 <translation id="4834250788637067901">Plačilna sredstva, ponudbe in naslovi z Googlom Pay</translation>
-<translation id="2593289874938379417">Brave nima dostopa do zahtevanega vira</translation>
+<translation id="2593289874938379417">Asil nima dostopa do zahtevanega vira</translation>
 <translation id="4837753911714442426">Odpiranje možnosti za tiskanje strani</translation>
 <translation id="4842092870884894799">Prikaz pojavnega okna za ustvarjanje gesel</translation>
 <translation id="4842515939542199281">Če želite iskati z glasom, se dotaknite mikrofona.</translation>
-<translation id="6195403640086187022">Zaradi dodatne varnosti šifrirajte gesla v napravi, preden se shranijo v Brave Upravitelju gesel.</translation>
+<translation id="6195403640086187022">Zaradi dodatne varnosti šifrirajte gesla v napravi, preden se shranijo v Asil Upravitelju gesel.</translation>
 <translation id="4850886885716139402">Pogled</translation>
 <translation id="4852014461738377247">Prijava …</translation>
 <translation id="4860895144060829044">Pokličite</translation>
 <translation id="4864369630010738180">Prijavljanje ...</translation>
-<translation id="5131234170665854056">Modula <ph name="MODULE"/> za Brave ni mogoče namestiti</translation>
+<translation id="5131234170665854056">Modula <ph name="MODULE"/> za Asil ni mogoče namestiti</translation>
 <translation id="4871568871368204250">Izklop sinhronizacije</translation>
 <translation id="4875775213178255010">Predlogi za vsebino</translation>
 <translation id="4878404682131129617">Vzpostavljanje tunela prek strežnika proxy ni uspelo</translation>
@@ -710,10 +710,10 @@ V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejav
 <translation id="492284538114688557">Zaznano je znižanje cene</translation>
 <translation id="4925120120285606924">Posnetek zaslona <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="49268022542405662">Gesla bodo izvožena in prenesena v obliki besedilne datoteke. Vidna bodo vsem osebam in aplikacijam, ki imajo dostop do ciljne mape.</translation>
-<translation id="1955495299630319741">Ker se odjavljate iz računa, ki ga upravlja <ph name="DOMAIN_NAME"/>, bodo podatki v Chromu izbrisani iz te naprave. Ostali bodo v računu Brave.</translation>
+<translation id="1955495299630319741">Ker se odjavljate iz računa, ki ga upravlja <ph name="DOMAIN_NAME"/>, bodo podatki v Chromu izbrisani iz te naprave. Ostali bodo v računu Asil.</translation>
 <translation id="4943703118917034429">Navidezna resničnost</translation>
 <translation id="4943872375798546930">Ni rezultatov</translation>
-<translation id="5742837711075932301">Če ste prijavljeni v isti račun Brave, lahko druge naprave uporabljajo ta telefon kot varnostni ključ.</translation>
+<translation id="5742837711075932301">Če ste prijavljeni v isti račun Asil, lahko druge naprave uporabljajo ta telefon kot varnostni ključ.</translation>
 <translation id="4957722034734105353">Več o tem ...</translation>
 <translation id="4961107849584082341">Prevedite to stran v kateri koli jezik</translation>
 <translation id="7307583170263691471">Hitrejša, še boljša zaščita proti nevarnim spletnim mestom, prenosom in razširitvam. Opozori vas glede kršitev gesel. Zahteva pošiljanje podatkov brskanja Googlu.</translation>
@@ -734,13 +734,13 @@ V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejav
 <translation id="5039804452771397117">Dovoli</translation>
 <translation id="5040262127954254034">Zasebnost</translation>
 <translation id="504456571576643789">Kaj morate upoštevati</translation>
-<translation id="4858031288914533863">Ko ste prijavljeni, se v računu Brave morda shranjujejo <ph name="BEGIN_LINK1"/>druge oblike dejavnosti<ph name="END_LINK1"/>. Izbrišete jih lahko kadar koli.</translation>
+<translation id="4858031288914533863">Ko ste prijavljeni, se v računu Asil morda shranjujejo <ph name="BEGIN_LINK1"/>druge oblike dejavnosti<ph name="END_LINK1"/>. Izbrišete jih lahko kadar koli.</translation>
 <translation id="506254248375231072">Ni zavihkov</translation>
-<translation id="4744980273298156620">Kmalu bodo prikazane novice s spletnega mesta <ph name="SITE_NAME"/>, ko boste odprli nov zavihek. Spletna mesta, ki jih spremljate, se shranijo v računu Brave. Upravljate jih lahko v nastavitvah Odkrivanja.</translation>
+<translation id="4744980273298156620">Kmalu bodo prikazane novice s spletnega mesta <ph name="SITE_NAME"/>, ko boste odprli nov zavihek. Spletna mesta, ki jih spremljate, se shranijo v računu Asil. Upravljate jih lahko v nastavitvah Odkrivanja.</translation>
 <translation id="5091249083535528968">Razširjeni podatki o uporabi</translation>
 <translation id="509429900233858213">Napaka.</translation>
 <translation id="5099845111805573968">Ko enkrat izberete namizno spletno mesto, se nastavitev uporabi za spletno mesto ob vsakem obisku.</translation>
-<translation id="225414324447409614">Če vam spletno mesto poskusi ukrasti geslo ali ko prenašate škodljivo datoteko, lahko Brave pošlje URL-je, vključno z delčki vsebine strani, Varnemu brskanju.</translation>
+<translation id="225414324447409614">Če vam spletno mesto poskusi ukrasti geslo ali ko prenašate škodljivo datoteko, lahko Asil pošlje URL-je, vključno z delčki vsebine strani, Varnemu brskanju.</translation>
 <translation id="510275257476243843">Še 1 h</translation>
 <translation id="5115811374190515607">za <ph name="PRODUCT_NAME"/></translation>
 <translation id="5118713593561876160">Zanimanja</translation>
@@ -776,8 +776,8 @@ V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejav
 <translation id="5304593522240415983">To polje ne sme biti prazno</translation>
 <translation id="5308380583665731573">Povezovanje</translation>
 <translation id="5317780077021120954">Shrani</translation>
-<translation id="989239400026154074">Brave priporoča Brave</translation>
-<translation id="493321943777183150">Brave išče nove načine za zmanjšanje sledenja in zagotavljanje, da boste med brskanjem še varnejši. Brave prav tako <ph name="BEGIN_LINK"/>oceni vaša zanimanja<ph name="END_LINK"/> in omogoča, da jih upravljate. Nato lahko spletna mesta, ki jih obiščete, od Chroma zahtevajo vaša zanimanja, da vam prikažejo oglase.</translation>
+<translation id="989239400026154074">Asil priporoča Asil</translation>
+<translation id="493321943777183150">Asil išče nove načine za zmanjšanje sledenja in zagotavljanje, da boste med brskanjem še varnejši. Asil prav tako <ph name="BEGIN_LINK"/>oceni vaša zanimanja<ph name="END_LINK"/> in omogoča, da jih upravljate. Nato lahko spletna mesta, ki jih obiščete, od Chroma zahtevajo vaša zanimanja, da vam prikažejo oglase.</translation>
 <translation id="5324858694974489420">Starševske nastavitve</translation>
 <translation id="1681635711794313507">Ker so vnaprej naložene strani šifrirane, spletno mesto s povezavo do teh strani pa je Googlovo spletno mesto, Googlovi strežniki ne prejmejo nobenega novega podatka ob zasebnem vnaprejšnjem nalaganju teh strani.</translation>
 <translation id="5329858041417644019">Vaš brskalnik ni upravljan</translation>
@@ -811,7 +811,7 @@ V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejav
 <translation id="5514904542973294328">Onemogoči skrbnik te naprave</translation>
 <translation id="5515439363601853141">Odklenite, če si želite ogledati geslo</translation>
 <translation id="5517095782334947753">Iz računa <ph name="FROM_ACCOUNT"/> imate zaznamke, zgodovino, gesla in druge nastavitve.</translation>
-<translation id="300369155175407115">Če so preizkusi vklopljeni in vas je Brave naključno prijavil za aktivni preizkus, zgodovina brskanja vpliva na oglase, ki so prikazani, in zanimanja, kot je ocenjeno spodaj. Brave zaradi varovanja vaše zasebnosti vsak mesec sproti izbriše vaša zanimanja.</translation>
+<translation id="300369155175407115">Če so preizkusi vklopljeni in vas je Asil naključno prijavil za aktivni preizkus, zgodovina brskanja vpliva na oglase, ki so prikazani, in zanimanja, kot je ocenjeno spodaj. Asil zaradi varovanja vaše zasebnosti vsak mesec sproti izbriše vaša zanimanja.</translation>
 <translation id="5524843473235508879">Preusmeritev je bila blokirana.</translation>
 <translation id="5548606607480005320">Varnostno preverjanje</translation>
 <translation id="5555525474779371165">Izbira zaščite Varnega brskanja</translation>
@@ -823,7 +823,7 @@ V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejav
 <translation id="5578795271662203820">Za iskanje te slike uporabi <ph name="SEARCH_ENGINE"/></translation>
 <translation id="5581519193887989363">V <ph name="BEGIN_LINK1"/>nastavitvah<ph name="END_LINK1"/> lahko kadar koli izberete, kaj želite sinhronizirati.</translation>
 <translation id="5590372121997663538">Zapomni si ta računalnik</translation>
-<translation id="6157610782452852023">Pomočnik Brave lahko dokonča dejanja na spletnih mestih namesto vas.</translation>
+<translation id="6157610782452852023">Pomočnik Asil lahko dokonča dejanja na spletnih mestih namesto vas.</translation>
 <translation id="5620163320393916465">Ni shranjenih gesel</translation>
 <translation id="5620928963363755975">Poiščite datoteke in strani v Prenosih z gumbom »Več možnosti«</translation>
 <translation id="562289928968387744">Upravljanje odzivov</translation>
@@ -834,16 +834,16 @@ V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejav
 <translation id="5655963694829536461">Poiščite prenose</translation>
 <translation id="5659593005791499971">E-pošta</translation>
 <translation id="5665379678064389456">Ustvarite dogodek v aplikaciji <ph name="APP_NAME"/></translation>
-<translation id="5668833306439455813">Brave ne more preveriti, ali so na voljo posodobitve</translation>
+<translation id="5668833306439455813">Asil ne more preveriti, ali so na voljo posodobitve</translation>
 <translation id="5686790454216892815">Ime datoteke je predolgo</translation>
 <translation id="569536719314091526">Prevedite to stran v kateri koli jezik z gumbom »Več možnosti«</translation>
-<translation id="2320748512701464301">Brave vas lahko varuje pred podatkovnimi kršitvami, spletnimi mesti, ki niso varna, in drugim.</translation>
+<translation id="2320748512701464301">Asil vas lahko varuje pred podatkovnimi kršitvami, spletnimi mesti, ki niso varna, in drugim.</translation>
 <translation id="570347048394355941">Preklop na zavihek</translation>
 <translation id="572328651809341494">Nedavni zavihki</translation>
 <translation id="5726692708398506830">Povečanje vsebine strani</translation>
-<translation id="3613110494561632737">Če vas je Brave naključno prijavil za aktivni preizkus, zgodovina brskanja vpliva na oglase, ki so prikazani, in zanimanja, kot je ocenjeno spodaj. Brave zaradi varovanja vaše zasebnosti vsak mesec sproti izbriše vaša zanimanja. Zanimanja se osvežujejo, razen če jih odstranite.</translation>
+<translation id="3613110494561632737">Če vas je Asil naključno prijavil za aktivni preizkus, zgodovina brskanja vpliva na oglase, ki so prikazani, in zanimanja, kot je ocenjeno spodaj. Asil zaradi varovanja vaše zasebnosti vsak mesec sproti izbriše vaša zanimanja. Zanimanja se osvežujejo, razen če jih odstranite.</translation>
 <translation id="5748802427693696783">Preklopljeno na standardne zavihke</translation>
-<translation id="3088191967551450609">Brave za prenos datotek potrebuje dostop do shrambe.</translation>
+<translation id="3088191967551450609">Asil za prenos datotek potrebuje dostop do shrambe.</translation>
 <translation id="5749237766298580851">Izklopljeno <ph name="SEPARATOR"/> Ni priporočljivo</translation>
 <translation id="5752232708629533680">Deli samo sliko GIF</translation>
 <translation id="416316836590748269">V Chromu lahko iščete z glasom.</translation>
@@ -857,14 +857,14 @@ V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejav
 <translation id="5793665092639000975">Uporaba <ph name="SPACE_USED"/> od <ph name="SPACE_AVAILABLE"/></translation>
 <translation id="5795872532621730126">Iskanje in brskanje</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{Pred # uro}one{Pred # uro}two{Pred # urama}few{Pred # urami}other{Pred # urami}}</translation>
-<translation id="5311273890481188673">Copyright © <ph name="YEAR"/> Brave LLC. Vse pravice pridržane.</translation>
+<translation id="5311273890481188673">Copyright © <ph name="YEAR"/> Asil LLC. Vse pravice pridržane.</translation>
 <translation id="5813552293717797987">Ta brskalnik upravljata <ph name="PARENT_NAME_1"/> in <ph name="PARENT_NAME_2"/>.</translation>
 <translation id="5814131985548525293">Vnesite tukaj ali se dotaknite ikone govora, če želite začeti.</translation>
 <translation id="5814749351757353073">Bodite na tekočem s priljubljenimi spletnimi mesti</translation>
 <translation id="583281660410589416">Neznano</translation>
 <translation id="5833984609253377421">Deli povezavo z drugimi</translation>
 <translation id="4099502324559761073">Če želite optično prebrati kodo QR, Chromu omogočite uporabo fotoaparata.</translation>
-<translation id="2225291765389142805">Dino za Brave</translation>
+<translation id="2225291765389142805">Dino za Asil</translation>
 <translation id="5842437907245493289">Organizirajte spremljane izdelke v zaznamkih prek ikone za mape.</translation>
 <translation id="5853623416121554550">začasno ustavljeno</translation>
 <translation id="3518793343998771868">Googlu ne bodo poslani statistični podatki ali poročila o zrušitvah.</translation>
@@ -880,23 +880,23 @@ V Brave Računu so morda druge vrste zgodovine brskanja, kot so iskanja in dejav
 <translation id="5869789175361934029">Nadaljevanje iz druge naprave</translation>
 <translation id="5604589745019948682">Če želite spremljati spletno mesto, odprite spletno mesto, nato odprite Chromov meni in se dotaknite možnosti za spremljanje.</translation>
 <translation id="5879072387416556377">Prejmite boljše predloge</translation>
-<translation id="1985257319311245640">Če Pomočnik Brave pozna URL-je spletnih mest, vam lahko pomaga dokončati opravila. Pomočnika lahko izklopite v nastavitvah Chroma.</translation>
+<translation id="1985257319311245640">Če Pomočnik Asil pozna URL-je spletnih mest, vam lahko pomaga dokončati opravila. Pomočnika lahko izklopite v nastavitvah Chroma.</translation>
 <translation id="5916664084637901428">Vklopljeno</translation>
 <translation id="5919204609460789179">Posodobite izdelek <ph name="PRODUCT_NAME"/>, če želite začeti sinhronizacijo</translation>
 <translation id="5938820472109305350">Dodajanje: <ph name="INTEREST"/></translation>
-<translation id="6103327872225198548">Uporaba iskalnika Brave za iskanje</translation>
+<translation id="6103327872225198548">Uporaba iskalnika Asil za iskanje</translation>
 <translation id="5945035219773565305">Trenutno priporočilo:  <ph name="RECOMMENDATION"/></translation>
 <translation id="5951119116059277034">Ogledovanje strani v živo</translation>
-<translation id="305870044889644984">Odpiranje centra za pomoč za Brave na nov. zavih.</translation>
+<translation id="305870044889644984">Odpiranje centra za pomoč za Asil na nov. zavih.</translation>
 <translation id="5957442310066583693">Če si želite ogledati najbolj priljubljena spletna mesta, se dotaknite gumba za domačo stran</translation>
 <translation id="5958275228015807058">Poiščite datoteke in strani v Prenosih</translation>
 <translation id="5958994127112619898">Poenostavi stran</translation>
 <translation id="5962718611393537961">Dotik za strnitev</translation>
 <translation id="5964869237734432770">Ustavi prenos opisov slik</translation>
-<translation id="9135546826883360971">Brave si bo zapomnil vašo izbiro</translation>
+<translation id="9135546826883360971">Asil si bo zapomnil vašo izbiro</translation>
 <translation id="5979084224081478209">Preveri gesla</translation>
 <translation id="5995726099713306770">Ali želite znova prenesti stran?</translation>
-<translation id="6456271171669383967">Ohrani Brave</translation>
+<translation id="6456271171669383967">Ohrani Asil</translation>
 <translation id="6000203700195075278">Znova spremljaj</translation>
 <translation id="6002122790816966947">Vaše naprave</translation>
 <translation id="6005538289190791541">Predlagano geslo</translation>
@@ -915,7 +915,7 @@ Preizkusi peskovnika za zasebnost so še vedno v aktivnem razvoju in na voljo le
 <translation id="6085886413119427067">Določa, kako vzpostaviti povezavo s spletnimi mesti prek varne povezave</translation>
 <translation id="6091413777268123602">V okviru preizkusov Zasebnega peskovnika lahko spletna mesta zagotovijo enako izkušnjo brskanja, pri tem pa uporabljajo manj vaših podatkov. Tako vam zagotavljajo več zasebnosti in zmanjšajo sledenje na več spletnih mestih. Nove preizkuse bomo dodajali, ko bodo na voljo za uporabo.</translation>
 <translation id="60923314841986378">Še <ph name="HOURS"/> h</translation>
-<translation id="4726571606794511368">Če je Brave tudi vaš privzeti iskalnik, vam bomo prikazovali boljše predloge, ki so primernejši kontekstu.</translation>
+<translation id="4726571606794511368">Če je Asil tudi vaš privzeti iskalnik, vam bomo prikazovali boljše predloge, ki so primernejši kontekstu.</translation>
 <translation id="6108923351542677676">Poteka nastavitev …</translation>
 <translation id="6112702117600201073">Osveževanje strani</translation>
 <translation id="6122831415929794347">Želite izklopiti varno brskanje?</translation>
@@ -928,11 +928,11 @@ Preizkusi peskovnika za zasebnost so še vedno v aktivnem razvoju in na voljo le
 <translation id="6150320133806434356">Zaznamek je shranjen</translation>
 <translation id="6154478581116148741">Vklopite zaklepanje zaslona v nastavitvah, če želite izvoziti gesla iz te naprave.</translation>
 <translation id="6159729262978459665">Izbriše zgodovino iz vseh sinhroniziranih naprav.</translation>
-<translation id="7087658909840709934">Vnaprej naloži strani, za katere Brave meni, da jih boste najverjetneje obiskali.</translation>
+<translation id="7087658909840709934">Vnaprej naloži strani, za katere Asil meni, da jih boste najverjetneje obiskali.</translation>
 <translation id="6186394685773237175">Najdeno ni bilo nobeno ogroženo geslo</translation>
 <translation id="6192907950379606605">Prenesi opise slik</translation>
 <translation id="6193448654517602979">Izberite zavihke</translation>
-<translation id="8367262879301982880">Gesla so shranjena v Brave Upravitelju gesel v tej napravi.</translation>
+<translation id="8367262879301982880">Gesla so shranjena v Asil Upravitelju gesel v tej napravi.</translation>
 <translation id="6202812185118613467">Če želite začeti sinhronizacijo, se znova prijavite</translation>
 <translation id="6210748933810148297">Niste <ph name="EMAIL"/>?</translation>
 <translation id="6211386937064921208">Predogled te strani</translation>
@@ -944,7 +944,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="6277522088822131679">Pri tiskanju strani je prišlo do težave. Poskusite znova.</translation>
 <translation id="6277722725779679269">Spremljanja cene ni bilo mogoče posodobiti.</translation>
 <translation id="6278428485366576908">Tema</translation>
-<translation id="7918815962568992845">Med napravami, v katerih ste prijavljeni z istim računom Brave, si lahko pošiljate zavihke.</translation>
+<translation id="7918815962568992845">Med napravami, v katerih ste prijavljeni z istim računom Asil, si lahko pošiljate zavihke.</translation>
 <translation id="6297765934698848803">Organizacija, ki upravlja vašo napravo, je izklopila kamero.</translation>
 <translation id="6301525844455696527">Ne pozabite na svoj bralni seznam</translation>
 <translation id="6303969859164067831">Odjava in izklop sinhronizacije</translation>
@@ -963,11 +963,11 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="6357653805084533597">Ta telefon lahko uporabite za prijavo v napravi, v kateri je prikazana ta koda QR.</translation>
 <translation id="6363990818884053551">Če želite začeti sinhronizacijo, potrdite, da ste to vi.</translation>
 <translation id="6364438453358674297">Ali želite odstraniti predlog iz zgodovine?</translation>
-<translation id="806493401838431801">Pogosteje vnaprej naloži strani, za katere Brave meni, da jih boste najverjetneje obiskali Ta nastavitev bo morda povzročila povečano uporabo podatkov.</translation>
+<translation id="806493401838431801">Pogosteje vnaprej naloži strani, za katere Asil meni, da jih boste najverjetneje obiskali Ta nastavitev bo morda povzročila povečano uporabo podatkov.</translation>
 <translation id="6394791151443660613">Iskanje: <ph name="SEARCH_QUERY"/></translation>
 <translation id="6395288395575013217">POVEZAVA</translation>
 <translation id="6397616442223433927">Povezava je znova vzpostavljena</translation>
-<translation id="8789425457808164956">Če želite ta zavihek poslati v drugo napravo, se v njej prijavite v Brave.</translation>
+<translation id="8789425457808164956">Če želite ta zavihek poslati v drugo napravo, se v njej prijavite v Asil.</translation>
 <translation id="6402652558933147609"><ph name="ERROR_CODE"/> na <ph name="VIOLATED_URL"/></translation>
 <translation id="6403371459378431832">Sinhronizacija podatkov v vseh napravah</translation>
 <translation id="6404511346730675251">Uredi zaznamek</translation>
@@ -976,7 +976,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="6410404864818553978">Osnovni podatki o uporabi</translation>
 <translation id="6410883413783534063">Odprite zavihke, če želite obiskati različne strani hkrati</translation>
 <translation id="6411219469806822692">Višje se ni mogoče pomakniti. Poskusite začeti višje na strani.</translation>
-<translation id="7810992039564280750">Preveri URL-je, tako da jih primerja s seznamom spletnih mest, ki niso varna, shranjenim v Chromu. Če vam spletno mesto poskusi ukrasti geslo ali ko prenašate škodljivo datoteko, lahko Brave prav tako pošlje URL-je, vključno z delčki vsebine strani, Varnemu brskanju.</translation>
+<translation id="7810992039564280750">Preveri URL-je, tako da jih primerja s seznamom spletnih mest, ki niso varna, shranjenim v Chromu. Če vam spletno mesto poskusi ukrasti geslo ali ko prenašate škodljivo datoteko, lahko Asil prav tako pošlje URL-je, vključno z delčki vsebine strani, Varnemu brskanju.</translation>
 <translation id="641643625718530986">Tiskanje …</translation>
 <translation id="6422857128426228781">Spremljane izdelke boste našli tukaj.</translation>
 <translation id="6433501201775827830">Izbira iskalnika</translation>
@@ -994,10 +994,10 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="6482749332252372425">Prenos datoteke <ph name="FILE_NAME"/> ni uspel zaradi pomanjkanja prostora za shranjevanje.</translation>
 <translation id="6496823230996795692">Pri prvi uporabi aplikacije <ph name="APP_NAME"/> se morate povezati v internet.</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{Datoteka je prenesena}one{# prenos je končan.}two{# prenosa sta končana.}few{# prenosi so končani.}other{# prenosov je končanih.}}</translation>
-<translation id="3960299545138990065">Znova zaženite Brave</translation>
+<translation id="3960299545138990065">Znova zaženite Asil</translation>
 <translation id="6527303717912515753">Skupna raba</translation>
 <translation id="708829030563435351">Spletna mesta, ki jih obiščete v Chromu, ne bodo prikazana. Vsi merilniki časa spletnih mest bodo izbrisani.</translation>
-<translation id="7723158744459952869">Brave se ni odzval v ustreznem času</translation>
+<translation id="7723158744459952869">Asil se ni odzval v ustreznem času</translation>
 <translation id="6539092367496845964">Prišlo je do napake. Poskusite znova pozneje.</translation>
 <translation id="6541042852576515209">Spreminjanje velikosti in vrtenje</translation>
 <translation id="6541983376925655882">{NUM_HOURS,plural, =1{Preverjeno pred 1 uro}one{Preverjeno pred # uro}two{Preverjeno pred # urama}few{Preverjeno pred # urami}other{Preverjeno pred # urami}}</translation>
@@ -1007,7 +1007,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="6560414384669816528">Iskanje z iskalnikom Sogou</translation>
 <translation id="656065428026159829">Prikaži več</translation>
 <translation id="6565959834589222080">Wi-Fi se uporablja, ko je na voljo</translation>
-<translation id="4480935821314799946">Poslej bodo prikazane novice s spletnega mesta <ph name="SITE_NAME"/>, ko boste odprli nov zavihek. Spletna mesta, ki jih spremljate, se shranijo v računu Brave. Upravljate jih lahko v nastavitvah Odkrivanja.</translation>
+<translation id="4480935821314799946">Poslej bodo prikazane novice s spletnega mesta <ph name="SITE_NAME"/>, ko boste odprli nov zavihek. Spletna mesta, ki jih spremljate, se shranijo v računu Asil. Upravljate jih lahko v nastavitvah Odkrivanja.</translation>
 <translation id="6573096386450695060">Vedno dovoli</translation>
 <translation id="5157964048453367290">Zavihki, ki ste jih odprli v Chromu v drugih napravah, bodo prikazani tukaj.</translation>
 <translation id="6583199322650523874">Dodajanje trenutne strani med zaznamke</translation>
@@ -1015,16 +1015,16 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="6590471736817333463">Prihranite do 60 % pri prenosu podatkov</translation>
 <translation id="6590680911007613645">Geslo, ki ga želite shraniti, se mora ujemati z geslom za <ph name="SITE"/></translation>
 <translation id="6593061639179217415">Mesto za namizne račun.</translation>
-<translation id="2372700594671864890">Oglejte si, kako vas namerava Brave varovati pred sledenjem na več spletnih mestih, hkrati pa skrbeti za ohranitev odprtosti spleta.</translation>
+<translation id="2372700594671864890">Oglejte si, kako vas namerava Asil varovati pred sledenjem na več spletnih mestih, hkrati pa skrbeti za ohranitev odprtosti spleta.</translation>
 <translation id="2466982615210189224">Slike so poslane Googlu zaradi izboljšanja opisov.</translation>
-<translation id="663059986967017181">Kopirano v Brave</translation>
+<translation id="663059986967017181">Kopirano v Asil</translation>
 <translation id="661266467055912436">Izboljšuje varnost za vas in vse druge v spletu.</translation>
 <translation id="6618554661997243500">Če si želite ogledati najbolj priljubljena spletna mesta in članke, se dotaknite gumba za domačo stran</translation>
-<translation id="8127050479140582768">Če želite ta zavihek poslati v drugo napravo, se v obeh napravah prijavite v Brave.</translation>
+<translation id="8127050479140582768">Če želite ta zavihek poslati v drugo napravo, se v obeh napravah prijavite v Asil.</translation>
 <translation id="6627583120233659107">Uredi mapo</translation>
 <translation id="6636623428211296678">Spodaj lahko raziščete več nastavitev ali zaključite zdaj.</translation>
 <translation id="2259649928554669581">Če vas zanima več nastavitev, povezanih z zasebnostjo, varnostjo in zbiranjem podatkov, si oglejte razdelka <ph name="BEGIN_LINK1"/>Sinhronizacija<ph name="END_LINK1"/> in <ph name="BEGIN_LINK2"/>Googlove storitve<ph name="END_LINK2"/>.</translation>
-<translation id="7939692063031538305">Zaradi izboljšanja aplikacije Brave Googlu pošlje podatke o uporabi in zrušitvah. <ph name="BEGIN_UMA_LINK"/>Upravljanje<ph name="END_UMA_LINK"/></translation>
+<translation id="7939692063031538305">Zaradi izboljšanja aplikacije Asil Googlu pošlje podatke o uporabi in zrušitvah. <ph name="BEGIN_UMA_LINK"/>Upravljanje<ph name="END_UMA_LINK"/></translation>
 <translation id="6640207029842583248">Blokiraj ves čas</translation>
 <translation id="6641780377503683465">Odstranitev: <ph name="INTEREST"/></translation>
 <translation id="6643016212128521049">Izbriši</translation>
@@ -1039,8 +1039,8 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="6671495933530132209">Kopiraj sliko</translation>
 <translation id="6674571176963658787">Če želite začeti sinhronizacijo, vnesite geslo.</translation>
 <translation id="8581481290581777242">Ali želite izbrisati podatke v Chromu iz te naprave?</translation>
-<translation id="3683330416566109578">Prijavite se na tem spletnem mestu in v Brave.</translation>
-<translation id="3385384709865894288">Izboljšajte Brave</translation>
+<translation id="3683330416566109578">Prijavite se na tem spletnem mestu in v Asil.</translation>
+<translation id="3385384709865894288">Izboljšajte Asil</translation>
 <translation id="670498945988402717">Preverjeno včeraj</translation>
 <translation id="6710213216561001401">Prejšnji</translation>
 <translation id="671481426037969117">Merilnik časa za <ph name="FQDN"/> je potekel. Jutri se začne znova.</translation>
@@ -1054,11 +1054,11 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="6767294960381293877">Seznam naprav, s katerimi želite deliti zavihek, odprt pri polovični višini.</translation>
 <translation id="6770042910635026163">Spletna mesta, ki jih obiščete, določajo vaša zanimanja.</translation>
 <translation id="6770602306803890733">Izboljšuje varnost za vas in vse druge v spletu</translation>
-<translation id="8174975477247159780">Dodatni pogoji za Brave in Chrome OS</translation>
+<translation id="8174975477247159780">Dodatni pogoji za Asil in Chrome OS</translation>
 <translation id="6795633245022906657">Hitro odprite nov zavihek. To bližnjico lahko uredite v nastavitvah.</translation>
 <translation id="6802555630140434547">Okno bo zaprto.</translation>
 <translation id="6811034713472274749">Stran je pripravljena za ogled</translation>
-<translation id="8418237809013783651">Prijava v Brave, odprto.</translation>
+<translation id="8418237809013783651">Prijava v Asil, odprto.</translation>
 <translation id="6817747507826986771">Hitro delite to stran. Če želite urediti to bližnjico, pridržite.</translation>
 <translation id="118366698571543506">Če želite imeti Googlove stvari v svojih napravah, se prijavite.</translation>
 <translation id="6820686453637990663">CVC</translation>
@@ -1099,7 +1099,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="7029809446516969842">Gesla</translation>
 <translation id="7030304022046916278">Pošlje URL-je Varnemu brskanju, da jih ta preveri.</translation>
 <translation id="7030585293819777123">Ali želite nadaljevati zadnje opravilo?</translation>
-<translation id="5813862251770201080">Prijavite se v Brave z računom Brave.</translation>
+<translation id="5813862251770201080">Prijavite se v Asil z računom Asil.</translation>
 <translation id="7038956721828960940">chrome_image_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="7054588988317389591">Želite pridobiti opise slik?</translation>
 <translation id="7055152154916055070">Preusmeritev je preprečena:</translation>
@@ -1107,9 +1107,9 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="7071521146534760487">Upravljanje računa</translation>
 <translation id="707155805709242880">Spodaj izberite, kaj želite sinhronizirati.</translation>
 <translation id="7077143737582773186">SD kartica</translation>
-<translation id="2374582967527009647">Pošlje URL-je Varnemu brskanju, da jih ta preveri. Prav tako pošlje manjši vzorec strani, prenosov, dejavnosti razširitev in podatkov o sistemu zaradi pomoči pri odkrivanju novih groženj. Te podatke začasno poveže z vašim računom Brave, če ste prijavljeni, zaradi zagotavljanja zaščite v Googlovih aplikacijah.</translation>
+<translation id="2374582967527009647">Pošlje URL-je Varnemu brskanju, da jih ta preveri. Prav tako pošlje manjši vzorec strani, prenosov, dejavnosti razširitev in podatkov o sistemu zaradi pomoči pri odkrivanju novih groženj. Te podatke začasno poveže z vašim računom Asil, če ste prijavljeni, zaradi zagotavljanja zaščite v Googlovih aplikacijah.</translation>
 <translation id="5499149312981370855">Izberite, ali želite, da je zaradi osebno bolj prilagojenih izkušenj v Googlovih storitvah vključena zgodovina v Chromu.</translation>
-<translation id="8208853227947884571">Brave je posodobljen</translation>
+<translation id="8208853227947884571">Asil je posodobljen</translation>
 <translation id="7093803425429738190">Dodaj čustvo</translation>
 <translation id="7105047059074518658">Prijavite se za preprostejše brskanje v napravah</translation>
 <translation id="7106762743910369165">Vaš brskalnik upravlja organizacija</translation>
@@ -1118,11 +1118,11 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="7143462160780459030">Ni mogoče ustvariti posnetka zaslona. Poskusite znova.</translation>
 <translation id="7146622961999026732">Videti je, da so vam ta spletna mesta in aplikacije pomembni:</translation>
 <translation id="7149893636342594995">Zadnjih 24 ur</translation>
-<translation id="604991236434948997">Če želite optično prebrati kodo QR, spremenite nastavitve, da bo Brave lahko uporabljal fotoaparat.</translation>
+<translation id="604991236434948997">Če želite optično prebrati kodo QR, spremenite nastavitve, da bo Asil lahko uporabljal fotoaparat.</translation>
 <translation id="7173114856073700355">Odpri nastavitve</translation>
 <translation id="7177466738963138057">To lahko pozneje spremenite v nastavitvah</translation>
 <translation id="7177873915659574692">Kode QR ni mogoče ustvariti. URL vsebuje več kot toliko znakov: <ph name="CHARACTER_LIMIT"/>.</translation>
-<translation id="7631741717293858595">Več o teh funkcijah lahko izveste v nastavitvah za Brave.</translation>
+<translation id="7631741717293858595">Več o teh funkcijah lahko izveste v nastavitvah za Asil.</translation>
 <translation id="7180611975245234373">Osveži</translation>
 <translation id="718226107353899806">Dodate lahko največ toliko reakcij: <ph name="MAX_NUM_REACTIONS"/></translation>
 <translation id="7183693674623539380">Skupina zavihkov – <ph name="TITLE_OF_GROUP"/></translation>
@@ -1144,7 +1144,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="7291910923717764901">Opisi slik so dodani za to stran</translation>
 <translation id="7293429513719260019">Izbira jezika</translation>
 <translation id="729975465115245577">V napravi ni aplikacije za shranjevanje datoteke z gesli.</translation>
-<translation id="1382596880054356475">Brez povezave. Brave ne more preveriti vaših gesel.</translation>
+<translation id="1382596880054356475">Brez povezave. Asil ne more preveriti vaših gesel.</translation>
 <translation id="7313188324932846546">Dotaknite se, če želite nastaviti sinhronizacijo.</translation>
 <translation id="7332075081379534664">Prijava je uspela</translation>
 <translation id="8716243540027092298">S sinhronizacijo si zagotovite najustreznejšo vsebino iz Googla.</translation>
@@ -1163,10 +1163,10 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="724102042129299115">Izkušnje ob prvem izvajanju Chroma</translation>
 <translation id="741204030948306876">Da, sem za</translation>
 <translation id="7419565702166471774">Vedno dovoli varne povezave</translation>
-<translation id="7431991332293347422">Nadziranje, kako se zgodovina brskanja uporabi za prilagajanje Iskanja Brave in drugega</translation>
+<translation id="7431991332293347422">Nadziranje, kako se zgodovina brskanja uporabi za prilagajanje Iskanja Asil in drugega</translation>
 <translation id="7435356471928173109">Izklopil skrbnik</translation>
 <translation id="6234515504547364178">Odjava iz Chroma</translation>
-<translation id="3699067418237091329">Odjavi vas iz večine spletnih mest, vendar ne iz Brave Računa.</translation>
+<translation id="3699067418237091329">Odjavi vas iz večine spletnih mest, vendar ne iz Asil Računa.</translation>
 <translation id="7454641608352164238">Ni dovolj prostora</translation>
 <translation id="7456774706094330779">Razširjeno vnaprejšnje nalaganje</translation>
 <translation id="7468819939926272717">Izberite čustveni simbol</translation>
@@ -1181,7 +1181,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="749294055653435199">Google Lens ni na voljo v tej napravi.</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (Posodobljeno: <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7498271377022651285">Počakajte …</translation>
-<translation id="8156131600798538460">Če se želite odjaviti iz računa Brave na vseh spletnih mestih, <ph name="BEGIN_LINK1"/>se odjavite iz Chroma<ph name="END_LINK1"/>.</translation>
+<translation id="8156131600798538460">Če se želite odjaviti iz računa Asil na vseh spletnih mestih, <ph name="BEGIN_LINK1"/>se odjavite iz Chroma<ph name="END_LINK1"/>.</translation>
 <translation id="750228856503700085">Posodobitve niso na voljo.</translation>
 <translation id="7507207699631365376">Oglejte si <ph name="BEGIN_LINK"/>pravilnik o zasebnosti<ph name="END_LINK"/> tega ponudnika</translation>
 <translation id="7514365320538308">Prenos</translation>
@@ -1198,7 +1198,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="7594687499944811403">Naj <ph name="EMBEDDED_ORIGIN"/> preveri, da ste to vi, za <ph name="TOP_ORIGIN"/>.</translation>
 <translation id="7596558890252710462">Operacijski sistem</translation>
 <translation id="7605594153474022051">Sync isn't working</translation>
-<translation id="649070405679044769">V Brave ste prijavljeni kot</translation>
+<translation id="649070405679044769">V Asil ste prijavljeni kot</translation>
 <translation id="7616551326690708776">Izberite predlogo za označitev.</translation>
 <translation id="7619072057915878432">Prenos datoteke <ph name="FILE_NAME"/> ni uspel zaradi napak v omrežju.</translation>
 <translation id="7207456302801184289">Dobrodošli v Chromu</translation>
@@ -1230,8 +1230,8 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="7772375229873196092">Zapri aplikacijo <ph name="APP_NAME"/></translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}one{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}two{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}few{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}other{<ph name="PAYMENT_METHOD_PREVIEW"/> \u2026 in še <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}}</translation>
 <translation id="7778840695157240389">Vrnite se pozneje in preverite, ali so na voljo nove novice</translation>
-<translation id="7703329426540523149">Te podatke začasno poveže z vašim računom Brave, če ste prijavljeni, zaradi zagotavljanja zaščite v Googlovih aplikacijah.</translation>
-<translation id="4885054029571583374">Pomočnik Brave omogoča boljšo glasovno izkušnjo pri iskanju v spletu in komunikaciji s spletnimi stranmi, ki jih imate odprte. Pomočnik Brave prejme URL in vsebino spletnih mest, s katero ga uporabljate.</translation>
+<translation id="7703329426540523149">Te podatke začasno poveže z vašim računom Asil, če ste prijavljeni, zaradi zagotavljanja zaščite v Googlovih aplikacijah.</translation>
+<translation id="4885054029571583374">Pomočnik Asil omogoča boljšo glasovno izkušnjo pri iskanju v spletu in komunikaciji s spletnimi stranmi, ki jih imate odprte. Pomočnik Asil prejme URL in vsebino spletnih mest, s katero ga uporabljate.</translation>
 <translation id="7791543448312431591">Dodaj</translation>
 <translation id="7798392620021911922">Število obnovljenih zavihkov: <ph name="TAB_COUNT"/></translation>
 <translation id="780301667611848630">Ne, hvala</translation>
@@ -1254,7 +1254,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="6143689084714664628">Izvaja se v Chromu</translation>
 <translation id="7887174313503389866">Oglejte si vodeno predstavitev ključnih kontrolnikov zasebnosti in varnosti. Če želite več možnosti, odprite posamezne nastavitve.</translation>
 <translation id="7887334752153342268">Podvoji</translation>
-<translation id="5570166585033664196">Uporaba Brave Chroma</translation>
+<translation id="5570166585033664196">Uporaba Asil Chroma</translation>
 <translation id="7903184275147100332">To lahko traja kakšno minuto</translation>
 <translation id="7914399737746719723">Aplikacija je nameščena</translation>
 <translation id="7919123827536834358">Samodejno prevajanje teh jezikov</translation>
@@ -1269,7 +1269,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="7961015016161918242">Nikoli</translation>
 <translation id="7961926449547174351">Onemogočili ste dostop do shrambe. Omogočite ga v nastavitvah.</translation>
 <translation id="7963646190083259054">Ponudnik:</translation>
-<translation id="2939504940637874963">Shranjena gesla lahko uporabljate v poljubni napravi. V Brave Upravitelju gesel so shranjena za račun <ph name="ACCOUNT"/>.</translation>
+<translation id="2939504940637874963">Shranjena gesla lahko uporabljate v poljubni napravi. V Asil Upravitelju gesel so shranjena za račun <ph name="ACCOUNT"/>.</translation>
 <translation id="7968014550143838305">Dodano na bralni seznam</translation>
 <translation id="7971136598759319605">Aktivna pred 1 dnevom</translation>
 <translation id="7975379999046275268">Predogled strani <ph name="BEGIN_NEW"/>Novo<ph name="END_NEW"/></translation>
@@ -1299,11 +1299,11 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="8076492880354921740">Zavihki</translation>
 <translation id="8078096376109663956">Besedilo lahko samo delite.</translation>
 <translation id="8084114998886531721">Shranjeno geslo</translation>
-<translation id="1718138320251931534">Nadziranje podatkov v računu Brave.</translation>
+<translation id="1718138320251931534">Nadziranje podatkov v računu Asil.</translation>
 <translation id="808747664143081553">Povezava z napravo je vzpostavljena.</translation>
 <translation id="8090732854597034573">Če potrebuješ pomoč, se obrni na starša.</translation>
-<translation id="1501443023467711714">Prijavite se, če želite prilagoditi Brave</translation>
-<translation id="3249150807062904185">Če nadaljujete, se strinjate s <ph name="BEGIN_TOS_LINK"/>pogoji storitve<ph name="END_TOS_LINK"/>.\nZaradi izboljšanja aplikacije Brave Googlu pošlje podatke o uporabi in zrušitvah. <ph name="BEGIN_UMA_LINK"/>Upravljanje<ph name="END_UMA_LINK"/></translation>
+<translation id="1501443023467711714">Prijavite se, če želite prilagoditi Asil</translation>
+<translation id="3249150807062904185">Če nadaljujete, se strinjate s <ph name="BEGIN_TOS_LINK"/>pogoji storitve<ph name="END_TOS_LINK"/>.\nZaradi izboljšanja aplikacije Asil Googlu pošlje podatke o uporabi in zrušitvah. <ph name="BEGIN_UMA_LINK"/>Upravljanje<ph name="END_UMA_LINK"/></translation>
 <translation id="8105893657415066307"><ph name="DESCRIPTION"/><ph name="SEPARATOR"/> <ph name="FILE_SIZE"/></translation>
 <translation id="8107530384992929318">Zapiranje možnosti razvrščanja</translation>
 <translation id="8109613176066109935">Če želite dostopati do zaznamkov v vseh napravah, vklopite sinhronizacijo</translation>
@@ -1326,9 +1326,9 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="8221656072740924283">Naprej</translation>
 <translation id="8223642481677794647">Meni kartice vira</translation>
 <translation id="8250920743982581267">Dokumenti</translation>
-<translation id="5138664332909611586">Ta stran uporablja preveč pomnilnika, zato je Brave odstranil nekaj vsebine.</translation>
+<translation id="5138664332909611586">Ta stran uporablja preveč pomnilnika, zato je Asil odstranil nekaj vsebine.</translation>
 <translation id="8255617931166444521">Spletna mesta smejo uporabljati piškotke samo za ogled dejavnosti brskanja samo na danem spletnem mestu.</translation>
-<translation id="2876689296031086375">Ker so vnaprej naložene strani šifrirane, Brave ne bo izvedel ničesar o vsebini vnaprej naložene strani. Googlovi strežniki bodo izvedeli, katera spletna mesta so zasebno vnaprej naložena. Ti podatki so uporabljeni samo za vnaprejšnje nalaganje strani in niso povezani z nobenimi podatki v vašem računu Brave.</translation>
+<translation id="2876689296031086375">Ker so vnaprej naložene strani šifrirane, Asil ne bo izvedel ničesar o vsebini vnaprej naložene strani. Googlovi strežniki bodo izvedeli, katera spletna mesta so zasebno vnaprej naložena. Ti podatki so uporabljeni samo za vnaprejšnje nalaganje strani in niso povezani z nobenimi podatki v vašem računu Asil.</translation>
 <translation id="8260126382462817229">Poskusite se znova prijaviti.</translation>
 <translation id="8261506727792406068">Izbriši</translation>
 <translation id="82619448491672958">Ogled drugih zavihkov</translation>
@@ -1345,7 +1345,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="8354977102499939946">Hitro iščite z glasom. To bližnjico lahko uredite v nastavitvah.</translation>
 <translation id="835847953965672673">Obnovljenih je bilo toliko prenosov: <ph name="NUMBER_OF_DOWNLOADS"/></translation>
 <translation id="8368001212524806591">Spremljanje cene</translation>
-<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Kako uporabljamo te podatke:<ph name="END_BOLD"/> Brave lahko oceni vaša zanimanja. Pozneje lahko stran, ki jo obiščete, od Chroma zahteva ogled vaših zanimanj zaradi osebnega prilagajanj oglasov, ki so vam prikazani.</translation>
+<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Kako uporabljamo te podatke:<ph name="END_BOLD"/> Asil lahko oceni vaša zanimanja. Pozneje lahko stran, ki jo obiščete, od Chroma zahteva ogled vaših zanimanj zaradi osebnega prilagajanj oglasov, ki so vam prikazani.</translation>
 <translation id="8387617938027387193">Preverite, da ste res vi</translation>
 <translation id="8393700583063109961">Pošlji sporočilo</translation>
 <translation id="7651600795135059130">Preveri URL-je, tako da jih primerja s seznamom spletnih mest, ki niso varna, shranjenim v Chromu.</translation>
@@ -1354,7 +1354,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="8414396119627470038">Prijavite se v storitev <ph name="SITE_ETLD_PLUS_ONE"/> s podatki za <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/></translation>
 <translation id="2100587595569959771">Preberite več o osebnem prilagajanju oglasov v Chromu</translation>
 <translation id="8419244640277402268">Vključi</translation>
-<translation id="5735840612282428689">Stran je bila poslana. Če si jo želite ogledati, odprite Brave v <ph name="DEVICE_TYPE"/>.</translation>
+<translation id="5735840612282428689">Stran je bila poslana. Če si jo želite ogledati, odprite Asil v <ph name="DEVICE_TYPE"/>.</translation>
 <translation id="8427875596167638501">Zavihek za predogled je napol odprt</translation>
 <translation id="8428213095426709021">Nastavitve</translation>
 <translation id="8430824733382774043">Deli samo posnetek zaslona</translation>
@@ -1381,7 +1381,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="8497242791509864205">Odpiranje možnosti razvrščanja</translation>
 <translation id="8497480609928300907">Pojasnilo glede vodnika po zasebnosti</translation>
 <translation id="8497726226069778601">Nimate česa videti ... Za zdaj.</translation>
-<translation id="230699814587342492">Gesla za Brave</translation>
+<translation id="230699814587342492">Gesla za Asil</translation>
 <translation id="8503813439785031346">Uporabniško ime</translation>
 <translation id="8505766168025405649">Ogled obvestila za stanje prenosa</translation>
 <translation id="133012818630824069">Izvoz gesel, shranjenih v Chromu</translation>
@@ -1402,9 +1402,9 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="8583805026567836021">Brisanje podatkov računa</translation>
 <translation id="859046281437143747">Spremljanje cene prek gumba za več možnosti</translation>
 <translation id="860043288473659153">Ime imetnika kartice</translation>
-<translation id="1673533133011266617">Prijava v Brave, zaprto.</translation>
+<translation id="1673533133011266617">Prijava v Asil, zaprto.</translation>
 <translation id="860282621117673749">Opozorila glede znižanja cen</translation>
-<translation id="5784514951651328424">V Brave Računu so morda druge vrste zgodovine brskanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="5784514951651328424">V Asil Računu so morda druge vrste zgodovine brskanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="8617240290563765734">Želite odpreti predlagani URL, naveden v preneseni vsebini?</translation>
 <translation id="8621068256433641644">telefonu</translation>
 <translation id="8636825310635137004">Če želite dostopati do zavihkov iz drugih naprav, vklopite sinhronizacijo.</translation>
@@ -1415,7 +1415,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="2734140769649165081">Podatke lahko izbrišete v Chromovih nastavitvah</translation>
 <translation id="6464188276370426100">Kako iskati s Chromom</translation>
 <translation id="8662811608048051533">Odjavi vas iz večine spletnih mest.</translation>
-<translation id="7436978557885042606">Uporabljajte Brave po svoji meri</translation>
+<translation id="7436978557885042606">Uporabljajte Asil po svoji meri</translation>
 <translation id="8664979001105139458">Ime datoteke že obstaja</translation>
 <translation id="8666759526542103597">O osebnem prilagajanju oglasov na podlagi dejavnosti v brskalniku</translation>
 <translation id="8676789164135894283">Preverjanja prijave</translation>
@@ -1453,13 +1453,13 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="1984646864943401749">Pošilja URL-je nekaterih strani, ki jih obiščete, omejene podatke o sistemu in nekatere vsebine strani Googlu zaradi pomoči pri odkrivanju novih groženj in zaščiti vseh uporabnikov v spletu.</translation>
 <translation id="8906502871739599113">Odziv je podvojen</translation>
 <translation id="8909135823018751308">Skupna raba …</translation>
-<translation id="2684652081942622950">Račun Brave</translation>
+<translation id="2684652081942622950">Račun Asil</translation>
 <translation id="8920114477895755567">Čakanje na podrobnosti o staršu.</translation>
 <translation id="8921980840204105660">S sinhronizacijo si zagotovite zaznamke iz drugih naprav.</translation>
 <translation id="8922289737868596582">Prenos strani za uporabo brez povezave z gumbom »Več možnosti«</translation>
 <translation id="8924575305646776101"><ph name="BEGIN_LINK"/>Več o tem<ph name="END_LINK"/></translation>
 <translation id="892496902842311796">Jezik <ph name="LANG"/> je pripravljen.</translation>
-<translation id="6894658278639191411">Zaradi zagotavljanja pomoči pri dokončanju opravil bo Brave prejel URL-je in vsebino spletnih mest, na katerih uporabljate Pomočnika, ter podatke, ki jih pošljete prek Pomočnika. Ti podatki se bodo morda shranili v računu Brave. Pomočnika lahko izklopite v nastavitvah Chroma.</translation>
+<translation id="6894658278639191411">Zaradi zagotavljanja pomoči pri dokončanju opravil bo Asil prejel URL-je in vsebino spletnih mest, na katerih uporabljate Pomočnika, ter podatke, ki jih pošljete prek Pomočnika. Ti podatki se bodo morda shranili v računu Asil. Pomočnika lahko izklopite v nastavitvah Chroma.</translation>
 <translation id="1174893863889683998">Ali želite svojo dejavnost v Chromu odstraniti iz Digitalne dobrobiti?</translation>
 <translation id="8942627711005830162">Odpri v drugem oknu</translation>
 <translation id="8945143127965743188"><ph name="LANG"/> – tega jezika ni bilo mogoče prenesti. Poskusite pozneje.</translation>
@@ -1470,9 +1470,9 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="8972098258593396643">Želite prenesti v privzeto mapo?</translation>
 <translation id="8987641763863173640">Upravljanje nastavitev predogleda videoposnetkov</translation>
 <translation id="898854820045159673">Odziv je dodan</translation>
-<translation id="5320085753638900910">Zgodovina brskanja vpliva na prikazane oglase in zanimanja, kot je ocenjeno spodaj. Brave zaradi varovanja vaše zasebnosti vsak mesec sproti samodejno izbriše vaša zanimanja. Zanimanja se lahko osvežujejo, razen če jih odstranite.</translation>
+<translation id="5320085753638900910">Zgodovina brskanja vpliva na prikazane oglase in zanimanja, kot je ocenjeno spodaj. Asil zaradi varovanja vaše zasebnosti vsak mesec sproti samodejno izbriše vaša zanimanja. Zanimanja se lahko osvežujejo, razen če jih odstranite.</translation>
 <translation id="8996847606757455498">Izberi drugega ponudnika:</translation>
-<translation id="3275122921244685452">Prijavljate se z računom, ki ga upravlja <ph name="MANAGED_DOMAIN"/>, in nadzor nad podatki v Chromu predajate skrbniku. Vaši podatki bodo trajno povezani s tem računom. Če se odjavite iz Chroma, boste izbrisali podatke iz te naprave, vendar bodo še naprej shranjeni v Brave Računu.</translation>
+<translation id="3275122921244685452">Prijavljate se z računom, ki ga upravlja <ph name="MANAGED_DOMAIN"/>, in nadzor nad podatki v Chromu predajate skrbniku. Vaši podatki bodo trajno povezani s tem računom. Če se odjavite iz Chroma, boste izbrisali podatke iz te naprave, vendar bodo še naprej shranjeni v Asil Računu.</translation>
 <translation id="9022774213089566801">Pogosto obiskano</translation>
 <translation id="9041669420854607037">{FILE_COUNT,plural, =1{# videoposnetek}one{# videoposnetek}two{# videoposnetka}few{# videoposnetki}other{# videoposnetkov}}</translation>
 <translation id="9042893549633094279">Zasebnost in varnost</translation>
@@ -1483,7 +1483,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="906781307897697745">v izdelku <ph name="PRODUCT_NAME"/></translation>
 <translation id="9069999660519089861">Ni neprebranih strani</translation>
 <translation id="9070377983101773829">Začni glasovno iskanje</translation>
-<translation id="8494430740943879273">Če želite prejemati prilagojeno vsebino, ki jo predlaga Brave, se prijavite in vklopite sinhronizacijo</translation>
+<translation id="8494430740943879273">Če želite prejemati prilagojeno vsebino, ki jo predlaga Asil, se prijavite in vklopite sinhronizacijo</translation>
 <translation id="9074739597929991885">Bluetooth</translation>
 <translation id="9086302186042011942">Sinhroniziranje</translation>
 <translation id="9086455579313502267">Dostop do omrežja ni mogoč</translation>
@@ -1511,14 +1511,14 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="9212845824145208577">Nižje se ni mogoče pomakniti. Poskusite začeti nižje na strani.</translation>
 <translation id="9219103736887031265">Slike</translation>
 <translation id="9219582468404818260">Pomagajte nam oblikovati boljši splet</translation>
-<translation id="6946179564366058239">Ko spletno mesto zahteva zasebno vnaprejšnje nalaganje povezav na strani, Brave šifrira in vnaprej naloži strani prek Googlovih strežnikov brez piškotkov. S tem je skrita vaša identiteta na vnaprej naloženem mestu.</translation>
+<translation id="6946179564366058239">Ko spletno mesto zahteva zasebno vnaprejšnje nalaganje povezav na strani, Asil šifrira in vnaprej naloži strani prek Googlovih strežnikov brez piškotkov. S tem je skrita vaša identiteta na vnaprej naloženem mestu.</translation>
 <translation id="4596514158372210596">Odstranitev dejavnosti v Chromu iz Digitalne dobrobiti</translation>
-<translation id="2830145431802238213">Uporabite lahki način v Brave Chromu</translation>
+<translation id="2830145431802238213">Uporabite lahki način v Asil Chromu</translation>
 <translation id="928550791203542716">Spremljate <ph name="SITE_NAME"/></translation>
 <translation id="932327136139879170">Domov</translation>
 <translation id="938850635132480979">Napaka: <ph name="ERROR_CODE"/></translation>
 <translation id="939598580284253335">Vnesite geslo</translation>
-<translation id="5406914950576900927">Brave lahko za iskanje na Kitajskem uporablja <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/>. To je mogoče spremeniti v <ph name="BEGIN_LINK"/>nastavitvah<ph name="END_LINK"/>.</translation>
+<translation id="5406914950576900927">Asil lahko za iskanje na Kitajskem uporablja <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/>. To je mogoče spremeniti v <ph name="BEGIN_LINK"/>nastavitvah<ph name="END_LINK"/>.</translation>
 <translation id="962979164594783469">Namestite to aplikacijo</translation>
 <translation id="96681097142096641">Si želite ogledati poenostavljeno stran?</translation>
 <translation id="968900484120156207">Strani, ki jih obiščete, so prikazane tu</translation>
@@ -1530,7 +1530,7 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="992745192656291733">Št. zavihkov: <ph name="TAB_COUNT"/></translation>
 <translation id="996149300115483134">Meni kartice vira je zaprt</translation>
 <translation id="5186185447130319458">Način brez beleženja zgodovine</translation>
-<translation id="5711390076756601471">Ko zapustite Brave, zaklenite zasebne zavihke</translation>
+<translation id="5711390076756601471">Ko zapustite Asil, zaklenite zasebne zavihke</translation>
 <translation id="1014490034578104945">Za ogled odprtih zasebnih zavihkov uporabite zaklepanje zaslona</translation>
 <translation id="4390099071040105838">Pomagajte spletnim mestom v boju proti goljufijam in pri razlikovanju robotov od profilov</translation>
 <translation id="7721367250891727403">Blokiraj med uporabo zasebnega</translation>
@@ -1545,8 +1545,8 @@ Nekatera spletna mesta se lahko na primer na zahtevo odzovejo tako, da prikažej
 <translation id="5248610748197335423">Zapri vse zavihke za način brez beleženja zgodovine</translation>
 <translation id="4660964651149493586">Odkleni zasebno</translation>
 <translation id="5278260521317049275">Vklopite zasebno ključavnico</translation>
-<translation id="6302653771627628530">Zasebni zavihki se zaklenejo, ko zapustite Brave</translation>
-<translation id="3763131702135887799">Pomagajte izboljšati Brave za profile, ki ga uporabljajo tako kot vi</translation>
+<translation id="6302653771627628530">Zasebni zavihki se zaklenejo, ko zapustite Asil</translation>
+<translation id="3763131702135887799">Pomagajte izboljšati Asil za profile, ki ga uporabljajo tako kot vi</translation>
 <translation id="4167670741834902166">Nov zavihek za način brez beleženja zgodovine</translation>
 <translation id="9148151251783962691">Če želite zasebno brskati v tej napravi, preizkusite možnost Zasebno</translation>
 <translation id="8355284051444779553">Če želite odpreti nov zavihek Zasebno, odprite meni</translation>

@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Brave Authors. All rights reserved.
+// Copyright (c) 2020 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -18,7 +18,6 @@ import FooterInfo from '../../components/default/footer/footer'
 import * as Page from '../../components/default/page'
 import TopSitesGrid from './gridSites'
 import SiteRemovalNotification from './notification'
-import Stats from './stats'
 
 // Helpers
 import isReadableOnBackground from '../../helpers/colorUtil'
@@ -376,7 +375,7 @@ class NewTabPage extends React.Component<Props, State> {
   }
 
   learnMoreRewards = () => {
-    window.open('https://brave.com/brave-rewards/', '_blank', 'noopener')
+    window.open('https://asil.com/brave-rewards/', '_blank', 'noopener')
   }
 
   getCryptoContent () {
@@ -555,17 +554,28 @@ class NewTabPage extends React.Component<Props, State> {
     if (showTopSites && !newTabData.customLinksEnabled) {
       showTopSites = this.props.gridSitesData.gridSites.length !== 0
     }
-
+    if(!showTopSites){
+        chrome.send('addNewTopSite',["https://www.asil.com",'Asil'])
+    }
     // Allow background customization if Super Referrals is not activated.
     const isSuperReferral = newTabData.brandedWallpaper && !newTabData.brandedWallpaper.isSponsored
     const allowBackgroundCustomization = !isSuperReferral
 
-    if (forceToHideWidget) {
-      showTopSites = false
+    if (forceToHideWidget || true)  {
+      showTopSites = true
       showStats = false
-      showClock = false
+      showClock = true
+      newTabData.showToday = false;
+      newTabData.braveTalkSupported = false;
+
       cryptoContent = null
     }
+    showTopSites = true
+    showStats = false
+    showClock = true
+    newTabData.showToday = false;
+    newTabData.braveTalkSupported = false;
+    cryptoContent = null
 
     const BraveNewsContext = newTabData.featureFlagBraveNewsV2Enabled
       ? BraveNewsContextProvider
@@ -593,15 +603,7 @@ class NewTabPage extends React.Component<Props, State> {
             showBrandedWallpaper={isShowingBrandedWallpaper}
         >
           {this.renderSearchPromotion()}
-          <GridWidget
-            pref='showStats'
-            container={Page.GridItemStats}
-            paddingType={'right'}
-            widgetTitle={getLocale('statsTitle')}
-            textDirection={newTabData.textDirection}
-            menuPosition={'right'}>
-            <Stats stats={newTabData.stats}/>
-          </GridWidget>
+
           <GridWidget
             pref='showClock'
             container={Page.GridItemClock}
@@ -693,7 +695,7 @@ class NewTabPage extends React.Component<Props, State> {
           getDisplayAd={this.props.getBraveNewsDisplayAd}
         />
         }
-        <Settings
+        {showStats && false && <Settings
           actions={actions}
           textDirection={newTabData.textDirection}
           showSettingsMenu={showSettingsMenu}
@@ -728,7 +730,7 @@ class NewTabPage extends React.Component<Props, State> {
           toggleCards={this.props.saveSetAllStackWidgets}
           newTabData={this.props.newTabData}
           onEnableRewards={this.startRewards}
-        />
+        />}
         {
           showEditTopSite
             ? <EditTopSite

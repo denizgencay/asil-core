@@ -253,7 +253,7 @@ void MockGetBrowsingHistory(const std::unique_ptr<AdsClientMock>& mock) {
 
         for (int i = 0; i < max_count; i++) {
           const std::string spec =
-              base::StringPrintf("https://www.brave.com/%d", i);
+              base::StringPrintf("https://www.asil.com/%d", i);
           history.emplace_back(spec);
         }
 

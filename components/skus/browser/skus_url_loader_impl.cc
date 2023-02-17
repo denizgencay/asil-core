@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -22,15 +22,15 @@ const net::NetworkTrafficAnnotationTag& GetNetworkTrafficAnnotationTag() {
   static const net::NetworkTrafficAnnotationTag network_traffic_annotation_tag =
       net::DefineNetworkTrafficAnnotation("sku_sdk_execute_request", R"(
       semantics {
-        sender: "Brave SKU SDK"
+        sender: "Asil SKU SDK"
         description:
           "Call the SKU SDK implementation provided by the caller"
         trigger:
-          "Any Brave webpage using SKU SDK where window.chrome.braveSkus.*"
+          "Any Asil webpage using SKU SDK where window.chrome.braveSkus.*"
           "methods are called; ex: fetch_order / fetch_order_credentials"
         data: "JSON data comprising an order."
         destination: OTHER
-        destination_other: "Brave developers"
+        destination_other: "Asil developers"
       }
       policy {
         cookies_allowed: NO

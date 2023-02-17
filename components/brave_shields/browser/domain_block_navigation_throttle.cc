@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -34,7 +34,7 @@ namespace {
 std::pair<bool, std::string> ShouldBlockDomainOnTaskRunner(
     brave_shields::AdBlockService* ad_block_service,
     const GURL& url) {
-  SCOPED_UMA_HISTOGRAM_TIMER("Brave.DomainBlock.ShouldBlock");
+  SCOPED_UMA_HISTOGRAM_TIMER("Asil.DomainBlock.ShouldBlock");
   bool did_match_exception = false;
   bool did_match_rule = false;
   bool did_match_important = false;
@@ -111,7 +111,7 @@ DomainBlockNavigationThrottle::WillStartRequest() {
   domain_blocking_type_ =
       brave_shields::GetDomainBlockingType(content_settings_, request_url);
   content::WebContents* web_contents = handle->GetWebContents();
-  // Maybe don't block based on Brave Shields settings
+  // Maybe don't block based on Asil Shields settings
   if (domain_blocking_type_ == DomainBlockingType::kNone) {
     DomainBlockTabStorage* tab_storage =
         DomainBlockTabStorage::FromWebContents(web_contents);

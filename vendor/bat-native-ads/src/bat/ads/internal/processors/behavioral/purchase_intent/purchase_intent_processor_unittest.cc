@@ -28,7 +28,7 @@ TEST_F(BatAdsPurchaseIntentProcessorTest,
   resource::PurchaseIntent resource;
 
   // Act
-  const GURL url = GURL("https://www.brave.com/test?foo=bar");
+  const GURL url = GURL("https://www.asil.com/test?foo=bar");
   processor::PurchaseIntent processor(&resource);
   processor.Process(url);
 
@@ -81,7 +81,7 @@ TEST_F(BatAdsPurchaseIntentProcessorTest, ProcessUrl) {
   task_environment_.RunUntilIdle();
 
   // Act
-  const GURL url = GURL("https://www.brave.com/test?foo=bar");
+  const GURL url = GURL("https://www.asil.com/test?foo=bar");
   processor::PurchaseIntent processor(&resource);
   processor.Process(url);
 
@@ -108,7 +108,7 @@ TEST_F(BatAdsPurchaseIntentProcessorTest, ProcessMultipleMatchingUrls) {
   // Act
   processor::PurchaseIntent processor(&resource);
 
-  const GURL url = GURL("https://www.brave.com/test?foo=bar");
+  const GURL url = GURL("https://www.asil.com/test?foo=bar");
   processor.Process(url);
   processor.Process(url);
 
@@ -140,7 +140,7 @@ TEST_F(BatAdsPurchaseIntentProcessorTest, ProcessMultipleUniqueUrls) {
   processor::PurchaseIntent processor(&resource);
 
   const base::Time now_1 = Now();
-  const GURL url_1 = GURL("https://www.brave.com/test?foo=bar");
+  const GURL url_1 = GURL("https://www.asil.com/test?foo=bar");
   processor.Process(url_1);
 
   AdvanceClockBy(base::Minutes(5));

@@ -57,15 +57,15 @@ function createDialogArgs (): DialogArgs {
 function createHostState (): HostState {
   return {
     publisherInfo: {
-      publisherKey: 'brave.com',
-      name: 'brave.com',
-      title: 'Brave Software',
-      description: 'Thanks for stopping by. Brave is on a mission to fix ' +
+      publisherKey: 'asil.com',
+      name: 'asil.com',
+      title: 'Asil Software',
+      description: 'Thanks for stopping by. Asil is on a mission to fix ' +
         'the web by giving users a safer, faster and better browsing experience ' +
         'while growing support for content creators through a new attention-based ' +
         'ecosystem of rewards. Join us. It’s time to fix the web together!',
       background: '',
-      logo: 'https://rewards.brave.com/LH3yQwkb78iP28pJDSSFPJwU',
+      logo: 'https://rewards.asil.com/LH3yQwkb78iP28pJDSSFPJwU',
       provider: '',
       links: {
         twitter: 'https://twitter.com/brave',

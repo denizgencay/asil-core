@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Brave Authors. All rights reserved.
+/* Copyright (c) 2021 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -69,11 +69,11 @@ class BraveServiceKeyNetworkDelegateBrowserTest : public InProcessBrowserTest {
 
 IN_PROC_BROWSER_TEST_F(BraveServiceKeyNetworkDelegateBrowserTest,
                        NotIncludesBraveServiceKey) {
-  GURL target = https_server().GetURL("notbrave.com", "/index.html");
+  GURL target = https_server().GetURL("nottomi.com", "/index.html");
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), target));
   EXPECT_FALSE(header_result());
 
-  target = https_server().GetURL("brave.com", "/index.html");
+  target = https_server().GetURL("asil.com", "/index.html");
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), target));
   EXPECT_FALSE(header_result());
 
@@ -85,7 +85,7 @@ IN_PROC_BROWSER_TEST_F(BraveServiceKeyNetworkDelegateBrowserTest,
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), target));
   EXPECT_FALSE(header_result());
 
-  target = https_server().GetURL("demo.brave.com", "/index.html");
+  target = https_server().GetURL("demo.asil.com", "/index.html");
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), target));
   EXPECT_FALSE(header_result());
 

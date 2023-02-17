@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -40,7 +40,7 @@
 
 namespace {
 
-const char kAdBlockComponentName[] = "Brave Ad Block Updater";
+const char kAdBlockComponentName[] = "Asil Ad Block Updater";
 const char kAdBlockComponentId[] = "iodkpdagapdfkphljnddpjlldadblomo";
 const char kAdBlockComponentBase64PublicKey[] =
     "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsD/B/MGdz0gh7WkcFARn"

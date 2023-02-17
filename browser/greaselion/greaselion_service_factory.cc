@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -63,7 +63,7 @@ KeyedService* GreaselionServiceFactory::BuildServiceInstanceFor(
   scoped_refptr<base::SequencedTaskRunner> task_runner =
       extensions::GetExtensionFileTaskRunner();
   greaselion::GreaselionDownloadService* download_service = nullptr;
-  // Brave browser process may be null if we are being created within a unit
+  // Asil browser process may be null if we are being created within a unit
   // test.
   if (g_brave_browser_process)
     download_service = g_brave_browser_process->greaselion_download_service();

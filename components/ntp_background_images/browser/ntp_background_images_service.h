@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -173,7 +173,7 @@ class NTPBackgroundImagesService {
   // The reason is |kNewTabPageCachedSuperReferralComponentInfo| is used to
   // check whether initial download is finished or not. Knowing initial download
   // is done is important for super referral. If this is SR install, we should
-  // not show SI images until user chooses Brave default images. So, we should
+  // not show SI images until user chooses Asil default images. So, we should
   // know the exact timing whether SR assets is ready to use or not.
   absl::optional<base::Value::Dict> initial_sr_component_info_;
   base::WeakPtrFactory<NTPBackgroundImagesService> weak_factory_;

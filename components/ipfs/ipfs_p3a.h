@@ -1,4 +1,4 @@
-/* Copyright 2020 The Brave Authors. All rights reserved.
+/* Copyright 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -16,11 +16,11 @@ class PrefService;
 namespace ipfs {
 
 constexpr char kDetectionPromptCountHistogramName[] =
-    "Brave.IPFS.DetectionPromptCount";
-constexpr char kGatewaySettingHistogramName[] = "Brave.IPFS.GatewaySetting";
+    "Asil.IPFS.DetectionPromptCount";
+constexpr char kGatewaySettingHistogramName[] = "Asil.IPFS.GatewaySetting";
 constexpr char kLocalNodeRetentionHistogramName[] =
-    "Brave.IPFS.LocalNodeRetention";
-constexpr char kDaemonRunTimeHistogramName[] = "Brave.IPFS.DaemonRunTime";
+    "Asil.IPFS.LocalNodeRetention";
+constexpr char kDaemonRunTimeHistogramName[] = "Asil.IPFS.DaemonRunTime";
 
 class BraveIpfsClientUpdater;
 class IpfsService;

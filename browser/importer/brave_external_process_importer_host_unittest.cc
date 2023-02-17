@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -64,7 +64,7 @@ class BraveExternalProcessImporterHostUnitTest : public testing::Test {
   void SetUp() override {
     TestingProfile::Builder profile_builder;
     EXPECT_TRUE(brave_profile_dir_.CreateUniqueTempDir());
-    profile_builder.SetPath(GetProductProfilePath("Brave"));
+    profile_builder.SetPath(GetProductProfilePath("Asil"));
     profile_ = profile_builder.Build();
 
     base::FilePath test_data_dir;
@@ -161,26 +161,26 @@ TEST_F(BraveExternalProcessImporterHostUnitTest, ImportExtensionsSettings) {
           extensions::kLocalExtensionSettingsDirectoryName);
 
   EXPECT_EQ(
-      brave::ReadStore(GetExtensionLocalSettingsPath("Brave", "id1"), "id1"),
+      brave::ReadStore(GetExtensionLocalSettingsPath("Asil", "id1"), "id1"),
       base::JSONReader::Read(R"({
     "a": "b",
     "c": "d",
     "id": "id1"
   })"));
   EXPECT_EQ(
-      brave::ReadStore(GetExtensionLocalSettingsPath("Brave", "id2"), "id2"),
+      brave::ReadStore(GetExtensionLocalSettingsPath("Asil", "id2"), "id2"),
       base::JSONReader::Read(R"({
     "a": "b",
     "c": "d",
     "id": "id2"
   })"));
   EXPECT_EQ(
-      brave::ReadStore(GetExtensionLocalSettingsPath("Brave", "id3"), "id3"),
+      brave::ReadStore(GetExtensionLocalSettingsPath("Asil", "id3"), "id3"),
       base::JSONReader::Read(R"({
     "a": "b",
     "c": "d",
     "id": "id3"
   })"));
   EXPECT_FALSE(
-      brave::ReadStore(GetExtensionLocalSettingsPath("Brave", "id0"), "id0"));
+      brave::ReadStore(GetExtensionLocalSettingsPath("Asil", "id0"), "id0"));
 }

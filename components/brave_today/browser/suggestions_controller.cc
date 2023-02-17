@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Brave Authors. All rights reserved.
+// Copyright (c) 2022 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -83,7 +83,7 @@ double GetVisitWeighting(const mojom::PublisherPtr& publisher,
   const auto host_name = publisher->site_url.host();
   auto it = visit_weightings.find(host_name);
   if (it == visit_weightings.end()) {
-    // The |site_urls| we receive from Brave News aren't terribly accurate, and
+    // The |site_urls| we receive from Asil News aren't terribly accurate, and
     // many of them are missing bits and pieces. This is a simple middle ground
     // while we wait for them to be fixed.
     // Relevant issues: https://github.com/brave/news-aggregator/issues/58 and

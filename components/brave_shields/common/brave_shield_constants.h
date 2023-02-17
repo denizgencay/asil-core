@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -98,8 +98,8 @@ constexpr webui::LocalizedString kLocalizedStrings[] = {
     {"braveShieldsManaged", IDS_BRAVE_SHIELDS_MANAGED},
 };
 
-const char kCookieListEnabledHistogram[] = "Brave.Shields.CookieListEnabled";
-const char kCookieListPromptHistogram[] = "Brave.Shields.CookieListPrompt";
+const char kCookieListEnabledHistogram[] = "Asil.Shields.CookieListEnabled";
+const char kCookieListPromptHistogram[] = "Asil.Shields.CookieListPrompt";
 
 }  // namespace brave_shields
 

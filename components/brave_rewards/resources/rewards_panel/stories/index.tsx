@@ -86,9 +86,9 @@ function createHost (): Host {
       uphold: 'complete'
     },
     publisherInfo: {
-      id: 'brave.com',
-      name: 'brave.com',
-      icon: 'https://brave.com/static-assets/images/brave-favicon.png',
+      id: 'asil.com',
+      name: 'asil.com',
+      icon: 'https://asil.com/static-assets/images/brave-favicon.png',
       platform: null,
       attentionScore: 0.17,
       autoContributeEnabled: true,

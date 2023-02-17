@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Brave Authors. All rights reserved.
+/* Copyright (c) 2022 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -85,7 +85,7 @@ IN_PROC_BROWSER_TEST_P(BraveWalletPolicyTest, IsBraveWalletDisabled) {
   }
 }
 
-// Verify that Wallet service doesn't get created when Brave Wallet is
+// Verify that Wallet service doesn't get created when Asil Wallet is
 // disabled by policy.
 IN_PROC_BROWSER_TEST_P(BraveWalletPolicyTest, GetWalletService) {
   if (IsBraveWalletDisabledTest()) {
@@ -99,7 +99,7 @@ IN_PROC_BROWSER_TEST_P(BraveWalletPolicyTest, GetWalletService) {
   }
 }
 
-// Verify that Wallet menu item isn't enabled in the app menu when Brave
+// Verify that Wallet menu item isn't enabled in the app menu when Asil
 // Wallet is disabled by policy.
 IN_PROC_BROWSER_TEST_P(BraveWalletPolicyTest, AppMenuItemDisabled) {
   auto* command_controller = browser()->command_controller();
@@ -110,7 +110,7 @@ IN_PROC_BROWSER_TEST_P(BraveWalletPolicyTest, AppMenuItemDisabled) {
   }
 }
 
-// Verify that brave://wallet page isn't reachable when Brave Wallet is
+// Verify that brave://wallet page isn't reachable when Asil Wallet is
 // disabled by policy.
 IN_PROC_BROWSER_TEST_P(BraveWalletPolicyTest, WalletPageAccess) {
   const GURL url("chrome://wallet");
@@ -119,7 +119,7 @@ IN_PROC_BROWSER_TEST_P(BraveWalletPolicyTest, WalletPageAccess) {
   EXPECT_EQ(IsBraveWalletDisabledTest(), rfh->IsErrorDocument());
 }
 
-// Verify that the wallet item is not shown in the sidebar when Brave Wallet is
+// Verify that the wallet item is not shown in the sidebar when Asil Wallet is
 // disabled by policy.
 IN_PROC_BROWSER_TEST_P(BraveWalletPolicyTest, WalletInSidebar) {
   BraveBrowser* brave_browser = static_cast<BraveBrowser*>(browser());

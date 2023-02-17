@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -106,7 +106,7 @@ TEST(BraveSiteHacksNetworkDelegateHelperTest, OnionReferrerStripped) {
   const GURL original_referrer(
       "https://"
       "brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/");
-  const GURL destination("https://brave.com");
+  const GURL destination("https://asil.com");
 
   // Cross-origin request from a .onion gets empty referrer.
   auto url1 = net::URLRequestJob::ComputeReferrerForPolicy(

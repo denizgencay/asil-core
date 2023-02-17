@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Brave Authors. All rights reserved.
+// Copyright (c) 2021 The Asil Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -304,7 +304,7 @@ void DirectFeedController::VerifyFeedUrl(const GURL& feed_url,
                                          IsValidCallback callback) {
   // Download the feed and once it's done, see if there's any content.
   // This verifies that the URL is reachable, that it has content,
-  // and that the content has the correct fields for Brave News.
+  // and that the content has the correct fields for Asil News.
   // TODO(petemill): Cache for a certain amount of time since user
   // will likely add to their user feed sources. Unless this is already
   // cached via network service?

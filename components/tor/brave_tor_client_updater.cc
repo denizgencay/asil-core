@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -70,7 +70,7 @@ std::pair<base::FilePath, base::FilePath> InitTorPath(
 }  // namespace
 
 #if BUILDFLAG(IS_WIN)
-const char kTorClientComponentName[] = "Brave Tor Client Updater (Windows)";
+const char kTorClientComponentName[] = "Asil Tor Client Updater (Windows)";
 const char kTorClientComponentId[] = "cpoalefficncklhjfpglfiplenlpccdb";
 const char kTorClientComponentBase64PublicKey[] =
     "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1AYAsmR/VoRwkZCsjRpD"
@@ -81,7 +81,7 @@ const char kTorClientComponentBase64PublicKey[] =
     "IuZjyySVzGNcOfASeHkhxhlwMQSQuhCN5mdFW5YBnVZ/5QWx8WzbhqBny/ZynS4e"
     "rQIDAQAB";
 #elif BUILDFLAG(IS_MAC)
-const char kTorClientComponentName[] = "Brave Tor Client Updater (Mac)";
+const char kTorClientComponentName[] = "Asil Tor Client Updater (Mac)";
 const char kTorClientComponentId[] = "cldoidikboihgcjfkhdeidbpclkineef";
 const char kTorClientComponentBase64PublicKey[] =
     "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw2QUXSbVuRxYpItYApZ8"
@@ -92,7 +92,7 @@ const char kTorClientComponentBase64PublicKey[] =
     "9CBOMNjaHeCVz0MKxdCWGPieQM0R7S1KvDCVqAkss6NAbLB6AVM0JulqxC9b+hr/"
     "xwIDAQAB";
 #elif BUILDFLAG(IS_LINUX)
-const char kTorClientComponentName[] = "Brave Tor Client Updater (Linux)";
+const char kTorClientComponentName[] = "Asil Tor Client Updater (Linux)";
 const char kTorClientComponentId[] = "biahpgbdmdkfgndcmfiipgcebobojjkp";
 const char kTorClientComponentBase64PublicKey[] =
     "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAseuq8dXKawkZC7RSE7xb"

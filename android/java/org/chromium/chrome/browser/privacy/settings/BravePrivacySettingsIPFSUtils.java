@@ -15,8 +15,8 @@ public class BravePrivacySettingsIPFSUtils {
         if (BraveConfig.IPFS_ENABLED) {
             UserPrefs.get(Profile.getLastUsedRegularProfile())
                     .setInteger(BravePref.IPFS_RESOLVE_METHOD,
-                            preference ? IPFSResolveMethodTypes.IPFS_ASK
-                                       : IPFSResolveMethodTypes.IPFS_DISABLED);
+                            preference ? IPFSResolveMethodTypes.IPFS_GATEWAY
+                                       : IPFSResolveMethodTypes.IPFS_GATEWAY);
         }
     }
 
@@ -24,7 +24,7 @@ public class BravePrivacySettingsIPFSUtils {
         if (BraveConfig.IPFS_ENABLED) {
             return UserPrefs.get(Profile.getLastUsedRegularProfile())
                            .getInteger(BravePref.IPFS_RESOLVE_METHOD)
-                    == IPFSResolveMethodTypes.IPFS_ASK;
+                    == IPFSResolveMethodTypes.IPFS_GATEWAY;
         } else {
             return false;
         }

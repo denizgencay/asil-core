@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Brave Authors. All rights reserved.
+/* Copyright (c) 2020 The Asil Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -67,7 +67,7 @@ void BraveBrowsingDataRemoverDelegate::RemoveEmbedderData(
     ClearIPFSCache();
 #endif
   if (base::FeatureList::IsEnabled(brave_today::features::kBraveNewsFeature)) {
-    // Brave News feed cache
+    // Asil News feed cache
     if (remove_mask & chrome_browsing_data_remover::DATA_TYPE_HISTORY) {
       brave_news::BraveNewsControllerFactory::GetForContext(profile_)
           ->ClearHistory();
@@ -112,7 +112,7 @@ void BraveBrowsingDataRemoverDelegate::WaitForIPFSRepoGC(
   {
     base::ScopedAllowBaseSyncPrimitives scoped_allow_base_sync_primitives;
 
-    // Because we set maximum IPFS storage size as 1GB in Brave, ipfs repo gc
+    // Because we set maximum IPFS storage size as 1GB in Asil, ipfs repo gc
     // command should be finished in just a few seconds and we do not expect
     // this child process would hang forever. To be safe, we will wait for 30
     // seconds max here.
