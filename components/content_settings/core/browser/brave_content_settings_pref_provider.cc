@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -314,7 +314,7 @@ void BravePrefProvider::MigrateShieldsSettingsV1ToV2() {
   if (prefs_->GetInteger(kBraveShieldsSettingsVersion) != 1)
     return;
 
-  // All sources in Asil-specific ContentSettingsType(s) we want to migrate.
+  // All sources in brave-specific ContentSettingsType(s) we want to migrate.
   for (const auto& content_type : GetShieldsContentSettingsTypes())
     MigrateShieldsSettingsV1ToV2ForOneType(content_type);
 

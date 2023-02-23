@@ -1,4 +1,4 @@
-// Copyright (c) 2019 The Asil Authors. All rights reserved.
+// Copyright (c) 2019 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -124,7 +124,7 @@ void BraveNewTabMessageHandler::RegisterLocalStatePrefs(
 void BraveNewTabMessageHandler::RecordInitialP3AValues(
     PrefService* local_state) {
   brave::RecordValueIfGreater<NTPCustomizeUsage>(
-      NTPCustomizeUsage::kNeverOpened, "Asil.NTP.CustomizeUsageStatus",
+      NTPCustomizeUsage::kNeverOpened, "brave.NTP.CustomizeUsageStatus",
       kNTPCustomizeUsageStatus, local_state);
 }
 
@@ -133,7 +133,7 @@ bool BraveNewTabMessageHandler::CanPromptBraveTalk() {
 }
 
 bool BraveNewTabMessageHandler::CanPromptBraveTalk(base::Time now) {
-  // Only show Asil Talk prompt 4 days after first run.
+  // Only show brave Talk prompt 4 days after first run.
   // CreateSentinelIfNeeded() is called in chrome_browser_main.cc, making this a
   // non-blocking read of the cached sentinel value when running from production
   // code. However tests will never create the sentinel file due to being run
@@ -379,7 +379,7 @@ void BraveNewTabMessageHandler::HandleSaveNewTabPagePref(
     return;
   }
   brave::RecordValueIfGreater<NTPCustomizeUsage>(
-      NTPCustomizeUsage::kOpenedAndEdited, "Asil.NTP.CustomizeUsageStatus",
+      NTPCustomizeUsage::kOpenedAndEdited, "brave.NTP.CustomizeUsageStatus",
       kNTPCustomizeUsageStatus, g_browser_process->local_state());
   PrefService* prefs = profile_->GetPrefs();
   // Collect args
@@ -534,7 +534,7 @@ void BraveNewTabMessageHandler::HandleCustomizeClicked(
     const base::Value::List& args) {
   AllowJavascript();
   brave::RecordValueIfGreater<NTPCustomizeUsage>(
-      NTPCustomizeUsage::kOpened, "Asil.NTP.CustomizeUsageStatus",
+      NTPCustomizeUsage::kOpened, "brave.NTP.CustomizeUsageStatus",
       kNTPCustomizeUsageStatus, g_browser_process->local_state());
 }
 

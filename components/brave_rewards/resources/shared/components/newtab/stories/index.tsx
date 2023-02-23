@@ -59,7 +59,7 @@ export function Card () {
               status: mojom.WalletStatus.kLoggedOut,
               username: '',
               links: {
-                reconnect: 'https://asil.com'
+                reconnect: 'https://brave.com'
               }
             } : null}
             nextPaymentDate={nextPaymentDate}

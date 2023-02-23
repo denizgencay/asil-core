@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -79,7 +79,7 @@ SyncAccountInfo BraveSyncAuthManager::DetermineAccountToUse() const {
     // data within specific width. (ex. client_version and encrypted_types)
     account_info.email =
         std::string(client_id).insert(client_id.length() / 2, 1, ' ') +
-        " @asil.com";
+        " @brave.com";
     VLOG(1) << "brave client id=" << client_id;
     return SyncAccountInfo(account_info, true);
   } else {

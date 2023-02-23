@@ -13,22 +13,22 @@
 <translation id="1089606299949659462">Revisão concluída</translation>
 <translation id="1095761715416917775">Tenha sempre acesso aos seus dados sincronizados</translation>
 <translation id="1100066534610197918">Abrir em nova guia no grupo</translation>
-<translation id="4660777881054855091">Quer ajudar a melhorar o Asil?</translation>
+<translation id="4660777881054855091">Quer ajudar a melhorar o brave?</translation>
 <translation id="1105960400813249514">Captura de tela</translation>
 <translation id="1108938384783527433">Sincronizar histórico</translation>
 <translation id="1110914759170138831">O destaque foi reduzido</translation>
 <translation id="1111673857033749125">Favoritos salvos nos seus outros dispositivos serão exibidos aqui.</translation>
 <translation id="1113597929977215864">Mostrar a versão simplificada</translation>
-<translation id="8577410793886633063">A forma como você interage com o Asil, as configurações selecionadas e os detalhes de falhas do Asil</translation>
-<translation id="4470276443668654888">As formas de pagamento e os endereços do Google Pay não vão ser criptografados. O histórico de navegação do Asil não será sincronizado.
-Só uma pessoa com sua senha longa poderá ler os dados criptografados. Essa senha não é enviada ao Asil nem armazenada por ele. Se você esquecer a senha longa ou quiser mudar essa configuração, vai ser necessário redefinir a sincronização. <ph name="BEGIN_LINK"/>Saiba mais<ph name="END_LINK"/></translation>
-<translation id="1295971429974142731">Não protege você contra sites, downloads e extensões perigosos. Você ainda terá a proteção do "Navegação segura", sempre que possível, em outros Serviços do Asil, como o Gmail e a Pesquisa.</translation>
+<translation id="8577410793886633063">A forma como você interage com o brave, as configurações selecionadas e os detalhes de falhas do brave</translation>
+<translation id="4470276443668654888">As formas de pagamento e os endereços do Google Pay não vão ser criptografados. O histórico de navegação do brave não será sincronizado.
+Só uma pessoa com sua senha longa poderá ler os dados criptografados. Essa senha não é enviada ao brave nem armazenada por ele. Se você esquecer a senha longa ou quiser mudar essa configuração, vai ser necessário redefinir a sincronização. <ph name="BEGIN_LINK"/>Saiba mais<ph name="END_LINK"/></translation>
+<translation id="1295971429974142731">Não protege você contra sites, downloads e extensões perigosos. Você ainda terá a proteção do "Navegação segura", sempre que possível, em outros Serviços do brave, como o Gmail e a Pesquisa.</translation>
 <translation id="1129510026454351943">Detalhes: <ph name="ERROR_DESCRIPTION"/></translation>
 <translation id="1142732900304639782">Não oferecer a opção de traduzir estes sites</translation>
 <translation id="1145536944570833626">Excluir os dados atuais.</translation>
 <translation id="1146678959555564648">Entrar na RV</translation>
 <translation id="1149401351239820326">Mês de expiração</translation>
-<translation id="7083341910267693582">O app <ph name="APP_NAME"/> será aberto no Asil. Ao continuar, você concorda com os <ph name="BEGIN_LINK1"/>Termos de Serviço do Asil<ph name="END_LINK1"/> e os <ph name="BEGIN_LINK2"/>Termos de Serviço adicionais do Asil e do ChromeOS<ph name="END_LINK2"/>.</translation>
+<translation id="7083341910267693582">O app <ph name="APP_NAME"/> será aberto no brave. Ao continuar, você concorda com os <ph name="BEGIN_LINK1"/>Termos de Serviço do brave<ph name="END_LINK1"/> e os <ph name="BEGIN_LINK2"/>Termos de Serviço adicionais do brave e do ChromeOS<ph name="END_LINK2"/>.</translation>
 <translation id="1154704303112745282">Página indisponível off-line: <ph name="VIOLATED_URL"/></translation>
 <translation id="1173894706177603556">Renomear</translation>
 <translation id="1177863135347784049">Personalizado</translation>
@@ -38,7 +38,7 @@ Só uma pessoa com sua senha longa poderá ler os dados criptografados. Essa sen
 <translation id="1201402288615127009">Próxima</translation>
 <translation id="1202892408424955784">Produtos monitorados</translation>
 <translation id="1204037785786432551">Fazer o download do link</translation>
-<translation id="7196655759099928465">Botão de ação do Asil: <ph name="ACTION"/></translation>
+<translation id="7196655759099928465">Botão de ação do brave: <ph name="ACTION"/></translation>
 <translation id="1206892813135768548">Copiar texto do link</translation>
 <translation id="1208340532756947324">Para sincronizar e personalizar vários dispositivos, ative a sincronização</translation>
 <translation id="1209206284964581585">Ocultar por enquanto</translation>
@@ -46,14 +46,14 @@ Só uma pessoa com sua senha longa poderá ler os dados criptografados. Essa sen
 <translation id="1231733316453485619">Ativar sincronização?</translation>
 <translation id="123724288017357924">Atualizar página atual e ignorar conteúdo em cache</translation>
 <translation id="1239792311949352652">Compartilhar esta página rapidamente. Para editar esse atalho, acesse as Configurações.</translation>
-<translation id="3251315496493761426">Dicas do Asil</translation>
+<translation id="3251315496493761426">Dicas do brave</translation>
 <translation id="1240288207750131269">Carregando <ph name="LANG"/></translation>
 <translation id="1240903469550363138">Para continuar, <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> vai compartilhar seu nome, endereço de e-mail e foto do perfil com esse site. Consulte a <ph name="BEGIN_LINK1"/>Política de Privacidade<ph name="END_LINK1"/> e os <ph name="BEGIN_LINK2"/>Termos de Serviço<ph name="END_LINK2"/> do site.</translation>
 <translation id="124116460088058876">Mais idiomas</translation>
 <translation id="1242883863226959074">dispositivo</translation>
 <translation id="124678866338384709">Fechar a guia atual</translation>
 <translation id="1246905108078336582">Remover sugestão da área de transferência?</translation>
-<translation id="1996480094660735607">Doodle do Asil: <ph name="DOODLE_DESCRIPTION"/></translation>
+<translation id="1996480094660735607">Doodle do brave: <ph name="DOODLE_DESCRIPTION"/></translation>
 <translation id="1263231323834454256">Lista de leitura</translation>
 <translation id="1266864766717917324">Falha no compartilhamento de <ph name="CONTENT_TYPE"/></translation>
 <translation id="1283039547216852943">Toque para expandir</translation>
@@ -68,11 +68,11 @@ Só uma pessoa com sua senha longa poderá ler os dados criptografados. Essa sen
 <translation id="1316212908214730110">destaque_estilizado_do_chrome</translation>
 <translation id="1320912611264252795">Pastas do fluxo para adicionar aos favoritos abertas no tamanho máximo</translation>
 <translation id="1327257854815634930">O histórico de navegação está aberto</translation>
-<translation id="6773423637732432200">Não é possível atualizar o Asil. Mais opções</translation>
-<translation id="7673009277700083027">A medição de anúncios permite que os sites que você visita solicitem informações do Asil, ajudando a medir o desempenho dos anúncios. Ela também restringe o rastreamento entre sites transferindo o mínimo de informações possível entre eles.
+<translation id="6773423637732432200">Não é possível atualizar o brave. Mais opções</translation>
+<translation id="7673009277700083027">A medição de anúncios permite que os sites que você visita solicitem informações do brave, ajudando a medir o desempenho dos anúncios. Ela também restringe o rastreamento entre sites transferindo o mínimo de informações possível entre eles.
 
 Ao excluir todo o histórico de navegação ou apenas o de um site específico, as informações de medição associadas também são excluídas. Veja <ph name="BEGIN_LINK"/>seu histórico de navegação<ph name="END_LINK"/>.</translation>
-<translation id="3169981355900570544">Atalhos de recursos do Asil</translation>
+<translation id="3169981355900570544">Atalhos de recursos do brave</translation>
 <translation id="1344653310988386453">Incluir link para o conteúdo destacado</translation>
 <translation id="1347468774581902829">Gerenciar atividade</translation>
 <translation id="1360432990279830238">Sair e desativar a sincronização?</translation>
@@ -85,12 +85,12 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="1386674309198842382">Ativado há <ph name="LAST_UPDATED"/> dias</translation>
 <translation id="13931502444227376">Para continuar, <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> vai compartilhar seu nome, endereço de e-mail e foto do perfil com esse site. Veja os <ph name="BEGIN_LINK1"/>Termos de Serviço<ph name="END_LINK1"/> desse site.</translation>
 <translation id="1397811292916898096">Pesquisar com o <ph name="PRODUCT_NAME"/></translation>
-<translation id="5857638389580847844">É possível mudar isso a qualquer momento nas configurações do Asil. Os testes são realizados junto à veiculação dos anúncios atuais, então você não verá mudanças imediatamente.</translation>
+<translation id="5857638389580847844">É possível mudar isso a qualquer momento nas configurações do brave. Os testes são realizados junto à veiculação dos anúncios atuais, então você não verá mudanças imediatamente.</translation>
 <translation id="1406000523432664303">"Não rastrear"</translation>
 <translation id="1407069428457324124">Tema escuro</translation>
 <translation id="1407135791313364759">Abrir todas</translation>
 <translation id="1409879593029778104">O download de <ph name="FILE_NAME"/> foi impedido porque o arquivo já existe.</translation>
-<translation id="1853026300647876496">Entrando em contato com o Asil. Isso pode levar um minuto…</translation>
+<translation id="1853026300647876496">Entrando em contato com o brave. Isso pode levar um minuto…</translation>
 <translation id="1416550906796893042">Versão do aplicativo</translation>
 <translation id="1428770807407000502">Desativar a sincronização?</translation>
 <translation id="1430915738399379752">Imprimir</translation>
@@ -98,7 +98,7 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="1437543266176261764">Em execução no app <ph name="APP_NAME"/></translation>
 <translation id="1448440926884431741">Organize seus produtos monitorados nos favoritos</translation>
 <translation id="1450753235335490080">Falha no compartilhamento de <ph name="CONTENT_TYPE"/></translation>
-<translation id="5598889255595678761">Idioma do Asil</translation>
+<translation id="5598889255595678761">Idioma do brave</translation>
 <translation id="1474893630593443211">Mais controle sobre os anúncios que você vê</translation>
 <translation id="1477626028522505441">Falha no download do arquivo <ph name="FILE_NAME"/> devido a problemas de servidor.</translation>
 <translation id="148482509007564431">Fluxo para adicionar aos favoritos</translation>
@@ -113,19 +113,19 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="1518421282666914498">GIF de emoticon <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="1521774566618522728">Ativado hoje</translation>
 <translation id="1538801903729528855">Tenha uma experiência de voz melhor na Web</translation>
-<translation id="8090895580117672212">Para gerenciar sua Conta do Asil, toque no botão "Gerenciar conta".</translation>
+<translation id="8090895580117672212">Para gerenciar sua Conta do brave, toque no botão "Gerenciar conta".</translation>
 <translation id="1549000191223877751">Mover para outra janela</translation>
-<translation id="1705567146636171298">Atualizar o Asil</translation>
+<translation id="1705567146636171298">Atualizar o brave</translation>
 <translation id="1571304935088121812">Copiar nome de usuário</translation>
 <translation id="1592864538817356322">Proteção padrão:</translation>
 <translation id="1594635596540195766"><ph name="SUGGESTIONS_COUNT"/> itens sugeridos na lista abaixo.</translation>
-<translation id="1977195831772110829"><ph name="BEGIN_BOLD"/>Como gerenciar seus dados<ph name="END_BOLD"/>: para proteger sua privacidade, excluímos automaticamente seus interesses que têm mais de quatro semanas. Enquanto você navega, um interesse pode aparecer na lista novamente. Você também pode remover interesses que não quer que o Asil considere.</translation>
+<translation id="1977195831772110829"><ph name="BEGIN_BOLD"/>Como gerenciar seus dados<ph name="END_BOLD"/>: para proteger sua privacidade, excluímos automaticamente seus interesses que têm mais de quatro semanas. Enquanto você navega, um interesse pode aparecer na lista novamente. Você também pode remover interesses que não quer que o brave considere.</translation>
 <translation id="1628019612362412531">{NUM_SELECTED,plural, =1{Remover 1 item selecionado}one{Remover # item selecionado}other{Remover # itens selecionados}}</translation>
-<translation id="3122582044404611732">Descubra novos conteúdos na página inicial do Asil</translation>
+<translation id="3122582044404611732">Descubra novos conteúdos na página inicial do brave</translation>
 <translation id="1641113438599504367">Navegação segura</translation>
 <translation id="164269334534774161">Você está vendo uma cópia off-line desta página de <ph name="CREATION_TIME"/></translation>
 <translation id="1644574205037202324">Histórico</translation>
-<translation id="160450840812032879">Escolha como as visualizações de vídeo serão reproduzidas automaticamente na página inicial do Asil.</translation>
+<translation id="160450840812032879">Escolha como as visualizações de vídeo serão reproduzidas automaticamente na página inicial do brave.</translation>
 <translation id="1670399744444387456">Básico</translation>
 <translation id="1671236975893690980">Download pendente…</translation>
 <translation id="1672586136351118594">Não mostrar novamente</translation>
@@ -136,7 +136,7 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="1710099199314114079">Trocar ou fechar guias</translation>
 <translation id="1718835860248848330">Última hora</translation>
 <translation id="1724977129262658800">Desbloqueie para editar sua senha</translation>
-<translation id="6493900814829428590">Você pode navegar e fazer buscas mais rápido quando o Asil pré-carrega páginas que acredita serem de seu interesse</translation>
+<translation id="6493900814829428590">Você pode navegar e fazer buscas mais rápido quando o brave pré-carrega páginas que acredita serem de seu interesse</translation>
 <translation id="173522743738009831">Sobre o Sandbox de privacidade</translation>
 <translation id="1736419249208073774">Explorar</translation>
 <translation id="1749561566933687563">Sincronize seus favoritos</translation>
@@ -152,27 +152,27 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="1829244130665387512">Encontrar na página</translation>
 <translation id="1832459821645506983">Sim, vamos lá</translation>
 <translation id="1849863543394887018">É possível desativar as notificações visitando as configurações</translation>
-<translation id="1296423691585024517">Quando os testes estão ativados, a medição de anúncios permite que os sites que você visita solicitem informações do Asil, ajudando a medir o desempenho dos anúncios. Ela também restringe o rastreamento entre sites transferindo o mínimo de informações possível entre eles.
+<translation id="1296423691585024517">Quando os testes estão ativados, a medição de anúncios permite que os sites que você visita solicitem informações do brave, ajudando a medir o desempenho dos anúncios. Ela também restringe o rastreamento entre sites transferindo o mínimo de informações possível entre eles.
 
 Ao excluir todo o histórico de navegação ou apenas o de um site específico, as informações de medição associadas também são excluídas. Veja <ph name="BEGIN_LINK"/>seu histórico de navegação<ph name="END_LINK"/>.</translation>
-<translation id="5173820533850252773">O Asil está desatualizado</translation>
+<translation id="5173820533850252773">O brave está desatualizado</translation>
 <translation id="1883903952484604915">Meus arquivos</translation>
 <translation id="189358972401248634">Outros idiomas</translation>
 <translation id="1900260903084164610">Ao continuar, você concorda com os <ph name="BEGIN_TOS_LINK"/>Termos de Serviço<ph name="END_TOS_LINK"/>.</translation>
-<translation id="6893464351226208429">Os URLs que você acessa ficam armazenados na sua Conta do Asil</translation>
+<translation id="6893464351226208429">Os URLs que você acessa ficam armazenados na sua Conta do brave</translation>
 <translation id="1910950723001426294">A lista de opções de compartilhamento está fechada.</translation>
 <translation id="1918175104945982129">IU de consentimento para a pesquisa por voz do Assistente aberta na metade da altura</translation>
-<translation id="7021823858304886493">Permitir login no Asil</translation>
+<translation id="7021823858304886493">Permitir login no brave</translation>
 <translation id="1922362554271624559">Idiomas sugeridos</translation>
 <translation id="1925021887439448749">Digite o endereço da Web personalizado</translation>
 <translation id="1928696683969751773">Atualizações</translation>
-<translation id="1875543012935658554">Reabra o Asil.</translation>
+<translation id="1875543012935658554">Reabra o brave.</translation>
 <translation id="1933845786846280168">Guia selecionada</translation>
 <translation id="193571872656840963">Agradeça ao criador</translation>
 <translation id="1943432128510653496">Salvar senhas</translation>
 <translation id="1952172573699511566">Os sites exibirão textos no idioma de sua preferência, quando for possível.</translation>
 <translation id="1959679933317802873">Aguardando conteúdo</translation>
-<translation id="3968054912784331254">As atualizações do Asil não são mais compatíveis com esta versão do Android</translation>
+<translation id="3968054912784331254">As atualizações do brave não são mais compatíveis com esta versão do Android</translation>
 <translation id="1963976881984600709">Proteção padrão</translation>
 <translation id="1966710179511230534">Atualize seus detalhes de login.</translation>
 <translation id="197288927597451399">Manter</translation>
@@ -182,11 +182,11 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="1986685561493779662">Esse nome já existe</translation>
 <translation id="1995884366040846621">Para continuar, <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> vai compartilhar seu nome, endereço de e-mail e foto do perfil com esse site. Consulte a <ph name="BEGIN_LINK1"/>Política de Privacidade<ph name="END_LINK1"/> do site.</translation>
 <translation id="2000419248597011803">Envia alguns cookies e pesquisas da barra de endereço e da caixa de pesquisa para seu mecanismo de pesquisa padrão.</translation>
-<translation id="6968892567705775281">Incluir o texto ao redor nas pesquisas do Asil?</translation>
+<translation id="6968892567705775281">Incluir o texto ao redor nas pesquisas do brave?</translation>
 <translation id="2013642289801508067">{FILE_COUNT,plural, =1{# arquivo}one{# arquivo}other{# arquivos}}</translation>
 <translation id="2021896219286479412">Controles de site em tela cheia</translation>
 <translation id="2038563949887743358">Ativar "Ver versão para computador"</translation>
-<translation id="7675869148432102528">O app <ph name="APP_NAME"/> também tem dados no Asil</translation>
+<translation id="7675869148432102528">O app <ph name="APP_NAME"/> também tem dados no brave</translation>
 <translation id="2046634576464120978">Falha no registro</translation>
 <translation id="2049574241039454490"><ph name="FILE_SIZE_OF_TOTAL"/> <ph name="SEPARATOR"/> <ph name="DESCRIPTION"/></translation>
 <translation id="2052422354554967744">Pesquisar na Internet</translation>
@@ -204,13 +204,13 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="2122601567107267586">Não foi possível abrir o aplicativo</translation>
 <translation id="2132122640199389833">Remover todos os dispositivos vinculados</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE"/> fechada</translation>
-<translation id="6659395979197839222">Ao usar o Asil, você concorda com os <ph name="BEGIN_TOS_LINK"/>Termos de Serviço do Asil<ph name="END_TOS_LINK"/> e os <ph name="BEGIN_ATOS_LINK"/>Termos de Serviço adicionais do Asil e do ChromeOS<ph name="END_ATOS_LINK"/>.</translation>
+<translation id="6659395979197839222">Ao usar o brave, você concorda com os <ph name="BEGIN_TOS_LINK"/>Termos de Serviço do brave<ph name="END_TOS_LINK"/> e os <ph name="BEGIN_ATOS_LINK"/>Termos de Serviço adicionais do brave e do ChromeOS<ph name="END_ATOS_LINK"/>.</translation>
 <translation id="2139186145475833000">Adicionar à tela inicial</translation>
 <translation id="2141396931810938595">Com base no seu uso</translation>
-<translation id="6516933364477884970">Escolha o que você gostaria de compartilhar com o Asil. As métricas compartilhadas são usadas para aprimorar os recursos, o desempenho e a estabilidade do navegador.</translation>
+<translation id="6516933364477884970">Escolha o que você gostaria de compartilhar com o brave. As métricas compartilhadas são usadas para aprimorar os recursos, o desempenho e a estabilidade do navegador.</translation>
 <translation id="2149973817440762519">Editar favoritos</translation>
 <translation id="2155214902713132423">Esse método de verificação não está disponível para este dispositivo. Escolha uma opção diferente no seu outro dispositivo.</translation>
-<translation id="4162910516440006395">Não foi possível verificar todas as senhas com o Asil</translation>
+<translation id="4162910516440006395">Não foi possível verificar todas as senhas com o brave</translation>
 <translation id="2172688499998841696">As descrições de imagens estão desativadas</translation>
 <translation id="2172905120685242547">Fechar a janela?</translation>
 <translation id="2175927920773552910">Código QR</translation>
@@ -223,10 +223,10 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="2230777942707397948">Janela vazia</translation>
 <translation id="223356358902285214">Atividade na Web e de apps</translation>
 <translation id="2239812875700136898">Controle suas matérias com o botão "Opções do Discover"</translation>
-<translation id="4808014761134300692">Suas senhas são criptografadas no dispositivo antes de serem salvas no Gerenciador de senhas do Asil</translation>
+<translation id="4808014761134300692">Suas senhas são criptografadas no dispositivo antes de serem salvas no Gerenciador de senhas do brave</translation>
 <translation id="2259659629660284697">Exportar senhas…</translation>
-<translation id="8820144752830692527">Nas <ph name="BEGIN_LINK1"/>configurações<ph name="END_LINK1"/>, é possível escolher a qualquer momento o que é sincronizado. O Asil pode personalizar a Pesquisa e outros serviços com base no seu histórico.</translation>
-<translation id="781982477617612877">Faça login na Conta do Asil para verificar suas senhas</translation>
+<translation id="8820144752830692527">Nas <ph name="BEGIN_LINK1"/>configurações<ph name="END_LINK1"/>, é possível escolher a qualquer momento o que é sincronizado. O brave pode personalizar a Pesquisa e outros serviços com base no seu histórico.</translation>
+<translation id="781982477617612877">Faça login na Conta do brave para verificar suas senhas</translation>
 <translation id="2278052315791335171">A exclusão desta senha não excluirá a conta em <ph name="SITE"/></translation>
 <translation id="2286841657746966508">Endereço de faturamento</translation>
 <translation id="228704530595896923">Lista de opções de compartilhamento.</translation>
@@ -236,14 +236,14 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="2323763861024343754">Armazenamento do site</translation>
 <translation id="2328985652426384049">Não consigo fazer login</translation>
 <translation id="234265804618409743">Não foi possível abrir a câmera. Algo deu errado.</translation>
-<translation id="3587672679800759167">Total de dados utilizados pelo Asil, incluindo contas, favoritos e configurações salvas</translation>
+<translation id="3587672679800759167">Total de dados utilizados pelo brave, incluindo contas, favoritos e configurações salvas</translation>
 <translation id="2353636109065292463">Verificando sua conexão de Internet</translation>
-<translation id="2767094839186957509">Política de Privacidade do Asil</translation>
+<translation id="2767094839186957509">Política de Privacidade do brave</translation>
 <translation id="2359808026110333948">Continuar</translation>
 <translation id="2386938421315164605">Ocultar e exibir temas</translation>
 <translation id="2390510615457643724">Quer fazer o download de <ph name="FILE_NAME"/> (<ph name="FILE_SIZE"/>) novamente?</translation>
 <translation id="2394602618534698961">Os arquivos salvos por download são exibidos aqui</translation>
-<translation id="801672626447970525">Quando você faz login na sua Conta do Asil, este recurso é ativado</translation>
+<translation id="801672626447970525">Quando você faz login na sua Conta do brave, este recurso é ativado</translation>
 <translation id="2410754283952462441">Escolher uma conta</translation>
 <translation id="2414886740292270097">Escuro</translation>
 <translation id="2426805022920575512">Escolher outra conta</translation>
@@ -253,17 +253,17 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="2453860139492968684">Concluir</translation>
 <translation id="2459390580524506445">Pesquisa por voz aprimorada</translation>
 <translation id="2461822463642141190">Atual</translation>
-<translation id="2542068854151299295">Faça login para aproveitar o Asil ao máximo</translation>
+<translation id="2542068854151299295">Faça login para aproveitar o brave ao máximo</translation>
 <translation id="247737702124049222">As descrições de imagens estão ativadas</translation>
 <translation id="2482878487686419369">Notificações</translation>
-<translation id="6361779936989026201">Asil Assistente no Asil</translation>
+<translation id="6361779936989026201">brave Assistente no brave</translation>
 <translation id="2496180316473517155">Histórico de navegação</translation>
 <translation id="2497852260688568942">A sincronização foi desativada pelo administrador</translation>
-<translation id="7229462727772664332">Seu status de login, dados de navegação e dados do site para <ph name="SITE_NAME"/> serão exibidos no Asil</translation>
+<translation id="7229462727772664332">Seu status de login, dados de navegação e dados do site para <ph name="SITE_NAME"/> serão exibidos no brave</translation>
 <translation id="2510106555128151389">Instalando <ph name="WEBAPK_NAME"/>…</translation>
-<translation id="7222718784508482526">Para ver mais configurações relacionadas à privacidade, segurança e coleta de dados, acesse <ph name="BEGIN_LINK"/>Serviços do Asil e de sincronização<ph name="END_LINK"/></translation>
+<translation id="7222718784508482526">Para ver mais configurações relacionadas à privacidade, segurança e coleta de dados, acesse <ph name="BEGIN_LINK"/>Serviços do brave e de sincronização<ph name="END_LINK"/></translation>
 <translation id="2517472476991765520">Verificar</translation>
-<translation id="284843628681142937">Envia URLs das páginas que você visita para o Asil</translation>
+<translation id="284843628681142937">Envia URLs das páginas que você visita para o brave</translation>
 <translation id="2527209463677295330">Ao incluir mais texto de uma página, você poderá ver resultados melhores</translation>
 <translation id="2527779675047087889">Ocultar conteúdo da área de transferência</translation>
 <translation id="2532336938189706096">Visualização na Web</translation>
@@ -274,9 +274,9 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="2561519700418191927">Visualizações de vídeo</translation>
 <translation id="2567385386134582609">IMAGEM</translation>
 <translation id="2567545343356994513">Proteção mais rápida e proativa contra sites, extensões e downloads perigosos.</translation>
-<translation id="5079947353572974060">Oferecer a opção de enviar páginas em outros idiomas ao Asil Tradutor</translation>
-<translation id="6995512410824092085">Aprenda a definir o Asil como o navegador padrão</translation>
-<translation id="2324920234469020158">Essa ação vai apagar os cookies, cache e outros dados de sites que o Asil não acredita serem importantes.</translation>
+<translation id="5079947353572974060">Oferecer a opção de enviar páginas em outros idiomas ao brave Tradutor</translation>
+<translation id="6995512410824092085">Aprenda a definir o brave como o navegador padrão</translation>
+<translation id="2324920234469020158">Essa ação vai apagar os cookies, cache e outros dados de sites que o brave não acredita serem importantes.</translation>
 <translation id="2587052924345400782">Versão mais recente disponível</translation>
 <translation id="2593272815202181319">Espaçamento uniforme</translation>
 <translation id="2604446170045642109">Nas configurações, é possível desativar o tema escuro para sites.</translation>
@@ -305,14 +305,14 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="2760989362628427051">Ativa o tema escuro quando essa opção ou a "Economia de bateria" do dispositivo está ativada</translation>
 <translation id="2762000892062317888">agora mesmo</translation>
 <translation id="276969039800130567">Conectado como <ph name="USER_EMAIL_ADDRESS"/>.</translation>
-<translation id="8312774691909088652">Para ver mais configurações relacionadas à privacidade, segurança e coleta de dados, acesse <ph name="BEGIN_LINK"/>Serviços do Asil<ph name="END_LINK"/></translation>
+<translation id="8312774691909088652">Para ver mais configurações relacionadas à privacidade, segurança e coleta de dados, acesse <ph name="BEGIN_LINK"/>Serviços do brave<ph name="END_LINK"/></translation>
 <translation id="2777555524387840389"><ph name="SECONDS"/> segundos restantes</translation>
 <translation id="2779651927720337254">falha</translation>
 <translation id="2781151931089541271">Um segundo restante</translation>
 <translation id="2788468313014644040">Número do grupo</translation>
 <translation id="2800066122460699237">A guia <ph name="TAB_TITLE"/> será fechada</translation>
 <translation id="2806840421670364300">FLoC</translation>
-<translation id="7068873021383263704">Ver e gerenciar as senhas salvas na sua <ph name="BEGIN_LINK"/>Conta do Asil<ph name="END_LINK"/></translation>
+<translation id="7068873021383263704">Ver e gerenciar as senhas salvas na sua <ph name="BEGIN_LINK"/>Conta do brave<ph name="END_LINK"/></translation>
 <translation id="2818669890320396765">Para ter seus favoritos em todos os seus dispositivos, faça login e ative a sincronização</translation>
 <translation id="2827278682606527653">O menu do card do feed está aberto pela metade</translation>
 <translation id="2830783625999891985">Conteúdo da área de transferência oculto</translation>
@@ -322,40 +322,40 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="2842985007712546952">Pasta mãe</translation>
 <translation id="2856503607207334158">Falha no login</translation>
 <translation id="2860954141821109167">Verifique se há um aplicativo para telefones ativado neste dispositivo</translation>
-<translation id="6518254564747115579">Você vai perder o acesso a alguns dos recursos do Asil</translation>
+<translation id="6518254564747115579">Você vai perder o acesso a alguns dos recursos do brave</translation>
 <translation id="2870560284913253234">Site</translation>
 <translation id="2871733351037274014">Páginas pré-carregadas</translation>
 <translation id="2876136027428473467"><ph name="CHILD_NAME"/> quer que você aprove este site:</translation>
 <translation id="2886836735871983413">Uma lista de sites vai aparecer aqui conforme você navega na Web</translation>
-<translation id="8541922081612557424">Sobre o Asil</translation>
+<translation id="8541922081612557424">Sobre o brave</translation>
 <translation id="2891154217021530873">Para de carregar a página</translation>
-<translation id="4013614219085422040">O histórico será usado para personalizar a Pesquisa, anúncios e outros serviços do Asil.</translation>
+<translation id="4013614219085422040">O histórico será usado para personalizar a Pesquisa, anúncios e outros serviços do brave.</translation>
 <translation id="2900528713135656174">Criar evento</translation>
 <translation id="2901411048554510387">Exibindo sugestões para <ph name="WEBSITE_TITLE"/></translation>
 <translation id="2904414404539560095">Lista de dispositivos com os quais é possível compartilhar uma guia aberta no tamanho máximo.</translation>
 <translation id="2908243544703713905">Stories ainda não lidos estão disponíveis</translation>
-<translation id="7339921667754113786">Plataforma de notificações do Asil</translation>
+<translation id="7339921667754113786">Plataforma de notificações do brave</translation>
 <translation id="2912296070571964914">Gerencie os temas relevantes para você</translation>
 <translation id="2923908459366352541">O nome é inválido</translation>
-<translation id="6355102470683871794">Armazenamento do Asil <ph name="APP_NAME"/></translation>
+<translation id="6355102470683871794">Armazenamento do brave <ph name="APP_NAME"/></translation>
 <translation id="2932222164150889403">Seu teclado continuará o mesmo</translation>
-<translation id="6537665929855787038">As notificações do Asil facilitam tudo</translation>
+<translation id="6537665929855787038">As notificações do brave facilitam tudo</translation>
 <translation id="2940075786175545812">Opção para aprovar ou não um site</translation>
 <translation id="2942036813789421260">A guia "Visualizar" está fechada</translation>
-<translation id="4700262879698141140">Atualizando o Asil para se conectar a outros dispositivos</translation>
+<translation id="4700262879698141140">Atualizando o brave para se conectar a outros dispositivos</translation>
 <translation id="2951071800649516099">Adicionar páginas à lista de leitura para mais tarde</translation>
 <translation id="2961208450284224863">{READING_LIST_UNREAD_PAGE_COUNT,plural, =1{<ph name="READING_LIST_UNREAD_PAGE_COUNT_ONE"/> página não lida}one{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY"/> página não lida}other{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY"/> páginas não lidas}}</translation>
 <translation id="2961210776189273067">Título</translation>
 <translation id="2979639724566107830">Abrir em uma nova janela</translation>
 <translation id="2981364137500752533">Você pode ter até cinco janelas.</translation>
-<translation id="5948666439178419683">Incluir o texto ao redor nas pesquisas do Asil</translation>
+<translation id="5948666439178419683">Incluir o texto ao redor nas pesquisas do brave</translation>
 <translation id="2987620471460279764">Texto compartilhado de outro dispositivo</translation>
 <translation id="2989523299700148168">Visitados recentemente</translation>
 <translation id="2992473221983447149">Descrições de imagens</translation>
 <translation id="2994959273484668146">Remover <ph name="DOMAIN"/></translation>
 <translation id="2996291259634659425">Criar senha longa</translation>
 <translation id="2996809686854298943">O URL é obrigatório</translation>
-<translation id="2019027298133375428">Quando um site do Asil pede para pré-carregar links anonimamente, o Asil criptografa e pré-carrega as páginas pelos servidores do Asil sem cookies. Isso oculta sua identidade do site pré-carregado.</translation>
+<translation id="2019027298133375428">Quando um site do brave pede para pré-carregar links anonimamente, o brave criptografa e pré-carrega as páginas pelos servidores do brave sem cookies. Isso oculta sua identidade do site pré-carregado.</translation>
 <translation id="3006881078666935414">Nenhum dado de uso</translation>
 <translation id="301080557829842765">Guia de privacidade</translation>
 <translation id="3016635187733453316">Verifique se o dispositivo está conectado à Internet</translation>
@@ -365,44 +365,44 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="3031225630520268969">IU de consentimento para a pesquisa por voz do Assistente</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Receber ajuda<ph name="END_LINK"/></translation>
 <translation id="3037177537145227281">Monitorando preço</translation>
-<translation id="3251012123600267109">Mostra solicitações para fazer login no Asil</translation>
+<translation id="3251012123600267109">Mostra solicitações para fazer login no brave</translation>
 <translation id="3046945242843292318">Acesse o site mais rapidamente na próxima vez</translation>
 <translation id="3055113921564083271">Interesses que você removeu</translation>
 <translation id="3055259925215945098">O favorito foi movido</translation>
-<translation id="4163313568284712797">São enviadas ao Asil informações sobre seu uso do Asil, mas elas não são vinculadas a você.\n\nSe o Asil falhar, os detalhes sobre a falha poderão incluir algumas informações pessoais.\n\nSe você ativar a sincronização, as métricas também poderão incluir informações sobre os URLs que você acessa.</translation>
+<translation id="4163313568284712797">São enviadas ao brave informações sobre seu uso do brave, mas elas não são vinculadas a você.\n\nSe o brave falhar, os detalhes sobre a falha poderão incluir algumas informações pessoais.\n\nSe você ativar a sincronização, as métricas também poderão incluir informações sobre os URLs que você acessa.</translation>
 <translation id="3060635849835183725">{BOOKMARKS_COUNT,plural, =1{<ph name="BOOKMARKS_COUNT_ONE"/> favorito}one{<ph name="BOOKMARKS_COUNT_MANY"/> favorito}other{<ph name="BOOKMARKS_COUNT_MANY"/> favoritos}}</translation>
-<translation id="6153252609477956632">Artigos sobre seus interesses no Asil</translation>
+<translation id="6153252609477956632">Artigos sobre seus interesses no brave</translation>
 <translation id="3066573403916685335">Mover para baixo</translation>
 <translation id="3070005020161560471">Traduzir automaticamente</translation>
-<translation id="1094255666887095087">O app <ph name="APP_NAME"/> será aberto no Asil. Ao continuar, você concorda com os <ph name="BEGIN_LINK1"/>Termos de Serviço do Asil<ph name="END_LINK1"/> e os <ph name="BEGIN_LINK2"/>Termos de Serviço adicionais do Asil e do ChromeOS<ph name="END_LINK2"/>. A <ph name="BEGIN_LINK3"/>Política de Privacidade<ph name="END_LINK3"/> também se aplica.</translation>
+<translation id="1094255666887095087">O app <ph name="APP_NAME"/> será aberto no brave. Ao continuar, você concorda com os <ph name="BEGIN_LINK1"/>Termos de Serviço do brave<ph name="END_LINK1"/> e os <ph name="BEGIN_LINK2"/>Termos de Serviço adicionais do brave e do ChromeOS<ph name="END_LINK2"/>. A <ph name="BEGIN_LINK3"/>Política de Privacidade<ph name="END_LINK3"/> também se aplica.</translation>
 <translation id="3091010850649238832">Mostrar conteúdo da área de transferência</translation>
-<translation id="821565628224723530">Algumas imagens são enviadas ao Asil para que possamos melhorar as descrições</translation>
+<translation id="821565628224723530">Algumas imagens são enviadas ao brave para que possamos melhorar as descrições</translation>
 <translation id="3114507951000454849">Leia as notícias de hoje <ph name="NEWS_ICON"/></translation>
 <translation id="311958134571892113">vinculado a</translation>
 <translation id="3123734510202723619">Anúncios</translation>
 <translation id="3130863904455712965">Histórico e mais</translation>
 <translation id="3134784203083076891">"</translation>
-<translation id="5063487983358782016">Página inicial do Asil</translation>
+<translation id="5063487983358782016">Página inicial do brave</translation>
 <translation id="3157931365184549694">Restaurar</translation>
 <translation id="3166827708714933426">Atalhos de guias e janelas</translation>
-<translation id="7249949543831830993">O Asil já está aberto.</translation>
+<translation id="7249949543831830993">O brave já está aberto.</translation>
 <translation id="3169472444629675720">Discover</translation>
 <translation id="3187472288455401631">Medição de anúncios</translation>
 <translation id="3207960819495026254">Adicionado aos favoritos</translation>
 <translation id="3208584281581115441">Confirmar agora</translation>
 <translation id="3211426585530211793">Item excluído: <ph name="ITEM_TITLE"/></translation>
-<translation id="1892217432793359605">O <ph name="BEGIN_LINK1"/>histórico de pesquisa<ph name="END_LINK1"/> e <ph name="BEGIN_LINK2"/>outras formas de atividade<ph name="END_LINK2"/> podem ser salvos na sua Conta do Asil quando ela está conectada. É possível excluí-los a qualquer momento.</translation>
+<translation id="1892217432793359605">O <ph name="BEGIN_LINK1"/>histórico de pesquisa<ph name="END_LINK1"/> e <ph name="BEGIN_LINK2"/>outras formas de atividade<ph name="END_LINK2"/> podem ser salvos na sua Conta do brave quando ela está conectada. É possível excluí-los a qualquer momento.</translation>
 <translation id="321773570071367578">Se você esqueceu sua senha longa ou deseja alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronização<ph name="END_LINK"/></translation>
 <translation id="3220943972464248773">Para sincronizar suas senhas, confirme sua identidade</translation>
 <translation id="3223522355830797639">O banco precisa confirmar sua identidade.</translation>
-<translation id="9047551989591319903">Asil como chave de segurança</translation>
+<translation id="9047551989591319903">brave como chave de segurança</translation>
 <translation id="3232754137068452469">App da Web</translation>
 <translation id="3234978181857588512">Salvar no dispositivo</translation>
 <translation id="3236059992281584593">Um minuto restante</translation>
 <translation id="3237087289225714896">Pré-carregamento padrão:</translation>
 <translation id="3237433641417325993">Role a tela para baixo para ver os artigos sugeridos</translation>
 <translation id="3244271242291266297">MM</translation>
-<translation id="7402642357351265733">Se você também compartilhar os relatórios de uso do Asil, eles vão incluir os URLs acessados</translation>
+<translation id="7402642357351265733">Se você também compartilhar os relatórios de uso do brave, eles vão incluir os URLs acessados</translation>
 <translation id="3250563604907490871">As descrições de imagens serão retomadas quando você se conectar ao Wi-Fi</translation>
 <translation id="3254409185687681395">Adicionar esta página aos favoritos</translation>
 <translation id="3259831549858767975">Diminuir tudo na página.</translation>
@@ -412,8 +412,8 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="3265534588625245297">Gerenciar os sites seguidos</translation>
 <translation id="3269093882174072735">Carregar imagem</translation>
 <translation id="3280562213547448728">Pesquisa por voz</translation>
-<translation id="82609232232243542">Fazer login no Asil</translation>
-<translation id="1793814306828610181">Vídeos sobre como usar o Asil</translation>
+<translation id="82609232232243542">Fazer login no brave</translation>
+<translation id="1793814306828610181">Vídeos sobre como usar o brave</translation>
 <translation id="3288003805934695103">Atualizar a página</translation>
 <translation id="3290249595466894471">Envia também uma pequena amostra de páginas, downloads, atividades de extensões e informações do sistema para ajudar a descobrir novas ameaças</translation>
 <translation id="3297344142967351106">Assistente por voz</translation>
@@ -422,25 +422,25 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="3334729583274622784">Mudar extensão do arquivo?</translation>
 <translation id="3341262203274374114">Não foi possível parar de seguir. Algo deu errado.</translation>
 <translation id="3359667936385849800">Usar o provedor de serviços atual</translation>
-<translation id="449001704952013438">O Asil pode considerar este interesse</translation>
+<translation id="449001704952013438">O brave pode considerar este interesse</translation>
 <translation id="3367813778245106622">Faça login novamente para começar a sincronizar</translation>
-<translation id="2746024117903470217">Para compartilhar esta página com outro dispositivo, ative a sincronização nas configurações do Asil no outro dispositivo</translation>
-<translation id="8801234437789558906">Seus favoritos, histórico, senhas e outros dados do Asil não serão mais sincronizados com sua Conta do Asil</translation>
+<translation id="2746024117903470217">Para compartilhar esta página com outro dispositivo, ative a sincronização nas configurações do brave no outro dispositivo</translation>
+<translation id="8801234437789558906">Seus favoritos, histórico, senhas e outros dados do brave não serão mais sincronizados com sua Conta do brave</translation>
 <translation id="3384347053049321195">Compartilhar imagem</translation>
 <translation id="3387650086002190359">Falha no download de <ph name="FILE_NAME"/> devido a erros do sistema de arquivos.</translation>
 <translation id="3389286852084373014">O texto está grande demais</translation>
 <translation id="3391512812407811893">Testes do Sandbox de privacidade</translation>
 <translation id="3398320232533725830">Abrir o gerenciador de favoritos</translation>
-<translation id="1081508498128395141">Mais páginas são pré-carregadas. As páginas podem ser pré-carregadas por servidores do Asil quando solicitado por outros sites.</translation>
+<translation id="1081508498128395141">Mais páginas são pré-carregadas. As páginas podem ser pré-carregadas por servidores do brave quando solicitado por outros sites.</translation>
 <translation id="3414952576877147120">Tamanho:</translation>
 <translation id="3421726884497337397">Defina quando bloquear cookies de terceiros</translation>
-<translation id="5265419033369521352">Protege você no Asil e pode ser usado para melhorar a segurança em outros apps do Asil quando sua conta está conectada</translation>
+<translation id="5265419033369521352">Protege você no brave e pode ser usado para melhorar a segurança em outros apps do brave quando sua conta está conectada</translation>
 <translation id="3429160811076349561">Os recursos de teste estão desativados</translation>
 <translation id="3435465986463792564">Muitas janelas? Gerencie aqui.</translation>
 <translation id="3435738964857648380">Segurança</translation>
 <translation id="3443221991560634068">Atualizar a página atual</translation>
 <translation id="3444179773590444986">Enviar feedback sobre o tema escuro para sites?</translation>
-<translation id="7384339501748168186">Para proteger sua privacidade, o Asil não vai preencher a senha automaticamente neste campo.</translation>
+<translation id="7384339501748168186">Para proteger sua privacidade, o brave não vai preencher a senha automaticamente neste campo.</translation>
 <translation id="3474624961160222204">Continuar como <ph name="NAME"/></translation>
 <translation id="3478363558367712427">Você pode escolher seu mecanismo de pesquisa</translation>
 <translation id="3479552764303398839">Não agora</translation>
@@ -448,7 +448,7 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="3495219333887281978">Página inferior de login aberta na metade da altura.</translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="3507132249039706973">A Proteção padrão está ativa</translation>
-<translation id="8669829441518807650">Off-line. O Asil não pode verificar se há atualizações.</translation>
+<translation id="8669829441518807650">Off-line. O brave não pode verificar se há atualizações.</translation>
 <translation id="3513704683820682405">Realidade aumentada</translation>
 <translation id="3518985090088779359">Aceitar e continuar</translation>
 <translation id="3522247891732774234">Atualização disponível. Mais opções</translation>
@@ -461,7 +461,7 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="3560491354538957576">O site pode definir interesses</translation>
 <translation id="3563767357928833671">Conteúdo da área de transferência exibido</translation>
 <translation id="3566639033325271639">Atualizar configurações</translation>
-<translation id="1908301351964700579">O Asil ainda está se preparando para a RV. Reinicie-o mais tarde.</translation>
+<translation id="1908301351964700579">O brave ainda está se preparando para a RV. Reinicie-o mais tarde.</translation>
 <translation id="3568688522516854065">Para ver as guias dos seus outros dispositivos, faça login e ative a sincronização</translation>
 <translation id="357465026686164600">Smartphone como chave de segurança</translation>
 <translation id="3577473026931028326">Algo deu errado. Tente novamente.</translation>
@@ -481,8 +481,8 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="3699022356773522638">Fazer o download do arquivo?</translation>
 <translation id="371230970611282515">Prevê e avisa sobre eventos perigosos antes que eles aconteçam.</translation>
 <translation id="3714981814255182093">Abrir a barra Localizar</translation>
-<translation id="5805364706385912897">Como esta página usa muita memória, o Asil a pausou.</translation>
-<translation id="8397843425685839889">Você e o Asil</translation>
+<translation id="5805364706385912897">Como esta página usa muita memória, o brave a pausou.</translation>
+<translation id="8397843425685839889">Você e o brave</translation>
 <translation id="3737319253362202215">Configurações de tradução</translation>
 <translation id="3737402728074743863">Para usar este dispositivo como chave de segurança, defina um bloqueio de tela</translation>
 <translation id="3738139272394829648">Pesquisa por toque</translation>
@@ -490,7 +490,7 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="3740525748616366977">A pesquisa por voz não está disponível neste dispositivo</translation>
 <translation id="377124182565324804">Adicionar <ph name="SITE"/></translation>
 <translation id="3771290962915251154">Esta configuração está desativada porque o "controle dos pais" está ativado</translation>
-<translation id="1138681184697033370">Termos de Serviço do Asil</translation>
+<translation id="1138681184697033370">Termos de Serviço do brave</translation>
 <translation id="3773856050682458546">Dados básicos e informações sobre os sites que você visita e os apps que usa</translation>
 <translation id="3775705724665058594">Enviar para seus dispositivos</translation>
 <translation id="3791957072666773229">{TAB_COUNT,plural, =1{1 guia}one{# guia}other{# guias}}</translation>
@@ -516,17 +516,17 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="3934366560681368531">"</translation>
 <translation id="393697183122708255">Nenhuma pesq. por voz ativada disponível</translation>
 <translation id="395377504920307820">Usar sem uma conta</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{O Asil carregará sua página quando ela estiver pronta}one{O Asil carregará sua página quando ela estiver pronta}other{O Asil carregará suas páginas quando elas estiverem prontas}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{O brave carregará sua página quando ela estiver pronta}one{O brave carregará sua página quando ela estiver pronta}other{O brave carregará suas páginas quando elas estiverem prontas}}</translation>
 <translation id="3962119236270174787">Proteção padrão contra sites, extensões e downloads perigosos.</translation>
-<translation id="4908545308856135643">A criptografia por senha longa não inclui formas de pagamento e endereços do Google Pay. Só alguém com acesso a sua senha longa pode ler seus dados criptografados. Essa senha não é enviada ou armazenada pelo Asil. Se você esquecer essa senha ou quiser alterar essa configuração, será necessário redefinir a sincronização. <ph name="BEGIN_LINK"/>Saiba mais<ph name="END_LINK"/></translation>
-<translation id="1453002554835005700">Não é possível verificar suas senhas com o Asil</translation>
+<translation id="4908545308856135643">A criptografia por senha longa não inclui formas de pagamento e endereços do Google Pay. Só alguém com acesso a sua senha longa pode ler seus dados criptografados. Essa senha não é enviada ou armazenada pelo brave. Se você esquecer essa senha ou quiser alterar essa configuração, será necessário redefinir a sincronização. <ph name="BEGIN_LINK"/>Saiba mais<ph name="END_LINK"/></translation>
+<translation id="1453002554835005700">Não é possível verificar suas senhas com o brave</translation>
 <translation id="3969863827134279083">Mover para cima</translation>
 <translation id="397583555483684758">A sincronização parou de funcionar</translation>
 <translation id="3976396876660209797">Remova e recrie este atalho</translation>
 <translation id="3981902534690264083">Anunciantes podem medir o desempenho dos anúncios</translation>
 <translation id="3985215325736559418">Quer fazer o download do arquivo <ph name="FILE_NAME"/> novamente?</translation>
 <translation id="3987993985790029246">Copiar link</translation>
-<translation id="5846727201643228411">É possível ver e remover os assuntos de interesse que os sites usam para mostrar anúncios a você. O Asil faz uma estimativa dos seus interesses com base no seu histórico de navegação recente.</translation>
+<translation id="5846727201643228411">É possível ver e remover os assuntos de interesse que os sites usam para mostrar anúncios a você. O brave faz uma estimativa dos seus interesses com base no seu histórico de navegação recente.</translation>
 <translation id="4000212216660919741">Página inicial off-line</translation>
 <translation id="4016425174436051808">Não foi possível seguir. Algo deu errado.</translation>
 <translation id="4034817413553209278">{HOURS,plural, =1{# h}one{# h}other{# h}}</translation>
@@ -539,21 +539,21 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="4062305924942672200">Informações legais</translation>
 <translation id="4072805772816336153">Tente novamente mais tarde</translation>
 <translation id="4084682180776658562">Favorito</translation>
-<translation id="4521874409998847950">De <ph name="PUBLISHER_ORIGIN"/>: <ph name="BEGIN_DEEMPHASIZED"/>veiculado pelo Asil<ph name="END_DEEMPHASIZED"/></translation>
+<translation id="4521874409998847950">De <ph name="PUBLISHER_ORIGIN"/>: <ph name="BEGIN_DEEMPHASIZED"/>veiculado pelo brave<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="409109920254068737">Você pode usar o tablet para fazer login no dispositivo que está mostrando o código QR.</translation>
 <translation id="4095146165863963773">Excluir dados de apps?</translation>
 <translation id="4096227151372679484">Fluxo para adicionar aos favoritos aberto na metade da altura</translation>
-<translation id="673197144963363525">Ajude a melhorar o Asil. Envie estatísticas de uso e relatórios de falhas ao Asil.</translation>
+<translation id="673197144963363525">Ajude a melhorar o brave. Envie estatísticas de uso e relatórios de falhas ao brave.</translation>
 <translation id="4101475238162928417">Sincronize para acessar seus favoritos, senhas e muito mais em outros dispositivos</translation>
 <translation id="410351446219883937">Reprodução automática</translation>
-<translation id="8112581848375017126">O Asil está explorando novos recursos que permitem que os sites ofereçam a mesma experiência de navegação atual usando menos informações pessoais</translation>
+<translation id="8112581848375017126">O brave está explorando novos recursos que permitem que os sites ofereçam a mesma experiência de navegação atual usando menos informações pessoais</translation>
 <translation id="4108314971463891922">Seguir</translation>
 <translation id="4108998448622696017">Detecta e avisa você sobre eventos perigosos quando eles acontecerem.</translation>
 <translation id="4116038641877404294">Faça o download de páginas e acesse off-line</translation>
 <translation id="4135200667068010335">A lista de dispositivos com os quais é possível compartilhar uma guia está fechada.</translation>
 <translation id="4137746084635924146">Idioma atual do dispositivo</translation>
 <translation id="414128724510021958">Sites para computador solicitados por padrão</translation>
-<translation id="4159350418181625094">Aprenda a usar o Asil</translation>
+<translation id="4159350418181625094">Aprenda a usar o brave</translation>
 <translation id="4162867837470729563">Lista de opções de compartilhamento no tamanho máximo.</translation>
 <translation id="4170011742729630528">O serviço não está disponível. Tente novamente mais tarde.</translation>
 <translation id="4177222230309051052">Acesse todos os seus favoritos</translation>
@@ -561,21 +561,21 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="4195643157523330669">Abrir em uma nova guia</translation>
 <translation id="4196597275619698563">Criar card</translation>
 <translation id="4198423547019359126">Não há locais de download disponíveis</translation>
-<translation id="6003646045106347985">Para receber conteúdo personalizado sugerido pelo Asil, ative a sincronização</translation>
-<translation id="1675646381334855139">Se você autorizar, o Asil pode usar cookies no pré-carregamento.</translation>
+<translation id="6003646045106347985">Para receber conteúdo personalizado sugerido pelo brave, ative a sincronização</translation>
+<translation id="1675646381334855139">Se você autorizar, o brave pode usar cookies no pré-carregamento.</translation>
 <translation id="4225895483398857530">Atalho da barra de ferramentas</translation>
 <translation id="4242533952199664413">Abrir configurações.</translation>
 <translation id="4248098802131000011">Manter suas senhas protegidas contra violações de dados e outros problemas de segurança</translation>
-<translation id="7445061995866044926">Sair do Asil?</translation>
+<translation id="7445061995866044926">Sair do brave?</translation>
 <translation id="4249955472157341256">Ordenar por mais recentes</translation>
 <translation id="4250229828105606438">Captura de tela</translation>
 <translation id="4256782883801055595">Licenças de código aberto</translation>
-<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>Quais dados são usados<ph name="END_BOLD"/>: seu histórico de navegação, um registro de sites visitados usando o Asil neste dispositivo.</translation>
+<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>Quais dados são usados<ph name="END_BOLD"/>: seu histórico de navegação, um registro de sites visitados usando o brave neste dispositivo.</translation>
 <translation id="4263656433980196874">IU de consentimento para a pesquisa por voz do Assistente aberta no tamanho máximo</translation>
 <translation id="4269820728363426813">Copiar endereço do link</translation>
 <translation id="4283102315569707115">Solicitar sites para computador por padrão?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK"/>Ativar o bloqueio de tela nas configurações do Android<ph name="END_LINK"/></translation>
-<translation id="6299940168852877221">Ao usar o Asil, você concorda com os <ph name="BEGIN_TOS_LINK"/>Termos de Serviço do Asil<ph name="END_TOS_LINK"/> e os <ph name="BEGIN_ATOS_LINK"/>Termos de Serviço adicionais do Asil e do ChromeOS<ph name="END_ATOS_LINK"/>. A <ph name="BEGIN_PRIVACY_LINK"/>Política de Privacidade<ph name="END_PRIVACY_LINK"/> também se aplica.</translation>
+<translation id="6299940168852877221">Ao usar o brave, você concorda com os <ph name="BEGIN_TOS_LINK"/>Termos de Serviço do brave<ph name="END_TOS_LINK"/> e os <ph name="BEGIN_ATOS_LINK"/>Termos de Serviço adicionais do brave e do ChromeOS<ph name="END_ATOS_LINK"/>. A <ph name="BEGIN_PRIVACY_LINK"/>Política de Privacidade<ph name="END_PRIVACY_LINK"/> também se aplica.</translation>
 <translation id="4298388696830689168">Sites vinculados</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="4307992518367153382">Básico</translation>
@@ -592,7 +592,7 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="4405224443901389797">Mover para…</translation>
 <translation id="4405636711880428279">Remover seu cartão virtual?</translation>
 <translation id="4409271659088619928">Seu mecanismo de pesquisa é o <ph name="DSE"/>. Veja as instruções dele para excluir o histórico de pesquisa, se aplicável.</translation>
-<translation id="5749788945734786627">Gerenciar sua Conta do Asil</translation>
+<translation id="5749788945734786627">Gerenciar sua Conta do brave</translation>
 <translation id="4425140285732600465">Monitorando o preço. Receba alertas se houver uma redução no preço em algum site.</translation>
 <translation id="442518031075347249">Não será mais possível usar o cartão virtual com Google Pay. <ph name="BEGIN_LINK1"/>Saiba mais sobre os cartões virtuais<ph name="END_LINK1"/></translation>
 <translation id="4428065317363009941">Personalização de anúncios</translation>
@@ -601,18 +601,18 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="4461614516424362539">Quando você vincula outro dispositivo com um código QR, ele pode usar este smartphone como uma chave de segurança. Se ele for removido, você vai precisar ler um código QR para vincular novamente.</translation>
 <translation id="4472118726404937099">Para sincronizar e personalizar vários dispositivos, faça login e ative a sincronização</translation>
 <translation id="4479839115899251637">Excluir da lista de leitura</translation>
-<translation id="3133489217401741157">Instalando <ph name="MODULE"/> para o Asil…</translation>
+<translation id="3133489217401741157">Instalando <ph name="MODULE"/> para o brave…</translation>
 <translation id="4484496141267039529">Sem conexão. Tente novamente mais tarde.</translation>
-<translation id="53119194224775367">Todos os dados de app Asil serão excluídos permanentemente. Isso inclui todos os arquivos, configurações, contas, bancos de dados etc.</translation>
-<translation id="3966104135245031874">Criptografar as senhas sincronizadas com sua Conta do Asil</translation>
+<translation id="53119194224775367">Todos os dados de app brave serão excluídos permanentemente. Isso inclui todos os arquivos, configurações, contas, bancos de dados etc.</translation>
+<translation id="3966104135245031874">Criptografar as senhas sincronizadas com sua Conta do brave</translation>
 <translation id="4504667196171871375">Com Wi-Fi e dados móveis</translation>
 <translation id="4508528996305412043">O menu do card do feed está aberto</translation>
 <translation id="4508642716788467538">Escolha seu idioma</translation>
 <translation id="4513387527876475750">{DAYS,plural, =1{# dia atrás}one{# dias atrás}other{# dias atrás}}</translation>
 <translation id="451872707440238414">Pesquisar favoritos</translation>
-<translation id="1664855196866195614">Os dados selecionados foram removidos do Asil e dos seus dispositivos sincronizados.
+<translation id="1664855196866195614">Os dados selecionados foram removidos do brave e dos seus dispositivos sincronizados.
 
-É possível que sua Conta do Asil tenha outras formas de histórico de navegação, como pesquisas e atividades de outros serviços do Asil em 
+É possível que sua Conta do brave tenha outras formas de histórico de navegação, como pesquisas e atividades de outros serviços do brave em 
  <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="452750746583162491">Revisar dados sincronizados</translation>
 <translation id="4532845899244822526">Escolher pasta</translation>
@@ -638,14 +638,14 @@ Ao excluir todo o histórico de navegação ou apenas o de um site específico, 
 <translation id="4663499661119906179">Veja os principais sites e matérias para você</translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS"/> favoritos excluídos</translation>
 <translation id="4668347365065281350">Todos os dados armazenados por sites, incluindo cookies e outros dados armazenados localmente</translation>
-<translation id="6904731820418823295">O tema escuro para sites está ativado no Asil</translation>
+<translation id="6904731820418823295">O tema escuro para sites está ativado no brave</translation>
 <translation id="4684427112815847243">Sincronizar tudo</translation>
 <translation id="4685741273709472646">Selecione na lista suspensa</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 e mais <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}one{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 e mais <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}other{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 e mais <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}}</translation>
 <translation id="4699172675775169585">Imagens e arquivos armazenados em cache</translation>
 <translation id="4719927025381752090">Oferecer para traduzir</translation>
 <translation id="4720023427747327413">Abrir no <ph name="PRODUCT_NAME"/></translation>
-<translation id="4939482511480190003">Ajude a melhorar o Asil. <ph name="BEGIN_LINK"/>Responda à pesquisa.<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">Ajude a melhorar o brave. <ph name="BEGIN_LINK"/>Responda à pesquisa.<ph name="END_LINK"/></translation>
 <translation id="47217992755561375">Veja seus principais sites</translation>
 <translation id="4732120983431207637">Recuperador de pilha</translation>
 <translation id="4736934858538408121">Cartão virtual</translation>
@@ -674,25 +674,25 @@ Para alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronizaç
 <translation id="4831037795716408498">Fazer o download de conteúdo</translation>
 <translation id="4834007576107377210">Veja as instruções do seu mecanismo de pesquisa para excluir o histórico de pesquisa, se aplicável</translation>
 <translation id="4834250788637067901">Formas de pagamento, ofertas e endereços que usam o Google Pay</translation>
-<translation id="2593289874938379417">O Asil não tem acesso ao recurso solicitado.</translation>
+<translation id="2593289874938379417">O brave não tem acesso ao recurso solicitado.</translation>
 <translation id="4837753911714442426">Abrir opções de impressão de página</translation>
 <translation id="4842092870884894799">Mostrando pop-up da criação de senhas</translation>
 <translation id="4842515939542199281">Para pesquisar com a voz, toque no microfone</translation>
-<translation id="6195403640086187022">Para ter mais segurança, criptografe as senhas no dispositivo antes que elas sejam salvas no Gerenciador de senhas do Asil</translation>
+<translation id="6195403640086187022">Para ter mais segurança, criptografe as senhas no dispositivo antes que elas sejam salvas no Gerenciador de senhas do brave</translation>
 <translation id="4850886885716139402">Ver</translation>
 <translation id="4852014461738377247">Fazendo login\u2026</translation>
 <translation id="4860895144060829044">Ligar</translation>
 <translation id="4864369630010738180">Fazendo login...</translation>
-<translation id="5131234170665854056">Não é possível instalar <ph name="MODULE"/> para o Asil</translation>
+<translation id="5131234170665854056">Não é possível instalar <ph name="MODULE"/> para o brave</translation>
 <translation id="4871568871368204250">Desativar a sincronização</translation>
 <translation id="4875775213178255010">Sugestões de conteúdo</translation>
 <translation id="4878404682131129617">Falha ao estabelecer encapsulamento via servidor proxy</translation>
 <translation id="4880127995492972015">Traduzir…</translation>
 <translation id="4881695831933465202">Abrir</translation>
 <translation id="488187801263602086">Renomear arquivo</translation>
-<translation id="1248710015876067820">Número de instâncias do Asil não suportado.</translation>
+<translation id="1248710015876067820">Número de instâncias do brave não suportado.</translation>
 <translation id="4905823827770127520">Incluir um link para a página</translation>
-<translation id="3217997482476578430">Discover do Asil</translation>
+<translation id="3217997482476578430">Discover do brave</translation>
 <translation id="4909709702739934280">O navegador é gerenciado pelo seu administrador</translation>
 <translation id="4910889077668685004">Apps de pagamento</translation>
 <translation id="4912413785358399818">Mover guia</translation>
@@ -701,13 +701,13 @@ Para alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronizaç
 <translation id="492284538114688557">Redução no preço encontrada</translation>
 <translation id="4925120120285606924">Captura de tela <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="49268022542405662">Suas senhas serão exportadas e transferidas por download como um arquivo de texto. Elas ficarão visíveis para qualquer pessoa e app que tiver acesso à pasta de destino.</translation>
-<translation id="1955495299630319741">Você está saindo de uma conta gerenciada por <ph name="DOMAIN_NAME"/>, por isso seus dados do Asil serão excluídos deste dispositivo. No entanto, eles permanecerão na sua Conta do Asil.</translation>
+<translation id="1955495299630319741">Você está saindo de uma conta gerenciada por <ph name="DOMAIN_NAME"/>, por isso seus dados do brave serão excluídos deste dispositivo. No entanto, eles permanecerão na sua Conta do brave.</translation>
 <translation id="4943703118917034429">Realidade virtual</translation>
 <translation id="4943872375798546930">Nenhum resultado</translation>
-<translation id="5742837711075932301">Quando você se conecta à mesma Conta do Asil, outros dispositivos podem usar este smartphone como uma chave de segurança.</translation>
+<translation id="5742837711075932301">Quando você se conecta à mesma Conta do brave, outros dispositivos podem usar este smartphone como uma chave de segurança.</translation>
 <translation id="4957722034734105353">Saiba mais...</translation>
 <translation id="4961107849584082341">Traduza esta página para qualquer idioma</translation>
-<translation id="7307583170263691471">Proteção mais rápida e proativa contra sites, downloads e extensões perigosos. Envia um alerta de violação de senha. Requer que dados de navegação sejam enviados ao Asil.</translation>
+<translation id="7307583170263691471">Proteção mais rápida e proativa contra sites, downloads e extensões perigosos. Envia um alerta de violação de senha. Requer que dados de navegação sejam enviados ao brave.</translation>
 <translation id="497421865427891073">Avançar</translation>
 <translation id="4985248278475639481">Sobre a personalização de anúncios</translation>
 <translation id="4987271110129728827">Não foi possível encontrar a página. Verifique se há erros de ortografia ou faça uma pesquisa na Web.</translation>
@@ -716,7 +716,7 @@ Para alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronizaç
 <translation id="499724277181351974">Navegar: <ph name="WEBSITE_TITLE"/> (<ph name="WEBSITE_URL"/>)</translation>
 <translation id="5001388021414335527">Siga este site</translation>
 <translation id="500351648694011114">Navegue com mais facilidade</translation>
-<translation id="6447211988989208781">Controles de atividade do Asil</translation>
+<translation id="6447211988989208781">Controles de atividade do brave</translation>
 <translation id="5005141133360250920">Reação excluída</translation>
 <translation id="5005498671520578047">Copiar senha</translation>
 <translation id="5011311129201317034"><ph name="SITE"/> deseja se conectar</translation>
@@ -727,11 +727,11 @@ Para alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronizaç
 <translation id="504456571576643789">Considerações</translation>
 <translation id="4858031288914533863"><ph name="BEGIN_LINK1"/>Outras formas de atividade<ph name="END_LINK1"/> podem ser salvas na sua conta quando ela está conectada. É possível excluí-las a qualquer momento.</translation>
 <translation id="506254248375231072">Nenhuma guia</translation>
-<translation id="4744980273298156620">Em breve, você verá stories de <ph name="SITE_NAME"/> quando abrir uma nova guia. Os sites que você segue são armazenados na sua Conta do Asil. Você pode gerenciá-los nas configurações do Discover.</translation>
+<translation id="4744980273298156620">Em breve, você verá stories de <ph name="SITE_NAME"/> quando abrir uma nova guia. Os sites que você segue são armazenados na sua Conta do brave. Você pode gerenciá-los nas configurações do Discover.</translation>
 <translation id="5091249083535528968">Dados de uso estendidos</translation>
 <translation id="509429900233858213">Ocorreu um erro.</translation>
 <translation id="5099845111805573968">Ao selecionar o site para computador uma vez, a configuração vai ser aplicada sempre que ele for acessado</translation>
-<translation id="225414324447409614">Se um site tentar roubar sua senha ou se você fizer o download de um arquivo perigoso, o Asil poderá enviar os URLs, incluindo partes do conteúdo da página, para o Navegação segura</translation>
+<translation id="225414324447409614">Se um site tentar roubar sua senha ou se você fizer o download de um arquivo perigoso, o brave poderá enviar os URLs, incluindo partes do conteúdo da página, para o Navegação segura</translation>
 <translation id="510275257476243843">Uma hora restante</translation>
 <translation id="5115811374190515607">para <ph name="PRODUCT_NAME"/></translation>
 <translation id="5118713593561876160">Interesses</translation>
@@ -745,7 +745,7 @@ Para alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronizaç
 <translation id="5170568018924773124">Mostrar na pasta</translation>
 <translation id="5171045022955879922">Pesquisar ou digitar URL</translation>
 <translation id="517734441743343109">Ao continuar, você concorda com os <ph name="BEGIN_TOS_LINK"/>Termos de Serviço<ph name="END_TOS_LINK"/> e a <ph name="BEGIN_PRIVACY_LINK"/>Política\u00A0de\u00A0Privacidade<ph name="END_PRIVACY_LINK"/>.</translation>
-<translation id="8445059357334030806">Abrir no Asil</translation>
+<translation id="8445059357334030806">Abrir no brave</translation>
 <translation id="5191251636205085390">Descubra e controle novas tecnologias para substituir cookies de terceiros</translation>
 <translation id="5193988420012215838">Copiado para a área de transferência</translation>
 <translation id="5199929503336119739">Perfil de trabalho</translation>
@@ -767,10 +767,10 @@ Para alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronizaç
 <translation id="5304593522240415983">Este campo não pode ficar em branco</translation>
 <translation id="5308380583665731573">Conectar</translation>
 <translation id="5317780077021120954">Salvar</translation>
-<translation id="989239400026154074">O Asil recomenda o Asil</translation>
-<translation id="493321943777183150">O Asil está encontrando novas formas de reduzir o rastreamento e proteger você ainda mais durante a navegação. Ele também faz uma <ph name="BEGIN_LINK"/>estimativa dos seus interesses<ph name="END_LINK"/> e permite o gerenciamento deles. Com isso, os sites que você visita podem solicitar seus interesses ao Asil para mostrar anúncios.</translation>
+<translation id="989239400026154074">O brave recomenda o brave</translation>
+<translation id="493321943777183150">O brave está encontrando novas formas de reduzir o rastreamento e proteger você ainda mais durante a navegação. Ele também faz uma <ph name="BEGIN_LINK"/>estimativa dos seus interesses<ph name="END_LINK"/> e permite o gerenciamento deles. Com isso, os sites que você visita podem solicitar seus interesses ao brave para mostrar anúncios.</translation>
 <translation id="5324858694974489420">Configurações para a família</translation>
-<translation id="1681635711794313507">As páginas pré-carregadas são criptografadas e o link que leva às páginas é de um site do Asil. Portanto, os servidores do Asil não recebem novas informações quando pré-carregam essas páginas de forma particular.</translation>
+<translation id="1681635711794313507">As páginas pré-carregadas são criptografadas e o link que leva às páginas é de um site do brave. Portanto, os servidores do brave não recebem novas informações quando pré-carregam essas páginas de forma particular.</translation>
 <translation id="5329858041417644019">Seu navegador não é gerenciado</translation>
 <translation id="5339031667684712858">Sites que você removeu</translation>
 <translation id="5342314432463739672">Solicitações de permissão</translation>
@@ -795,14 +795,14 @@ Para alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronizaç
 <translation id="5458366071038729214">Você verá os sites que você seguir aqui</translation>
 <translation id="5468068603361015296">Quer fazer o download de <ph name="FILE_NAME"/> mesmo assim?</translation>
 <translation id="548278423535722844">Abrir no app de mapa</translation>
-<translation id="7176798998723526245">Navegar no Asil</translation>
+<translation id="7176798998723526245">Navegar no brave</translation>
 <translation id="5487521232677179737">Remover dados</translation>
 <translation id="549025011754480756">Como pesquisar com a voz</translation>
 <translation id="5492637351392383067">Criptografia no dispositivo</translation>
 <translation id="5514904542973294328">Opção desativada pelo administrador deste dispositivo</translation>
 <translation id="5515439363601853141">Desbloqueie para ver sua senha</translation>
 <translation id="5517095782334947753">Você tem favoritos, histórico, senhas e outras configurações da conta <ph name="FROM_ACCOUNT"/>.</translation>
-<translation id="300369155175407115">Quando os testes estão ativados e se o Asil colocou você aleatoriamente em um teste ativo, seu histórico de navegação vai afetar os anúncios que você vê e os interesses estimados abaixo. Para proteger sua privacidade, o Asil exclui seus interesses mais antigos do que um mês.</translation>
+<translation id="300369155175407115">Quando os testes estão ativados e se o brave colocou você aleatoriamente em um teste ativo, seu histórico de navegação vai afetar os anúncios que você vê e os interesses estimados abaixo. Para proteger sua privacidade, o brave exclui seus interesses mais antigos do que um mês.</translation>
 <translation id="5524843473235508879">Redirecionamento bloqueado.</translation>
 <translation id="5548606607480005320">Confirmação de segurança</translation>
 <translation id="5555525474779371165">Escolha sua proteção no Navegação segura</translation>
@@ -814,7 +814,7 @@ Para alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronizaç
 <translation id="5578795271662203820">Pesquisar imagem no <ph name="SEARCH_ENGINE"/></translation>
 <translation id="5581519193887989363">Nas <ph name="BEGIN_LINK1"/>configurações<ph name="END_LINK1"/>, é possível escolher a qualquer momento o que é sincronizado.</translation>
 <translation id="5590372121997663538">Lembrar deste computador</translation>
-<translation id="6157610782452852023">O Asil Assistente pode concluir ações em sites para você</translation>
+<translation id="6157610782452852023">O brave Assistente pode concluir ações em sites para você</translation>
 <translation id="5620163320393916465">Nenhuma senha salva</translation>
 <translation id="5620928963363755975">Procure seus arquivos e páginas em Downloads, usando o botão Mais opções</translation>
 <translation id="562289928968387744">Gerenciar reações</translation>
@@ -825,19 +825,19 @@ Para alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronizaç
 <translation id="5655963694829536461">Pesquisar seus downloads</translation>
 <translation id="5659593005791499971">E-mail</translation>
 <translation id="5665379678064389456">Criar evento no <ph name="APP_NAME"/></translation>
-<translation id="5668833306439455813">O Asil não pode verificar se há atualizações</translation>
+<translation id="5668833306439455813">O brave não pode verificar se há atualizações</translation>
 <translation id="5686790454216892815">Nome do arquivo muito longo</translation>
 <translation id="569536719314091526">Traduza esta página para qualquer idioma com o botão "Mais opções"</translation>
-<translation id="2320748512701464301">O Asil pode ajudar a proteger você de violações de dados, sites perigosos e muito mais</translation>
+<translation id="2320748512701464301">O brave pode ajudar a proteger você de violações de dados, sites perigosos e muito mais</translation>
 <translation id="570347048394355941">Alternar para a guia</translation>
 <translation id="572328651809341494">Guias recentes</translation>
 <translation id="5726692708398506830">Aumentar tudo na página</translation>
-<translation id="3613110494561632737">Se o Asil colocou você aleatoriamente em um teste ativo, seu histórico de navegação vai afetar os anúncios que você vê e os interesses estimados abaixo. Para proteger sua privacidade, o Asil exclui seus interesses mais antigos do que um mês. Os interesses são atualizados, a menos que você os remova.</translation>
+<translation id="3613110494561632737">Se o brave colocou você aleatoriamente em um teste ativo, seu histórico de navegação vai afetar os anúncios que você vê e os interesses estimados abaixo. Para proteger sua privacidade, o brave exclui seus interesses mais antigos do que um mês. Os interesses são atualizados, a menos que você os remova.</translation>
 <translation id="5748802427693696783">Alternada para guias padrão</translation>
-<translation id="3088191967551450609">O Asil precisa de acesso para fazer o download e armazenar arquivos.</translation>
+<translation id="3088191967551450609">O brave precisa de acesso para fazer o download e armazenar arquivos.</translation>
 <translation id="5749237766298580851">Desativado <ph name="SEPARATOR"/> Não recomendado</translation>
 <translation id="5752232708629533680">Compartilhar apenas o GIF</translation>
-<translation id="416316836590748269">Você pode usar a voz para pesquisar no Asil</translation>
+<translation id="416316836590748269">Você pode usar a voz para pesquisar no brave</translation>
 <translation id="5754350196967618083">Não é possível atualizar o Discover</translation>
 <translation id="5763514718066511291">Toque para copiar o URL desse app</translation>
 <translation id="5765517223145864268">Fale sobre sua experiência. Ou <ph name="BEGIN_LINK"/>mude suas configurações<ph name="END_LINK"/>.</translation>
@@ -848,17 +848,17 @@ Para alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronizaç
 <translation id="5793665092639000975">Usando <ph name="SPACE_USED"/> de <ph name="SPACE_AVAILABLE"/></translation>
 <translation id="5795872532621730126">Pesquisar e navegar</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# hora atrás}one{# horas atrás}other{# horas atrás}}</translation>
-<translation id="5311273890481188673">Copyright © <ph name="YEAR"/> Asil LLC. Todos os direitos reservados.</translation>
+<translation id="5311273890481188673">Copyright © <ph name="YEAR"/> brave LLC. Todos os direitos reservados.</translation>
 <translation id="5813552293717797987">Este navegador é gerenciado por <ph name="PARENT_NAME_1"/> e <ph name="PARENT_NAME_2"/>.</translation>
 <translation id="5814131985548525293">Digite aqui ou toque no ícone de voz para começar</translation>
 <translation id="5814749351757353073">Acompanhe seus sites favoritos</translation>
 <translation id="583281660410589416">Desconhecido</translation>
 <translation id="5833984609253377421">Compartilhar link</translation>
-<translation id="4099502324559761073">Para ler um código QR, permita que o Asil use sua câmera</translation>
-<translation id="2225291765389142805">Dinossauro do Asil</translation>
+<translation id="4099502324559761073">Para ler um código QR, permita que o brave use sua câmera</translation>
+<translation id="2225291765389142805">Dinossauro do brave</translation>
 <translation id="5842437907245493289">Organize seus produtos monitorados nos favoritos com o ícone de pasta</translation>
 <translation id="5853623416121554550">pausado</translation>
-<translation id="3518793343998771868">Os relatórios de erros e as estatísticas não serão enviados ao Asil</translation>
+<translation id="3518793343998771868">Os relatórios de erros e as estatísticas não serão enviados ao brave</translation>
 <translation id="5855546874025048181">Refinar: <ph name="REFINE_TEXT"/></translation>
 <translation id="5857447844686706637">Algo deu errado. Não foi possível atualizar o recurso Monitorar preço.</translation>
 <translation id="5859968346865909126">Ele pode ser ativado ou desativado nas configurações</translation>
@@ -866,33 +866,33 @@ Para alterar essa configuração, <ph name="BEGIN_LINK"/>redefina a sincronizaç
 <translation id="5860491529813859533">Ativar</translation>
 <translation id="5862731021271217234">Para ver as guias dos seus outros dispositivos, ative a sincronização</translation>
 <translation id="5864419784173784555">Aguardando outro download…</translation>
-<translation id="6538479075382111079">Envia estatísticas de uso e relatórios de erros automaticamente para o Asil</translation>
+<translation id="6538479075382111079">Envia estatísticas de uso e relatórios de erros automaticamente para o brave</translation>
 <translation id="5869522115854928033">Senhas salvas</translation>
 <translation id="5869789175361934029">Continue de outro dispositivo</translation>
-<translation id="5604589745019948682">Para seguir um site, acesse-o, abra o menu do Asil e toque em "Seguir".</translation>
+<translation id="5604589745019948682">Para seguir um site, acesse-o, abra o menu do brave e toque em "Seguir".</translation>
 <translation id="5879072387416556377">Receba sugestões melhores</translation>
-<translation id="1985257319311245640">Ao saber os URLs de sites, o Asil Assistente pode ajudar você a realizar tarefas. É possível desativar o Assistente nas configurações do Asil.</translation>
+<translation id="1985257319311245640">Ao saber os URLs de sites, o brave Assistente pode ajudar você a realizar tarefas. É possível desativar o Assistente nas configurações do brave.</translation>
 <translation id="5916664084637901428">Ativado</translation>
 <translation id="5919204609460789179">Atualize <ph name="PRODUCT_NAME"/> para iniciar a sincronização</translation>
 <translation id="5938820472109305350">Adicionar <ph name="INTEREST"/></translation>
-<translation id="6103327872225198548">Usando o Asil para pesquisar</translation>
+<translation id="6103327872225198548">Usando o brave para pesquisar</translation>
 <translation id="5945035219773565305">Recomendação atual:  <ph name="RECOMMENDATION"/></translation>
 <translation id="5951119116059277034">Visualizando página ativa</translation>
-<translation id="305870044889644984">Abrir Central de Ajuda do Asil em uma nova guia</translation>
+<translation id="305870044889644984">Abrir Central de Ajuda do brave em uma nova guia</translation>
 <translation id="5957442310066583693">Para ver seus sites principais, toque no botão "Início"</translation>
 <translation id="5958275228015807058">Encontre seus arquivos e páginas em Downloads</translation>
 <translation id="5958994127112619898">Página simplificada</translation>
 <translation id="5962718611393537961">Toque para recolher</translation>
 <translation id="5964869237734432770">Parar descrição de imagens</translation>
-<translation id="9135546826883360971">O Asil vai lembrar sua escolha</translation>
+<translation id="9135546826883360971">O brave vai lembrar sua escolha</translation>
 <translation id="5979084224081478209">Verificar senhas</translation>
 <translation id="5995726099713306770">Fazer o download da página novamente?</translation>
-<translation id="6456271171669383967">Continuar usando o Asil</translation>
+<translation id="6456271171669383967">Continuar usando o brave</translation>
 <translation id="6000203700195075278">Voltar a seguir</translation>
 <translation id="6002122790816966947">Seus dispositivos</translation>
 <translation id="6005538289190791541">Senha sugerida</translation>
 <translation id="6032091552407840792">Esse teste está disponível apenas em <ph name="BEGIN_LINK"/>algumas regiões<ph name="END_LINK"/>.</translation>
-<translation id="6557407328070865042">Com o <ph name="BEGIN_LINK"/>Sandbox de privacidade<ph name="END_LINK"/>, o Asil está desenvolvendo novas tecnologias de proteção contra mecanismos de rastreamento entre sites, preservando uma Internet livre.
+<translation id="6557407328070865042">Com o <ph name="BEGIN_LINK"/>Sandbox de privacidade<ph name="END_LINK"/>, o brave está desenvolvendo novas tecnologias de proteção contra mecanismos de rastreamento entre sites, preservando uma Internet livre.
 
 Os testes dessa tecnologia ainda estão em desenvolvimento ativo e estão disponíveis apenas em algumas regiões. Por enquanto, os sites podem testar o Sandbox de privacidade enquanto continuam usando as tecnologias atuais da Web, como cookies de terceiros.</translation>
 <translation id="6039379616847168523">Ir para a próxima guia</translation>
@@ -906,7 +906,7 @@ Os testes dessa tecnologia ainda estão em desenvolvimento ativo e estão dispon
 <translation id="6085886413119427067">Determina como se conectar a sites por uma conexão segura</translation>
 <translation id="6091413777268123602">Com testes do Sandbox de privacidade, os sites podem oferecer a mesma experiência de navegação usando menos dados pessoais. Isso significa mais privacidade para você e menos rastreamento entre sites. Vamos adicionar novos testes assim que estiverem prontos.</translation>
 <translation id="60923314841986378"><ph name="HOURS"/> horas restantes</translation>
-<translation id="4726571606794511368">Se o Asil também for seu mecanismo de pesquisa padrão, você receberá sugestões melhores e relevantes para o contexto</translation>
+<translation id="4726571606794511368">Se o brave também for seu mecanismo de pesquisa padrão, você receberá sugestões melhores e relevantes para o contexto</translation>
 <translation id="6108923351542677676">Configuração em andamento...</translation>
 <translation id="6112702117600201073">Atualizando página</translation>
 <translation id="6122831415929794347">Desativar "Navegação segura"?</translation>
@@ -919,11 +919,11 @@ Os testes dessa tecnologia ainda estão em desenvolvimento ativo e estão dispon
 <translation id="6150320133806434356">Favorito salvo</translation>
 <translation id="6154478581116148741">Ative o bloqueio da tela em Configurações para exportar suas senhas deste dispositivo</translation>
 <translation id="6159729262978459665">Limpa o histórico de todos os dispositivos sincronizados.</translation>
-<translation id="7087658909840709934">Pré-carrega páginas que o Asil acredita que você irá acessar.</translation>
+<translation id="7087658909840709934">Pré-carrega páginas que o brave acredita que você irá acessar.</translation>
 <translation id="6186394685773237175">Não foram encontradas senhas comprometidas</translation>
 <translation id="6192907950379606605">Ver descrições de imagens</translation>
 <translation id="6193448654517602979">Selecionar guias</translation>
-<translation id="8367262879301982880">As senhas são salvas no Gerenciador de senhas do Asil neste dispositivo</translation>
+<translation id="8367262879301982880">As senhas são salvas no Gerenciador de senhas do brave neste dispositivo</translation>
 <translation id="6202812185118613467">Faça login novamente para iniciar a sincronização</translation>
 <translation id="6210748933810148297">Não é <ph name="EMAIL"/>?</translation>
 <translation id="6211386937064921208">Visualizando esta página</translation>
@@ -935,7 +935,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="6277522088822131679">Ocorreu um problema ao imprimir a página. Tente novamente.</translation>
 <translation id="6277722725779679269">Não foi possível atualizar o recurso Monitorar preço</translation>
 <translation id="6278428485366576908">Tema</translation>
-<translation id="7918815962568992845">Você pode compartilhar guias entre dispositivos conectados à mesma Conta do Asil</translation>
+<translation id="7918815962568992845">Você pode compartilhar guias entre dispositivos conectados à mesma Conta do brave</translation>
 <translation id="6297765934698848803">A organização que gerencia seu dispositivo desativou a câmera.</translation>
 <translation id="6301525844455696527">Veja sua lista de leitura</translation>
 <translation id="6303969859164067831">Sair e desativar a sincronização</translation>
@@ -954,11 +954,11 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="6357653805084533597">Você pode usar o smartphone para fazer login no dispositivo que está mostrando o código QR.</translation>
 <translation id="6363990818884053551">Para iniciar a sincronização, confirme sua identidade</translation>
 <translation id="6364438453358674297">Remover sugestão do histórico?</translation>
-<translation id="806493401838431801">Pré-carrega com mais frequência páginas que o Asil acredita serem de seu interesse. Esta configuração pode resultar em aumento no uso de dados.</translation>
+<translation id="806493401838431801">Pré-carrega com mais frequência páginas que o brave acredita serem de seu interesse. Esta configuração pode resultar em aumento no uso de dados.</translation>
 <translation id="6394791151443660613">Pesquisar: <ph name="SEARCH_QUERY"/></translation>
 <translation id="6395288395575013217">LINK</translation>
 <translation id="6397616442223433927">Conectado novamente</translation>
-<translation id="8789425457808164956">Para enviar esta guia a outro dispositivo, faça login no Asil no outro aparelho</translation>
+<translation id="8789425457808164956">Para enviar esta guia a outro dispositivo, faça login no brave no outro aparelho</translation>
 <translation id="6402652558933147609"><ph name="ERROR_CODE"/> em <ph name="VIOLATED_URL"/></translation>
 <translation id="6403371459378431832">Sincronize seus dados em todos os dispositivos</translation>
 <translation id="6404511346730675251">Editar favorito</translation>
@@ -967,7 +967,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="6410404864818553978">Dados de uso básicos</translation>
 <translation id="6410883413783534063">Abra guias para acessar páginas diferentes ao mesmo tempo</translation>
 <translation id="6411219469806822692">Não é possível subir mais. Tente começar a arrastar mais acima na página.</translation>
-<translation id="7810992039564280750">Verifica se os URLs estão em uma lista de sites não seguros armazenada no Asil. Se um site tentar roubar sua senha ou se você fizer o download de um arquivo nocivo, o Asil também poderá enviar URLs, incluindo partes do conteúdo da página, para o "Navegação segura".</translation>
+<translation id="7810992039564280750">Verifica se os URLs estão em uma lista de sites não seguros armazenada no brave. Se um site tentar roubar sua senha ou se você fizer o download de um arquivo nocivo, o brave também poderá enviar URLs, incluindo partes do conteúdo da página, para o "Navegação segura".</translation>
 <translation id="641643625718530986">Imprimir...</translation>
 <translation id="6422857128426228781">Seus produtos monitorados serão mostrados aqui</translation>
 <translation id="6433501201775827830">Escolha seu mecanismo de pesquisa</translation>
@@ -978,17 +978,17 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="6447558397796644647">Não foi possível encontrar esse favorito. Verifique se há erros de ortografia ou adicione um novo.</translation>
 <translation id="6459045781120991510">Pesquisas</translation>
 <translation id="6461962085415701688">Não é possível abrir o arquivo</translation>
-<translation id="9055113864158719823">Você pode ver os sites que visita no Asil e definir timers para eles.\n\nO Asil recebe informações sobre os sites para os quais você definiu timers e sobre o tempo que você passa neles. Essas informações são usadas para melhorar o Bem-estar digital.</translation>
+<translation id="9055113864158719823">Você pode ver os sites que visita no brave e definir timers para eles.\n\nO brave recebe informações sobre os sites para os quais você definiu timers e sobre o tempo que você passa neles. Essas informações são usadas para melhorar o Bem-estar digital.</translation>
 <translation id="6473086018775716761">Lista de opções de compartilhamento aberta na metade da altura.</translation>
 <translation id="6475951671322991020">Fazer o download do vídeo</translation>
 <translation id="6477928892249167417">Estes sites parecem importantes para você:</translation>
 <translation id="6482749332252372425">Falha no download do arquivo <ph name="FILE_NAME"/> devido à falta de espaço de armazenamento.</translation>
 <translation id="6496823230996795692">Para usar o app <ph name="APP_NAME"/> pela primeira vez, conecte-se à Internet</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{Download concluído}one{# download concluído}other{# downloads concluídos}}</translation>
-<translation id="3960299545138990065">Reiniciar o Asil</translation>
+<translation id="3960299545138990065">Reiniciar o brave</translation>
 <translation id="6527303717912515753">Compartilhar</translation>
-<translation id="708829030563435351">Os sites que você visita no Asil não serão exibidos. Todos os timers do site serão excluídos.</translation>
-<translation id="7723158744459952869">O Asil demorou muito para responder</translation>
+<translation id="708829030563435351">Os sites que você visita no brave não serão exibidos. Todos os timers do site serão excluídos.</translation>
+<translation id="7723158744459952869">O brave demorou muito para responder</translation>
 <translation id="6539092367496845964">Algo deu errado. Tente novamente mais tarde.</translation>
 <translation id="6541042852576515209">Redimensionar e girar</translation>
 <translation id="6541983376925655882">{NUM_HOURS,plural, =1{Verificado 1 hora atrás}one{Verificado # hora atrás}other{Verificado # horas atrás}}</translation>
@@ -998,30 +998,30 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="6560414384669816528">Pesquisar usando o Sogou</translation>
 <translation id="656065428026159829">Ver mais</translation>
 <translation id="6565959834589222080">O Wi-Fi será usado quando disponível</translation>
-<translation id="4480935821314799946">Agora, você verá stories de <ph name="SITE_NAME"/> quando abrir uma nova guia. Os sites que você segue são armazenados na sua Conta do Asil. Você pode gerenciá-los nas configurações do Discover.</translation>
+<translation id="4480935821314799946">Agora, você verá stories de <ph name="SITE_NAME"/> quando abrir uma nova guia. Os sites que você segue são armazenados na sua Conta do brave. Você pode gerenciá-los nas configurações do Discover.</translation>
 <translation id="6573096386450695060">Sempre permitir</translation>
-<translation id="5157964048453367290">Aqui ficam as guias do Asil que você abriu em outros dispositivos.</translation>
+<translation id="5157964048453367290">Aqui ficam as guias do brave que você abriu em outros dispositivos.</translation>
 <translation id="6583199322650523874">Adicionar a página atual aos favoritos</translation>
 <translation id="6588043302623806746">Usar DNS seguro</translation>
 <translation id="6590471736817333463">Economize até 60% de dados</translation>
 <translation id="6590680911007613645">A senha que você está salvando precisa ser igual à usada em <ph name="SITE"/></translation>
 <translation id="6593061639179217415">Para computador</translation>
-<translation id="2372700594671864890">Veja como o Asil pretende proteger você contra mecanismos de rastreamento entre sites ao mesmo tempo em que preserva uma Internet livre</translation>
-<translation id="2466982615210189224">As imagens são enviadas para o Asil e, assim, podemos melhorar as descrições para você.</translation>
-<translation id="663059986967017181">Copiado no Asil</translation>
+<translation id="2372700594671864890">Veja como o brave pretende proteger você contra mecanismos de rastreamento entre sites ao mesmo tempo em que preserva uma Internet livre</translation>
+<translation id="2466982615210189224">As imagens são enviadas para o brave e, assim, podemos melhorar as descrições para você.</translation>
+<translation id="663059986967017181">Copiado no brave</translation>
 <translation id="661266467055912436">Melhora a segurança para você e para todos na Web.</translation>
 <translation id="6618554661997243500">Para ver os principais sites e matérias para você, toque no botão "Início"</translation>
-<translation id="8127050479140582768">Para enviar esta guia a outro dispositivo, faça login no Asil nos dois aparelhos</translation>
+<translation id="8127050479140582768">Para enviar esta guia a outro dispositivo, faça login no brave nos dois aparelhos</translation>
 <translation id="6627583120233659107">Editar pasta</translation>
 <translation id="6636623428211296678">Veja mais configurações abaixo ou conclua a revisão</translation>
-<translation id="2259649928554669581">Para ver mais configurações relacionadas à privacidade, segurança e coleta de dados, acesse <ph name="BEGIN_LINK2"/>Serviços do Asil<ph name="END_LINK2"/> e de <ph name="BEGIN_LINK1"/>sincronização<ph name="END_LINK1"/></translation>
-<translation id="7939692063031538305">Para ajudar a melhorar o app, o Asil envia dados de uso e de falhas ao Asil. <ph name="BEGIN_UMA_LINK"/>Gerenciar<ph name="END_UMA_LINK"/></translation>
+<translation id="2259649928554669581">Para ver mais configurações relacionadas à privacidade, segurança e coleta de dados, acesse <ph name="BEGIN_LINK2"/>Serviços do brave<ph name="END_LINK2"/> e de <ph name="BEGIN_LINK1"/>sincronização<ph name="END_LINK1"/></translation>
+<translation id="7939692063031538305">Para ajudar a melhorar o app, o brave envia dados de uso e de falhas ao brave. <ph name="BEGIN_UMA_LINK"/>Gerenciar<ph name="END_UMA_LINK"/></translation>
 <translation id="6640207029842583248">Bloquear sempre</translation>
 <translation id="6641780377503683465">Remover <ph name="INTEREST"/></translation>
 <translation id="6643016212128521049">Limpar</translation>
 <translation id="6645629752388991326">Usar este dispositivo como uma chave de segurança para controlar quais dispositivos podem fazer login.</translation>
-<translation id="7556503430569358637">Os URLs que você acessa são enviados ao Asil para prever quais sites podem ser do seu interesse</translation>
-<translation id="6678472970290886941">O administrador pode mudar as configurações do navegador remotamente. A atividade deste dispositivo também pode ser gerenciada fora do Asil.</translation>
+<translation id="7556503430569358637">Os URLs que você acessa são enviados ao brave para prever quais sites podem ser do seu interesse</translation>
+<translation id="6678472970290886941">O administrador pode mudar as configurações do navegador remotamente. A atividade deste dispositivo também pode ser gerenciada fora do brave.</translation>
 <translation id="6648977384226967773">{CONTACT,plural, =1{<ph name="CONTACT_PREVIEW"/>\u2026 e mais <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/>}one{<ph name="CONTACT_PREVIEW"/>\u2026 e mais <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/>}other{<ph name="CONTACT_PREVIEW"/>\u2026 e mais <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/>}}</translation>
 <translation id="6649642165559792194">Visualizar imagem <ph name="BEGIN_NEW"/>Novidade<ph name="END_NEW"/></translation>
 <translation id="6657585470893396449">Senha</translation>
@@ -1029,9 +1029,9 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="666731172850799929">Abrir no <ph name="APP_NAME"/></translation>
 <translation id="6671495933530132209">Copiar imagem</translation>
 <translation id="6674571176963658787">Para iniciar a sincronização, digite a senha longa</translation>
-<translation id="8581481290581777242">Limpar seus dados do Asil deste dispositivo?</translation>
-<translation id="3683330416566109578">Faça login neste site e no Asil</translation>
-<translation id="3385384709865894288">Melhorar o Asil</translation>
+<translation id="8581481290581777242">Limpar seus dados do brave deste dispositivo?</translation>
+<translation id="3683330416566109578">Faça login neste site e no brave</translation>
+<translation id="3385384709865894288">Melhorar o brave</translation>
 <translation id="670498945988402717">Verificado ontem</translation>
 <translation id="6710213216561001401">Anterior</translation>
 <translation id="671481426037969117">Seu timer para <ph name="FQDN"/> chegou ao fim. Ele será iniciado novamente amanhã.</translation>
@@ -1045,13 +1045,13 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="6767294960381293877">Lista de dispositivos com os quais é possível compartilhar uma guia aberta na metade da altura.</translation>
 <translation id="6770042910635026163">Sites que você visita que definem seus interesses</translation>
 <translation id="6770602306803890733">Melhora a segurança para você e para todos na Web</translation>
-<translation id="8174975477247159780">Termos de Serviço adicionais do Asil e do ChromeOS</translation>
+<translation id="8174975477247159780">Termos de Serviço adicionais do brave e do ChromeOS</translation>
 <translation id="6795633245022906657">Abrir rapidamente uma nova guia. Para editar esse atalho, acesse as Configurações.</translation>
 <translation id="6802555630140434547">A janela será fechada</translation>
 <translation id="6811034713472274749">A página já pode ser visualizada</translation>
-<translation id="8418237809013783651">Fazer login no Asil, aberta.</translation>
+<translation id="8418237809013783651">Fazer login no brave, aberta.</translation>
 <translation id="6817747507826986771">Compartilhar esta página rapidamente. Para editar este atalho, toque e pressione.</translation>
-<translation id="118366698571543506">Para ver o conteúdo do Asil nos seus dispositivos, faça login</translation>
+<translation id="118366698571543506">Para ver o conteúdo do brave nos seus dispositivos, faça login</translation>
 <translation id="6820686453637990663">CVC</translation>
 <translation id="6824899148643461612">A guia <ph name="TAB_TITLE"/> está selecionada</translation>
 <translation id="6828070228333235514">Parar de monitorar preço</translation>
@@ -1061,7 +1061,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="6846298663435243399">Carregando…</translation>
 <translation id="6850409657436465440">Seu download ainda está em andamento</translation>
 <translation id="6850830437481525139"><ph name="TAB_COUNT"/> guias fechadas</translation>
-<translation id="4046835482356054431">Discover do Asil (desativado)</translation>
+<translation id="4046835482356054431">Discover do brave (desativado)</translation>
 <translation id="686366188661646310">Excluir senha?</translation>
 <translation id="6864459304226931083">Fazer o download da imagem</translation>
 <translation id="6865313869410766144">Preenchimento automático de dados de formulário</translation>
@@ -1090,7 +1090,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="7029809446516969842">Senhas</translation>
 <translation id="7030304022046916278">Envia URLs para a verificação do Navegação segura</translation>
 <translation id="7030585293819777123">Retomar a última tarefa?</translation>
-<translation id="5813862251770201080">Faça login no Asil com sua Conta do Asil</translation>
+<translation id="5813862251770201080">Faça login no brave com sua Conta do brave</translation>
 <translation id="7038956721828960940">chrome_image_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="7054588988317389591">Ver descrições de imagens?</translation>
 <translation id="7055152154916055070">Redirecionamento bloqueado:</translation>
@@ -1098,9 +1098,9 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="7071521146534760487">Gerenciar conta</translation>
 <translation id="707155805709242880">Escolha o que será sincronizado abaixo</translation>
 <translation id="7077143737582773186">Cartão SD</translation>
-<translation id="2374582967527009647">Envia URLs para a verificação pelo Navegação segura. Também envia uma pequena amostra de páginas, downloads, atividades de extensões e informações do sistema para ajudar a descobrir novas ameaças. Vincula temporariamente esses dados à sua Conta do Asil quando ela está conectada para proteger você nos apps do Asil.</translation>
-<translation id="5499149312981370855">Escolha se você quer incluir o histórico do Asil para ter experiências mais personalizadas nos Serviços do Asil</translation>
-<translation id="8208853227947884571">O Asil está atualizado</translation>
+<translation id="2374582967527009647">Envia URLs para a verificação pelo Navegação segura. Também envia uma pequena amostra de páginas, downloads, atividades de extensões e informações do sistema para ajudar a descobrir novas ameaças. Vincula temporariamente esses dados à sua Conta do brave quando ela está conectada para proteger você nos apps do brave.</translation>
+<translation id="5499149312981370855">Escolha se você quer incluir o histórico do brave para ter experiências mais personalizadas nos Serviços do brave</translation>
+<translation id="8208853227947884571">O brave está atualizado</translation>
 <translation id="7093803425429738190">Adicionar emoticon</translation>
 <translation id="7105047059074518658">Faça login para facilitar a navegação em vários dispositivos</translation>
 <translation id="7106762743910369165">O navegador é gerenciado pela sua organização</translation>
@@ -1109,15 +1109,15 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="7143462160780459030">Não foi possível fazer uma captura de tela. Tente novamente.</translation>
 <translation id="7146622961999026732">Estes sites e apps parecem importantes para você:</translation>
 <translation id="7149893636342594995">Últimas 24 horas</translation>
-<translation id="604991236434948997">Para ler um código QR, mude as configurações e permita que o Asil use a câmera</translation>
+<translation id="604991236434948997">Para ler um código QR, mude as configurações e permita que o brave use a câmera</translation>
 <translation id="7173114856073700355">Abrir "Configurações"</translation>
 <translation id="7177466738963138057">Você poderá alterar isso mais tarde nas configurações</translation>
 <translation id="7177873915659574692">Não é possível criar o código QR. O URL tem mais de <ph name="CHARACTER_LIMIT"/> caracteres.</translation>
-<translation id="7631741717293858595">Saiba mais sobre esses recursos nas configurações do Asil.</translation>
+<translation id="7631741717293858595">Saiba mais sobre esses recursos nas configurações do brave.</translation>
 <translation id="7180611975245234373">Atualizar</translation>
 <translation id="718226107353899806">Você pode adicionar até <ph name="MAX_NUM_REACTIONS"/> reações</translation>
 <translation id="7183693674623539380">Grupo de guias: <ph name="TITLE_OF_GROUP"/></translation>
-<translation id="8355565210555500987">Protege você no Asil e pode ser usado para melhorar a segurança em outros apps do Asil quando sua conta está conectada.</translation>
+<translation id="8355565210555500987">Protege você no brave e pode ser usado para melhorar a segurança em outros apps do brave quando sua conta está conectada.</translation>
 <translation id="7191430249889272776">Guia aberta no plano de fundo.</translation>
 <translation id="7196215469483532480">Explicação sobre o Guia de privacidade aberta no tamanho máximo</translation>
 <translation id="7207760545532569765">Restaurar <ph name="TAB_COUNT"/> guias como novas guias em segundo plano.</translation>
@@ -1125,7 +1125,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="7222235798733126207">Compartilhamento entre sites limitado</translation>
 <translation id="7227218174981371415">{FILE_COUNT,plural, =1{1 download pendente}one{# download pendente}other{# downloads pendentes}}</translation>
 <translation id="7242755609445462077">Destaque estilizado de <ph name="CURRENT_DATE"/></translation>
-<translation id="8287068819750208230">Verifique se a sincronização do <ph name="TARGET_DEVICE_NAME"/> está ativada no Asil</translation>
+<translation id="8287068819750208230">Verifique se a sincronização do <ph name="TARGET_DEVICE_NAME"/> está ativada no brave</translation>
 <translation id="7252076891734325316">Aproxime o smartphone do computador</translation>
 <translation id="727288900855680735">Enviar <ph name="ONE_TIME_CODE"/> para <ph name="ORIGIN"/>?</translation>
 <translation id="7274013316676448362">Site bloqueado</translation>
@@ -1135,10 +1135,10 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="7291910923717764901">Descrições de imagens adicionadas a esta página</translation>
 <translation id="7293429513719260019">Selecionar idioma</translation>
 <translation id="729975465115245577">Seu dispositivo não tem um app para armazenar o arquivo de senhas.</translation>
-<translation id="1382596880054356475">Off-line. Não é possível verificar suas senhas com o Asil.</translation>
+<translation id="1382596880054356475">Off-line. Não é possível verificar suas senhas com o brave.</translation>
 <translation id="7313188324932846546">Toque para configurar sincronização</translation>
 <translation id="7332075081379534664">Login concluído</translation>
-<translation id="8716243540027092298">Sincronize para acessar no Asil o que importa para você</translation>
+<translation id="8716243540027092298">Sincronize para acessar no brave o que importa para você</translation>
 <translation id="7339898014177206373">Nova janela</translation>
 <translation id="7340958967809483333">Opções do Discover</translation>
 <translation id="7352339641508007922">Arraste para fazer uma captura de tela longa</translation>
@@ -1151,13 +1151,13 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="7376560087009844242">Ao incluir mais texto de uma página, você poderá ver resultados melhores ao usar a Pesquisa por toque. Você pode mudar essa opção nas <ph name="BEGIN_LINK"/>configurações<ph name="END_LINK"/> quando quiser.</translation>
 <translation id="7379900596734708416">O tema escuro para sites está disponível</translation>
 <translation id="7400418766976504921">URL</translation>
-<translation id="724102042129299115">Tela de apresentação do Asil</translation>
+<translation id="724102042129299115">Tela de apresentação do brave</translation>
 <translation id="741204030948306876">Sim</translation>
 <translation id="7419565702166471774">Sempre usar conexões seguras</translation>
 <translation id="7431991332293347422">Controla como o histórico de navegação é usado para personalizar a Pesquisa e muito mais</translation>
 <translation id="7435356471928173109">Desativado pelo administrador</translation>
-<translation id="6234515504547364178">Sair do Asil</translation>
-<translation id="3699067418237091329">Desconecta você da maioria dos sites, mas não da sua Conta do Asil.</translation>
+<translation id="6234515504547364178">Sair do brave</translation>
+<translation id="3699067418237091329">Desconecta você da maioria dos sites, mas não da sua Conta do brave.</translation>
 <translation id="7454641608352164238">Espaço insuficiente</translation>
 <translation id="7456774706094330779">Pré-carregamento estendido</translation>
 <translation id="7468819939926272717">Escolha um emoticon</translation>
@@ -1172,7 +1172,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="749294055653435199">O Google Lens não está disponível neste dispositivo</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (atualizada <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7498271377022651285">Aguarde...</translation>
-<translation id="8156131600798538460">Para sair da sua Conta do Asil em todos os sites, <ph name="BEGIN_LINK1"/>saia do Asil<ph name="END_LINK1"/>.</translation>
+<translation id="8156131600798538460">Para sair da sua Conta do brave em todos os sites, <ph name="BEGIN_LINK1"/>saia do brave<ph name="END_LINK1"/>.</translation>
 <translation id="750228856503700085">Atualizações indisponíveis</translation>
 <translation id="7507207699631365376">Consulte a <ph name="BEGIN_LINK"/>política de privacidade<ph name="END_LINK"/> deste provedor</translation>
 <translation id="7514365320538308">Fazer o download</translation>
@@ -1180,7 +1180,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="752220631458524187">Desconecte o smartphone quando terminar</translation>
 <translation id="7523960634226602883">Pesquisar com a câmera usando o Lens</translation>
 <translation id="7562080006725997899">Limpando dados de navegação</translation>
-<translation id="7814200940910057384">Dados do Asil apagados</translation>
+<translation id="7814200940910057384">Dados do brave apagados</translation>
 <translation id="7577900504646297215">Gerenciar interesses</translation>
 <translation id="757855969265046257">{FILES,plural, =1{<ph name="FILES_DOWNLOADED_ONE"/> arquivo transferido por download}one{<ph name="FILES_DOWNLOADED_MANY"/> arquivo transferido por download}other{<ph name="FILES_DOWNLOADED_MANY"/> arquivos transferidos por download}}</translation>
 <translation id="7581273696622423628">Responder à pesquisa</translation>
@@ -1189,10 +1189,10 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="7594687499944811403">Deixe o <ph name="EMBEDDED_ORIGIN"/> confirmar sua identidade para o <ph name="TOP_ORIGIN"/></translation>
 <translation id="7596558890252710462">Sistema operacional</translation>
 <translation id="7605594153474022051">A sincronização não está funcionando</translation>
-<translation id="649070405679044769">Conectado ao Asil como</translation>
+<translation id="649070405679044769">Conectado ao brave como</translation>
 <translation id="7616551326690708776">Selecione um modelo para seu destaque.</translation>
 <translation id="7619072057915878432">Falha no download do arquivo <ph name="FILE_NAME"/> devido a falhas na rede.</translation>
-<translation id="7207456302801184289">Bem-vindo ao Asil</translation>
+<translation id="7207456302801184289">Bem-vindo ao brave</translation>
 <translation id="7630202231528827509">URL do provedor</translation>
 <translation id="7634280112532283638">Redução de spam e fraudes</translation>
 <translation id="7638584964844754484">Senha incorreta</translation>
@@ -1205,7 +1205,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="766587987807204883">Os artigos são exibidos aqui e podem ser lidos até quando você está off-line</translation>
 <translation id="768232549260819724">GIF copiado</translation>
 <translation id="7682724950699840886">Experimente as seguintes dicas: verifique se há espaço suficiente no dispositivo e tente exportar novamente.</translation>
-<translation id="2667018639405889513">Algumas das páginas que você visita serão pré-carregadas. As páginas podem ser pré-carregadas por servidores do Asil quando o link for de um site do Asil.</translation>
+<translation id="2667018639405889513">Algumas das páginas que você visita serão pré-carregadas. As páginas podem ser pré-carregadas por servidores do brave quando o link for de um site do brave.</translation>
 <translation id="7698359219371678927">Criar e-mail no <ph name="APP_NAME"/></translation>
 <translation id="7704317875155739195">Preencher automaticamente pesquisas e URLs</translation>
 <translation id="770741401784017797">Criando GIF</translation>
@@ -1215,14 +1215,14 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="7725024127233776428">As páginas favoritas são exibidas aqui</translation>
 <translation id="7757787379047923882">Texto compartilhado por <ph name="DEVICE_NAME"/></translation>
 <translation id="7762668264895820836">Cartão SD <ph name="SD_CARD_NUMBER"/></translation>
-<translation id="9101995357058996048">Faça login para ter mais recursos e a segurança reforçada do Asil</translation>
+<translation id="9101995357058996048">Faça login para ter mais recursos e a segurança reforçada do brave</translation>
 <translation id="7764225426217299476">Adicionar endereço</translation>
 <translation id="7772032839648071052">Confirmar senha</translation>
 <translation id="7772375229873196092">Fechar <ph name="APP_NAME"/></translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 e mais <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}one{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 e mais <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 e mais <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}}</translation>
 <translation id="7778840695157240389">Volte mais tarde para ver novas matérias</translation>
-<translation id="7703329426540523149">Vincula temporariamente esses dados à sua Conta do Asil quando ela está conectada para proteger você nos apps do Asil</translation>
-<translation id="4885054029571583374">O Asil Assistente oferece uma experiência de voz melhorada para pesquisar na Web e interagir com os sites abertos. Ele receberá o URL e o conteúdo dos sites em que for usado.</translation>
+<translation id="7703329426540523149">Vincula temporariamente esses dados à sua Conta do brave quando ela está conectada para proteger você nos apps do brave</translation>
+<translation id="4885054029571583374">O brave Assistente oferece uma experiência de voz melhorada para pesquisar na Web e interagir com os sites abertos. Ele receberá o URL e o conteúdo dos sites em que for usado.</translation>
 <translation id="7791543448312431591">Adicionar</translation>
 <translation id="7798392620021911922"><ph name="TAB_COUNT"/> guias restauradas</translation>
 <translation id="780301667611848630">Não</translation>
@@ -1232,7 +1232,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="7815484226266492798">Captura de tela longa</translation>
 <translation id="78270725016672455">O computador quer registrar este dispositivo para fazer login em um site</translation>
 <translation id="7844171778363018843">Nenhum dado selecionado para sincronização</translation>
-<translation id="7068829570137757602">Serviços do Asil</translation>
+<translation id="7068829570137757602">Serviços do brave</translation>
 <translation id="784934925303690534">Período</translation>
 <translation id="7851858861565204677">Outros dispositivos</translation>
 <translation id="7853202427316060426">Atividade</translation>
@@ -1242,10 +1242,10 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="7875915731392087153">Criar e-mail</translation>
 <translation id="7876243839304621966">Remover tudo</translation>
 <translation id="7879130110979560610">{READING_LIST_REMINDER_NOTIFICATION_SUBTITLE,plural, =1{Você tem <ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_ONE"/> página não lida}one{Você tem <ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_MANY"/> página não lida}other{Você tem <ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_MANY"/> páginas não lidas}}</translation>
-<translation id="6143689084714664628">Executando no Asil</translation>
+<translation id="6143689084714664628">Executando no brave</translation>
 <translation id="7887174313503389866">Faça um tour guiado sobre os principais controles de privacidade e segurança. Para ver mais opções, acesse as configurações individuais.</translation>
 <translation id="7887334752153342268">Duplicar</translation>
-<translation id="5570166585033664196">Como usar o Asil</translation>
+<translation id="5570166585033664196">Como usar o brave</translation>
 <translation id="7903184275147100332">Isso pode demorar um pouco</translation>
 <translation id="7914399737746719723">App instalado</translation>
 <translation id="7919123827536834358">Traduzir estes idiomas automaticamente</translation>
@@ -1260,7 +1260,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="7961015016161918242">Nunca</translation>
 <translation id="7961926449547174351">Você desativou o acesso ao armazenamento. Acesse as Configurações para reativá-lo.</translation>
 <translation id="7963646190083259054">Fornecedor:</translation>
-<translation id="2939504940637874963">Você pode usar as senhas salvas em qualquer dispositivo. Elas são armazenadas no Gerenciador de senhas do Asil da conta <ph name="ACCOUNT"/>.</translation>
+<translation id="2939504940637874963">Você pode usar as senhas salvas em qualquer dispositivo. Elas são armazenadas no Gerenciador de senhas do brave da conta <ph name="ACCOUNT"/>.</translation>
 <translation id="7968014550143838305">Adicionado à lista de leitura</translation>
 <translation id="7971136598759319605">Ativado há um dia</translation>
 <translation id="7975379999046275268">Visualizar página <ph name="BEGIN_NEW"/>Novidade<ph name="END_NEW"/></translation>
@@ -1269,7 +1269,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="799576009106109668">Como o conteúdo é carregado proativamente com base na página da Web acessada, você vai navegar com mais rapidez</translation>
 <translation id="7998918019931843664">Reabrir guia fechada</translation>
 <translation id="8004582292198964060">Navegador</translation>
-<translation id="3325020657155065477">Remover também seus dados do Asil deste dispositivo</translation>
+<translation id="3325020657155065477">Remover também seus dados do brave deste dispositivo</translation>
 <translation id="8015452622527143194">Retornar tudo na página para o tamanho padrão</translation>
 <translation id="8026334261755873520">Remover dados de navegação</translation>
 <translation id="8027863900915310177">Escolha um local para fazer o download</translation>
@@ -1282,7 +1282,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="8048728378294435881">Faça backup e use seus dados em qualquer dispositivo</translation>
 <translation id="8051695050440594747"><ph name="MEGABYTES"/> MB disponíveis</translation>
 <translation id="8058655154417507695">Ano de expiração</translation>
-<translation id="2317945146070194624">Abrir em nova guia do Asil</translation>
+<translation id="2317945146070194624">Abrir em nova guia do brave</translation>
 <translation id="8062594758852531064">Pré-carregamento estendido:</translation>
 <translation id="8063895661287329888">Falha ao adicionar favorito.</translation>
 <translation id="806745655614357130">Manter meus dados separados</translation>
@@ -1290,16 +1290,16 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="8076492880354921740">Guias</translation>
 <translation id="8078096376109663956">Compartilhar somente o texto</translation>
 <translation id="8084114998886531721">Senha salva</translation>
-<translation id="1718138320251931534">Controlar os dados da sua Conta do Asil</translation>
+<translation id="1718138320251931534">Controlar os dados da sua Conta do brave</translation>
 <translation id="808747664143081553">Conectado ao dispositivo</translation>
 <translation id="8090732854597034573">Se precisar de ajuda, entre em contato com seu familiar responsável</translation>
-<translation id="1501443023467711714">Faça login para personalizar o Asil</translation>
-<translation id="3249150807062904185">Ao continuar, você concorda com os <ph name="BEGIN_TOS_LINK"/>Termos de Serviço<ph name="END_TOS_LINK"/>.\nPara ajudar a melhorar o app, o Asil envia dados de uso e de falha ao Asil. <ph name="BEGIN_UMA_LINK"/>Gerenciar<ph name="END_UMA_LINK"/></translation>
+<translation id="1501443023467711714">Faça login para personalizar o brave</translation>
+<translation id="3249150807062904185">Ao continuar, você concorda com os <ph name="BEGIN_TOS_LINK"/>Termos de Serviço<ph name="END_TOS_LINK"/>.\nPara ajudar a melhorar o app, o brave envia dados de uso e de falha ao brave. <ph name="BEGIN_UMA_LINK"/>Gerenciar<ph name="END_UMA_LINK"/></translation>
 <translation id="8105893657415066307"><ph name="DESCRIPTION"/> <ph name="SEPARATOR"/> <ph name="FILE_SIZE"/></translation>
 <translation id="8107530384992929318">Fechar as opções de classificação</translation>
 <translation id="8109613176066109935">Para ter seus favoritos em todos os seus dispositivos, ative a sincronização</translation>
-<translation id="2919733817273403520">Ajudar a melhorar os recursos e o desempenho do Asil</translation>
-<translation id="4565206163201411670">Mostrar sua atividade do Asil no Bem-estar digital?</translation>
+<translation id="2919733817273403520">Ajudar a melhorar os recursos e o desempenho do brave</translation>
+<translation id="4565206163201411670">Mostrar sua atividade do brave no Bem-estar digital?</translation>
 <translation id="8118117428362942925">Se precisar de ajuda, entre em contato com seu familiar responsável (<ph name="PARENT_NAME"/>)</translation>
 <translation id="8127542551745560481">Editar página inicial</translation>
 <translation id="8130309322784422030">Suas informações de login armazenadas podem estar desatualizadas</translation>
@@ -1317,9 +1317,9 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="8221656072740924283">Continuar</translation>
 <translation id="8223642481677794647">Menu do card do feed</translation>
 <translation id="8250920743982581267">Documentos</translation>
-<translation id="5138664332909611586">Como esta página usa muita memória, o Asil removeu parte do conteúdo.</translation>
+<translation id="5138664332909611586">Como esta página usa muita memória, o brave removeu parte do conteúdo.</translation>
 <translation id="8255617931166444521">Os sites só podem usar os cookies para ver sua atividade de navegação na própria página.</translation>
-<translation id="2876689296031086375">Como as páginas pré-carregadas são criptografadas, o Asil não sabe nada sobre o conteúdo delas. Os servidores do Asil saberão quais sites foram pré-carregados de forma anônima. Essa informação é usada somente para pré-carregar as páginas, e não está vinculada a outras informações da sua Conta do Asil.</translation>
+<translation id="2876689296031086375">Como as páginas pré-carregadas são criptografadas, o brave não sabe nada sobre o conteúdo delas. Os servidores do brave saberão quais sites foram pré-carregados de forma anônima. Essa informação é usada somente para pré-carregar as páginas, e não está vinculada a outras informações da sua Conta do brave.</translation>
 <translation id="8260126382462817229">Tente fazer login novamente</translation>
 <translation id="8261506727792406068">Excluir</translation>
 <translation id="82619448491672958">Ver outras guias</translation>
@@ -1331,28 +1331,28 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="8310344678080805313">Guias padrão</translation>
 <translation id="831192587911042850">Adiciona o site atual à lista de sites que você está seguindo.</translation>
 <translation id="834313815369870491">Nunca traduzir estes sites</translation>
-<translation id="7890337656251106515"><ph name="BEGIN_BOLD"/>Como usamos esses dados<ph name="END_BOLD"/>: sites podem armazenar informações sobre seus interesses com o Asil. Por exemplo, se você visitar um site para comprar sapatos de maratona, ele pode definir "maratonas" como um dos seus interesses. Depois, se você visitar outro site para se inscrever em uma maratona, esse site pode mostrar um anúncio de sapatos de corrida com base nos seus interesses.</translation>
+<translation id="7890337656251106515"><ph name="BEGIN_BOLD"/>Como usamos esses dados<ph name="END_BOLD"/>: sites podem armazenar informações sobre seus interesses com o brave. Por exemplo, se você visitar um site para comprar sapatos de maratona, ele pode definir "maratonas" como um dos seus interesses. Depois, se você visitar outro site para se inscrever em uma maratona, esse site pode mostrar um anúncio de sapatos de corrida com base nos seus interesses.</translation>
 <translation id="8352996530981010042">Não foi possível fazer o download das reações. Tente novamente.</translation>
 <translation id="8354977102499939946">Pesquisar rapidamente usando sua voz. Para editar esse atalho, acesse as Configurações.</translation>
 <translation id="835847953965672673"><ph name="NUMBER_OF_DOWNLOADS"/> downloads restaurados</translation>
 <translation id="8368001212524806591">Monitorar preço</translation>
-<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Como usamos esses dados<ph name="END_BOLD"/>: o Asil pode fazer uma estimativa dos seus interesses. Sites que você visitar vão poder pedir ao Asil para ver seus interesses e personalizar os anúncios mostrados a você.</translation>
+<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Como usamos esses dados<ph name="END_BOLD"/>: o brave pode fazer uma estimativa dos seus interesses. Sites que você visitar vão poder pedir ao brave para ver seus interesses e personalizar os anúncios mostrados a você.</translation>
 <translation id="8387617938027387193">Confirme que é você</translation>
 <translation id="8393700583063109961">Enviar mensagem</translation>
-<translation id="7651600795135059130">Confere se os URLs estão em uma lista de sites não seguros armazenada no Asil</translation>
+<translation id="7651600795135059130">Confere se os URLs estão em uma lista de sites não seguros armazenada no brave</translation>
 <translation id="8402673309244746971">Acessar "Seguindo"</translation>
 <translation id="8413126021676339697">Mostrar histórico completo</translation>
 <translation id="8414396119627470038">Fazer login no <ph name="SITE_ETLD_PLUS_ONE"/> com <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/></translation>
-<translation id="2100587595569959771">Saiba mais sobre a personalização de anúncios no Asil</translation>
+<translation id="2100587595569959771">Saiba mais sobre a personalização de anúncios no brave</translation>
 <translation id="8419244640277402268">Incluir</translation>
-<translation id="5735840612282428689">Página enviada. Para vê-la, abra o Asil no seu <ph name="DEVICE_TYPE"/></translation>
+<translation id="5735840612282428689">Página enviada. Para vê-la, abra o brave no seu <ph name="DEVICE_TYPE"/></translation>
 <translation id="8427875596167638501">A guia "Visualizar" está parcialmente aberta</translation>
 <translation id="8428213095426709021">Configurações</translation>
 <translation id="8430824733382774043">Compartilhar apenas a captura de tela</translation>
 <translation id="8438566539970814960">Melhorar as pesquisas e a navegação</translation>
 <translation id="8439974325294139057"><ph name="LANG"/>: idioma pronto. Reinicie o <ph name="APP_NAME"/>.</translation>
 <translation id="8442258441309440798">Nenhuma matéria disponível</translation>
-<translation id="4058091506841967397">Erro ao atualizar Asil</translation>
+<translation id="4058091506841967397">Erro ao atualizar brave</translation>
 <translation id="8445448999790540984">Não é possível exportar senhas</translation>
 <translation id="8446884382197647889">Saiba mais</translation>
 <translation id="8453310803815879010">Iniciar jogo do dinossauro</translation>
@@ -1372,12 +1372,12 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="8497242791509864205">Abrir as opções de classificação</translation>
 <translation id="8497480609928300907">Explicação sobre o Guia de privacidade</translation>
 <translation id="8497726226069778601">Não há nada para ver aqui... ainda</translation>
-<translation id="230699814587342492">Senhas do Asil</translation>
+<translation id="230699814587342492">Senhas do brave</translation>
 <translation id="8503813439785031346">Nome de usuário</translation>
 <translation id="8505766168025405649">Veja a notificação de status do download</translation>
-<translation id="133012818630824069">Exportar senhas armazenadas com o Asil</translation>
+<translation id="133012818630824069">Exportar senhas armazenadas com o brave</translation>
 <translation id="8516012719330875537">Editor de imagem</translation>
-<translation id="713191641919118540">Seus interesses estimados pelo Asil</translation>
+<translation id="713191641919118540">Seus interesses estimados pelo brave</translation>
 <translation id="8523928698583292556">Excluir senha armazenada</translation>
 <translation id="8540136935098276800">Insira um URL formatado corretamente</translation>
 <translation id="854522910157234410">Abrir esta página</translation>
@@ -1393,9 +1393,9 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="8583805026567836021">Limpando os dados da conta</translation>
 <translation id="859046281437143747">Monitore o preço com o botão "Mais opções"</translation>
 <translation id="860043288473659153">Nome do titular do cartão</translation>
-<translation id="1673533133011266617">Fazer login no Asil, fechada.</translation>
+<translation id="1673533133011266617">Fazer login no brave, fechada.</translation>
 <translation id="860282621117673749">Alertas de redução no preço</translation>
-<translation id="5784514951651328424">Sua Conta do Asil pode ter outras formas de histórico de navegação em <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="5784514951651328424">Sua Conta do brave pode ter outras formas de histórico de navegação em <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="8617240290563765734">Abrir o URL sugerido especificado no conteúdo transferido por download?</translation>
 <translation id="8621068256433641644">smartphone</translation>
 <translation id="8636825310635137004">Para ver suas guias abertas em outros dispositivos, ative a sincronização.</translation>
@@ -1403,10 +1403,10 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="864544049772947936">Gerenciar janelas (<ph name="INSTANCE_COUNTS"/>)</translation>
 <translation id="8645920082661222035">Prevê eventos perigosos e alerta você antes que eles aconteçam</translation>
 <translation id="8646467750715887511">As páginas carregam apenas depois de abertas.</translation>
-<translation id="2734140769649165081">É possível limpar os dados nas configurações do Asil</translation>
-<translation id="6464188276370426100">Como pesquisar com o Asil</translation>
+<translation id="2734140769649165081">É possível limpar os dados nas configurações do brave</translation>
+<translation id="6464188276370426100">Como pesquisar com o brave</translation>
 <translation id="8662811608048051533">Desconecta você da maioria dos sites.</translation>
-<translation id="7436978557885042606">Use o Asil do seu jeito</translation>
+<translation id="7436978557885042606">Use o brave do seu jeito</translation>
 <translation id="8664979001105139458">O nome do arquivo já existe</translation>
 <translation id="8666759526542103597">Sobre a personalização de anúncios com base no navegador</translation>
 <translation id="8676789164135894283">Verificações de login</translation>
@@ -1441,17 +1441,17 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="8873817150012960745">Toque aqui para começar</translation>
 <translation id="8881973373982641723">Limpa o histórico, inclusive da caixa de pesquisa.</translation>
 <translation id="8884023684057697730"><ph name="BEGIN_BOLD"/>Como gerenciar seus dados<ph name="END_BOLD"/>: para proteger sua privacidade, excluímos automaticamente sites que estão na lista há mais de quatro semanas. Se você visitar um site de novo, ele poderá voltar a aparecer na lista. Também é possível remover um site se não quiser que ele defina interesses para você.</translation>
-<translation id="1984646864943401749">Envia ao Asil URLs de algumas páginas que você visita, informações do sistema limitadas e parte do conteúdo das páginas para ajudar a descobrir novas ameaças e proteger todos os usuários na Web.</translation>
+<translation id="1984646864943401749">Envia ao brave URLs de algumas páginas que você visita, informações do sistema limitadas e parte do conteúdo das páginas para ajudar a descobrir novas ameaças e proteger todos os usuários na Web.</translation>
 <translation id="8906502871739599113">Reação duplicada</translation>
 <translation id="8909135823018751308">Compartilhar...</translation>
-<translation id="2684652081942622950">Conta do Asil</translation>
+<translation id="2684652081942622950">Conta do brave</translation>
 <translation id="8920114477895755567">Aguardando detalhes dos pais.</translation>
 <translation id="8921980840204105660">Sincronize para acessar seus favoritos de outros dispositivos</translation>
 <translation id="8922289737868596582">Use o botão Mais opções para fazer o download de páginas e acessá-las off-line</translation>
 <translation id="8924575305646776101"><ph name="BEGIN_LINK"/>Saiba mais<ph name="END_LINK"/></translation>
 <translation id="892496902842311796">O <ph name="LANG"/> está pronto</translation>
-<translation id="6894658278639191411">Para ajudar você com suas tarefas, o Asil receberá os URLs e o conteúdo de sites em que você usa o Assistente, bem como as informações que você envia por ele. Essas informações poderão ser armazenadas na sua Conta do Asil. É possível desativar o Assistente nas configurações do Asil.</translation>
-<translation id="1174893863889683998">Remover sua atividade do Asil do Bem-estar digital?</translation>
+<translation id="6894658278639191411">Para ajudar você com suas tarefas, o brave receberá os URLs e o conteúdo de sites em que você usa o Assistente, bem como as informações que você envia por ele. Essas informações poderão ser armazenadas na sua Conta do brave. É possível desativar o Assistente nas configurações do brave.</translation>
+<translation id="1174893863889683998">Remover sua atividade do brave do Bem-estar digital?</translation>
 <translation id="8942627711005830162">Abrir em outra janela</translation>
 <translation id="8945143127965743188"><ph name="LANG"/>: não foi possível fazer o download desse idioma. Tente novamente mais tarde.</translation>
 <translation id="8955719471735800169">Voltar ao início</translation>
@@ -1461,20 +1461,20 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="8972098258593396643">Fazer o download para a pasta padrão?</translation>
 <translation id="8987641763863173640">Gerenciar configurações de prévia de vídeos</translation>
 <translation id="898854820045159673">Reação adicionada</translation>
-<translation id="5320085753638900910">Seu histórico de navegação afeta os anúncios que você vê e os interesses estimados abaixo. Para proteger sua privacidade, o Asil exclui automaticamente seus interesses mais antigos do que um mês. Os interesses podem ser atualizados, a menos que você os remova.</translation>
+<translation id="5320085753638900910">Seu histórico de navegação afeta os anúncios que você vê e os interesses estimados abaixo. Para proteger sua privacidade, o brave exclui automaticamente seus interesses mais antigos do que um mês. Os interesses podem ser atualizados, a menos que você os remova.</translation>
 <translation id="8996847606757455498">Escolha outro provedor</translation>
-<translation id="3275122921244685452">Você está fazendo login com uma conta gerenciada por <ph name="MANAGED_DOMAIN"/> e dando ao administrador dela o controle sobre seus dados do Asil, os quais ficarão permanentemente vinculados a essa conta. Se você sair do Asil, seus dados serão excluídos desse dispositivo, mas permanecerão armazenados na sua Conta do Asil.</translation>
+<translation id="3275122921244685452">Você está fazendo login com uma conta gerenciada por <ph name="MANAGED_DOMAIN"/> e dando ao administrador dela o controle sobre seus dados do brave, os quais ficarão permanentemente vinculados a essa conta. Se você sair do brave, seus dados serão excluídos desse dispositivo, mas permanecerão armazenados na sua Conta do brave.</translation>
 <translation id="9022774213089566801">Visitados com frequência</translation>
 <translation id="9041669420854607037">{FILE_COUNT,plural, =1{# vídeo}one{# vídeo}other{# vídeos}}</translation>
 <translation id="9042893549633094279">Privacidade e segurança</translation>
 <translation id="9050666287014529139">Senha</translation>
 <translation id="9063523880881406963">Desativar "Ver versão para computador"</translation>
 <translation id="9065203028668620118">Editar</translation>
-<translation id="5496925146144075335">Dados armazenados que não parecem ser importantes para o Asil. Por exemplo, sites sem configurações salvas ou que você não visita com frequência</translation>
+<translation id="5496925146144075335">Dados armazenados que não parecem ser importantes para o brave. Por exemplo, sites sem configurações salvas ou que você não visita com frequência</translation>
 <translation id="906781307897697745">no: <ph name="PRODUCT_NAME"/></translation>
 <translation id="9069999660519089861">Não há páginas não lidas</translation>
 <translation id="9070377983101773829">Iniciar pesquisa por voz</translation>
-<translation id="8494430740943879273">Para receber conteúdo personalizado sugerido pelo Asil, ative a sincronização</translation>
+<translation id="8494430740943879273">Para receber conteúdo personalizado sugerido pelo brave, ative a sincronização</translation>
 <translation id="9074739597929991885">Bluetooth</translation>
 <translation id="9086302186042011942">Sincronizando</translation>
 <translation id="9086455579313502267">Não foi possível acessar a rede</translation>
@@ -1502,14 +1502,14 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="9212845824145208577">Não é possível descer mais. Tente começar a arrastar mais abaixo na página.</translation>
 <translation id="9219103736887031265">Imagens</translation>
 <translation id="9219582468404818260">Ajude a tornar a Web um lugar melhor</translation>
-<translation id="6946179564366058239">Quando um site pede para pré-carregar links anonimamente, o Asil criptografa e pré-carrega as páginas pelos servidores do Asil sem cookies. Isso oculta sua identidade do site pré-carregado.</translation>
+<translation id="6946179564366058239">Quando um site pede para pré-carregar links anonimamente, o brave criptografa e pré-carrega as páginas pelos servidores do brave sem cookies. Isso oculta sua identidade do site pré-carregado.</translation>
 <translation id="4596514158372210596">Remover sua atividade do Chorme do Bem-estar digital</translation>
-<translation id="2830145431802238213">Use o Modo Lite no Asil</translation>
+<translation id="2830145431802238213">Use o Modo Lite no brave</translation>
 <translation id="928550791203542716">Seguindo <ph name="SITE_NAME"/></translation>
 <translation id="932327136139879170">Início</translation>
 <translation id="938850635132480979">Erro: <ph name="ERROR_CODE"/></translation>
 <translation id="939598580284253335">Inserir senha</translation>
-<translation id="5406914950576900927">O Asil pode usar o <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> para fazer pesquisas na China. É possível alterar essa opção nas <ph name="BEGIN_LINK"/>Configurações<ph name="END_LINK"/>.</translation>
+<translation id="5406914950576900927">O brave pode usar o <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> para fazer pesquisas na China. É possível alterar essa opção nas <ph name="BEGIN_LINK"/>Configurações<ph name="END_LINK"/>.</translation>
 <translation id="962979164594783469">Instalar este app</translation>
 <translation id="96681097142096641">Ver página simplificada?</translation>
 <translation id="968900484120156207">As páginas visitadas são exibidas aqui</translation>
@@ -1521,7 +1521,7 @@ Por exemplo, alguns sites podem responder a esse pedido mostrando anúncios que 
 <translation id="992745192656291733"><ph name="TAB_COUNT"/> guias</translation>
 <translation id="996149300115483134">O menu do card do feed está fechado</translation>
 <translation id="5186185447130319458">Privado</translation>
-<translation id="5711390076756601471">Bloquear abas privadas ao sair do Asil</translation>
+<translation id="5711390076756601471">Bloquear abas privadas ao sair do brave</translation>
 <translation id="1014490034578104945">Usar o bloqueio de tela para abrir abas privadas</translation>
 <translation id="4390099071040105838">Ajude sites a combater fraudes e a distinguir bots de perfis</translation>
 <translation id="6453483065572809635">A redução de spam e fraudes depende de tokens de estado particular para ajudar os sites a evitar fraudes e diferenciar robôs de perfis.
@@ -1546,8 +1546,8 @@ Os tokens de estado particular melhoram a privacidade na Web e não podem ser us
 <translation id="5248610748197335423">Fechar todas as guias privadas</translation>
 <translation id="4660964651149493586">Desbloquear modo privado</translation>
 <translation id="5278260521317049275">Ativar o bloqueio privado</translation>
-<translation id="6302653771627628530">As guias privadas serão bloqueadas quando você sair do Asil</translation>
-<translation id="3763131702135887799">Ajude a melhorar o Asil para perfis que o utilizam da mesma forma que você</translation>
+<translation id="6302653771627628530">As guias privadas serão bloqueadas quando você sair do brave</translation>
+<translation id="3763131702135887799">Ajude a melhorar o brave para perfis que o utilizam da mesma forma que você</translation>
 <translation id="4167670741834902166">Nova guia privada</translation>
 <translation id="9148151251783962691">Para navegar de modo privado neste dispositivo, teste o modo privado</translation>
 <translation id="8355284051444779553">Para abrir uma nova guia privada, abra o menu</translation>

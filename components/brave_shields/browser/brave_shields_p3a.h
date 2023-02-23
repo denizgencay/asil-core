@@ -1,4 +1,4 @@
-/* Copyright 2019 The Asil Authors. All rights reserved.
+/* Copyright 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -30,18 +30,18 @@ constexpr char kFPStandardCountPrefName[] =
 constexpr char kFPAllowCountPrefName[] =
     "brave_shields.p3a_fp_allow_domain_count";
 
-constexpr char kAdsSettingHistogramName[] = "Asil.Shields.AdBlockSetting";
+constexpr char kAdsSettingHistogramName[] = "brave.Shields.AdBlockSetting";
 constexpr char kFingerprintSettingHistogramName[] =
-    "Asil.Shields.FingerprintBlockSetting";
-constexpr char kUsageStatusHistogramName[] = "Asil.Shields.UsageStatus";
+    "brave.Shields.FingerprintBlockSetting";
+constexpr char kUsageStatusHistogramName[] = "brave.Shields.UsageStatus";
 constexpr char kDomainAdsSettingsAboveHistogramName[] =
-    "Asil.Shields.DomainAdsSettingsAboveGlobal";
+    "brave.Shields.DomainAdsSettingsAboveGlobal";
 constexpr char kDomainAdsSettingsBelowHistogramName[] =
-    "Asil.Shields.DomainAdsSettingsBelowGlobal";
+    "brave.Shields.DomainAdsSettingsBelowGlobal";
 constexpr char kDomainFPSettingsAboveHistogramName[] =
-    "Asil.Shields.DomainFingerprintSettingsAboveGlobal";
+    "brave.Shields.DomainFingerprintSettingsAboveGlobal";
 constexpr char kDomainFPSettingsBelowHistogramName[] =
-    "Asil.Shields.DomainFingerprintSettingsBelowGlobal";
+    "brave.Shields.DomainFingerprintSettingsBelowGlobal";
 // Note: append-only enumeration! Never remove any existing values, as this enum
 // is used to bucket a UMA histogram, and removing values breaks that.
 enum ShieldsIconUsage {
@@ -60,10 +60,10 @@ enum ShieldsIconUsage {
 void MaybeRecordShieldsUsageP3A(ShieldsIconUsage usage,
                                 PrefService* local_state);
 
-// Records to global ads setting histogram: Asil.Shields.AdBlockSetting
+// Records to global ads setting histogram: brave.Shields.AdBlockSetting
 void RecordShieldsAdsSetting(ControlType setting);
 
-// Records to global FP setting histogram: Asil.Shields.FingerprintBlockSetting
+// Records to global FP setting histogram: brave.Shields.FingerprintBlockSetting
 void RecordShieldsFingerprintSetting(ControlType setting);
 
 // To be called when the global setting changes.

@@ -1,4 +1,4 @@
-/* Copyright 2019 The Asil Authors. All rights reserved.
+/* Copyright 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -8,8 +8,8 @@
 
 // The classes below can be used on desktop only
 // because BrowserListObserver is available on desktop only
-// Asil.Uptime.BrowserOpenMinutes, Asil.Core.LastTimeIncognitoUsed and
-// Asil.Core.TorEverUsed don't work on Android
+// brave.Uptime.BrowserOpenMinutes, brave.Core.LastTimeIncognitoUsed and
+// brave.Core.TorEverUsed don't work on Android
 
 #include "build/build_config.h"
 
@@ -53,7 +53,7 @@ class BraveUptimeTracker {
 
 // BraveWindowTracker is under !OS_ANDROID guard because
 // BrowserListObserver should only be only on desktop
-// Asil.Uptime.BrowserOpenMinutes and Asil.Core.LastTimeIncognitoUsed
+// brave.Uptime.BrowserOpenMinutes and brave.Core.LastTimeIncognitoUsed
 // don't work on Android
 #if !BUILDFLAG(IS_ANDROID)
 // Periodically records P3A stats (extracted from Local State) regarding the

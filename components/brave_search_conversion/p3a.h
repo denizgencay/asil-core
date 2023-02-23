@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -14,9 +14,9 @@ class PrefService;
 namespace brave_search_conversion {
 namespace p3a {
 
-constexpr char kSearchPromoButtonHistogramName[] = "Asil.Search.Promo.Button";
-constexpr char kSearchPromoBannerHistogramName[] = "Asil.Search.Promo.Banner";
-constexpr char kSearchPromoNTPHistogramName[] = "Asil.Search.Promo.NewTabPage";
+constexpr char kSearchPromoButtonHistogramName[] = "brave.Search.Promo.Button";
+constexpr char kSearchPromoBannerHistogramName[] = "brave.Search.Promo.Banner";
+constexpr char kSearchPromoNTPHistogramName[] = "brave.Search.Promo.NewTabPage";
 
 void RegisterLocalStatePrefs(PrefRegistrySimple* registry);
 void RecordPromoShown(PrefService* prefs, ConversionType type);

@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -21,7 +21,7 @@ TEST(LocalizationUtilTest, GetLocalizedResourceUTF16String) {
   const std::u16string localized_resource =
       GetLocalizedResourceUTF16String(IDS_BRAVE_NEW_TAB_STATS);
 
-  EXPECT_EQ(u"Asil Stats", localized_resource);
+  EXPECT_EQ(u"brave Stats", localized_resource);
 }
 
 TEST(LocalizationUtilTest,

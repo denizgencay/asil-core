@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -129,7 +129,7 @@ IN_PROC_BROWSER_TEST_F(IpfsExtensionApiTest, GetConfig) {
   ASSERT_TRUE(catcher.GetNextResult()) << message_;
 }
 
-// No great way to test launch and shutdown succeeding easily, so at least
+// No great way to test launch and shutdown succeeding ebravey, so at least
 // just make sure the API call works. IpfsService::SetAllowIpfsLaunchForTest
 // is used to short-circuit the launch and shutdown process.
 IN_PROC_BROWSER_TEST_F(IpfsExtensionApiTest, LaunchShutdownSuccess) {

@@ -32,7 +32,7 @@ TEST(APIUtilTest, GetServerUrlStaging) {
 TEST(APIUtilTest, GetServerUrlProduction) {
   ledger::_environment = mojom::Environment::PRODUCTION;
   const std::string url = GetServerUrl("/test");
-  ASSERT_EQ(url, "https://api.rewards.asil.com/test");
+  ASSERT_EQ(url, "https://api.rewards.brave.com/test");
 }
 
 }  // namespace api

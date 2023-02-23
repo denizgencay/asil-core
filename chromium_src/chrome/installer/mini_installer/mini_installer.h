@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors
+// Copyright (c) 2020 The brave Authors
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -11,7 +11,7 @@
 namespace mini_installer {
 typedef StackString<128> ReferralCodeString;
 
-// Populates |referral_code| with a Asil referral code if one is
+// Populates |referral_code| with a brave referral code if one is
 // present in the installer filename. This may be a standard or an
 // extended referral code.
 

@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -24,7 +24,7 @@ namespace brave {
 namespace {
 
 void ApplyPotentialQueryStringFilter(std::shared_ptr<BraveRequestInfo> ctx) {
-  SCOPED_UMA_HISTOGRAM_TIMER("Asil.SiteHacks.QueryFilter");
+  SCOPED_UMA_HISTOGRAM_TIMER("brave.SiteHacks.QueryFilter");
 
   if (!ctx->allow_brave_shields) {
     // Don't apply the filter if the destination URL has shields down.
@@ -119,7 +119,7 @@ int OnBeforeStartTransaction_SiteHacksWork(
       !brave_shields::IsSameOriginNavigation(ctx->redirect_source,
                                              ctx->request_url)) {
     // This is a hack that notifies the network layer.
-    ctx->removed_headers.insert("X-Asil-Cap-Referrer");
+    ctx->removed_headers.insert("X-brave-Cap-Referrer");
   }
   return net::OK;
 }

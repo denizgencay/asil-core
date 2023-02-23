@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -39,8 +39,8 @@ addTrezorCommandHandler(TrezorCommand.Unlock, (command: UnlockCommand): Promise<
       connectSrc: 'https://connect.trezor.io/8/',
       lazyLoad: false,
       manifest: {
-        email: 'support@asil.com',
-        appUrl: 'https://asil.com'
+        email: 'support@brave.com',
+        appUrl: 'https://brave.com'
       }
     }).then(() => {
       resolve(createUnlockResponse(command, true))

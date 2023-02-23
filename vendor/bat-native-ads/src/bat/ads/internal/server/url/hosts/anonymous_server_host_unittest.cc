@@ -23,7 +23,7 @@ TEST_F(BatAdsAnonymousServerHostTest, GetProductionHost) {
   const std::string host = server::GetAnonymousHost();
 
   // Assert
-  const std::string expected_host = "https://anonymous.ads.asil.com";
+  const std::string expected_host = "https://anonymous.ads.brave.com";
   EXPECT_EQ(expected_host, host);
 }
 

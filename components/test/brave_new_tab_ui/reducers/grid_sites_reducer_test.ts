@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -9,7 +9,7 @@ import { types } from '../../../brave_new_tab_ui/constants/grid_sites_types'
 import * as gridSitesState from '../../../brave_new_tab_ui/state/gridSitesState'
 
 const topSites: chrome.topSites.MostVisitedURL[] = [{
-  url: 'https://asil.com',
+  url: 'https://brave.com',
   title: 'brave'
 }, {
   url: 'https://cezaraugusto.net',

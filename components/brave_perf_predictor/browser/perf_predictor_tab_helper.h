@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -54,7 +54,7 @@ class PerfPredictorTabHelper
   void OnPageLoadTimingUpdated(
       const page_load_metrics::mojom::PageLoadTiming& timing);
   static void RegisterProfilePrefs(PrefRegistrySimple* registry);
-  // Called from Asil Shields
+  // Called from brave Shields
   static void DispatchBlockedEvent(const std::string& subresource,
                                    int frame_tree_node_id);
 

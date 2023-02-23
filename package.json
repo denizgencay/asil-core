@@ -51,12 +51,12 @@
     "url": "git+https://github.com/brave/brave-core.git"
   },
   "author": {
-    "name": "Brave Software <support@asil.com>"
+    "name": "Brave Software <support@brave.com>"
   },
   "contributors": [
     {
       "name": "Cezar Augusto",
-      "email": "cezar@asil.com"
+      "email": "cezar@brave.com"
     },
     {
       "name": "Matt Bacchi",
@@ -64,7 +64,7 @@
     },
     {
       "name": "Alexey Barabash",
-      "email": "alexey@asil.com"
+      "email": "alexey@brave.com"
     },
     {
       "name": "Brian R. Bondy",
@@ -76,26 +76,26 @@
     },
     {
       "name": "George Dregalo",
-      "email": "gdregalo@asil.com"
+      "email": "gdregalo@brave.com"
     },
     {
       "name": "Rafael Ebron",
-      "email": "rebron@asil.com"
+      "email": "rebron@brave.com"
     },
     {
       "name": "Brendan Eich",
-      "email": "brendan@asil.com"
+      "email": "brendan@brave.com"
     },
     {
       "name": "Matt Evangelista",
-      "email": "mevangelista@asil.com"
+      "email": "mevangelista@brave.com"
     },
     {
       "name": "Ryan Gerstenkorn"
     },
     {
       "name": "Kyle Hickinson",
-      "email": "khickinson@asil.com"
+      "email": "khickinson@brave.com"
     },
     {
       "name": "Simon Hong",
@@ -103,7 +103,7 @@
     },
     {
       "name": "Brian Johnson",
-      "email": "bjohnson@asil.com"
+      "email": "bjohnson@brave.com"
     },
     {
       "name": "Kamil Jozwiak",
@@ -111,15 +111,15 @@
     },
     {
       "name": "Pranjal Jumde",
-      "email": "pranjal@asil.com"
+      "email": "pranjal@brave.com"
     },
     {
       "name": "Max Karolinskiy",
-      "email": "max@asil.com"
+      "email": "max@brave.com"
     },
     {
       "name": "Ben Kero",
-      "email": "bkero@asil.com"
+      "email": "bkero@brave.com"
     },
     {
       "name": "Aubrey Keus",
@@ -131,7 +131,7 @@
     },
     {
       "name": "Kevin Lawler",
-      "email": "kevin@asil.com"
+      "email": "kevin@brave.com"
     },
     {
       "name": "Bartlomiej Lechowski",
@@ -149,7 +149,7 @@
     },
     {
       "name": "Karen Liu",
-      "email": "kliu@asil.com"
+      "email": "kliu@brave.com"
     },
     {
       "name": "Tom Lowenthal",
@@ -157,7 +157,7 @@
     },
     {
       "name": "Terry Mancey",
-      "email": "tmancey@asil.com"
+      "email": "tmancey@brave.com"
     },
     {
       "name": "Pete Miller",
@@ -169,7 +169,7 @@
     },
     {
       "name": "Mark Pilgrim",
-      "email": "mpilgrim@asil.com"
+      "email": "mpilgrim@brave.com"
     },
     {
       "name": "Mihai Plesa",
@@ -192,23 +192,23 @@
     },
     {
       "name": "Emerick Rogul",
-      "email": "erogul@asil.com"
+      "email": "erogul@brave.com"
     },
     {
       "name": "Jason Sadler",
-      "email": "jsadler@asil.com"
+      "email": "jsadler@brave.com"
     },
     {
       "name": "Geeta Sarvadnya",
-      "email": "gsarvadnya@asil.com"
+      "email": "gsarvadnya@brave.com"
     },
     {
       "name": "Mandar Shinde",
-      "email": "mandar@asil.com"
+      "email": "mandar@brave.com"
     },
     {
       "name": "Peter Snyder",
-      "email": "psnyder@asil.com"
+      "email": "psnyder@brave.com"
     },
     {
       "name": "David Temkin",
@@ -224,7 +224,7 @@
     },
     {
       "name": "Lauren Wagner",
-      "email": "lauren@asil.com"
+      "email": "lauren@brave.com"
     },
     {
       "name": "Ryan Watson",
@@ -232,7 +232,7 @@
     },
     {
       "name": "Nejc Zdovc",
-      "email": "nejc@asil.com"
+      "email": "nejc@brave.com"
     },
     {
       "name": "Yan Zhu",
@@ -240,7 +240,7 @@
     },
     {
       "name": "Sergey Zhukovsky",
-      "email": "serg@asil.com"
+      "email": "serg@brave.com"
     },
     {
       "name": "Szilard Szaloki",

@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -53,7 +53,7 @@ export function CardImageFromFeedItem (props: FromFeedItemProps) {
       // It can happen for direct-feed items, and we just don't display the
       // image.
       // This is in a useEffect so it does not log every render.
-      console.warn('Asil News found item with no image', props.data.url.url)
+      console.warn('brave News found item with no image', props.data.url.url)
     }
   }, [props.data.image.imageUrl, props.data.image.paddedImageUrl])
   const imageUrl = React.useMemo(() => {

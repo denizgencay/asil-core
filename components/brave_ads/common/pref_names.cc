@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -45,7 +45,7 @@ const char kSupportedCountryCodesLastSchemaVersion[] =
 // components/brave_ads
 namespace ads::prefs {
 
-// Stores whether Asil ads is enabled or disabled
+// Stores whether brave ads is enabled or disabled
 const char kEnabled[] = "brave.brave_ads.enabled";
 const char kEnabledForLastProfile[] = "brave.brave_ads.enabled_last_profile";
 
@@ -65,7 +65,7 @@ const char kBrowserVersionNumber[] = "brave.brave_ads.browser_version_number";
 // Stores the idle time threshold before checking if an ad can be served
 const char kIdleTimeThreshold[] = "brave.brave_ads.idle_threshold";
 
-// Stores whether Asil ads should allow subdivision ad targeting
+// Stores whether brave ads should allow subdivision ad targeting
 const char kShouldAllowSubdivisionTargeting[] =
     "brave.brave_ads.should_allow_ads_subdivision_targeting";
 

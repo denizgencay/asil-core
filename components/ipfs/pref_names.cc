@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -20,7 +20,7 @@ const char kIPFSBinaryPath[] = "brave.ipfs.binary_path";
 const char kIPFSAutoFallbackToGateway[] = "brave.ipfs.auto_fallback_to_gateway";
 
 // Used to automatically redirect Gateway resources with x-ipfs-path
-// header to the configured Asil IPFS gateway.
+// header to the configured brave IPFS gateway.
 const char kIPFSAutoRedirectGateway[] = "brave.ipfs.auto_redirect_gateway";
 
 // Used to automatically redirect for DNSLink resources

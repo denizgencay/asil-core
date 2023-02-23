@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -43,9 +43,9 @@ const char* GetMenuGroupPrefKey(MenuGroup group) {
 }  // namespace
 
 const char kFrequentMenuGroupHistogramName[] =
-    "Asil.Toolbar.FrequentMenuGroup";
-const char kMenuDismissRateHistogramName[] = "Asil.Toolbar.MenuDismissRate";
-const char kMenuOpensHistogramName[] = "Asil.Toolbar.MenuOpens";
+    "brave.Toolbar.FrequentMenuGroup";
+const char kMenuDismissRateHistogramName[] = "brave.Toolbar.MenuDismissRate";
+const char kMenuOpensHistogramName[] = "brave.Toolbar.MenuOpens";
 
 MenuMetrics::MenuMetrics(PrefService* local_state)
     : local_state_(local_state),

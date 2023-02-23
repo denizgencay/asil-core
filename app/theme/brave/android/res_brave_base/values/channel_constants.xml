@@ -5,8 +5,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- The application name displayed to the user. -->
-    <string name="app_name" translatable="false">Asil</string>
-    <string name="bookmark_widget_title" translatable="false">Asil bookmarks</string>
-    <string name="search_widget_title" translatable="false">Asil search</string>
-    <string name="quick_action_search_widget_title" translatable="false">Asil quick action search</string>
+    <string name="app_name" translatable="false">brave</string>
+    <string name="bookmark_widget_title" translatable="false">brave bookmarks</string>
+    <string name="search_widget_title" translatable="false">brave search</string>
+    <string name="quick_action_search_widget_title" translatable="false">brave quick action search</string>
 </resources>

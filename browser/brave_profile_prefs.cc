@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -210,7 +210,7 @@ void RegisterProfilePrefs(user_prefs::PrefRegistrySyncable* registry) {
   // F/u issue: https://github.com/brave/brave-browser/issues/7000
   registry->RegisterBooleanPref(kAskWidevineInstall, true);
 
-  // Default Asil shields
+  // Default brave shields
   registry->RegisterBooleanPref(kNoScriptControlType, false);
   registry->RegisterBooleanPref(kAdControlType, true);
   registry->RegisterBooleanPref(kShieldsAdvancedViewEnabled, false);
@@ -346,10 +346,10 @@ void RegisterProfilePrefs(user_prefs::PrefRegistrySyncable* registry) {
   registry->RegisterBooleanPref(kERCOptedIntoCryptoWallets, false);
 #endif
 
-  // Asil Wallet
+  // brave Wallet
   brave_wallet::RegisterProfilePrefs(registry);
 
-  // Asil Search
+  // brave Search
   if (brave_search::IsDefaultAPIEnabled()) {
     brave_search::BraveSearchDefaultHost::RegisterProfilePrefs(registry);
   }

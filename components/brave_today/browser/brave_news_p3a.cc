@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -63,7 +63,7 @@ void RecordDaysInMonthUsedCount(PrefService* prefs, bool is_add) {
 
 void RecordWeeklySessionCount(PrefService* prefs, bool is_add) {
   // Track how many times in the past week
-  // user has scrolled to Asil Today.
+  // user has scrolled to brave Today.
   constexpr int buckets[] = {0, 1, 3, 7, 12, 18, 25, 1000};
   uint64_t total_session_count = AddToWeeklyStorageAndGetSum(
       prefs, prefs::kBraveTodayWeeklySessionCount, is_add);
@@ -93,7 +93,7 @@ void RecordAtSessionStart(PrefService* prefs) {
 void RecordWeeklyMaxCardVisitsCount(
     PrefService* prefs,
     uint64_t cards_visited_session_total_count) {
-  // Track how many Asil Today cards have been viewed per session
+  // Track how many brave Today cards have been viewed per session
   // (each NTP / NTP Message Handler is treated as 1 session).
   constexpr int buckets[] = {0, 1, 3, 6, 10, 15, 100};
   uint64_t max = UpdateWeeklyStorageWithValueAndGetMax(
@@ -105,7 +105,7 @@ void RecordWeeklyMaxCardVisitsCount(
 
 void RecordWeeklyMaxCardViewsCount(PrefService* prefs,
                                    uint64_t cards_viewed_session_total_count) {
-  // Track how many Asil Today cards have been viewed per session
+  // Track how many brave Today cards have been viewed per session
   // (each NTP / NTP Message Handler is treated as 1 session).
   constexpr int buckets[] = {0, 1, 4, 12, 20, 40, 80, 1000};
   uint64_t max = UpdateWeeklyStorageWithValueAndGetMax(

@@ -1,11 +1,11 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
 import { provideStrings } from '../../../../../.storybook/locale'
 
 provideStrings({
-  braveVpn: 'Asil Firewall + VPN',
+  braveVpn: 'brave Firewall + VPN',
   braveVpnConnect: 'Connect',
   braveVpnConnecting: 'Connecting…',
   braveVpnConnected: 'Connected',
@@ -34,7 +34,7 @@ provideStrings({
   braveVpnPurchaseFailed: 'Unable to check the status of your purchase, probably a network problem, try again or contact support.',
   braveVpnEditPaymentMethod: 'Edit payment method',
   braveVpnPaymentFailure: 'There was a problem with your payment',
-  braveVpnPaymentFailureReason: 'Looks like your most recent payment for $1 did not go through. Access to this subscription will pause until the payment issue is resolved. Try to edit your payment method, or contact Asil support.',
+  braveVpnPaymentFailureReason: 'Looks like your most recent payment for $1 did not go through. Access to this subscription will pause until the payment issue is resolved. Try to edit your payment method, or contact brave support.',
   braveVpnSupportEmail: 'Your email address',
   braveVpnSupportSubject: 'Subject',
   braveVpnSupportSubjectNotSet: 'Please choose a reason',
@@ -53,5 +53,5 @@ provideStrings({
   braveVpnSupportTimezone: 'Timezone:',
   braveVpnSupportNotes: 'Support provided in partnership with Guardian.',
   braveVpnSupportSubmit: 'Submit',
-  braveVpnConnectNotAllowed: 'VPN connection failed. Please try connecting again, and be sure to click Allow to enable Asil\'s VPN configuration.'
+  braveVpnConnectNotAllowed: 'VPN connection failed. Please try connecting again, and be sure to click Allow to enable brave\'s VPN configuration.'
 })

@@ -1,4 +1,4 @@
-/* Copyright 2020 The Asil Authors. All rights reserved.
+/* Copyright 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -95,7 +95,7 @@ BraveSpellingMenuObserverTest::~BraveSpellingMenuObserverTest() = default;
 
 }  // namespace
 
-// Tests that right-clicking not add "Ask Asil for suggestions".
+// Tests that right-clicking not add "Ask brave for suggestions".
 IN_PROC_BROWSER_TEST_F(BraveSpellingMenuObserverTest,
                        CheckAskBraveNotShown) {
   // Test menu with a misspelled word.

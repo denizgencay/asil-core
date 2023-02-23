@@ -1416,7 +1416,7 @@ TEST_F(BatAdsConversionsTest, ExtractConversionId) {
       "ofIveUY/bM7qlL9eIkAv/xbjDItFs1xRTTYKRZZsPHI=";
   conversion.creative_set_id = "3519f52c-46a4-4c48-9c2b-c264c0067f04";
   conversion.type = "postview";
-  conversion.url_pattern = "https://asil.com/thankyou";
+  conversion.url_pattern = "https://brave.com/thankyou";
   conversion.observation_window = 3;
   conversion.expire_at = CalculateExpireAtTime(conversion.observation_window);
   conversions.push_back(conversion);
@@ -1429,7 +1429,7 @@ TEST_F(BatAdsConversionsTest, ExtractConversionId) {
 
   // Act
   conversions_->MaybeConvert(
-      {GURL("https://foo.bar/"), GURL("https://asil.com/thankyou")},
+      {GURL("https://foo.bar/"), GURL("https://brave.com/thankyou")},
       R"(<html><meta name="ad-conversion-id" content="abc123"></html>)",
       resource.get()->id_patterns);
 
@@ -1467,7 +1467,7 @@ TEST_F(BatAdsConversionsTest, ExtractConversionIdWithResourcePatternFromHtml) {
       "ofIveUY/bM7qlL9eIkAv/xbjDItFs1xRTTYKRZZsPHI=";
   conversion.creative_set_id = "3519f52c-46a4-4c48-9c2b-c264c0067f04";
   conversion.type = "postview";
-  conversion.url_pattern = "https://asil.com/foobar";
+  conversion.url_pattern = "https://brave.com/foobar";
   conversion.observation_window = 3;
   conversion.expire_at = CalculateExpireAtTime(conversion.observation_window);
   conversions.push_back(conversion);
@@ -1482,7 +1482,7 @@ TEST_F(BatAdsConversionsTest, ExtractConversionIdWithResourcePatternFromHtml) {
   // See associated patterns in the verifiable conversion resource
   // /data/test/resources/nnqccijfhvzwyrxpxwjrpmynaiazctqb
   conversions_->MaybeConvert(
-      {GURL("https://foo.bar/"), GURL("https://asil.com/foobar")},
+      {GURL("https://foo.bar/"), GURL("https://brave.com/foobar")},
       "<html><div id=\"conversion-id\">abc123</div></html>",
       resource.get()->id_patterns);
 
@@ -1520,7 +1520,7 @@ TEST_F(BatAdsConversionsTest, ExtractConversionIdWithResourcePatternFromUrl) {
       "ofIveUY/bM7qlL9eIkAv/xbjDItFs1xRTTYKRZZsPHI=";
   conversion.creative_set_id = "3519f52c-46a4-4c48-9c2b-c264c0067f04";
   conversion.type = "postview";
-  conversion.url_pattern = "https://asil.com/foobar?conversion_id=*";
+  conversion.url_pattern = "https://brave.com/foobar?conversion_id=*";
   conversion.observation_window = 3;
   conversion.expire_at = CalculateExpireAtTime(conversion.observation_window);
   conversions.push_back(conversion);
@@ -1536,7 +1536,7 @@ TEST_F(BatAdsConversionsTest, ExtractConversionIdWithResourcePatternFromUrl) {
   // /data/test/resources/nnqccijfhvzwyrxpxwjrpmynaiazctqb
   conversions_->MaybeConvert(
       {GURL("https://foo.bar/"),
-       GURL("https://asil.com/foobar?conversion_id=abc123")},
+       GURL("https://brave.com/foobar?conversion_id=abc123")},
       "<html><div id=\"conversion-id\">foobar</div></html>",
       resource.get()->id_patterns);
 

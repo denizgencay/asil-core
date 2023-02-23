@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -19,7 +19,7 @@ class MultichainCallsUnitTest : public testing::Test {
  public:
   using CallbackType = MultichainCalls<std::string, std::string>::CallbackType;
 
-  std::string domain() const { return "asil.com"; }
+  std::string domain() const { return "brave.com"; }
 
   MultichainCalls<std::string, std::string>& chain_calls() {
     return chain_calls_;

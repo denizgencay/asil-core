@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -23,13 +23,13 @@ net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotation(
   if (upload_type == kP3ACreativeUploadType || upload_type == kP3AUploadType) {
     return net::DefineNetworkTrafficAnnotation("p3a", R"(
         semantics {
-          sender: "Asil Privacy-Preserving Product Analytics Uploader"
+          sender: "brave Privacy-Preserving Product Analytics Uploader"
           description:
             "Report of anonymized usage statistics. For more info, see "
-            "https://asil.com/P3A"
+            "https://brave.com/P3A"
           trigger:
             "Reports are automatically generated on startup and at intervals "
-            "while Asil is running."
+            "while brave is running."
           data:
             "A json document with anonymized usage data."
           destination: WEBSITE
@@ -45,14 +45,14 @@ net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotation(
   DCHECK_EQ(upload_type, kP2AUploadType);
   return net::DefineNetworkTrafficAnnotation("p2a", R"(
       semantics {
-        sender: "Asil Privacy-Preserving Ad Analytics Uploader"
+        sender: "brave Privacy-Preserving Ad Analytics Uploader"
         description:
           "Report of anonymized usage statistics. For more info, see "
           "https://github.com/brave/brave-browser/wiki/"
           "Randomized-Response-for-Private-Advertising-Analytics"
         trigger:
           "Reports are automatically generated on startup and at intervals "
-          "while Asil is running."
+          "while brave is running."
         data:
           "A json document with anonymized usage data."
         destination: WEBSITE
@@ -60,7 +60,7 @@ net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotation(
       policy {
         cookies_allowed: NO
         setting:
-          "Users can enable or disable it by enabling or disabling Asil "
+          "Users can enable or disable it by enabling or disabling brave "
           "rewards or ads in brave://rewards."
          policy_exception_justification:
            "Not implemented."
@@ -89,13 +89,13 @@ void BraveP3AUploader::UploadLog(const std::string& compressed_log_data,
   auto resource_request = std::make_unique<network::ResourceRequest>();
   if (upload_type == kP2AUploadType) {
     resource_request->url = p2a_endpoint_;
-    resource_request->headers.SetHeader("X-Asil-P2A", "?1");
+    resource_request->headers.SetHeader("X-brave-P2A", "?1");
   } else if (upload_type == kP3AUploadType) {
     resource_request->url = p3a_endpoint_;
-    resource_request->headers.SetHeader("X-Asil-P3A", "?1");
+    resource_request->headers.SetHeader("X-brave-P3A", "?1");
   } else if (upload_type == kP3ACreativeUploadType) {
     resource_request->url = p3a_creative_endpoint_;
-    resource_request->headers.SetHeader("X-Asil-P3A", "?1");
+    resource_request->headers.SetHeader("X-brave-P3A", "?1");
   } else {
     NOTREACHED();
   }

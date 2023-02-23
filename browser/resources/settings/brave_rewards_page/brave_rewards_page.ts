@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -31,7 +31,7 @@ interface AdsSubdivisionTargeting {
 
 /**
  * 'settings-brave-rewards-page' is the settings page containing settings for
- * Asil Rewards.
+ * brave Rewards.
  */
 class SettingsBraveRewardsPage extends SettingsBraveRewardsPageBase {
   static get is() {

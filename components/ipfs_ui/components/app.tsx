@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -102,7 +102,7 @@ export class IPFSPage extends React.Component<Props, {}> {
           </a>
         </div>
         <div style={LinkContainer}>
-          <a style={LearnMoreLink} href='https://support.asil.com/hc/en-us/sections/360010974932-InterPlanetary-File-System-IPFS-' target='_blank'>
+          <a style={LearnMoreLink} href='https://support.brave.com/hc/en-us/sections/360010974932-InterPlanetary-File-System-IPFS-' target='_blank'>
             {getLocale('learnMore')}
           </a>
         </div>

@@ -407,7 +407,7 @@ export function createHost (): Host {
     },
 
     openAdaptiveCaptchaSupport () {
-      openTab('https://support.asil.com/')
+      openTab('https://support.brave.com/')
     },
 
     openRewardsSettings () {

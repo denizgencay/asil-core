@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -8,7 +8,7 @@
 
 namespace brave_ads::prefs {
 
-// Asil Ads version pref
+// brave Ads version pref
 extern const char kVersion[];
 
 // p2a and p3a prefs
@@ -32,7 +32,7 @@ extern const char kSupportedCountryCodesLastSchemaVersion[];
 // components/brave_ads
 namespace ads::prefs {
 
-// Asil Ads enabled/disabled pref
+// brave Ads enabled/disabled pref
 extern const char kEnabled[];
 extern const char kEnabledForLastProfile[];
 

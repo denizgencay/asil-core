@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -617,7 +617,7 @@ class BraveWalletServiceUnitTest : public testing::Test {
                        bool run_switch_network = false) {
     mojom::AddSuggestTokenRequestPtr request =
         mojom::AddSuggestTokenRequest::New(
-            MakeOriginInfo(url::Origin::Create(GURL("https://asil.com"))),
+            MakeOriginInfo(url::Origin::Create(GURL("https://brave.com"))),
             suggested_token.Clone());
     base::RunLoop run_loop;
     service_->AddSuggestTokenRequest(
@@ -1564,7 +1564,7 @@ TEST_F(BraveWalletServiceUnitTest, MigrateUserAssetsAddPreloadingNetworks) {
           "decimals":18,
           "is_erc20":true,
           "is_erc721":false,
-          "logo":"https://asil.com/logo.jpg",
+          "logo":"https://brave.com/logo.jpg",
           "name":"WTRTL",
           "symbol":"WTRTL",
           "token_id":"",
@@ -1583,7 +1583,7 @@ TEST_F(BraveWalletServiceUnitTest, MigrateUserAssetsAddPreloadingNetworks) {
 
   auto wtrtl = mojom::BlockchainToken::New(
       "0x6a31Aca4d2f7398F04d9B6ffae2D898d9A8e7938", "WTRTL",
-      "https://asil.com/logo.jpg", true, false, false, "WTRTL", 18, true, "",
+      "https://brave.com/logo.jpg", true, false, false, "WTRTL", 18, true, "",
       "", mojom::kFantomMainnetChainId, mojom::CoinType::ETH);
   for (const auto& chain : GetAllKnownChains(nullptr, mojom::CoinType::ETH)) {
     auto native_asset = mojom::BlockchainToken::New(
@@ -1649,7 +1649,7 @@ TEST_F(BraveWalletServiceUnitTest, MigrateUserAssetsAddIsNFT) {
           "decimals": 18,
           "is_erc20": false,
           "is_erc721": false,
-          "logo": "https://asil.com/logo.jpg",
+          "logo": "https://brave.com/logo.jpg",
           "name": "MATIC",
           "symbol": "MATIC",
           "token_id": "",
@@ -1665,7 +1665,7 @@ TEST_F(BraveWalletServiceUnitTest, MigrateUserAssetsAddIsNFT) {
           "decimals": 9,
           "is_erc20": false,
           "is_erc721": false,
-          "logo": "https://asil.com/logo.jpg",
+          "logo": "https://brave.com/logo.jpg",
           "name": "Solana",
           "symbol": "SOL",
           "visible": true
@@ -1855,7 +1855,7 @@ TEST_F(BraveWalletServiceUnitTest, OnGetImportInfo) {
 
 TEST_F(BraveWalletServiceUnitTest, SignMessageHardware) {
   mojom::OriginInfoPtr origin_info =
-      MakeOriginInfo(url::Origin::Create(GURL("https://asil.com")));
+      MakeOriginInfo(url::Origin::Create(GURL("https://brave.com")));
   std::string expected_signature = std::string("0xSiGnEd");
   std::string address = "0xbe862ad9abfe6f22bcb087716c7d89a26051f74c";
   std::string domain = "{}";
@@ -1912,7 +1912,7 @@ TEST_F(BraveWalletServiceUnitTest, SignMessageHardware) {
 
 TEST_F(BraveWalletServiceUnitTest, SignMessage) {
   mojom::OriginInfoPtr origin_info =
-      MakeOriginInfo(url::Origin::Create(GURL("https://asil.com")));
+      MakeOriginInfo(url::Origin::Create(GURL("https://brave.com")));
   std::string expected_signature = std::string("0xSiGnEd");
   std::string address = "0xbe862ad9abfe6f22bcb087716c7d89a26051f74c";
   std::string domain = "{}";
@@ -2144,7 +2144,7 @@ TEST_F(BraveWalletServiceUnitTest, Reset) {
   EXPECT_TRUE(GetPrefs()->HasPrefPath(kDefaultBaseCurrency));
   EXPECT_TRUE(GetPrefs()->HasPrefPath(kDefaultBaseCryptocurrency));
   mojom::OriginInfoPtr origin_info =
-      MakeOriginInfo(url::Origin::Create(GURL("https://asil.com")));
+      MakeOriginInfo(url::Origin::Create(GURL("https://brave.com")));
   std::string address = "0xbe862ad9abfe6f22bcb087716c7d89a26051f74c";
   std::string domain = "{}";
   std::string message = "0xAB";

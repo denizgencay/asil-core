@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -141,10 +141,10 @@ IN_PROC_BROWSER_TEST_F(RewardsP3ABrowserTest, RewardsDisabled) {
   rewards_browsertest_util::StartProcess(rewards_service_);
   WaitForRewardsInitialization();
 
-  histogram_tester_->ExpectBucketCount("Asil.Rewards.AutoContributionsState.2",
+  histogram_tester_->ExpectBucketCount("brave.Rewards.AutoContributionsState.2",
                                        1, 1);
-  histogram_tester_->ExpectBucketCount("Asil.Rewards.TipsState.2", 1, 1);
-  histogram_tester_->ExpectBucketCount("Asil.Rewards.AdsEnabledDuration",
+  histogram_tester_->ExpectBucketCount("brave.Rewards.TipsState.2", 1, 1);
+  histogram_tester_->ExpectBucketCount("brave.Rewards.AdsEnabledDuration",
                                        AdsEnabledDuration::kNever, 1);
 }
 
@@ -156,7 +156,7 @@ IN_PROC_BROWSER_TEST_F(RewardsP3ABrowserTest, Duration) {
 
   // Turn rewards on.
   TurnOnRewards();
-  histogram_tester_->ExpectBucketCount("Asil.Rewards.AdsEnabledDuration",
+  histogram_tester_->ExpectBucketCount("brave.Rewards.AdsEnabledDuration",
                                        AdsEnabledDuration::kStillEnabled, 1);
 
   // We can't turn rewards back off without shutting down the ledger
@@ -164,7 +164,7 @@ IN_PROC_BROWSER_TEST_F(RewardsP3ABrowserTest, Duration) {
   // Instead rely on the fact that the EnabledDuration P3A measurement
   // is made by the rewards service preference observer.
   prefs->SetBoolean(ads::prefs::kEnabled, false);
-  histogram_tester_->ExpectBucketCount("Asil.Rewards.AdsEnabledDuration",
+  histogram_tester_->ExpectBucketCount("brave.Rewards.AdsEnabledDuration",
                                        AdsEnabledDuration::kHours, 1);
 
   // Mock turning rewards back on.
@@ -176,7 +176,7 @@ IN_PROC_BROWSER_TEST_F(RewardsP3ABrowserTest, Duration) {
 
   // Mock turning rewards off.
   prefs->SetBoolean(ads::prefs::kEnabled, false);
-  histogram_tester_->ExpectBucketCount("Asil.Rewards.AdsEnabledDuration",
+  histogram_tester_->ExpectBucketCount("brave.Rewards.AdsEnabledDuration",
                                        AdsEnabledDuration::kHours, 2);
 
   // Mock turning rewards back on.
@@ -187,7 +187,7 @@ IN_PROC_BROWSER_TEST_F(RewardsP3ABrowserTest, Duration) {
 
   // Mock turning rewards off.
   prefs->SetBoolean(ads::prefs::kEnabled, false);
-  histogram_tester_->ExpectBucketCount("Asil.Rewards.AdsEnabledDuration",
+  histogram_tester_->ExpectBucketCount("brave.Rewards.AdsEnabledDuration",
                                        AdsEnabledDuration::kDays, 1);
 
   // Mock turning rewards on for more than a week.
@@ -198,7 +198,7 @@ IN_PROC_BROWSER_TEST_F(RewardsP3ABrowserTest, Duration) {
 
   // Mock turning rewards off.
   prefs->SetBoolean(ads::prefs::kEnabled, false);
-  histogram_tester_->ExpectBucketCount("Asil.Rewards.AdsEnabledDuration",
+  histogram_tester_->ExpectBucketCount("brave.Rewards.AdsEnabledDuration",
                                        AdsEnabledDuration::kWeeks, 1);
 
   // Mock turning rewards on for more than a month.
@@ -209,7 +209,7 @@ IN_PROC_BROWSER_TEST_F(RewardsP3ABrowserTest, Duration) {
 
   // Mock turning rewards off.
   prefs->SetBoolean(ads::prefs::kEnabled, false);
-  histogram_tester_->ExpectBucketCount("Asil.Rewards.AdsEnabledDuration",
+  histogram_tester_->ExpectBucketCount("brave.Rewards.AdsEnabledDuration",
                                        AdsEnabledDuration::kMonths, 1);
 
   // Mock turning rewards on for our longest measured value.
@@ -220,7 +220,7 @@ IN_PROC_BROWSER_TEST_F(RewardsP3ABrowserTest, Duration) {
 
   // Mock turning rewards off.
   prefs->SetBoolean(ads::prefs::kEnabled, false);
-  histogram_tester_->ExpectBucketCount("Asil.Rewards.AdsEnabledDuration",
+  histogram_tester_->ExpectBucketCount("brave.Rewards.AdsEnabledDuration",
                                        AdsEnabledDuration::kQuarters, 1);
 }
 

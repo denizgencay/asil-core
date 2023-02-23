@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -27,7 +27,7 @@ namespace ipfs {
 
 #if BUILDFLAG(IS_WIN)
 static const char kIpfsClientComponentName[] =
-    "Asil IPFS Client Updater (Windows)";
+    "brave IPFS Client Updater (Windows)";
 static const char kIpfsClientComponentId[] = "lnbclahgobmjphilkalbhebakmblnbij";
 static const char kIpfsClientComponentBase64PublicKey[] =
     "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuLxVDZm1QIzpMUFMBYym"
@@ -39,7 +39,7 @@ static const char kIpfsClientComponentBase64PublicKey[] =
     "/QIDAQAB";
 #elif BUILDFLAG(IS_MAC)
 static const char kIpfsClientComponentName[] =
-    "Asil IPFS Client Updater (Mac)";
+    "brave IPFS Client Updater (Mac)";
 #if defined(ARCH_CPU_ARM64)
 static const char kIpfsClientComponentId[] = "lejaflgbgglfaomemffoaappaihfligf";
 static const char kIpfsClientComponentBase64PublicKey[] =
@@ -63,7 +63,7 @@ static const char kIpfsClientComponentBase64PublicKey[] =
 #endif
 #elif BUILDFLAG(IS_LINUX)
 static const char kIpfsClientComponentName[] =
-    "Asil IPFS Client Updater (Linux)";
+    "brave IPFS Client Updater (Linux)";
 #if defined(ARCH_CPU_ARM64)
 static const char kIpfsClientComponentId[] = "fmmldihckdnognaabhligdpckkeancng";
 static const char kIpfsClientComponentBase64PublicKey[] =

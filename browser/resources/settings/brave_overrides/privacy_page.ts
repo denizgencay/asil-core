@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -34,13 +34,13 @@ function InsertGoogleSignInSubpage (
     querySelector('[route-path="/content/googleSignIn"]')
   if (!googleSignInTemplate) {
     console.error(
-      '[Asil Settings Overrides] Couldn\'t find Google signin template')
+      '[brave Settings Overrides] Couldn\'t find Google signin template')
   } else {
     const googleSignInSubpage =
       googleSignInTemplate.content.querySelector('settings-subpage')
     if (!googleSignInSubpage) {
       console.error(
-        '[Asil Settings Overrides] Couldn\'t find Google signin subpage')
+        '[brave Settings Overrides] Couldn\'t find Google signin subpage')
     } else {
       googleSignInSubpage.setAttribute('page-title',
         I18nBehavior.i18n('siteSettingsCategoryGoogleSignIn'))
@@ -48,7 +48,7 @@ function InsertGoogleSignInSubpage (
         googleSignInTemplate.content.getElementById('googleSignInDefault')
       if (!googleSignInDefault) {
         console.error(
-          '[Asil Settings Overrides] Couldn\'t find Google signin default')
+          '[brave Settings Overrides] Couldn\'t find Google signin default')
       } else {
         googleSignInDefault.setAttribute(
           'toggle-off-label',
@@ -61,7 +61,7 @@ function InsertGoogleSignInSubpage (
         googleSignInTemplate.content.getElementById('googleSignInExceptions')
       if (!googleSignInExceptions) {
         console.error(
-          '[Asil Settings Overrides] Couldn\'t find Google signin exceptions')
+          '[brave Settings Overrides] Couldn\'t find Google signin exceptions')
       } else {
         googleSignInExceptions.setAttribute(
           'block-header',
@@ -97,13 +97,13 @@ function InsertAutoplaySubpage (
     querySelector('[route-path="/content/autoplay"]')
   if (!autoplayTemplate) {
     console.error(
-      '[Asil Settings Overrides] Couldn\'t find autoplay template')
+      '[brave Settings Overrides] Couldn\'t find autoplay template')
   } else {
     const autoplaySubpage =
       autoplayTemplate.content.querySelector('settings-subpage')
     if (!autoplaySubpage) {
       console.error(
-        '[Asil Settings Overrides] Couldn\'t find autoplay subpage')
+        '[brave Settings Overrides] Couldn\'t find autoplay subpage')
     } else {
       autoplaySubpage.setAttribute('page-title',
         I18nBehavior.i18n('siteSettingsCategoryAutoplay'))
@@ -111,7 +111,7 @@ function InsertAutoplaySubpage (
         autoplayTemplate.content.getElementById('autoplayDefault')
       if (!autoplayDefault) {
         console.error(
-          '[Asil Settings Overrides] Couldn\'t find autoplay default')
+          '[brave Settings Overrides] Couldn\'t find autoplay default')
       } else {
         autoplayDefault.setAttribute(
           'toggle-off-label',
@@ -124,7 +124,7 @@ function InsertAutoplaySubpage (
         autoplayTemplate.content.getElementById('autoplayExceptions')
       if (!autoplayExceptions) {
         console.error(
-          '[Asil Settings Overrides] Couldn\'t find autoplay exceptions')
+          '[brave Settings Overrides] Couldn\'t find autoplay exceptions')
       } else {
         autoplayExceptions.setAttribute(
           'block-header',
@@ -161,13 +161,13 @@ function InsertEthereumSubpage (
     querySelector('[route-path="/content/ethereum"]')
   if (!ethereumTemplate) {
     console.error(
-      '[Asil Settings Overrides] Couldn\'t find Ethereum template')
+      '[brave Settings Overrides] Couldn\'t find Ethereum template')
   } else {
     const ethereumSubpage =
       ethereumTemplate.content.querySelector('settings-subpage')
     if (!ethereumSubpage) {
       console.error(
-        '[Asil Settings Overrides] Couldn\'t find Ethereum subpage')
+        '[brave Settings Overrides] Couldn\'t find Ethereum subpage')
     } else {
       ethereumSubpage.setAttribute('page-title',
         I18nBehavior.i18n('siteSettingsCategoryEthereum'))
@@ -175,7 +175,7 @@ function InsertEthereumSubpage (
         ethereumTemplate.content.getElementById('ethereumDefault')
       if (!ethereumDefault) {
         console.error(
-          '[Asil Settings Overrides] Couldn\'t find Ethereum default')
+          '[brave Settings Overrides] Couldn\'t find Ethereum default')
       } else {
         ethereumDefault.setAttribute(
           'toggle-off-label',
@@ -188,7 +188,7 @@ function InsertEthereumSubpage (
         ethereumTemplate.content.getElementById('ethereumExceptions')
       if (!ethereumExceptions) {
         console.error(
-          '[Asil Settings Overrides] Couldn\'t find Ethereum exceptions')
+          '[brave Settings Overrides] Couldn\'t find Ethereum exceptions')
       } else {
         ethereumExceptions.setAttribute(
           'block-header',
@@ -225,13 +225,13 @@ function InsertSolanaSubpage (
     querySelector('[route-path="/content/solana"]')
   if (!solanaTemplate) {
     console.error(
-      '[Asil Settings Overrides] Couldn\'t find Solana template')
+      '[brave Settings Overrides] Couldn\'t find Solana template')
   } else {
     const solanaSubpage =
       solanaTemplate.content.querySelector('settings-subpage')
     if (!solanaSubpage) {
       console.error(
-        '[Asil Settings Overrides] Couldn\'t find Solana subpage')
+        '[brave Settings Overrides] Couldn\'t find Solana subpage')
     } else {
       solanaSubpage.setAttribute('page-title',
         I18nBehavior.i18n('siteSettingsCategorySolana'))
@@ -239,7 +239,7 @@ function InsertSolanaSubpage (
         solanaTemplate.content.getElementById('solanaDefault')
       if (!solanaDefault) {
         console.error(
-          '[Asil Settings Overrides] Couldn\'t find Solana default')
+          '[brave Settings Overrides] Couldn\'t find Solana default')
       } else {
         solanaDefault.setAttribute(
           'toggle-off-label',
@@ -252,7 +252,7 @@ function InsertSolanaSubpage (
         solanaTemplate.content.getElementById('solanaExceptions')
       if (!solanaExceptions) {
         console.error(
-          '[Asil Settings Overrides] Couldn\'t find Solana exceptions')
+          '[brave Settings Overrides] Couldn\'t find Solana exceptions')
       } else {
         solanaExceptions.setAttribute(
           'block-header',
@@ -284,13 +284,13 @@ function InsertShieldsSubpage (
     querySelector('[route-path="/content/braveShields"]')
   if (!shieldsTemplate) {
     console.error(
-      '[Asil Settings Overrides] Couldn\'t find Shields template')
+      '[brave Settings Overrides] Couldn\'t find Shields template')
   } else {
     const shieldsSubpage =
       shieldsTemplate.content.querySelector('settings-subpage')
     if (!shieldsSubpage) {
       console.error(
-        '[Asil Settings Overrides] Couldn\'t find Shields subpage')
+        '[brave Settings Overrides] Couldn\'t find Shields subpage')
     } else {
       shieldsSubpage.setAttribute('page-title',
         I18nBehavior.i18n('siteSettingsShieldsStatus'))
@@ -298,7 +298,7 @@ function InsertShieldsSubpage (
         shieldsTemplate.content.getElementById('shieldsExceptions')
       if (!shieldsExceptions) {
         console.error(
-          '[Asil Settings Overrides] Couldn\'t find Shields exceptions')
+          '[brave Settings Overrides] Couldn\'t find Shields exceptions')
       } else {
         shieldsExceptions.setAttribute(
           'block-header',
@@ -315,12 +315,12 @@ RegisterPolymerTemplateModifications({
   'settings-privacy-page': (templateContent) => {
     const pages = templateContent.getElementById('pages')
     if (!pages) {
-      console.error(`[Asil Settings Overrides] Couldn't find privacy_page #pages`)
+      console.error(`[brave Settings Overrides] Couldn't find privacy_page #pages`)
     } else {
       if (!loadTimeData.getBoolean('isIdleDetectionFeatureEnabled')) {
         const idleDetection = templateContent.querySelector('[route-path="/content/idleDetection"]')
         if (!idleDetection) {
-          console.error(`[Asil Settings Overrides] Couldn't find idle detection template`)
+          console.error(`[brave Settings Overrides] Couldn't find idle detection template`)
         } else {
           idleDetection.content.firstElementChild.hidden = true
         }
@@ -344,20 +344,20 @@ RegisterPolymerTemplateModifications({
         querySelector(`template[if*='isPrivacySandboxSettings3Enabled_']`)
       if (!privacySandboxSettings3Template) {
         console.error(
-          '[Asil Settings Overrides] Could not find template with ' +
+          '[brave Settings Overrides] Could not find template with ' +
           'if*=isPrivacySandboxSettings3Enabled_ on privacy page.')
       } else {
         const privacySandboxLinkRow = privacySandboxSettings3Template.content.
           getElementById('privacySandboxLinkRow')
         if (!privacySandboxLinkRow) {
-          console.error('[Asil Settings Overrides] Could not find privacySandboxLinkRow id on privacy page.')
+          console.error('[brave Settings Overrides] Could not find privacySandboxLinkRow id on privacy page.')
         } else {
           privacySandboxLinkRow.setAttribute('hidden', 'true')
         }
         const privacySandboxLink = privacySandboxSettings3Template.content.
           getElementById('privacySandboxLink')
         if (!privacySandboxLink) {
-          console.error('[Asil Settings Overrides] Could not find privacySandboxLink id on privacy page.')
+          console.error('[brave Settings Overrides] Could not find privacySandboxLink id on privacy page.')
         } else {
           privacySandboxSettings3Template.setAttribute('hidden', 'true')
         }
@@ -366,14 +366,14 @@ RegisterPolymerTemplateModifications({
         querySelector(`template[if*='isPrivacySandboxSettings4Enabled_']`)
       if (!privacySandboxSettings4Template) {
         console.error(
-          '[Asil Settings Overrides] Could not find template with ' +
+          '[brave Settings Overrides] Could not find template with ' +
           'if*=isPrivacySandboxSettings4Enabled_ on privacy page.')
       } else {
         const privacySandboxLinkRow = privacySandboxSettings4Template.content.
           getElementById('privacySandboxLinkRow')
         if (!privacySandboxLinkRow) {
           console.error(
-            '[Asil Settings Overrides] Could not find privacySandboxLinkRow ' +
+            '[brave Settings Overrides] Could not find privacySandboxLinkRow ' +
             'id on privacy page.')
         } else {
           privacySandboxLinkRow.setAttribute('hidden', 'true')
@@ -383,11 +383,11 @@ RegisterPolymerTemplateModifications({
 
     const showPrivacyGuideEntryPointTemplate = templateContent.querySelector(`template[if*='showPrivacyGuideEntryPoint_']`)
     if (!showPrivacyGuideEntryPointTemplate) {
-      console.error('[Asil Settings Overrides] Could not find template with if*=showPrivacyGuideEntryPoint_ on privacy page.')
+      console.error('[brave Settings Overrides] Could not find template with if*=showPrivacyGuideEntryPoint_ on privacy page.')
     } else {
       const privacyGuideLinkRow = showPrivacyGuideEntryPointTemplate.content.getElementById('privacyGuideLinkRow')
       if (!privacyGuideLinkRow) {
-        console.error('[Asil Settings Overrides] Could not find privacyGuideLinkRow id on privacy page.')
+        console.error('[brave Settings Overrides] Could not find privacyGuideLinkRow id on privacy page.')
       } else {
         privacyGuideLinkRow.setAttribute('hidden', 'true')
       }

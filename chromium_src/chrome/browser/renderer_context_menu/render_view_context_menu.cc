@@ -1,4 +1,4 @@
-/* Copyright (c) 2018 The Asil Authors. All rights reserved.
+/* Copyright (c) 2018 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -290,7 +290,7 @@ void BraveRenderViewContextMenu::CopyTextFromImage() {
 void BraveRenderViewContextMenu::AddSpellCheckServiceItem(bool is_checked) {
   // Call our implementation, not the one in the base class.
   // Assumption:
-  // Use of spelling service is disabled in Asil profile preferences.
+  // Use of spelling service is disabled in brave profile preferences.
   DCHECK(!GetProfile()->GetPrefs()->GetBoolean(
       spellcheck::prefs::kSpellCheckUseSpellingService));
   AddSpellCheckServiceItem(&menu_model_, is_checked);
@@ -300,12 +300,12 @@ void BraveRenderViewContextMenu::AddSpellCheckServiceItem(bool is_checked) {
 void BraveRenderViewContextMenu::AddSpellCheckServiceItem(
     ui::SimpleMenuModel* menu,
     bool is_checked) {
-  // Suppress adding "Spellcheck->Ask Asil for suggestions" item.
+  // Suppress adding "Spellcheck->Ask brave for suggestions" item.
 }
 
 void BraveRenderViewContextMenu::AddAccessibilityLabelsServiceItem(
     bool is_checked) {
-  // Suppress adding "Get image descriptions from Asil"
+  // Suppress adding "Get image descriptions from brave"
 }
 
 #if BUILDFLAG(ENABLE_IPFS)

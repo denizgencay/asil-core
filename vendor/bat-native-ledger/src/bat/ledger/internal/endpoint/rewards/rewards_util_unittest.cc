@@ -32,7 +32,7 @@ TEST(RewardsUtilTest, GetServerUrlStaging) {
 TEST(RewardsUtilTest, GetServerUrlProduction) {
   ledger::_environment = mojom::Environment::PRODUCTION;
   const std::string url = GetServerUrl("/test");
-  ASSERT_EQ(url, "https://rewards.asil.com/test");
+  ASSERT_EQ(url, "https://rewards.brave.com/test");
 }
 
 }  // namespace rewards

@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -14,7 +14,7 @@
 
 namespace brave_news {
 
-// Convert from the "combined feed" hosted remotely to Asil News mojom items.
+// Convert from the "combined feed" hosted remotely to brave News mojom items.
 // TODO(petemill): Rename this file to combined_feed_parsing.h or similar,
 // in order to differentiate the "Combined Feed" from
 // a "Direct Feed" (a.k.a RSS).

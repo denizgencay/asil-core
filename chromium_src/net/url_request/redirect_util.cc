@@ -1,4 +1,4 @@
-/* Copyright 2020 The Asil Authors. All rights reserved.
+/* Copyright 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -31,7 +31,7 @@ void RedirectUtil::UpdateHttpRequest(
                                  should_clear_upload);
   // Hack for capping referrers at the network layer.
   if (removed_headers) {
-    if (base::Contains(*removed_headers, "X-Asil-Cap-Referrer")) {
+    if (base::Contains(*removed_headers, "X-brave-Cap-Referrer")) {
       GURL capped_referrer = URLRequestJob::ComputeReferrerForPolicy(
           ReferrerPolicy::REDUCE_GRANULARITY_ON_TRANSITION_CROSS_ORIGIN,
           GURL(redirect_info.new_referrer), redirect_info.new_url);

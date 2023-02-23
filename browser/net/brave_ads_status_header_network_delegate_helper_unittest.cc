@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -30,13 +30,13 @@ using testing::Return;
 namespace {
 
 constexpr char kBraveSearchRequestUrl[] =
-    "https://search.asil.com/search?q=qwerty";
+    "https://search.brave.com/search?q=qwerty";
 constexpr char kBraveSearchImageRequestUrl[] =
-    "https://search.asil.com/img.png";
+    "https://search.brave.com/img.png";
 constexpr char kNonBraveSearchRequestUrl[] =
-    "https://asil.com/search?q=qwerty";
-constexpr char kBraveSearchTabUrl[] = "https://search.asil.com";
-constexpr char kNonBraveSearchTabUrl[] = "https://asil.com";
+    "https://brave.com/search?q=qwerty";
+constexpr char kBraveSearchTabUrl[] = "https://search.brave.com";
+constexpr char kNonBraveSearchTabUrl[] = "https://brave.com";
 
 }  // namespace
 

@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -108,7 +108,7 @@ IN_PROC_BROWSER_TEST_F(SearchEngineProviderP3ATest, SwitchSearchEngineP3A) {
   TemplateURL ddg_url(*ddg_data);
 
   service->SetUserSelectedDefaultSearchProvider(&ddg_url);
-  // This assumes Asil Search is the default!
+  // This assumes brave Search is the default!
   histogram_tester_->ExpectBucketCount(kSwitchSearchEngineMetric,
                                        SearchEngineSwitchP3A::kBraveToDDG, 1);
 

@@ -1,4 +1,4 @@
-/* Copyright (c) 2023 The Asil Authors. All rights reserved.
+/* Copyright (c) 2023 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -252,7 +252,7 @@ IN_PROC_BROWSER_TEST_F(EventSourcePoolLimitBrowserTest,
 
   // Expect the limit is NOT active in the first-party a.com frame, bc the pool
   // is located in the a.com renderer process.
-  // TODO(aedelstein@asil.com): Check why -- possible concern?
+  // TODO(aedelstein@brave.com): Check why -- possible concern?
   auto* a_com_in_a_com_rfh = GetNthChildFrameWithHost(a_com_rfh, "a.com");
   OpenEventSources(a_com_in_a_com_rfh, kEventSourcesOpenScript, 1);
 

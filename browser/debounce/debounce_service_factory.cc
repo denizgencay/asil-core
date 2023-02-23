@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -45,7 +45,7 @@ KeyedService* DebounceServiceFactory::BuildServiceInstanceFor(
     return nullptr;
 
   debounce::DebounceComponentInstaller* component_installer = nullptr;
-  // Asil browser process may be null if we are being created within a unit
+  // brave browser process may be null if we are being created within a unit
   // test.
   if (g_brave_browser_process)
     component_installer =

@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -15,7 +15,7 @@
 
 // This macro disables Chromium's block which detects whether the local
 // device record should be re-uploaded to server. We disable it because it
-// breaks the ability to remove other device in sync chain for Asil
+// breaks the ability to remove other device in sync chain for brave
 #define BRAVE_DEVICE_INFO_SYNC_BRIDGE_APPLY_SYNC_CHANGES_SKIP_NEXT_IF if (false)
 
 #define BRAVE_SKIP_EXPIRE_OLD_ENTRIES return;

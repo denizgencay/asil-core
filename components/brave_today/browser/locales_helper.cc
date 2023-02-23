@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -29,11 +29,11 @@ namespace brave_news {
 namespace {
 
 // In lieue of a component providing a dynamic list, we keep a hard-coded
-// list of matches for enabling Asil News on the NTP and prompting the user
+// list of matches for enabling brave News on the NTP and prompting the user
 // to opt-in.
 constexpr auto kEnabledLanguages =
     base::MakeFixedFlatSet<base::StringPiece>({"en", "ja"});
-// We can add to this list as new locales become available to have Asil News
+// We can add to this list as new locales become available to have brave News
 // show when it's ready for those users.
 constexpr auto kEnabledLocales =
     base::MakeFixedFlatSet<base::StringPiece>({"es_ES", "es_MX", "pt_BR"});

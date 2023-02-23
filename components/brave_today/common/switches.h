@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -9,10 +9,10 @@
 namespace brave_today {
 namespace switches {
 
-// Allow providing an alternate host for Asil Today feeds (e.g. staging or dev)
+// Allow providing an alternate host for brave Today feeds (e.g. staging or dev)
 extern const char kBraveTodayHost[];
 
-// Allow overriding the region for Asil News feeds (e.g. ja, en_US ect.)
+// Allow overriding the region for brave News feeds (e.g. ja, en_US ect.)
 extern const char kBraveNewsRegion[];
 
 }  // namespace switches

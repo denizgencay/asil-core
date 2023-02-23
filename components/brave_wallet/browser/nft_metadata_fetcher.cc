@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -52,9 +52,9 @@ net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotationTag() {
         sender: "NFT Metata Fetcher"
         description:
           "This service is used to fetch NFT metadata "
-          "on behalf of the user interacting with the native Asil wallet."
+          "on behalf of the user interacting with the native brave wallet."
         trigger:
-          "Triggered by uses of the native Asil wallet."
+          "Triggered by uses of the native brave wallet."
         data:
           "NFT Metadata JSON."
         destination: WEBSITE

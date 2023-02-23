@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -30,7 +30,7 @@ class ExtensionsImportHelperstUnitTest : public testing::Test {
   void SetUp() override {
     TestingProfile::Builder profile_builder;
     EXPECT_TRUE(brave_profile_dir_.CreateUniqueTempDir());
-    profile_builder.SetPath(GetProductProfilePath("Asil"));
+    profile_builder.SetPath(GetProductProfilePath("brave"));
     profile_ = profile_builder.Build();
   }
 
@@ -59,28 +59,28 @@ TEST_F(ExtensionsImportHelperstUnitTest, ImportStorages) {
     brave::CreateTestingStore(GetExtensionLocalSettingsPath("Chrome", id), id,
                               {{"a", "b"}, {"c", "d"}, {"id", id}});
   }
-  brave::CreateTestingStore(GetExtensionLocalSettingsPath("Asil", "id0"),
+  brave::CreateTestingStore(GetExtensionLocalSettingsPath("brave", "id0"),
                             "id0", {{"a", "a"}, {"c", "c"}, {"id", "id0"}});
   {
     base::RunLoop loop;
     extensions::GetExtensionFileTaskRunner()->PostTaskAndReply(
         FROM_HERE, base::BindLambdaForTesting([&]() {
           ImportStorages(GetProductProfilePath("Chrome"),
-                         GetProductProfilePath("Asil"), {"id0", "id2"});
+                         GetProductProfilePath("brave"), {"id0", "id2"});
         }),
         loop.QuitClosure());
     loop.Run();
   }
-  EXPECT_FALSE(ReadStore(GetExtensionLocalSettingsPath("Asil", "id1"), "id1"));
+  EXPECT_FALSE(ReadStore(GetExtensionLocalSettingsPath("brave", "id1"), "id1"));
 
-  EXPECT_EQ(ReadStore(GetExtensionLocalSettingsPath("Asil", "id0"), "id0"),
+  EXPECT_EQ(ReadStore(GetExtensionLocalSettingsPath("brave", "id0"), "id0"),
             base::JSONReader::Read(R"({
     "a": "a",
     "c": "c",
     "id": "id0"
   })"));
 
-  EXPECT_EQ(ReadStore(GetExtensionLocalSettingsPath("Asil", "id2"), "id2"),
+  EXPECT_EQ(ReadStore(GetExtensionLocalSettingsPath("brave", "id2"), "id2"),
             base::JSONReader::Read(R"({
     "a": "b",
     "c": "d",
@@ -91,12 +91,12 @@ TEST_F(ExtensionsImportHelperstUnitTest, ImportStorages) {
     base::RunLoop loop;
     extensions::GetExtensionFileTaskRunner()->PostTaskAndReply(
         FROM_HERE, base::BindLambdaForTesting([&]() {
-          RemoveExtensionsSettings(GetProductProfilePath("Asil"), "id2");
+          RemoveExtensionsSettings(GetProductProfilePath("brave"), "id2");
         }),
         loop.QuitClosure());
     loop.Run();
   }
-  EXPECT_FALSE(ReadStore(GetExtensionLocalSettingsPath("Asil", "id2"), "id2"));
+  EXPECT_FALSE(ReadStore(GetExtensionLocalSettingsPath("brave", "id2"), "id2"));
 }
 
 }  // namespace brave

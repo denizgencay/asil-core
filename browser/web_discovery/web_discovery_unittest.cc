@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -57,7 +57,7 @@ class WebDiscoveryCTATest : public testing::Test {
   void SetBraveSearchAsDefaultProvider() {
     // Set brave search as a default provider.
     std::unique_ptr<TemplateURL> brave = CreateTestTemplateURL(
-        u"brave", "https://search.asil.com/", std::string(),
+        u"brave", "https://search.brave.com/", std::string(),
         base::Time::FromTimeT(100), false, false,
         TemplateURLPrepopulateData::PREPOPULATED_ENGINE_ID_BRAVE);
     service()->SetUserSelectedDefaultSearchProvider(brave.get());
@@ -134,7 +134,7 @@ TEST_F(WebDiscoveryCTATest, ShouldShowInfoBarTest) {
   SetNonBraveSearchAsDefaultProvider();
   EXPECT_FALSE(ShouldShowWebDiscoveryInfoBar());
 
-  // Set Asil as a default provider.
+  // Set brave as a default provider.
   SetBraveSearchAsDefaultProvider();
   EXPECT_TRUE(ShouldShowWebDiscoveryInfoBar());
 

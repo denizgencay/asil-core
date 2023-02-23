@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -83,7 +83,7 @@ TEST_F(BraveFarblingServiceTest, InvalidDomains) {
       GURL("about:blank"),
       GURL("brave://settings"),
       GURL("chrome://version"),
-      GURL("gopher://asil.com"),
+      GURL("gopher://brave.com"),
       GURL("file:///etc/passwd"),
       GURL("javascript:alert(1)"),
       GURL("data:text/plain;base64,"),

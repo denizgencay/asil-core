@@ -1,4 +1,4 @@
-/* Copyright 2019 The Asil Authors. All rights reserved.
+/* Copyright 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -33,7 +33,7 @@ TEST(BraveReferralsNetworkDelegateHelperTest, ReplaceHeadersForMatchingDomain) {
         &headers, brave::ResponseCallback(), request_info);
 
     std::string partner_header;
-    headers.GetHeader("X-Asil-Partner", &partner_header);
+    headers.GetHeader("X-brave-Partner", &partner_header);
     EXPECT_EQ(partner_header, std::get<1>(c));
     EXPECT_EQ(rc, net::OK);
   }
@@ -53,7 +53,7 @@ TEST(BraveReferralsNetworkDelegateHelperTest,
     int rc = brave::OnBeforeStartTransaction_ReferralsWork(
         &headers, brave::ResponseCallback(), request_info);
 
-    EXPECT_FALSE(headers.HasHeader("X-Asil-Partner"));
+    EXPECT_FALSE(headers.HasHeader("X-brave-Partner"));
     EXPECT_EQ(rc, net::OK);
   }
 }

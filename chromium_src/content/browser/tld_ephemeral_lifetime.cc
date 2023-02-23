@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -20,7 +20,7 @@ using TLDEphemeralLifetimeMap =
     std::map<TLDEphemeralLifetimeKey, base::WeakPtr<TLDEphemeralLifetime>>;
 
 // This map allows TLDEphemeralLifetime to manage the lifetime of ephemeral
-// storage. We use weak pointers so that we can catch misuse of more easily.
+// storage. We use weak pointers so that we can catch misuse of more ebravey.
 // With weak pointers, these entries will become null if they are destroyed,
 // but not removed from the map.
 TLDEphemeralLifetimeMap& active_tld_storage_areas() {

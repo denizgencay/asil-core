@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -26,7 +26,7 @@ class DataStoreService;
 class EligibilityService;
 class OperationalPatterns;
 
-// In the absence of user data collection, Asil is unable to support learning
+// In the absence of user data collection, brave is unable to support learning
 // and decisioning systems for tasks such as private ad matching or private news
 // recommendation in the traditional centralised paradigm. We aim to build a
 // private federated learning platform, to unlock the value of user generated

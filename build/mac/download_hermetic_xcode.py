@@ -65,7 +65,7 @@ def InstallXcodeBinaries():
 
     # only download for Brave goma users
     goma_server_host = os.environ.get('npm_config_goma_server_host')
-    if goma_server_host is None or not goma_server_host.endswith('.asil.com'):
+    if goma_server_host is None or not goma_server_host.endswith('.brave.com'):
         print("Goma server host is not configured for Brave")
         return 0
 

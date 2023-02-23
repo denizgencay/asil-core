@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -99,7 +99,7 @@ const mockCoinMarketData: BraveWallet.CoinMarket[] = [
     id: 'bitcoin',
     symbol: 'btc',
     name: 'Bitcoin',
-    image: 'https://assets.cgproxy.asil.com/coins/images/1/large/bitcoin.png?1547033579',
+    image: 'https://assets.cgproxy.brave.com/coins/images/1/large/bitcoin.png?1547033579',
     marketCap: 768537918492,
     marketCapRank: 1,
     currentPrice: 40408,
@@ -111,7 +111,7 @@ const mockCoinMarketData: BraveWallet.CoinMarket[] = [
     id: 'ethereum',
     symbol: 'eth',
     name: 'Ethereum',
-    image: 'https://assets.cgproxy.asil.com/coins/images/279/large/ethereum.png?1595348880',
+    image: 'https://assets.cgproxy.brave.com/coins/images/279/large/ethereum.png?1595348880',
     currentPrice: 3000.46,
     marketCap: 361354711703,
     marketCapRank: 2,
@@ -123,7 +123,7 @@ const mockCoinMarketData: BraveWallet.CoinMarket[] = [
     id: 'tether',
     symbol: 'usdt',
     name: 'Tether',
-    image: 'https://assets.cgproxy.asil.com/coins/images/325/large/Tether-logo.png?1598003707',
+    image: 'https://assets.cgproxy.brave.com/coins/images/325/large/Tether-logo.png?1598003707',
     currentPrice: 0.999981,
     marketCap: 83153567337,
     marketCapRank: 3,
@@ -135,7 +135,7 @@ const mockCoinMarketData: BraveWallet.CoinMarket[] = [
     id: 'binancecoin',
     symbol: 'bnb',
     name: 'BNB',
-    image: 'https://assets.cgproxy.asil.com/coins/images/825/large/bnb-icon2_2x.png?1644979850',
+    image: 'https://assets.cgproxy.brave.com/coins/images/825/large/bnb-icon2_2x.png?1644979850',
     currentPrice: 400.1,
     marketCap: 67256828191,
     marketCapRank: 4,

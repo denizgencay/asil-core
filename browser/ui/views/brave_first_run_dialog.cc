@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -169,7 +169,7 @@ bool BraveFirstRunDialog::Accept() {
              shell_integration::DefaultWebClientState state) {
             if (pin_to_shortcut &&
                 state == shell_integration::DefaultWebClientState::IS_DEFAULT) {
-              // Try to pin to taskbar when Asil is set as a default browser.
+              // Try to pin to taskbar when brave is set as a default browser.
               shell_integration::PinShortcut();
             }
           },

@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -93,7 +93,7 @@ TEST(QrCodeDataValidator, VersionDeprecatedAfterSunset) {
 }
 
 TEST(QrCodeDataValidator, NotWellFormed) {
-  // These tests are run around NOT_AFTER date to keep easily readed json
+  // These tests are run around NOT_AFTER date to keep ebravey readed json
   // strings
 
   // Verify that NOT_AFTER looks like valid

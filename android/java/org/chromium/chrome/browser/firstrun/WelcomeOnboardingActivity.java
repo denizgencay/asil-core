@@ -48,7 +48,7 @@ public class WelcomeOnboardingActivity extends FirstRunActivityBase {
     // mInitializeViewsDone and mInvokePostWorkAtInitializeViews are accessed
     // from the same thread, so no need to use extra locks
     private static final String P3A_URL =
-            "https://support.asil.com/hc/en-us/articles/9140465918093-What-is-P3A-in-Brave";
+            "https://support.brave.com/hc/en-us/articles/9140465918093-What-is-P3A-in-Brave";
     private boolean mInitializeViewsDone;
     private boolean mInvokePostWorkAtInitializeViews;
     private boolean mIsP3aEnabled;

@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -25,9 +25,9 @@ int OnBeforeStartTransaction_AdsStatusHeader(
       brave_ads::AdsServiceFactory::GetForProfile(
           Profile::FromBrowserContext(ctx->browser_context));
 
-  // The X-Asil-Ads-Enabled header should be added when Asil Private Ads are
-  // enabled, the requested URL host is one of the Asil Search domains, and the
-  // request originates from one of the Asil Search domains.
+  // The X-brave-Ads-Enabled header should be added when brave Private Ads are
+  // enabled, the requested URL host is one of the brave Search domains, and the
+  // request originates from one of the brave Search domains.
   if (!ads_service || !ads_service->IsEnabled() ||
       !brave_search::IsAllowedHost(ctx->request_url) ||
       (!brave_search::IsAllowedHost(ctx->tab_origin) &&

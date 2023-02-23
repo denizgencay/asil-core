@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -35,7 +35,7 @@ namespace {
 net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotationTagForURLLoad() {
   return net::DefineNetworkTrafficAnnotation("playlist_service", R"(
       semantics {
-        sender: "Asil Playlist Service"
+        sender: "brave Playlist Service"
         description:
           "Fetching media file for newly created playlist"
         trigger:

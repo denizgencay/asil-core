@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -154,7 +154,7 @@ BraveWalletGetWeb3ProviderFunction::Run() {
   // be the default Dapp provider. Since the new wallet is not an
   // extension at all, we can just re-use the Crypto Wallets ID.
   // We also don't want to prompt in Crypto Wallets when it's set
-  // to Asil Wallet.
+  // to brave Wallet.
   if (default_wallet == ::brave_wallet::mojom::DefaultWallet::BraveWallet ||
       default_wallet ==
           ::brave_wallet::mojom::DefaultWallet::BraveWalletPreferExtension ||

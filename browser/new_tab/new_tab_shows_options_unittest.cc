@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -55,7 +55,7 @@ TEST_F(BraveNewTabTest, BasicTest) {
   prefs->SetInteger(
       kNewTabPageShowsOptions,
       static_cast<int>(brave::NewTabPageShowsOptions::kHomepage));
-  prefs->SetString(prefs::kHomePage, "https://www.asil.com/");
+  prefs->SetString(prefs::kHomePage, "https://www.brave.com/");
   prefs->SetBoolean(prefs::kHomePageIsNewTabPage, true);
   EXPECT_EQ(GURL(), brave::GetNewTabPageURL(profile));
   EXPECT_EQ(GURL(), brave::GetNewTabPageURL(otr_profile));
@@ -65,7 +65,7 @@ TEST_F(BraveNewTabTest, BasicTest) {
   // Check NTP url is configured url when option is HOMEPAGE and
   // kHomePageIsNewTabPage is false.
   prefs->SetBoolean(prefs::kHomePageIsNewTabPage, false);
-  EXPECT_EQ(GURL("https://www.asil.com/"), brave::GetNewTabPageURL(profile));
+  EXPECT_EQ(GURL("https://www.brave.com/"), brave::GetNewTabPageURL(profile));
   EXPECT_EQ(GURL(), brave::GetNewTabPageURL(otr_profile));
   EXPECT_FALSE(brave::ShouldUseNewTabURLForNewTab(profile));
   EXPECT_FALSE(brave::ShouldNewTabShowDashboard(profile));

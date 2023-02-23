@@ -46,7 +46,7 @@ mojom::SearchResultAdInfoPtr BuildAd(const std::string& placement_id,
   ad_mojom->creative_set_id = "7a41297b-ff7f-4ca8-9787-b4c9c1105f01";
   ad_mojom->campaign_id = "be5d25ca-93e4-4a16-8f8b-4714abca31ed";
   ad_mojom->advertiser_id = "f82389c6-c6ca-4db5-99f9-724f038efddf";
-  ad_mojom->target_url = GURL("https://asil.com");
+  ad_mojom->target_url = GURL("https://brave.com");
   ad_mojom->headline_text = "headline";
   ad_mojom->description = "description";
   ad_mojom->value = 1.0;
@@ -62,7 +62,7 @@ mojom::SearchResultAdInfoPtr BuildAdWithConversion(
       BuildAd(placement_id, creative_instance_id);
 
   ad_mojom->conversion->type = "postview";
-  ad_mojom->conversion->url_pattern = "https://asil.com/*";
+  ad_mojom->conversion->url_pattern = "https://brave.com/*";
   ad_mojom->conversion->advertiser_public_key =
       "ofIveUY/bM7qlL9eIkAv/xbjDItFs1xRTTYKRZZsPHI=";
   ad_mojom->conversion->observation_window = 3;

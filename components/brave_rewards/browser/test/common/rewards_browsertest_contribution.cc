@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -459,7 +459,7 @@ void RewardsBrowserTestContribution::SetUpGeminiWallet(
   wallet.Set("token", "token");
   wallet.Set("address", rewards_browsertest_util::GetGeminiExternalAddress());
   wallet.Set("status", static_cast<int>(status));
-  wallet.Set("user_name", "Asil Test");
+  wallet.Set("user_name", "brave Test");
 
   std::string json;
   base::JSONWriter::Write(wallet, &json);
@@ -491,7 +491,7 @@ void RewardsBrowserTestContribution::SetUpUpholdWallet(
   wallet.Set("token", "token");
   wallet.Set("address", rewards_browsertest_util::GetUpholdExternalAddress());
   wallet.Set("status", static_cast<int>(status));
-  wallet.Set("user_name", "Asil Test");
+  wallet.Set("user_name", "brave Test");
 
   std::string json;
   base::JSONWriter::Write(wallet, &json);

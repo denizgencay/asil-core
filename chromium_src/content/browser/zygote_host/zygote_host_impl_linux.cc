@@ -1,4 +1,4 @@
-/* Copyright 2020 The Asil Authors. All rights reserved.
+/* Copyright 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -7,7 +7,7 @@
 
 #define BRAVE_ZYGOTE_HOST_IMPL_LINUX_ZYGOTE_HOST_IMPL_INIT             \
   << "No usable sandbox! You probably need to enable user namespaces " \
-     "in your kernel. See https://asil.com/linux for more info.";     \
+     "in your kernel. See https://brave.com/linux for more info.";     \
   std::stringstream ss;                                                \
   ss
 

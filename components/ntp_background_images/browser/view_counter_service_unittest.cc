@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -51,7 +51,7 @@ constexpr char kAltText[] = "Technikke: For music lovers.";
 constexpr char kCompanyName[] = "Technikke";
 constexpr char kLogoImageFile[] = "logo_image.png";
 constexpr char kLogoImageUrl[] = "https://static.bave.com/logos/logo_image.png";
-constexpr char kDestinationUrl[] = "https://asil.com";
+constexpr char kDestinationUrl[] = "https://brave.com";
 constexpr char kCreativeInstanceId[] = "c0d61af3-3b85-4af4-a3cc-cf1b3dd40e70";
 constexpr char kSponsoredImageFile[] = "wallpaper2.jpg";
 constexpr char kSponsoredImageUrl[] =
@@ -92,7 +92,7 @@ std::unique_ptr<NTPSponsoredImagesData> GetDemoBrandedWallpaper(
   if (super_referral) {
     demo->theme_name = "Technikke";
     demo->top_sites = {
-      { "Asil", "https://asil.com", "brave.png",
+      { "brave", "https://brave.com", "brave.png",
         base::FilePath(FILE_PATH_LITERAL("brave.png")) },
      { "BAT", "https://basicattentiontoken.org/", "bat.png",
         base::FilePath(FILE_PATH_LITERAL("bat.png")) },
@@ -105,8 +105,8 @@ std::unique_ptr<NTPSponsoredImagesData> GetDemoBrandedWallpaper(
 std::unique_ptr<NTPBackgroundImagesData> GetDemoBackgroundWallpaper() {
   auto demo = std::make_unique<NTPBackgroundImagesData>();
   demo->backgrounds = {
-      {base::FilePath(FILE_PATH_LITERAL("wallpaper1.jpg")), "Asil",
-       "https://asil.com/"},
+      {base::FilePath(FILE_PATH_LITERAL("wallpaper1.jpg")), "brave",
+       "https://brave.com/"},
   };
 
   return demo;

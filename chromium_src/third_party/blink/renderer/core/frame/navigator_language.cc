@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -20,7 +20,7 @@ void NavigatorLanguage::EnsureUpdatedLanguage() {
   NavigatorLanguage_ChromiumImpl::EnsureUpdatedLanguage();
   BraveFarblingLevel farbling_level = brave::GetBraveFarblingLevelFor(
       execution_context_, BraveFarblingLevel::OFF);
-  // If Asil Shields are down or anti-fingerprinting is off for this site,
+  // If brave Shields are down or anti-fingerprinting is off for this site,
   // do nothing.
   if (farbling_level == BraveFarblingLevel::OFF)
     return;

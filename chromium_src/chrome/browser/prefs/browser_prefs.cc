@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -61,7 +61,7 @@ void MigrateObsoleteProfilePrefs(Profile* profile) {
 #if !BUILDFLAG(USE_GCM_FROM_PLATFORM)
   // Added 02/2020.
   // Must be called before ChromiumImpl because it's migrating a Chromium pref
-  // to Asil pref.
+  // to brave pref.
   gcm::MigrateGCMPrefs(profile);
 #endif
 

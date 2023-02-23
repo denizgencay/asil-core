@@ -14,22 +14,22 @@
 <translation id="1089606299949659462">Карап чыгуу аяктады!</translation>
 <translation id="1095761715416917775">Шайкештирилген маалыматыңызга каалаган убакта кире аларыңызды текшериңиз</translation>
 <translation id="1100066534610197918">Топтогу жаңы өтмөктө ачуу</translation>
-<translation id="4660777881054855091">Asil'ду жакшыртууга жардам бере аласызбы?</translation>
+<translation id="4660777881054855091">brave'ду жакшыртууга жардам бере аласызбы?</translation>
 <translation id="1105960400813249514">Экранды тартып алуу</translation>
 <translation id="1108938384783527433">Таржымалды шайкештирүү</translation>
 <translation id="1110914759170138831">Кызыктуу көз ирмемдер кыскартылды</translation>
 <translation id="1111673857033749125">Башка түзмөктөрүңүздө сакталган кыстармалар ушул жерден көрүнөт.</translation>
 <translation id="1113597929977215864">Жөнөкөйлөштүрүлгөн көрүнүштү көрсөтүү</translation>
-<translation id="8577410793886633063">Asil'до жасаган аракеттериңиз, тандаган параметрлериңиз, каталар тууралуу маалымат</translation>
-<translation id="4470276443668654888">Google Pay'деги даректер жана төлөм ыкмалары шифрленбейт. Asil'до көрүлгөн вебсайттар шайкештирилбейт.
-Сыр сүйлөмүңүздү билген адам гана шифрленген маалыматыңызды окуй алат. Сыр сүйлөм Asil'га жөнөтүлбөйт же анда сакталбайт. Эгер сыр сүйлөмүңүздү унутуп калсаңыз же бул параметрди өзгөрткүңүз келсе, шайкештирүүнү баштапкы абалга келтиришиңиз керек болот. <ph name="BEGIN_LINK"/>Кеңири маалымат<ph name="END_LINK"/></translation>
-<translation id="1295971429974142731">Кооптуу вебсайттардан, жүктөлүп алынган файлдардан жана кеңейтүүлөрдөн коргобойт. Gmail жана Издөө сыяктуу Asil'дун башка кызматтарында мүмкүн болгондо Коопсуз серептөө иштетилет.</translation>
+<translation id="8577410793886633063">brave'до жасаган аракеттериңиз, тандаган параметрлериңиз, каталар тууралуу маалымат</translation>
+<translation id="4470276443668654888">Google Pay'деги даректер жана төлөм ыкмалары шифрленбейт. brave'до көрүлгөн вебсайттар шайкештирилбейт.
+Сыр сүйлөмүңүздү билген адам гана шифрленген маалыматыңызды окуй алат. Сыр сүйлөм brave'га жөнөтүлбөйт же анда сакталбайт. Эгер сыр сүйлөмүңүздү унутуп калсаңыз же бул параметрди өзгөрткүңүз келсе, шайкештирүүнү баштапкы абалга келтиришиңиз керек болот. <ph name="BEGIN_LINK"/>Кеңири маалымат<ph name="END_LINK"/></translation>
+<translation id="1295971429974142731">Кооптуу вебсайттардан, жүктөлүп алынган файлдардан жана кеңейтүүлөрдөн коргобойт. Gmail жана Издөө сыяктуу brave'дун башка кызматтарында мүмкүн болгондо Коопсуз серептөө иштетилет.</translation>
 <translation id="1129510026454351943">Кененирээк: <ph name="ERROR_DESCRIPTION"/></translation>
 <translation id="1142732900304639782">Төмөнкү сайттарды которуу сунушталбасын</translation>
 <translation id="1145536944570833626">Учурдагы дайындарды жок кылуу.</translation>
 <translation id="1146678959555564648">VR режимине кирүү</translation>
 <translation id="1149401351239820326">Колдонуу мөөнөтү аяктаган ай</translation>
-<translation id="7083341910267693582"><ph name="APP_NAME"/> Asil'до ачылат. Улантуу менен, <ph name="BEGIN_LINK1"/>Asil'дун Тейлөө шарттарына<ph name="END_LINK1"/> жана <ph name="BEGIN_LINK2"/>Asil менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_LINK2"/> макул болосуз.</translation>
+<translation id="7083341910267693582"><ph name="APP_NAME"/> brave'до ачылат. Улантуу менен, <ph name="BEGIN_LINK1"/>brave'дун Тейлөө шарттарына<ph name="END_LINK1"/> жана <ph name="BEGIN_LINK2"/>brave менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_LINK2"/> макул болосуз.</translation>
 <translation id="1154704303112745282">Барак оффлайнда жеткиликсиз: <ph name="VIOLATED_URL"/></translation>
 <translation id="1173894706177603556">Атын өзгөртүү</translation>
 <translation id="1177863135347784049">Өзгөчөлөштүрүлгөн</translation>
@@ -39,7 +39,7 @@
 <translation id="1201402288615127009">Кийинки</translation>
 <translation id="1202892408424955784">Көз салынган товарлар</translation>
 <translation id="1204037785786432551">Жүктөп алуу шилтемеси</translation>
-<translation id="7196655759099928465">Asil'догу аракет баскычы: <ph name="ACTION"/></translation>
+<translation id="7196655759099928465">brave'догу аракет баскычы: <ph name="ACTION"/></translation>
 <translation id="1206892813135768548">Шилтеме текстин көчүрүү</translation>
 <translation id="1208340532756947324">Бардык түзмөктөрүңүздө шайкештирүү жана жекечелештирүү үчүн шайкештирүүнү иштетиңиз</translation>
 <translation id="1209206284964581585">Азырынча жашыруу</translation>
@@ -47,14 +47,14 @@
 <translation id="1231733316453485619">Шайкештирүү күйгүзүлсүнбү?</translation>
 <translation id="123724288017357924">Кэшти колдонбой, учурдагы баракты кайра жүктөө</translation>
 <translation id="1239792311949352652">Бул баракты ыкчам бөлүшүңүз. Бул ыкчам баскычты түзөтүү үчүн жөндөөлөргө өтүңүз.</translation>
-<translation id="3251315496493761426">Asil'ду колдонуу кеңештери</translation>
+<translation id="3251315496493761426">brave'ду колдонуу кеңештери</translation>
 <translation id="1240288207750131269"><ph name="LANG"/> жүктөлүүдө</translation>
 <translation id="1240903469550363138">Улантуу үчүн <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> аты-жөнүңүздү, электрондук почтаңызды жана профилиңиздин сүрөтүн ушул сайт менен бөлүшөт. Бул сайттын <ph name="BEGIN_LINK1"/>купуялык саясатын<ph name="END_LINK1"/> жана <ph name="BEGIN_LINK2"/>тейлөө шарттарын<ph name="END_LINK2"/> карап чыгыңыз.</translation>
 <translation id="124116460088058876">Дагы тилдер</translation>
 <translation id="1242883863226959074">түзмөктө</translation>
 <translation id="124678866338384709">Учурдагы өтмөктү жабуу</translation>
 <translation id="1246905108078336582">Сунуш алмашуу буферинен өчүрүлсүнбү?</translation>
-<translation id="1996480094660735607">Asil чиймелек: <ph name="DOODLE_DESCRIPTION"/></translation>
+<translation id="1996480094660735607">brave чиймелек: <ph name="DOODLE_DESCRIPTION"/></translation>
 <translation id="1263231323834454256">Окуу тизмеси</translation>
 <translation id="1266864766717917324"><ph name="CONTENT_TYPE"/> менен бөлүшүлгөн жок</translation>
 <translation id="1283039547216852943">Жайып көрсөтүү үчүн таптап коюңуз</translation>
@@ -69,11 +69,11 @@
 <translation id="1316212908214730110">chrome_stylized_highlight_</translation>
 <translation id="1320912611264252795">Тематикасына жараша сакталган кыстармалар толук экранда ачылды</translation>
 <translation id="1327257854815634930">Чабыттоо таржымалы ачылды</translation>
-<translation id="6773423637732432200">Asil жаңырбай жатат. Кошумча параметрлер</translation>
-<translation id="7673009277700083027">Жарнамаларды талдоо аркылуу сиз баш баккан сайттар Asil'дон маалымат алып, жарнамаларынын майнаптуулугун талдай алышат. Жарнамаларды талдоо сайттарга мүмкүн болушунча аз маалымат алмашуу менен башка сайттарга көз салууну чектейт.
+<translation id="6773423637732432200">brave жаңырбай жатат. Кошумча параметрлер</translation>
+<translation id="7673009277700083027">Жарнамаларды талдоо аркылуу сиз баш баккан сайттар brave'дон маалымат алып, жарнамаларынын майнаптуулугун талдай алышат. Жарнамаларды талдоо сайттарга мүмкүн болушунча аз маалымат алмашуу менен башка сайттарга көз салууну чектейт.
 
 Көрүлгөн бардык же айрым вебсайттарыңызды өчүрсөңүз, аларга тиешелүү чен-өлчөм маалыматтары да өчүрүлөт. <ph name="BEGIN_LINK"/>Көрүлгөн вебсайттарыңызды<ph name="END_LINK"/> карап чыгыңыз.</translation>
-<translation id="3169981355900570544">Asil функциясынын кыска жолдору</translation>
+<translation id="3169981355900570544">brave функциясынын кыска жолдору</translation>
 <translation id="1344653310988386453">Бөлүнүп көрсөтүлгөн нерсеге шилтемени камтуу</translation>
 <translation id="1347468774581902829">Аракеттерди тескөө</translation>
 <translation id="1360432990279830238">Аккаунттан чыгып, шайкештирүүнү өчүрөсүзбү?</translation>
@@ -86,12 +86,12 @@
 <translation id="1386674309198842382"><ph name="LAST_UPDATED"/> күн мурун жигердүү болгон</translation>
 <translation id="13931502444227376">Улантуу үчүн <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> аты-жөнүңүздү, электрондук почтаңыздын дарегин жана профилиңиздин сүрөтүн ушул сайт менен бөлүшөт. Бул сайттын <ph name="BEGIN_LINK1"/>тейлөө шарттарын<ph name="END_LINK1"/> карап көрүңүз.</translation>
 <translation id="1397811292916898096"><ph name="PRODUCT_NAME"/> аркылуу издөө</translation>
-<translation id="5857638389580847844">Каалаган убакта Asil параметрлерине өтүп, баш тартсаңыз болот. Сынамык версиялар жарнамалардын учурдагы көрсөтүлүшү менен чогуу колдонулат, андыктан өзгөрүүлөр дароо көрүнбөйт.</translation>
+<translation id="5857638389580847844">Каалаган убакта brave параметрлерине өтүп, баш тартсаңыз болот. Сынамык версиялар жарнамалардын учурдагы көрсөтүлүшү менен чогуу колдонулат, андыктан өзгөрүүлөр дароо көрүнбөйт.</translation>
 <translation id="1406000523432664303">Байкоо салынбасын</translation>
 <translation id="1407069428457324124">Караңгы тема</translation>
 <translation id="1407135791313364759">Баарын ачуу</translation>
 <translation id="1409879593029778104">Мындай файл бар болгондуктан, <ph name="FILE_NAME"/> жүктөлүп алынган жок.</translation>
-<translation id="1853026300647876496">Asil менен байланышууда. Буга бир мүнөт кетиши мүмкүн...</translation>
+<translation id="1853026300647876496">brave менен байланышууда. Буга бир мүнөт кетиши мүмкүн...</translation>
 <translation id="1416550906796893042">Колдонмонун версиясы</translation>
 <translation id="1428770807407000502">Шайкештирүү өчүрүлсүнбү?</translation>
 <translation id="1430915738399379752">Басып чыгаруу</translation>
@@ -99,7 +99,7 @@
 <translation id="1437543266176261764"><ph name="APP_NAME"/> колдонмосунда иштеп жатат</translation>
 <translation id="1448440926884431741">Көз салган товарларды Кыстармаларда иреттей аласыз</translation>
 <translation id="1450753235335490080"><ph name="CONTENT_TYPE"/> менен бөлүшүү мүмкүн эмес</translation>
-<translation id="5598889255595678761">Asil’дун тилин тандаңыз</translation>
+<translation id="5598889255595678761">brave’дун тилин тандаңыз</translation>
 <translation id="1474893630593443211">Көрсөтүлгөн жарнамаларды көзөмөлдөөнүн кошумча параметрлери</translation>
 <translation id="1477626028522505441">Сервердеги маселелерден улам <ph name="FILE_NAME"/> жүктөлүп алынган жок.</translation>
 <translation id="148482509007564431">Тематикасына жараша сакталган кыстармалар</translation>
@@ -114,21 +114,21 @@
 <translation id="1518421282666914498">GIF быйтыкчасы: <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="1521774566618522728">Соңку аракеттер: бүгүн</translation>
 <translation id="1538801903729528855">Вебде оозеки издегенде жакшыраак натыйжаларды алыңыз</translation>
-<translation id="8090895580117672212">Asil аккаунтуңузду башкаруу үчүн "Аккаунтту башкаруу" баскычын таптап коюңуз</translation>
+<translation id="8090895580117672212">brave аккаунтуңузду башкаруу үчүн "Аккаунтту башкаруу" баскычын таптап коюңуз</translation>
 <translation id="1549000191223877751">Башка терезеге жылдыруу</translation>
-<translation id="1705567146636171298">Asil'ду жаңыртуу</translation>
-<translation id="3763131702135887799">Asil'ду пайдаланган адамдар үчүн аны жакшыртууга жардам бериңиз</translation>
+<translation id="1705567146636171298">brave'ду жаңыртуу</translation>
+<translation id="3763131702135887799">brave'ду пайдаланган адамдар үчүн аны жакшыртууга жардам бериңиз</translation>
 <translation id="6464648082977038075">Жашыруун өтмөктөрдү жабуу</translation>
 <translation id="1571304935088121812">Колдонуучунун атын көчүрүү</translation>
 <translation id="1592864538817356322">Стандарттуу коргоо:</translation>
 <translation id="1594635596540195766">Төмөнкү тизмеде <ph name="SUGGESTIONS_COUNT"/> нерсе сунушталды.</translation>
 <translation id="1977195831772110829"><ph name="BEGIN_BOLD"/>Маалыматыңызды кантип башкара аласыз:<ph name="END_BOLD"/> Купуялыгыңызды камсыздоо үчүн 4 апта мурун кызыккан нерселериңизди автоматтык түрдө жок кылып турабыз. Жаңы сайттарды карап чыккан сайын кызыккан нерселериңиздин тизмеси жаңыланып турат. Же болбосо кызыккан нерселерге кошкуңуз келбегендерин алып салсаңыз болот.</translation>
 <translation id="1628019612362412531">{NUM_SELECTED,plural, =1{Тандалган 1 нерсени алып салуу}other{Тандалган # нерсени алып салуу}}</translation>
-<translation id="3122582044404611732">Asil’дун башкы бетиндеги жаңы макалаларды окуңуз</translation>
+<translation id="3122582044404611732">brave’дун башкы бетиндеги жаңы макалаларды окуңуз</translation>
 <translation id="1641113438599504367">Коопсуз серептөө</translation>
 <translation id="164269334534774161">Бул барактын оффлайн көчүрмөсү <ph name="CREATION_TIME"/> түзүлгөн</translation>
 <translation id="1644574205037202324">Таржымал</translation>
-<translation id="160450840812032879">Видеолор Asil'дун башкы бетинде автоматтык түрдө кантип ойнотуларын тандаңыз.</translation>
+<translation id="160450840812032879">Видеолор brave'дун башкы бетинде автоматтык түрдө кантип ойнотуларын тандаңыз.</translation>
 <translation id="1670399744444387456">Негизги</translation>
 <translation id="1671236975893690980">Жүктөп алуу күтүлүүдө…</translation>
 <translation id="1672586136351118594">Экинчи көрүнбөсүн</translation>
@@ -139,7 +139,7 @@
 <translation id="1710099199314114079">Которуу же өтмөктөрдү жабуу</translation>
 <translation id="1718835860248848330">Акыркы бир саат</translation>
 <translation id="1724977129262658800">Сырсөзүңүздү түзөтүү үчүн кулпусун ачыңыз</translation>
-<translation id="6493900814829428590">Asil алдын ала жүктөгөн барактарды (баш багышыңыз мүмкүн деп болжолдогон) карап чыгып, тезирээк таба аласыз</translation>
+<translation id="6493900814829428590">brave алдын ала жүктөгөн барактарды (баш багышыңыз мүмкүн деп болжолдогон) карап чыгып, тезирээк таба аласыз</translation>
 <translation id="173522743738009831">Privacy Sandbox жөнүндө маалымат</translation>
 <translation id="1736419249208073774">Изилдөө</translation>
 <translation id="1749561566933687563">Кыстармаларыңызды шайкештириңиз</translation>
@@ -155,27 +155,27 @@
 <translation id="1829244130665387512">Ушул беттен табыңыз</translation>
 <translation id="1832459821645506983">Макул</translation>
 <translation id="1849863543394887018">Жөндөөлөргө өтүп, билдирмелерди өчүрүп койсоңуз болот</translation>
-<translation id="1296423691585024517">Сыноолор күйүк болгондо, Жарнамаларды талдоо аркылуу сиз баш баккан сайттар Asil'дон маалымат алып, жарнамаларынын майнаптуулугун талдай алышат. Жарнамаларды талдоо сайттарга мүмкүн болушунча аз маалымат өткөрүү менен башка сайттарга көз салууну чектейт.
+<translation id="1296423691585024517">Сыноолор күйүк болгондо, Жарнамаларды талдоо аркылуу сиз баш баккан сайттар brave'дон маалымат алып, жарнамаларынын майнаптуулугун талдай алышат. Жарнамаларды талдоо сайттарга мүмкүн болушунча аз маалымат өткөрүү менен башка сайттарга көз салууну чектейт.
 
 Көрүлгөн бардык же айрым вебсайттарыңызды өчүрсөңүз, аларга тиешелүү чен-өлчөм маалыматтары да өчүрүлөт. <ph name="BEGIN_LINK"/>Көрүлгөн вебсайттарыңызды<ph name="END_LINK"/> карап чыгыңыз.</translation>
-<translation id="5173820533850252773">Asil эскирип калган.</translation>
+<translation id="5173820533850252773">brave эскирип калган.</translation>
 <translation id="1883903952484604915">Менин файлдарым</translation>
 <translation id="189358972401248634">Башка тилдер</translation>
 <translation id="1900260903084164610">Улантуу менен, <ph name="BEGIN_TOS_LINK"/>Тейлөө шарттарына<ph name="END_TOS_LINK"/> макул болосуз.</translation>
-<translation id="6893464351226208429">Сиз кирген URL даректери Asil аккаунтуңузга сакталат</translation>
+<translation id="6893464351226208429">Сиз кирген URL даректери brave аккаунтуңузга сакталат</translation>
 <translation id="1910950723001426294">Бөлүшүү параметрлеринин тизмеси жабылды.</translation>
 <translation id="1918175104945982129">Жардамчыга айтып издөөгө уруксат берүү интерфейсинин жарымы ачылды</translation>
-<translation id="7021823858304886493">Asil'го кирүүгө уруксат берүү</translation>
+<translation id="7021823858304886493">brave'го кирүүгө уруксат берүү</translation>
 <translation id="1922362554271624559">Сунушталган тилдер</translation>
 <translation id="1925021887439448749">Жеке веб дарегин киргизиңиз</translation>
 <translation id="1928696683969751773">Жаңыртуулар</translation>
-<translation id="1875543012935658554">Asil'ду кайра ачуу.</translation>
+<translation id="1875543012935658554">brave'ду кайра ачуу.</translation>
 <translation id="1933845786846280168">Тандалган өтмөк</translation>
 <translation id="193571872656840963">Авторго ыраазычылыгыңызды билдириңиз</translation>
 <translation id="1943432128510653496">Сырсөздөрдү сактоо</translation>
 <translation id="1952172573699511566">Мүмкүн болгон учурда вебсайттар текстти сиз каалаган тилде көрсөтүшөт.</translation>
 <translation id="1959679933317802873">Мазмун күтүлүүдө</translation>
-<translation id="3968054912784331254">Asil жаңыртуулары Android'дин бул версиясында колдоого алынбай калган</translation>
+<translation id="3968054912784331254">brave жаңыртуулары Android'дин бул версиясында колдоого алынбай калган</translation>
 <translation id="1963976881984600709">Стандарттуу коргоо</translation>
 <translation id="1966710179511230534">Кирүү чоо-жайыңызды жаңыртыңыз.</translation>
 <translation id="197288927597451399">Сактоо</translation>
@@ -185,11 +185,11 @@
 <translation id="1986685561493779662">Мындай аталыш мурунтан эле бар</translation>
 <translation id="1995884366040846621">Улантуу үчүн <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> аты-жөнүңүздү, электрондук почтаңызды жана профилиңиздин сүрөтүн ушул сайт менен бөлүшөт. Бул сайттын <ph name="BEGIN_LINK1"/>купуялык саясатын<ph name="END_LINK1"/> көрүңүз.</translation>
 <translation id="2000419248597011803">Дарек тилкесиндеги жана издөө кутучасындагы издөөлөрдү жана айрым cookie файлдарын демейки издөө тутумуна жөнөтөт</translation>
-<translation id="6968892567705775281">Asil'да издегенде көбүрөөк текст камтылсынбы?</translation>
+<translation id="6968892567705775281">brave'да издегенде көбүрөөк текст камтылсынбы?</translation>
 <translation id="2013642289801508067">{FILE_COUNT,plural, =1{# файл}other{# файл}}</translation>
 <translation id="2021896219286479412">Сайтты толук экран режиминде көзөмөлдөө</translation>
 <translation id="2038563949887743358">Иш тактасынын сайтындагы суроо-талапты күйгүзүү</translation>
-<translation id="7675869148432102528"><ph name="APP_NAME"/> колдонмосунун дайындары Asil'до дагы бар</translation>
+<translation id="7675869148432102528"><ph name="APP_NAME"/> колдонмосунун дайындары brave'до дагы бар</translation>
 <translation id="2046634576464120978">Катталган жок</translation>
 <translation id="2049574241039454490"><ph name="FILE_SIZE_OF_TOTAL"/> <ph name="SEPARATOR"/> <ph name="DESCRIPTION"/></translation>
 <translation id="2052422354554967744">Интернетте издөө</translation>
@@ -207,13 +207,13 @@
 <translation id="2122601567107267586">Колдонмо ачылбай койду</translation>
 <translation id="2132122640199389833">Бардык байланыштырылган түзмөктөрдү өчүрүү</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE"/> жабылган</translation>
-<translation id="6659395979197839222">Asil'ду колдонуу менен, <ph name="BEGIN_TOS_LINK"/>Asil'дун Тейлөө шарттарына<ph name="END_TOS_LINK"/> жана <ph name="BEGIN_ATOS_LINK"/>Asil менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_ATOS_LINK"/> макул болосуз.</translation>
+<translation id="6659395979197839222">brave'ду колдонуу менен, <ph name="BEGIN_TOS_LINK"/>brave'дун Тейлөө шарттарына<ph name="END_TOS_LINK"/> жана <ph name="BEGIN_ATOS_LINK"/>brave менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_ATOS_LINK"/> макул болосуз.</translation>
 <translation id="2139186145475833000">Башкы экранга кошуу</translation>
 <translation id="2141396931810938595">Колдонулушуна жараша</translation>
-<translation id="6516933364477884970">Asil менен бөлүшкүңүз келген нерселерди тандаңыз. Сиз бөлүшкөн маалымат Asil'дун функцияларын, ишин жана туруктуулугун жакшыртууга жардам берет.</translation>
+<translation id="6516933364477884970">brave менен бөлүшкүңүз келген нерселерди тандаңыз. Сиз бөлүшкөн маалымат brave'дун функцияларын, ишин жана туруктуулугун жакшыртууга жардам берет.</translation>
 <translation id="2149973817440762519">Кыстарманы түзөтүү</translation>
 <translation id="2155214902713132423">Бул текшерүү ыкмасы бул түзмөктө жеткиликсиз. Башка түзмөгүңүздө башка параметрди тандаңыз.</translation>
-<translation id="4162910516440006395">Asil бардык сырсөздөрдү текшере алган жок.</translation>
+<translation id="4162910516440006395">brave бардык сырсөздөрдү текшере алган жок.</translation>
 <translation id="2172688499998841696">Сүрөттөмөлөр өчүк</translation>
 <translation id="2172905120685242547">Терезе жабылсынбы?</translation>
 <translation id="2175927920773552910">QR коду</translation>
@@ -226,10 +226,10 @@
 <translation id="2230777942707397948">Бош терезе</translation>
 <translation id="223356358902285214">Колдонмолор жана Интернеттеги аракеттер таржымалы</translation>
 <translation id="2239812875700136898">Сунуштардын параметрлери баскычынан окуяларыңызды башкарыңыз</translation>
-<translation id="4808014761134300692">Asil Сырсөздөрдү башкаргычка сакталганга чейин сырсөздөрүңүз түзмөгүңүздө шифрленет</translation>
+<translation id="4808014761134300692">brave Сырсөздөрдү башкаргычка сакталганга чейин сырсөздөрүңүз түзмөгүңүздө шифрленет</translation>
 <translation id="2259659629660284697">Сырсөздөрдү экспорттоо…</translation>
-<translation id="8820144752830692527">Эмнени шайкештирүү керек экенин <ph name="BEGIN_LINK1"/>жөндөөлөрдөн<ph name="END_LINK1"/> ар дайым тандай аласыз. Asil таржымалыңыздын негизинде Издөөнү жана башка кызматтарды жекелештириши мүмкүн.</translation>
-<translation id="781982477617612877">Сырсөздөрүңүздү текшерүү үчүн Asil аккаунтуңузга кириңиз</translation>
+<translation id="8820144752830692527">Эмнени шайкештирүү керек экенин <ph name="BEGIN_LINK1"/>жөндөөлөрдөн<ph name="END_LINK1"/> ар дайым тандай аласыз. brave таржымалыңыздын негизинде Издөөнү жана башка кызматтарды жекелештириши мүмкүн.</translation>
+<translation id="781982477617612877">Сырсөздөрүңүздү текшерүү үчүн brave аккаунтуңузга кириңиз</translation>
 <translation id="2278052315791335171">Бул сырсөздү жок кылуу менен <ph name="SITE"/> аккаунтуңуз өчпөйт</translation>
 <translation id="2286841657746966508">Төлөмдүн дареги</translation>
 <translation id="228704530595896923">Бөлүшүү параметрлеринин тизмеси.</translation>
@@ -239,14 +239,14 @@
 <translation id="2323763861024343754">Сайт дайындары</translation>
 <translation id="2328985652426384049">Аккаунтка кирүү мүмкүн эмес</translation>
 <translation id="234265804618409743">Камера ачылбай жатат. Бир жерден ката кетти.</translation>
-<translation id="3587672679800759167">Asil пайдаланган жалпы дайындардын, анын ичинде каттоо эсептери, кыстармалар жана сакталган жөндөөлөрдүн жалпы өлчөмү</translation>
+<translation id="3587672679800759167">brave пайдаланган жалпы дайындардын, анын ичинде каттоо эсептери, кыстармалар жана сакталган жөндөөлөрдүн жалпы өлчөмү</translation>
 <translation id="2353636109065292463">Интернет байланышыңызды текшериңиз</translation>
-<translation id="2767094839186957509">Asil Купуялык саясаты</translation>
+<translation id="2767094839186957509">brave Купуялык саясаты</translation>
 <translation id="2359808026110333948">Улантуу</translation>
 <translation id="2386938421315164605">Темаларды жашыруу жана көрсөтүү</translation>
 <translation id="2390510615457643724"><ph name="FILE_NAME"/> файлы (<ph name="FILE_SIZE"/>) кайрадан жүктөлүп алынсынбы?</translation>
 <translation id="2394602618534698961">Жүктөп алган файлдар ушул жерде көрүнөт</translation>
-<translation id="801672626447970525">Asil аккаунтуңузга киргенде, бул функция күйгүзүлөт</translation>
+<translation id="801672626447970525">brave аккаунтуңузга киргенде, бул функция күйгүзүлөт</translation>
 <translation id="2410754283952462441">Аккаунт тандоо</translation>
 <translation id="2414886740292270097">Кочкул</translation>
 <translation id="2426805022920575512">Башка аккаунтту тандоо</translation>
@@ -256,17 +256,17 @@
 <translation id="2453860139492968684">Бүтүрүү</translation>
 <translation id="2459390580524506445">Жакшыртылган оозеки издөө</translation>
 <translation id="2461822463642141190">Учурда</translation>
-<translation id="2542068854151299295">Asil'дун бардык мүмкүнчүлүктөрүн пайдалуу үчүн аккаунтуңузга кириңиз</translation>
+<translation id="2542068854151299295">brave'дун бардык мүмкүнчүлүктөрүн пайдалуу үчүн аккаунтуңузга кириңиз</translation>
 <translation id="247737702124049222">Сүрөттөмөлөр күйүк</translation>
 <translation id="2482878487686419369">Билдирмелер</translation>
-<translation id="6361779936989026201">Asil'догу Asil Жардамчы</translation>
+<translation id="6361779936989026201">brave'догу brave Жардамчы</translation>
 <translation id="2496180316473517155">Серептөө таржымалы</translation>
 <translation id="2497852260688568942">Шайкештирүү функциясын администраторуңуз өчүрүп койгон</translation>
-<translation id="7229462727772664332">Asil'до <ph name="SITE_NAME"/> сайтына кирүү статусуңузду, серептөө дайындарын жана сайттын маалыматын көрөсүз</translation>
+<translation id="7229462727772664332">brave'до <ph name="SITE_NAME"/> сайтына кирүү статусуңузду, серептөө дайындарын жана сайттын маалыматын көрөсүз</translation>
 <translation id="2510106555128151389"><ph name="WEBAPK_NAME"/> орнотулууда…</translation>
-<translation id="7222718784508482526">Купуялыкка, коопсуздукка жана дайындарды чогултууга байланыштуу дагы башка жөндөөлөрдү көрүү үчүн <ph name="BEGIN_LINK"/>Шайкештирүү жана Asil кызматтары<ph name="END_LINK"/> бөлүмүнө өтүңүз</translation>
+<translation id="7222718784508482526">Купуялыкка, коопсуздукка жана дайындарды чогултууга байланыштуу дагы башка жөндөөлөрдү көрүү үчүн <ph name="BEGIN_LINK"/>Шайкештирүү жана brave кызматтары<ph name="END_LINK"/> бөлүмүнө өтүңүз</translation>
 <translation id="2517472476991765520">Скандоо</translation>
-<translation id="284843628681142937">Баш баккан барактарыңыздын URL'дерин Asil'га жөнөтөт</translation>
+<translation id="284843628681142937">Баш баккан барактарыңыздын URL'дерин brave'га жөнөтөт</translation>
 <translation id="2527209463677295330">Барактагы көбүрөөк текст камтылса, жакшыраак натыйжалар көрсөтүлүшү мүмкүн</translation>
 <translation id="8737444348664175738">Жашыруун өтмөктөргө которулду</translation>
 <translation id="2527779675047087889">Алмашуу буфериндеги мазмундарды жашыруу</translation>
@@ -279,14 +279,14 @@
 <translation id="2567385386134582609">СҮРӨТ</translation>
 <translation id="2567545343356994513">Кооптуу вебсайттардан, жүктөлүп алынган файлдардан жана кеңейтүүлөрдөн тез жана проактивдүү коргоо</translation>
 <translation id="3095878721037212218">Медиафайлдарды, Жашыруун сеанстарды, жүктөп алууларды жана башкаларды оңой башкара аласыз</translation>
-<translation id="5079947353572974060">Башка тилдердеги барактарды Asil Котормочуга жөнөтүү сунушталсын</translation>
-<translation id="6995512410824092085">Asil'ду демейки серепчи катары жөндөгөндү үйрөнүп алыңыз</translation>
+<translation id="5079947353572974060">Башка тилдердеги барактарды brave Котормочуга жөнөтүү сунушталсын</translation>
+<translation id="6995512410824092085">brave'ду демейки серепчи катары жөндөгөндү үйрөнүп алыңыз</translation>
 <translation id="6453483065572809635">Спам жана шылуундук жеке абал токендеринин негизинде азаят. Алар сайттарга шылуундукка каршы күрөшүү жана ботторду адамдардан айырмалоого жардам берет.
 
 Сайт менен иштөөңүз, мисалы, аккаунтуңузга ар дайым кирүү сыяктуу аракетиңиздин негизинде ал сайт серепчиңизге жеке абал токенин бере алат. Кийинчерээк, баш баккан сайттарыңыз жеке абал токенин текшерип, аны жарактуу деп тапса, сизди көбүнчө бот катары эмес, адам катары кабыл алат.
 
 Жеке абал токендери Интернетте купуялыгыңызды жакшыртат жана алар менен өздүгүңүз тууралуу маалыматты аныктоого болбойт.</translation>
-<translation id="2324920234469020158">Ушуну менен Asil үчүн анча маанилүү болбогон кукилер, кэш жана сайттын башка нерселери тазаланат.</translation>
+<translation id="2324920234469020158">Ушуну менен brave үчүн анча маанилүү болбогон кукилер, кэш жана сайттын башка нерселери тазаланат.</translation>
 <translation id="2587052924345400782">Жаңыраак версиясы бар</translation>
 <translation id="2593272815202181319">Monospace</translation>
 <translation id="2604446170045642109">Cайттар үчүн караңгы теманы параметрлериңизден өчүрө аласыз.</translation>
@@ -315,14 +315,14 @@
 <translation id="2760989362628427051">Түзмөгүңүз кубатты үнөмдөө режиминде иштегенде, Батареяны үнөмдөгүчтү күйгүзүңүз</translation>
 <translation id="2762000892062317888">жаңы эле</translation>
 <translation id="276969039800130567"><ph name="USER_EMAIL_ADDRESS"/> катары кирди.</translation>
-<translation id="8312774691909088652">Купуялыкка, коопсуздукка жана дайындарды чогултууга байланыштуу дагы башка жөндөөлөрдү көрүү үчүн <ph name="BEGIN_LINK"/>Asil кызматтары<ph name="END_LINK"/> бөлүмүнө өтүңүз</translation>
+<translation id="8312774691909088652">Купуялыкка, коопсуздукка жана дайындарды чогултууга байланыштуу дагы башка жөндөөлөрдү көрүү үчүн <ph name="BEGIN_LINK"/>brave кызматтары<ph name="END_LINK"/> бөлүмүнө өтүңүз</translation>
 <translation id="2777555524387840389"><ph name="SECONDS"/> сек. калды</translation>
 <translation id="2779651927720337254">ката</translation>
 <translation id="2781151931089541271">1 сек. калды</translation>
 <translation id="2788468313014644040">Топтун номери</translation>
 <translation id="2800066122460699237"><ph name="TAB_TITLE"/> өтмөгү жабылат</translation>
 <translation id="2806840421670364300">FLoC</translation>
-<translation id="7068873021383263704"><ph name="BEGIN_LINK"/>Asil аккаунтуңузда<ph name="END_LINK"/> сакталган сырсөздөрдү көрүп, башкарыңыз</translation>
+<translation id="7068873021383263704"><ph name="BEGIN_LINK"/>brave аккаунтуңузда<ph name="END_LINK"/> сакталган сырсөздөрдү көрүп, башкарыңыз</translation>
 <translation id="2818669890320396765">Кыстармаларыңызды бардык түзмөктөрүңүздө колдонуу үчүн аккаунтуңузга кирип, шайкештирүүнү күйгүзүңүз</translation>
 <translation id="2827278682606527653">Түрмөктөгү меню экрандын жарымына чейин ачылды</translation>
 <translation id="2830783625999891985">Алмашуу буфериндеги мазмундар жашырылган</translation>
@@ -333,42 +333,42 @@
 <translation id="2842985007712546952">Түпкү куржун</translation>
 <translation id="2856503607207334158">Кирүү ишке ашкан жок</translation>
 <translation id="2860954141821109167">Телефон колдонмосу бул түзмөктө иштетилгенин текшериңиз</translation>
-<translation id="6518254564747115579">Айрым Asil функциялары мындан ары иштебейт</translation>
+<translation id="6518254564747115579">Айрым brave функциялары мындан ары иштебейт</translation>
 <translation id="2870560284913253234">Сайт</translation>
 <translation id="2871733351037274014">Барактарды алдын ала жүктөө</translation>
 <translation id="2876136027428473467"><ph name="CHILD_NAME"/> төмөндөгү вебсайтты ырастоону суранып жатат:</translation>
 <translation id="2886836735871983413">Сайттардын тизмеси Интернеттеги аракеттериңизге жараша көрсөтүлөт</translation>
-<translation id="8541922081612557424">Asil тууралуу</translation>
+<translation id="8541922081612557424">brave тууралуу</translation>
 <translation id="2891154217021530873">Беттин жүктөлүшүн токтотуу</translation>
-<translation id="4013614219085422040">Издөө жана башка Asil кызматтарын жекечелештирүү үчүн, Asil таржымалыңызды колдонушу мүмкүн</translation>
+<translation id="4013614219085422040">Издөө жана башка brave кызматтарын жекечелештирүү үчүн, brave таржымалыңызды колдонушу мүмкүн</translation>
 <translation id="2900528713135656174">Иш-чара түзүү</translation>
 <translation id="2901411048554510387"><ph name="WEBSITE_TITLE"/> сунуштары көрсөтүлүүдө</translation>
 <translation id="2904414404539560095">Жалпы түзмөктөрдүн тизмеси көрсөтүлгөн өтмөк толук экран режиминде ачылды.</translation>
 <translation id="2908243544703713905">Окула элек окуялар бар</translation>
-<translation id="7339921667754113786">Asil билдирмелеринин платформасы</translation>
+<translation id="7339921667754113786">brave билдирмелеринин платформасы</translation>
 <translation id="2912296070571964914">Кызыктуу темаларды башкарыңыз</translation>
 <translation id="1014490034578104945">Ачылып турган Жашыруун өтмөктөрдү көрүү үчүн экрандын кулпусун колдонуңуз</translation>
 <translation id="2923908459366352541">Аты-жөнү жараксыз</translation>
-<translation id="6355102470683871794">Asil <ph name="APP_NAME"/> сактагычы</translation>
+<translation id="6355102470683871794">brave <ph name="APP_NAME"/> сактагычы</translation>
 <translation id="2932222164150889403">Баскычтоп өзгөрбөйт</translation>
-<translation id="6537665929855787038">Asil билдирмелери ишти жеңилдетет</translation>
+<translation id="6537665929855787038">brave билдирмелери ишти жеңилдетет</translation>
 <translation id="2940075786175545812">Вебсайтты ырастоо же ырастабоо параметри</translation>
 <translation id="2942036813789421260">Алдын ала көрүү өтмөгү жабылды</translation>
-<translation id="4700262879698141140">Башка түзмөктөргө туташуу үчүн Asil'ду жаңыртыңыз</translation>
+<translation id="4700262879698141140">Башка түзмөктөргө туташуу үчүн brave'ду жаңыртыңыз</translation>
 <translation id="2951071800649516099">Кийинкиге окуу тизмеңизге барактарды кошуңуз</translation>
 <translation id="2961208450284224863">{READING_LIST_UNREAD_PAGE_COUNT,plural, =1{<ph name="READING_LIST_UNREAD_PAGE_COUNT_ONE"/> окула элек барак}other{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY"/> окула элек барак}}</translation>
 <translation id="2961210776189273067">Аталышы</translation>
 <translation id="584427517463557805">Жашыруун режимде тандалган өтмөк</translation>
 <translation id="2979639724566107830">Жаңы терезеде ачуу</translation>
 <translation id="2981364137500752533">5 терезеге чейин ачсаңыз болот.</translation>
-<translation id="5948666439178419683">Asil'да издегенде көбүрөөк текст камтыңыз</translation>
+<translation id="5948666439178419683">brave'да издегенде көбүрөөк текст камтыңыз</translation>
 <translation id="2987620471460279764">Текст башка түзмөктөн бөлүшүлдү</translation>
 <translation id="2989523299700148168">Жакында колдонулгандар</translation>
 <translation id="2992473221983447149">Сүрөттөрдүн сүрөттөмөлөрү</translation>
 <translation id="2994959273484668146"><ph name="DOMAIN"/> доменин өчүрүү</translation>
 <translation id="2996291259634659425">Купуя сөз айкашын түзүү</translation>
 <translation id="2996809686854298943">URL талап кылынат</translation>
-<translation id="2019027298133375428">Asil сайты барактагы шилтемелерди алдын ала жүктөөнү суранса, Asil барактарды шифрлеп, Asil'дун серверлери аркылуу алдын ала жүктөйт (cookie файлдарысыз). Ушуну менен өздүгүңүз тууралуу маалымат алдын ала жүктөлгөн сайттан жашырылат.</translation>
+<translation id="2019027298133375428">brave сайты барактагы шилтемелерди алдын ала жүктөөнү суранса, brave барактарды шифрлеп, brave'дун серверлери аркылуу алдын ала жүктөйт (cookie файлдарысыз). Ушуну менен өздүгүңүз тууралуу маалымат алдын ала жүктөлгөн сайттан жашырылат.</translation>
 <translation id="3006881078666935414">Колдонуу дайындары жок</translation>
 <translation id="301080557829842765">Купуялык жетектемеси</translation>
 <translation id="3016635187733453316">Бул түзмөк интернетке туташып турганын текшериңиз</translation>
@@ -378,44 +378,44 @@
 <translation id="3031225630520268969">Жардамчыга айтып издөөгө уруксат берүү интерфейси</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>Жардам алыңыз<ph name="END_LINK"/></translation>
 <translation id="3037177537145227281">Баасына көз салуу</translation>
-<translation id="3251012123600267109">Asil'го кирүү үчүн билдирмелерди көрсөтөт</translation>
+<translation id="3251012123600267109">brave'го кирүү үчүн билдирмелерди көрсөтөт</translation>
 <translation id="3046945242843292318">Эмкиде бул сайтка тез өтүңүз</translation>
 <translation id="3055113921564083271">Өчүрүп койгон кызыккан нерселериңиз</translation>
 <translation id="3055259925215945098">Кыстарма жылды</translation>
-<translation id="4163313568284712797">Asil'дун колдонулушу жөнүндө маалымат Asil'га жөнөтүлөт, бирок ал сиз менен байланыштырылбайт\n\nЭгер Asil бузулса, ал бузулуунун чоо-жайында жеке маалымат камтылышы мүмкүн\n\nЭгер шайкештирүү күйгүзүлсө, көрсөткүчтөрдө сиз баш баккан URL даректери да камтылышы ыктымал</translation>
+<translation id="4163313568284712797">brave'дун колдонулушу жөнүндө маалымат brave'га жөнөтүлөт, бирок ал сиз менен байланыштырылбайт\n\nЭгер brave бузулса, ал бузулуунун чоо-жайында жеке маалымат камтылышы мүмкүн\n\nЭгер шайкештирүү күйгүзүлсө, көрсөткүчтөрдө сиз баш баккан URL даректери да камтылышы ыктымал</translation>
 <translation id="3060635849835183725">{BOOKMARKS_COUNT,plural, =1{<ph name="BOOKMARKS_COUNT_ONE"/> кыстарма}other{<ph name="BOOKMARKS_COUNT_MANY"/> кыстарма}}</translation>
-<translation id="6153252609477956632">Asil'догу сизди кызыктырган макалалар</translation>
+<translation id="6153252609477956632">brave'догу сизди кызыктырган макалалар</translation>
 <translation id="3066573403916685335">Төмөн жылдыруу</translation>
 <translation id="3070005020161560471">Автоматтык түрдө которуу</translation>
-<translation id="1094255666887095087"><ph name="APP_NAME"/> Asil'до ачылат. Улантуу менен, <ph name="BEGIN_LINK1"/>Asil'дун Тейлөө шарттарына<ph name="END_LINK1"/> жана <ph name="BEGIN_LINK2"/>Asil менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_LINK2"/> макул болосуз. <ph name="BEGIN_LINK3"/>Купуялык саясаты<ph name="END_LINK3"/> да колдонулат.</translation>
+<translation id="1094255666887095087"><ph name="APP_NAME"/> brave'до ачылат. Улантуу менен, <ph name="BEGIN_LINK1"/>brave'дун Тейлөө шарттарына<ph name="END_LINK1"/> жана <ph name="BEGIN_LINK2"/>brave менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_LINK2"/> макул болосуз. <ph name="BEGIN_LINK3"/>Купуялык саясаты<ph name="END_LINK3"/> да колдонулат.</translation>
 <translation id="3091010850649238832">Алмашуу буфериндеги мазмундарды көрсөтүү</translation>
-<translation id="821565628224723530">Сүрөттөмөлөрдү жакшыртуу үчүн айрым сүрөттөр Asil'га жөнөтүлөт</translation>
+<translation id="821565628224723530">Сүрөттөмөлөрдү жакшыртуу үчүн айрым сүрөттөр brave'га жөнөтүлөт</translation>
 <translation id="3114507951000454849">Бүгүнкү жаңылыктарды окуңуз <ph name="NEWS_ICON"/></translation>
 <translation id="311958134571892113">төмөнкү карта менен байланыштырылды:</translation>
 <translation id="3123734510202723619">Жарыялар</translation>
 <translation id="3130863904455712965">Таржымал жана башкалар</translation>
 <translation id="3134784203083076891">"</translation>
-<translation id="5063487983358782016">Asil’дун башкы бети</translation>
+<translation id="5063487983358782016">brave’дун башкы бети</translation>
 <translation id="3157931365184549694">Калыбына келтирүү</translation>
 <translation id="3166827708714933426">Өтмөктүн жана терезенин кыска жолдору</translation>
-<translation id="7249949543831830993">Asil мурунтан эле иштеп жатат.</translation>
+<translation id="7249949543831830993">brave мурунтан эле иштеп жатат.</translation>
 <translation id="3169472444629675720">Аныктоо</translation>
 <translation id="3187472288455401631">Жарнамаларды талдоо</translation>
 <translation id="3207960819495026254">Кыстармаланды</translation>
 <translation id="3208584281581115441">Азыр текшерүү</translation>
 <translation id="3211426585530211793"><ph name="ITEM_TITLE"/> өчүрүлдү</translation>
-<translation id="1892217432793359605">Аккаунтуңузга кирип турсаңыз, <ph name="BEGIN_LINK1"/>издөө таржымалы<ph name="END_LINK1"/> жана <ph name="BEGIN_LINK2"/>башка аракеттер<ph name="END_LINK2"/> Asil аккаунтуңузга сакталышы мүмкүн. Аларды каалаган убакта жок кылсаңыз болот.</translation>
+<translation id="1892217432793359605">Аккаунтуңузга кирип турсаңыз, <ph name="BEGIN_LINK1"/>издөө таржымалы<ph name="END_LINK1"/> жана <ph name="BEGIN_LINK2"/>башка аракеттер<ph name="END_LINK2"/> brave аккаунтуңузга сакталышы мүмкүн. Аларды каалаган убакта жок кылсаңыз болот.</translation>
 <translation id="321773570071367578">Эгер купуя сөз айкашыңызды унутуп калган болсоңуз же бул жөндөөнү өзгөрткүңүз келсе, <ph name="BEGIN_LINK"/>шайкештирүүнү баштапкы абалга келтириңиз<ph name="END_LINK"/></translation>
 <translation id="3220943972464248773">Сырсөздөрүңүздү шайкештирүү үчүн өзүңүз экениңизди ырастаңыз</translation>
 <translation id="3223522355830797639">Банк аныктыгыңызды текшергени жатат.</translation>
-<translation id="9047551989591319903">Asil'ду Коопсуздук ачкычы катары колдонуу</translation>
+<translation id="9047551989591319903">brave'ду Коопсуздук ачкычы катары колдонуу</translation>
 <translation id="3232754137068452469">Веб колдонмо</translation>
 <translation id="3234978181857588512">Түзмөккө сактоо</translation>
 <translation id="3236059992281584593">1 мүн. калды</translation>
 <translation id="3237087289225714896">Стандарттуу алдын ала жүктөө:</translation>
 <translation id="3237433641417325993">Сунушталган макалаларды көрүү үчүн ылдый сыдырыңыз</translation>
 <translation id="3244271242291266297">АА</translation>
-<translation id="7402642357351265733">Asil'дун колдонулушу тууралуу кабарларды да бөлүшсөңүз, ал кабарларда сиз баш баккан URL даректери камтылат</translation>
+<translation id="7402642357351265733">brave'дун колдонулушу тууралуу кабарларды да бөлүшсөңүз, ал кабарларда сиз баш баккан URL даректери камтылат</translation>
 <translation id="3250563604907490871">Сүрөттөмөлөр Wi-Fi тармагына туташканыңызда көрүнөт</translation>
 <translation id="3254409185687681395">Бул баракты кыстарып коюңуз</translation>
 <translation id="3259831549858767975">Барактагы бардык нерселерди кичирейтүү</translation>
@@ -425,8 +425,8 @@
 <translation id="3265534588625245297">Жазылган сайттарды башкаруу</translation>
 <translation id="3269093882174072735">Сүрөттү жүктөө</translation>
 <translation id="3280562213547448728">Айтып издөө</translation>
-<translation id="82609232232243542">Asil'го кириңиз</translation>
-<translation id="1793814306828610181">Asil'ду кантип колдонуу жөнүндө видеолор</translation>
+<translation id="82609232232243542">brave'го кириңиз</translation>
+<translation id="1793814306828610181">brave'ду кантип колдонуу жөнүндө видеолор</translation>
 <translation id="3288003805934695103">Баракты кайра жүктөп көрүңүз</translation>
 <translation id="3290249595466894471">Барактардын чакан үлгүлөрүн, жүктөлүп алынган файлдарды, кеңейтүүлөрдүн колдонулушу тууралуу маалыматты жана тутум маалыматын жөнөтүп, жаңы коркунучтарды аныктоого жардам берет</translation>
 <translation id="3297344142967351106">Үн жардамчысы</translation>
@@ -435,25 +435,25 @@
 <translation id="3334729583274622784">Файлдын кеңейтүүсү өчүрүлсүнбү?</translation>
 <translation id="3341262203274374114">Жазылуу токтотулган жок. Бир жерден ката кетти.</translation>
 <translation id="3359667936385849800">Учурдагы кызмат көрсөтүүчүңүздү колдонуңуз</translation>
-<translation id="449001704952013438">Asil бул кызыкан нерсени эске алышы мүмкүн</translation>
+<translation id="449001704952013438">brave бул кызыкан нерсени эске алышы мүмкүн</translation>
 <translation id="3367813778245106622">Шайкештирүүнү баштоо үчүн кайра кириңиз</translation>
-<translation id="2746024117903470217">Бул баракты башка түзмөк менен бөлүшүү үчүн башка түзмөктүн Asil параметрлерин ачып, шайкештирүүнү күйгүзүңүз</translation>
-<translation id="8801234437789558906">Кыстармаларыңыз, таржымалыңыз, сырсөздөрүңүз жана Asil'догу башка дайындар мындан ары Asil аккаунтуңузга шайкештирилбейт.</translation>
+<translation id="2746024117903470217">Бул баракты башка түзмөк менен бөлүшүү үчүн башка түзмөктүн brave параметрлерин ачып, шайкештирүүнү күйгүзүңүз</translation>
+<translation id="8801234437789558906">Кыстармаларыңыз, таржымалыңыз, сырсөздөрүңүз жана brave'догу башка дайындар мындан ары brave аккаунтуңузга шайкештирилбейт.</translation>
 <translation id="3384347053049321195">Сүрөт менен бөлүшүү</translation>
 <translation id="3387650086002190359">Тутумдагы каталарга байланыштуу <ph name="FILE_NAME"/> жүктөлбөй калды.</translation>
 <translation id="3389286852084373014">Тексттин көлөмү өтө чоң</translation>
 <translation id="3391512812407811893">Privacy Sandbox сыноолору</translation>
 <translation id="3398320232533725830">Кыстармаларды башкаргычты ачуу</translation>
-<translation id="1081508498128395141">Дагы башка барактар алдын ала жүктөлдү. Башка сайттар сурам жөнөтсө, барактар Asil серверлери аркылуу алдын ала жүктөлүшү мүмкүн.</translation>
+<translation id="1081508498128395141">Дагы башка барактар алдын ала жүктөлдү. Башка сайттар сурам жөнөтсө, барактар brave серверлери аркылуу алдын ала жүктөлүшү мүмкүн.</translation>
 <translation id="3414952576877147120">Өлчөм:</translation>
 <translation id="3421726884497337397">Үчүнчү тараптын cookie файлдары качан бөгөттөлсүн?</translation>
-<translation id="5265419033369521352">Аккаунтуңузга киргенде Asil'до жана башка Asil колдонмолорунда коопсуздугуңузду коргоп турат</translation>
+<translation id="5265419033369521352">Аккаунтуңузга киргенде brave'до жана башка brave колдонмолорунда коопсуздугуңузду коргоп турат</translation>
 <translation id="3429160811076349561">Сыноонун функциялары өчүк</translation>
 <translation id="3435465986463792564">Көп терезе ачылып турабы? Аларды бул жерден башкарыңыз</translation>
 <translation id="3435738964857648380">Коопсуздук</translation>
 <translation id="3443221991560634068">Учурдагы баракты кайра жүктөө</translation>
 <translation id="3444179773590444986">Сайттарга колдонулган караңгы тема тууралуу пикир билдиресизби?</translation>
-<translation id="7384339501748168186">Купуялыгыңызды коргоо максатында, Asil бул талаага сырсөзүңүздү автоматтык түрдө киргизбейт.</translation>
+<translation id="7384339501748168186">Купуялыгыңызды коргоо максатында, brave бул талаага сырсөзүңүздү автоматтык түрдө киргизбейт.</translation>
 <translation id="3474624961160222204"><ph name="NAME"/> катары улантуу</translation>
 <translation id="3478363558367712427">Өзүңүз каалаган издөө каражатын тандай аласыз</translation>
 <translation id="3479552764303398839">Азыр эмес</translation>
@@ -461,7 +461,7 @@
 <translation id="3495219333887281978">Жарымына чейин ачылган кирүү процессинин ылдыйкы экраны жарымына чейин ачылды.</translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="3507132249039706973">Стандарттуу коргоо күйүк</translation>
-<translation id="8669829441518807650">Оффлайн. Asil жаңыртууларды текшере алган жок</translation>
+<translation id="8669829441518807650">Оффлайн. brave жаңыртууларды текшере алган жок</translation>
 <translation id="3513704683820682405">Кошумчаланган чындык</translation>
 <translation id="3518985090088779359">Кабыл алып, улантуу</translation>
 <translation id="3522247891732774234">Жаңыртуу бар. Дагы опциялар</translation>
@@ -474,7 +474,7 @@
 <translation id="3560491354538957576">Сайт кызыккан нерселериңизди аныктай алат</translation>
 <translation id="3563767357928833671">Алмашуу буфериндеги мазмундар көрсөтүлдү</translation>
 <translation id="3566639033325271639">Параметрлерди жаңыртуу</translation>
-<translation id="1908301351964700579">Asil VR'га дагы деле даярданууда. Asil'ду кийинчерээк өчүрүп күйгүзүү.</translation>
+<translation id="1908301351964700579">brave VR'га дагы деле даярданууда. brave'ду кийинчерээк өчүрүп күйгүзүү.</translation>
 <translation id="3568688522516854065">Өтмөктөрүңүздү башка түзмөктөрүңүздөн алуу үчүн аккаунтуңузга кирип, шайкештирүүнү күйгүзүңүз</translation>
 <translation id="357465026686164600">Телефонду коопсуздук ачкычы катары колдонуу</translation>
 <translation id="3577473026931028326">Бир жерден ката кетти. Кайталап көрүңүз.</translation>
@@ -496,8 +496,8 @@
 <translation id="3699022356773522638">Файлды жүктөп аласызбы?</translation>
 <translation id="371230970611282515">Кооптуу нерселер орун алганга чейин аларды аныктап, сизге кабарлап турат.</translation>
 <translation id="3714981814255182093">Издөө тилкесин ачуу</translation>
-<translation id="5805364706385912897">Бул барак өтө көп эстутум колдонгондуктан Asil аны тындырды.</translation>
-<translation id="8397843425685839889">Сиз жана Asil</translation>
+<translation id="5805364706385912897">Бул барак өтө көп эстутум колдонгондуктан brave аны тындырды.</translation>
+<translation id="8397843425685839889">Сиз жана brave</translation>
 <translation id="3737319253362202215">Которуу параметрлери</translation>
 <translation id="3737402728074743863">Бул түзмөктү коопсуздук ачкычы катары колдонуу үчүн экранды кулпулоону иштетиңиз</translation>
 <translation id="3738139272394829648">Издөө үчүн Басуу</translation>
@@ -506,7 +506,7 @@
 <translation id="4526803704855831732">Жашыруун өтмөктөр</translation>
 <translation id="377124182565324804"><ph name="SITE"/> кошуу</translation>
 <translation id="3771290962915251154">Бул жөндөө өчүрүлгөн, анткени Ата-эненин көзөмөлү күйүк</translation>
-<translation id="1138681184697033370">Asil'дун Тейлөө шарттары</translation>
+<translation id="1138681184697033370">brave'дун Тейлөө шарттары</translation>
 <translation id="3773856050682458546">Сиз баш баккан вебсайттар менен пайдаланган колдонмолор тууралуу негизги маалымат</translation>
 <translation id="3775705724665058594">Түзмөктөрүңүзгө жөнөтүңүз</translation>
 <translation id="3791957072666773229">{TAB_COUNT,plural, =1{1 өтмөк}other{# өтмөк}}</translation>
@@ -537,15 +537,15 @@
 <translation id="7667871022963214473">Түзмөгүңүздөн жашыруун көрүлгөн вебсайттарды тазалоо үчүн бардык жашыруун өтмөктөрдү жабыңыз.</translation>
 <translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Барагыңыз тармакка туташуу аткарылганда жүктөлөт}other{Барактарыңыз тармакка туташуу аткарылганда жүктөлөт}}</translation>
 <translation id="3962119236270174787">Кооптуу деп таанылган вебсайттардан, жүктөлүп алынган файлдардан жана кеңейтүүлөрдөн стандарттуу түрдө коргоо</translation>
-<translation id="4908545308856135643">Купуя сөз айкашы менен шифрлөө Google Pay'деги төлөм ыкмалары менен даректерине карата колдонулбайт. Шифрленген дайын-даректериңизди купуя сөз айкашын билген адам гана окуй алат. Бул купуя сөз айкашы Asil'га жөнөтүлбөйт же анда сакталбайт. Эгер купуя сөз айкашыңызды унутуп калсаңыз, шайкештирүүнү баштапкы абалга келтиришиңиз керек болот. <ph name="BEGIN_LINK"/>Кеңири маалымат<ph name="END_LINK"/></translation>
-<translation id="1453002554835005700">Asil сырсөздөрүңүздү текшере албай жатат</translation>
+<translation id="4908545308856135643">Купуя сөз айкашы менен шифрлөө Google Pay'деги төлөм ыкмалары менен даректерине карата колдонулбайт. Шифрленген дайын-даректериңизди купуя сөз айкашын билген адам гана окуй алат. Бул купуя сөз айкашы brave'га жөнөтүлбөйт же анда сакталбайт. Эгер купуя сөз айкашыңызды унутуп калсаңыз, шайкештирүүнү баштапкы абалга келтиришиңиз керек болот. <ph name="BEGIN_LINK"/>Кеңири маалымат<ph name="END_LINK"/></translation>
+<translation id="1453002554835005700">brave сырсөздөрүңүздү текшере албай жатат</translation>
 <translation id="3969863827134279083">Өйдө жылуу</translation>
 <translation id="397583555483684758">Шайкештирүү иштебей калды.</translation>
 <translation id="3976396876660209797">Бул кыска жолду алып салып, кайра түзүү</translation>
 <translation id="3981902534690264083">Жарнамачылар жарнамалардын майнаптуулугун талдай алышат</translation>
 <translation id="3985215325736559418"><ph name="FILE_NAME"/> файлын кайра жүктөп аласызбы?</translation>
 <translation id="3987993985790029246">Шилтм көчр</translation>
-<translation id="5846727201643228411">Сайттар жарнамаларды көрсөтүү үчүн колдонгон темаларды көрүп, өчүрө аласыз. Asil сизди кызыктырган темаларды акыркы көргөн вебсайттарыңыздын негизинде божомолдойт.</translation>
+<translation id="5846727201643228411">Сайттар жарнамаларды көрсөтүү үчүн колдонгон темаларды көрүп, өчүрө аласыз. brave сизди кызыктырган темаларды акыркы көргөн вебсайттарыңыздын негизинде божомолдойт.</translation>
 <translation id="4000212216660919741">Үйдө оффлайн режиминде</translation>
 <translation id="4016425174436051808">Жазылган жок. Бир жерден ката кетти.</translation>
 <translation id="4034817413553209278">{HOURS,plural, =1{# саат}other{# саат}}</translation>
@@ -558,21 +558,21 @@
 <translation id="4062305924942672200">Юридикалык маалымат</translation>
 <translation id="4072805772816336153">Бир аздан кийин кайталап көрүңүз</translation>
 <translation id="4084682180776658562">Кыстарма</translation>
-<translation id="4521874409998847950"><ph name="PUBLISHER_ORIGIN"/> веб сайтынан – <ph name="BEGIN_DEEMPHASIZED"/>Asil аркылуу жеткирилген<ph name="END_DEEMPHASIZED"/></translation>
+<translation id="4521874409998847950"><ph name="PUBLISHER_ORIGIN"/> веб сайтынан – <ph name="BEGIN_DEEMPHASIZED"/>brave аркылуу жеткирилген<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="409109920254068737">Бул планшет менен ушул QR коду көрүнүп турган түзмөккө кире аласыз.</translation>
 <translation id="4095146165863963773">Колдонмонун дайындары жок кылынсынбы?</translation>
 <translation id="4096227151372679484">Тематикасына жараша сакталган кыстармалар жарым экранда ачылды</translation>
-<translation id="673197144963363525">Asil'га колдонуу статистикасын жөнөтүп, ката жөнүндө кабарлап, Asil өркүндөтүлүшүнө жардам бериңиз.</translation>
+<translation id="673197144963363525">brave'га колдонуу статистикасын жөнөтүп, ката жөнүндө кабарлап, brave өркүндөтүлүшүнө жардам бериңиз.</translation>
 <translation id="4101475238162928417">Башка түзмөктөрдөгү сырсөздөрдү, кыстармаларды жана башкаларды колдонуу үчүн шайкештирүүнү иштетиңиз</translation>
 <translation id="410351446219883937">Авто ойнотуу</translation>
-<translation id="8112581848375017126">Asil сайттар маалыматыңызды азыраак колдонуу менен бирдей карап чыгуу мүмкүнчүлүгүн бере турган жаңы функцияларды изилдеп жатат</translation>
+<translation id="8112581848375017126">brave сайттар маалыматыңызды азыраак колдонуу менен бирдей карап чыгуу мүмкүнчүлүгүн бере турган жаңы функцияларды изилдеп жатат</translation>
 <translation id="4108314971463891922">Жазылуу</translation>
 <translation id="4108998448622696017">Кооптуу нерселер орун алганда аларды аныктап, сизге кабарлап турат.</translation>
 <translation id="4116038641877404294">Оффлайн режиминде колдонуу үчүн барактарды жүктөп алуу</translation>
 <translation id="4135200667068010335">Жалпы түзмөктөрдүн тизмеси көрсөтүлгөн өтмөк жабылды.</translation>
 <translation id="4137746084635924146">Түзмөктүн учурдагы тили</translation>
 <translation id="414128724510021958">Демейки шартта суралган компьютердик версиялар</translation>
-<translation id="4159350418181625094">Asil'ду үйрөнүңүз</translation>
+<translation id="4159350418181625094">brave'ду үйрөнүңүз</translation>
 <translation id="1453456663856716353">Сыноолор күйүк болгондо, спам жана шылуундук жеке абал токендеринин негизинде азаят. Алар сайттарга шылуундукка каршы күрөшүү жана ботторду адамдардан айырмалоого жардам берет.
 
 Сайт менен иштөөңүз, мисалы, аккаунтуңузга ар дайым кирүү сыяктуу аракетиңиздин негизинде ал сайт серепчиңизге жеке абал токенин бере алат. Кийинчерээк, баш баккан сайттарыңыз жеке абал токенин текшерип, аны жарактуу деп тапса, сизди көбүнчө бот катары эмес, адам катары кабыл алат.
@@ -585,21 +585,21 @@
 <translation id="4195643157523330669">Жаңы өтмөктө ачуу</translation>
 <translation id="4196597275619698563">Карта түзүү</translation>
 <translation id="4198423547019359126">Жүктөп алуу үчүн жеткиликтүү орун жок</translation>
-<translation id="6003646045106347985">Asil Asil сунуштаган кызыктуу нерселерди алып туруу үчүн шайкештирүүнү күйгүзүңүз</translation>
-<translation id="1675646381334855139">Cookie файлдарына уруксат берсеңиз, Asil аларды алдын ала жүктөө үчүн колдонушу мүмкүн.</translation>
+<translation id="6003646045106347985">brave brave сунуштаган кызыктуу нерселерди алып туруу үчүн шайкештирүүнү күйгүзүңүз</translation>
+<translation id="1675646381334855139">Cookie файлдарына уруксат берсеңиз, brave аларды алдын ала жүктөө үчүн колдонушу мүмкүн.</translation>
 <translation id="4225895483398857530">Куралдар тилкесинин ыкчам баскычы</translation>
 <translation id="4242533952199664413">Жөндөөлөрдү ачуу</translation>
 <translation id="4248098802131000011">Сырсөздөрүңүздү коопсуз сактаңыз</translation>
-<translation id="7445061995866044926">Asil каттоо эсебинен чыгасызбы?</translation>
+<translation id="7445061995866044926">brave каттоо эсебинен чыгасызбы?</translation>
 <translation id="4249955472157341256">Акыркылар боюнча иреттөө</translation>
 <translation id="4250229828105606438">Скриншот</translation>
 <translation id="4256782883801055595">Ачык программа уруксаттамалары</translation>
-<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>Кайсы маалымат колдонулат:<ph name="END_BOLD"/> Бул түзмөктө Asil аркылуу баш баккан жана көргөн сайттарыңыз.</translation>
+<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>Кайсы маалымат колдонулат:<ph name="END_BOLD"/> Бул түзмөктө brave аркылуу баш баккан жана көргөн сайттарыңыз.</translation>
 <translation id="4263656433980196874">Жардамчыга айтып издөөгө уруксат берүү интерфейси толук ачылды</translation>
 <translation id="4269820728363426813">Шилтеме дарегин көчүрүү</translation>
 <translation id="4283102315569707115">Демейки компьютердик версияларды суранасызбы?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK"/>Android'дин параметрлеринен экранды кулпулоону күйгүзүңүз<ph name="END_LINK"/></translation>
-<translation id="6299940168852877221">Asil'ду колдонуу менен, <ph name="BEGIN_TOS_LINK"/>Asil'дун Тейлөө шарттарына<ph name="END_TOS_LINK"/> жана <ph name="BEGIN_ATOS_LINK"/>Asil менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_ATOS_LINK"/> макул болосуз. <ph name="BEGIN_PRIVACY_LINK"/>Купуялык саясаты<ph name="END_PRIVACY_LINK"/> да колдонулат.</translation>
+<translation id="6299940168852877221">brave'ду колдонуу менен, <ph name="BEGIN_TOS_LINK"/>brave'дун Тейлөө шарттарына<ph name="END_TOS_LINK"/> жана <ph name="BEGIN_ATOS_LINK"/>brave менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_ATOS_LINK"/> макул болосуз. <ph name="BEGIN_PRIVACY_LINK"/>Купуялык саясаты<ph name="END_PRIVACY_LINK"/> да колдонулат.</translation>
 <translation id="8120164982795455341">Жаңы жашыруун өтмөк</translation>
 <translation id="4298388696830689168">Байланышкан сайттар</translation>
 <translation id="4303044213806199882">chrome_скриншот_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
@@ -617,7 +617,7 @@
 <translation id="4405224443901389797">Төмөнкүгө жылдыруу…</translation>
 <translation id="4405636711880428279">Виртуалдык карта өчүрүлсүнбү?</translation>
 <translation id="4409271659088619928">Издөө каражатыңыз: <ph name="DSE"/>. Издөө таржымалын өчүрүү үчүн бар болсо, издөө каражатындагы нускамаларды караңыз.</translation>
-<translation id="5749788945734786627">Asil аккаунтунун параметрлерине өтүү</translation>
+<translation id="5749788945734786627">brave аккаунтунун параметрлерине өтүү</translation>
 <translation id="4425140285732600465">Баасына көз салуу. Кандайдыр бир сайтта баасы төмөндөсө, эскертүүлөрдү аласыз.</translation>
 <translation id="442518031075347249">Мындан ары Google Pay'де виртуалдык картаңызды колдоно албай каласыз. <ph name="BEGIN_LINK1"/>Виртуалдык карталар жөнүндө кеңири маалымат алыңыз<ph name="END_LINK1"/></translation>
 <translation id="4428065317363009941">Жарнамаларды жекелештирүү</translation>
@@ -626,18 +626,18 @@
 <translation id="4461614516424362539">Башка түзмөктү QR коду аркылуу туташтырганыңызда ал ушул телефонду коопсуздук ачкычы катары колдоно алат. Эгер аны өчүрсөңүз, кайра туташтыруу үчүн QR кодун скандашыңыз керек болот.</translation>
 <translation id="4472118726404937099">Бардык түзмөктөрүңүздө шайкештирүү жана жекечелештирүү үчүн аккаунтуңузга кирип, шайкештирүүнү иштетиңиз</translation>
 <translation id="4479839115899251637">Окуу тизмесинен өчүрүү</translation>
-<translation id="3133489217401741157">Asil үчүн <ph name="MODULE"/> орнотулууда…</translation>
+<translation id="3133489217401741157">brave үчүн <ph name="MODULE"/> орнотулууда…</translation>
 <translation id="4484496141267039529">Туташуу жок. Кайталаңыз.</translation>
-<translation id="53119194224775367">Asil'дун колдонмо дайындарынын бардыгы биротоло өчүрүлөт. Ага бардык файлдар, жөндөөлөр, каттоо эсептери, маалыматтар базасы ж.б. кирет.</translation>
-<translation id="3966104135245031874">Шайкештирилген сырсөздөрдү Asil аккаунтуңуз менен шифрлеңиз</translation>
+<translation id="53119194224775367">brave'дун колдонмо дайындарынын бардыгы биротоло өчүрүлөт. Ага бардык файлдар, жөндөөлөр, каттоо эсептери, маалыматтар базасы ж.б. кирет.</translation>
+<translation id="3966104135245031874">Шайкештирилген сырсөздөрдү brave аккаунтуңуз менен шифрлеңиз</translation>
 <translation id="4504667196171871375">Wi-Fi жана мобилдик трафик</translation>
 <translation id="4508528996305412043">Түрмөктөгү меню ачылды</translation>
 <translation id="4508642716788467538">Тил тандаңыз</translation>
 <translation id="4513387527876475750">{DAYS,plural, =1{# күн мурун}other{# күн мурун}}</translation>
 <translation id="451872707440238414">Кыстармаларды издөө</translation>
-<translation id="1664855196866195614">Тандалган дайындар Asil'дон жана шайкештирилген түзмөктөрүңүздөн өчүрүлдү.
+<translation id="1664855196866195614">Тандалган дайындар brave'дон жана шайкештирилген түзмөктөрүңүздөн өчүрүлдү.
 
-Asil аккаунтуңуздун башка Asil кызматтарынан алынган серептөө таржымалы <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> дарегинде болушу мүмкүн.</translation>
+brave аккаунтуңуздун башка brave кызматтарынан алынган серептөө таржымалы <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> дарегинде болушу мүмкүн.</translation>
 <translation id="452750746583162491">Шайкештирилген маалыматты карап чыгуу</translation>
 <translation id="4532845899244822526">Куржун тандаңыз</translation>
 <translation id="40716919553748435">{TAB_COUNT,plural, =1{<ph name="TAB_COUNT_ONE"/> өтмөк}other{<ph name="TAB_COUNT_MANY"/> өтмөк, <ph name="TAB_COUNT_INCOGNITO"/> жашыруун}}</translation>
@@ -663,14 +663,14 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="4663499661119906179">Мыкты сайттарды жана окуяларды көрүңүз</translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS"/> кыстарма өчүрүлдү</translation>
 <translation id="4668347365065281350">Бардык сайттардын дайын-даректери, анын ичинде cookie файлдары жана башка жергиликтүү сакталган маалымат</translation>
-<translation id="6904731820418823295">Asil'до сайттар үчүн караңгы тема күйгүзүлгөн</translation>
+<translation id="6904731820418823295">brave'до сайттар үчүн караңгы тема күйгүзүлгөн</translation>
 <translation id="4684427112815847243">Баарын шайкештештирүү</translation>
 <translation id="4685741273709472646">Түрүлмө тизмеден тандоо</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 жана дагы <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}other{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 жана дагы <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/>}}</translation>
 <translation id="4699172675775169585">Кештелген сүрөттөр жана файлдар</translation>
 <translation id="4719927025381752090">Которуу сунушталсын</translation>
 <translation id="4720023427747327413"><ph name="PRODUCT_NAME"/> менен ачуу</translation>
-<translation id="4939482511480190003">Asil'ду өркүндөтүүгө жардам бериңиз. <ph name="BEGIN_LINK"/>Сурамжылоого катышыңыз<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">brave'ду өркүндөтүүгө жардам бериңиз. <ph name="BEGIN_LINK"/>Сурамжылоого катышыңыз<ph name="END_LINK"/></translation>
 <translation id="47217992755561375">Мыкты сайттарды караңыз</translation>
 <translation id="4732120983431207637">Ороосун ачуу</translation>
 <translation id="4736934858538408121">Виртуалдык карта</translation>
@@ -699,16 +699,16 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="4831037795716408498">Мазмунду жүктөп алуу</translation>
 <translation id="4834007576107377210">Издөө таржымалын өчүрүү үчүн, бар болсо, издөө каражатындагы нускамаларды караңыз</translation>
 <translation id="4834250788637067901">Google Pay'ди колдонгон төлөм ыкмалары, сунуштар жана даректер</translation>
-<translation id="2593289874938379417">Суралган булакка Asil’дун кирүү мүмкүнчүлүгү жок.</translation>
+<translation id="2593289874938379417">Суралган булакка brave’дун кирүү мүмкүнчүлүгү жок.</translation>
 <translation id="4837753911714442426">Баракты басып чыгаруу параметрлерин ачуу</translation>
 <translation id="4842092870884894799">Сырсөз түзүү калкып чыкмасы көрсөтүлүүдө</translation>
 <translation id="4842515939542199281">Айтып издөө үчүн микрофонду басыңыз</translation>
-<translation id="6195403640086187022">Кошумча коопсуздук үчүн Asil Сырсөздөрдү башкаргычка сакталганга чейин сырсөздөрдү түзмөгүңүздө шифрлеңиз</translation>
+<translation id="6195403640086187022">Кошумча коопсуздук үчүн brave Сырсөздөрдү башкаргычка сакталганга чейин сырсөздөрдү түзмөгүңүздө шифрлеңиз</translation>
 <translation id="4850886885716139402">Көрүнүш</translation>
 <translation id="4852014461738377247">Кирип жатасыз\u2026</translation>
 <translation id="4860895144060829044">Чалуу</translation>
 <translation id="4864369630010738180">Кирүүдө…</translation>
-<translation id="5131234170665854056">Asil үчүн <ph name="MODULE"/> орнотулган жок</translation>
+<translation id="5131234170665854056">brave үчүн <ph name="MODULE"/> орнотулган жок</translation>
 <translation id="4871568871368204250">Шайкештирүүнү өчүрүү</translation>
 <translation id="4875775213178255010">Мазмун сунуштары</translation>
 <translation id="8448127664493413656">Жашыруун режимге кирүү</translation>
@@ -716,9 +716,9 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="4880127995492972015">Которуу…</translation>
 <translation id="4881695831933465202">Ачуу</translation>
 <translation id="488187801263602086">Файлдын аталышын өзгөртүү</translation>
-<translation id="1248710015876067820">Мындай сандагы Asil нускалары колдоого алынбайт.</translation>
+<translation id="1248710015876067820">Мындай сандагы brave нускалары колдоого алынбайт.</translation>
 <translation id="4905823827770127520">Баракка болгон шилтемени көрсөтүңүз</translation>
-<translation id="3217997482476578430">Asil сунуштары</translation>
+<translation id="3217997482476578430">brave сунуштары</translation>
 <translation id="4909709702739934280">Серепчини администраторуңуз башкарат</translation>
 <translation id="4910889077668685004">Төлөм колдонмолору</translation>
 <translation id="4912413785358399818">Өтмөктү жылдыруу</translation>
@@ -727,13 +727,13 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="492284538114688557">Баалардын түшкөнү аныкталды</translation>
 <translation id="4925120120285606924">Скриншот <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="49268022542405662">Сырсөздөрүңүз экспорттолуп, текст файлы катары жүктөлүп алынат. Алар жүктөлүп алынган папкага кирүү мүмкүнчүлүгү бар колдонуучуларга жана колдонмолорго көрүнөт.</translation>
-<translation id="1955495299630319741"><ph name="DOMAIN_NAME"/> домениндеги аккаунтуңуздан чыгып жатканыңызга байланыштуу Asil’догу дайын-даректериңиз бул түзмөктөн өчүрүлөт. Дайындар Asil аккаунтуңузда сакталат.</translation>
+<translation id="1955495299630319741"><ph name="DOMAIN_NAME"/> домениндеги аккаунтуңуздан чыгып жатканыңызга байланыштуу brave’догу дайын-даректериңиз бул түзмөктөн өчүрүлөт. Дайындар brave аккаунтуңузда сакталат.</translation>
 <translation id="4943703118917034429">Виртуалдык чындык</translation>
 <translation id="4943872375798546930">Натыйжалар жок</translation>
-<translation id="5742837711075932301">Бир Asil аккаунтуна кирип турганыңызда башка түзмөктөр бул телефонду коопсуздук ачкычы катары колдоно алышат.</translation>
+<translation id="5742837711075932301">Бир brave аккаунтуна кирип турганыңызда башка түзмөктөр бул телефонду коопсуздук ачкычы катары колдоно алышат.</translation>
 <translation id="4957722034734105353">Көбүрөөк билүү…</translation>
 <translation id="4961107849584082341">Бул баракты каалаган тилге котортуп алыңыз</translation>
-<translation id="7307583170263691471">Кооптуу вебсайттардан, жүктөлүп алынган файлдардан жана кеңейтүүлөрдөн тез жана проактивдүү коргоо. Билинип калган сырсөздөр жөнүндө эскертет. Asil'га жөнөтүү үчүн серептөө маалыматын талап кылат.</translation>
+<translation id="7307583170263691471">Кооптуу вебсайттардан, жүктөлүп алынган файлдардан жана кеңейтүүлөрдөн тез жана проактивдүү коргоо. Билинип калган сырсөздөр жөнүндө эскертет. brave'га жөнөтүү үчүн серептөө маалыматын талап кылат.</translation>
 <translation id="497421865427891073">Алга</translation>
 <translation id="4985248278475639481">Жарнамаларды жекелештирүү жөнүндө маалымат</translation>
 <translation id="4987271110129728827">Ал бет табылбай жатат. Ал туура жазылганын текшериңиз же Интернеттен издеп көрүңүз.</translation>
@@ -742,7 +742,7 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="499724277181351974">Өтүү: <ph name="WEBSITE_TITLE"/>: <ph name="WEBSITE_URL"/></translation>
 <translation id="5001388021414335527">Бул сайтка ушул жерден көз салуу</translation>
 <translation id="500351648694011114">Оңой серептеңиз</translation>
-<translation id="6447211988989208781">Asil'дагы аракеттерди көзөмөлдөө</translation>
+<translation id="6447211988989208781">brave'дагы аракеттерди көзөмөлдөө</translation>
 <translation id="5005141133360250920">Реакция өчүрүлдү</translation>
 <translation id="5005498671520578047">Сырсөздү көчүрүү</translation>
 <translation id="5011311129201317034"><ph name="SITE"/> сайты туташканы жатат</translation>
@@ -751,13 +751,13 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="5039804452771397117">Уруксат берүү</translation>
 <translation id="5040262127954254034">Купуялык</translation>
 <translation id="504456571576643789">Эске ала турган нерселер</translation>
-<translation id="4858031288914533863">Аккаунтуңузга кирип турсаңыз, <ph name="BEGIN_LINK1"/>башка аракеттер<ph name="END_LINK1"/> Asil аккаунтуңузга сакталышы мүмкүн. Аларды каалаган убакта жок кылсаңыз болот.</translation>
+<translation id="4858031288914533863">Аккаунтуңузга кирип турсаңыз, <ph name="BEGIN_LINK1"/>башка аракеттер<ph name="END_LINK1"/> brave аккаунтуңузга сакталышы мүмкүн. Аларды каалаган убакта жок кылсаңыз болот.</translation>
 <translation id="506254248375231072">Өтмөктөр жок</translation>
-<translation id="4744980273298156620">Жакында жаңы өтмөктү ачкан сайын, <ph name="SITE_NAME"/> окуяларын көрүп турасыз. Сиз жазылган сайттар Asil аккаунтуңузда сакталат. Аларды Сунуштардын параметрлеринен башкара аласыз.</translation>
+<translation id="4744980273298156620">Жакында жаңы өтмөктү ачкан сайын, <ph name="SITE_NAME"/> окуяларын көрүп турасыз. Сиз жазылган сайттар brave аккаунтуңузда сакталат. Аларды Сунуштардын параметрлеринен башкара аласыз.</translation>
 <translation id="5091249083535528968">Кеңейтилген колдонуу статистикасы</translation>
 <translation id="509429900233858213">Ката кетти.</translation>
 <translation id="5099845111805573968">Компьютердик версияны бир жолу тандасаңыз, сайтка кирген сайын ушул параметр колдонулат</translation>
-<translation id="225414324447409614">Эгер сайт сырсөзүңүздү уурдоого аракет кылса же кооптуу файлды жүктөп алсаңыз, Asil URL даректерди, анын ичинде барактардагы мазмундун үлгүлөрүн Коопсуз серептөөгө жөнөтүшү мүмкүн</translation>
+<translation id="225414324447409614">Эгер сайт сырсөзүңүздү уурдоого аракет кылса же кооптуу файлды жүктөп алсаңыз, brave URL даректерди, анын ичинде барактардагы мазмундун үлгүлөрүн Коопсуз серептөөгө жөнөтүшү мүмкүн</translation>
 <translation id="510275257476243843">1 саат калды</translation>
 <translation id="5115811374190515607"><ph name="PRODUCT_NAME"/></translation>
 <translation id="5118713593561876160">Кызыккан нерселер</translation>
@@ -772,7 +772,7 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="5170568018924773124">Куржунда көрсөтүү</translation>
 <translation id="5171045022955879922">URL издеңиз же териңиз</translation>
 <translation id="517734441743343109">Улантуу менен, <ph name="BEGIN_TOS_LINK"/>Тейлөө шарттарына<ph name="END_TOS_LINK"/> жана <ph name="BEGIN_PRIVACY_LINK"/>Купуялык саясатына<ph name="END_PRIVACY_LINK"/> макул болосуз.</translation>
-<translation id="8445059357334030806">Asil'до ачуу</translation>
+<translation id="8445059357334030806">brave'до ачуу</translation>
 <translation id="5191251636205085390">Үчүнчү тараптын cookie файлдарын алмаштыруучу жаңы технологиялар жөнүндө маалымат алып, аларды башкарыңыз</translation>
 <translation id="5193988420012215838">Алмашуу буферине көчүрүлдү</translation>
 <translation id="5199929503336119739">Жумуш профили</translation>
@@ -794,10 +794,10 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="5304593522240415983">Бул талаа бош болбошу керек</translation>
 <translation id="5308380583665731573">Туташуу</translation>
 <translation id="5317780077021120954">Сактоо</translation>
-<translation id="989239400026154074">Asil'ду сунуштайт</translation>
-<translation id="493321943777183150">Asil көз салуу аракеттерин азайтып, серептеп жатканда коопсуздугуңузду арттыруунун жаңы жолдорун издеп жатат. Ошондой эле, Asil <ph name="BEGIN_LINK"/>кызыккан нерселериңизди божомолдоп<ph name="END_LINK"/>, аларды тескөөнү өзүңүзгө тапшырат. Андан соң сиз кирген сайттар жарнамаларды көрсөтүү үчүн Asil'дон кызыккан нерселериңиз тууралуу маалыматты сурашы мүмкүн.</translation>
+<translation id="989239400026154074">brave'ду сунуштайт</translation>
+<translation id="493321943777183150">brave көз салуу аракеттерин азайтып, серептеп жатканда коопсуздугуңузду арттыруунун жаңы жолдорун издеп жатат. Ошондой эле, brave <ph name="BEGIN_LINK"/>кызыккан нерселериңизди божомолдоп<ph name="END_LINK"/>, аларды тескөөнү өзүңүзгө тапшырат. Андан соң сиз кирген сайттар жарнамаларды көрсөтүү үчүн brave'дон кызыккан нерселериңиз тууралуу маалыматты сурашы мүмкүн.</translation>
 <translation id="5324858694974489420">Ата-энелик жөндөөлөр</translation>
-<translation id="1681635711794313507">Алдын ала жүктөлгөн барактар шифрленип, барактарга шилтеме берген сайт Asil'дун сайты болуп эсептелгендиктен, Asil серверлери бул барактарды алдын ала жүктөөдө жаңы маалымат албайт.</translation>
+<translation id="1681635711794313507">Алдын ала жүктөлгөн барактар шифрленип, барактарга шилтеме берген сайт brave'дун сайты болуп эсептелгендиктен, brave серверлери бул барактарды алдын ала жүктөөдө жаңы маалымат албайт.</translation>
 <translation id="5329858041417644019">Серепчиңиз башкарылган жок</translation>
 <translation id="5339031667684712858">Өчүргөн сайттарыңыз</translation>
 <translation id="5342314432463739672">Уруксат сурамдары</translation>
@@ -823,14 +823,14 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="5458366071038729214">Жазылган сайттарды ушул жерден табасыз</translation>
 <translation id="5468068603361015296"><ph name="FILE_NAME"/> файлы баары бир жүктөлүп алынсынбы?</translation>
 <translation id="548278423535722844">Карталар колдонмосунан ачыңыз</translation>
-<translation id="7176798998723526245">Asil'до чабыттаңыз</translation>
+<translation id="7176798998723526245">brave'до чабыттаңыз</translation>
 <translation id="5487521232677179737">Маалыматты өчүрүү</translation>
 <translation id="549025011754480756">Үн менен кантип издөө керек</translation>
 <translation id="5492637351392383067">Түзмөктө шифрлөө</translation>
 <translation id="5514904542973294328">Түзмөктүн администратору өчүрүп койгон</translation>
 <translation id="5515439363601853141">Сырсөзүңүздү көрүү үчүн кулпусун ачыңыз</translation>
 <translation id="5517095782334947753">Сизде <ph name="FROM_ACCOUNT"/> аккаунтунун кыстармалары, таржымалдары, сырсөздөрү жана башка параметрлери бар.</translation>
-<translation id="300369155175407115">Сыноолор күйүк болгондо жана Asil сизди башаламан иретте активдүү сыноого кошуп койгон болсо, Жарнамалар көрүлгөн вебсайттарга жана төмөндө болжолдонгон кызыккан нерселериңизге жараша көрсөтүлөт. Купуялыгыңызды коргоо максатында Asil кызыккан нерселериңизди ай сайын өчүрүп турат.</translation>
+<translation id="300369155175407115">Сыноолор күйүк болгондо жана brave сизди башаламан иретте активдүү сыноого кошуп койгон болсо, Жарнамалар көрүлгөн вебсайттарга жана төмөндө болжолдонгон кызыккан нерселериңизге жараша көрсөтүлөт. Купуялыгыңызды коргоо максатында brave кызыккан нерселериңизди ай сайын өчүрүп турат.</translation>
 <translation id="5524843473235508879">Багыттоо бөгөттөлгөн.</translation>
 <translation id="5548606607480005320">Коопсуздукту текшерүү</translation>
 <translation id="5555525474779371165">Коопсуз серептөөнүн иштөө режимин тандаңыз</translation>
@@ -843,7 +843,7 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="5581519193887989363">Эмнени шайкештирүү керек экенин <ph name="BEGIN_LINK1"/>жөндөөлөрдөн<ph name="END_LINK1"/> ар дайым тандай аласыз.</translation>
 <translation id="5590372121997663538">Бул компьютерди эстеп калуу</translation>
 <translation id="4968908871398201967">Жашыруун режим</translation>
-<translation id="6157610782452852023">Asil Жардамчы вебсайттардагы аракеттерди сиз үчүн аткара алат</translation>
+<translation id="6157610782452852023">brave Жардамчы вебсайттардагы аракеттерди сиз үчүн аткара алат</translation>
 <translation id="5620163320393916465">Сакталган сырсөздөр жок</translation>
 <translation id="5620928963363755975">"Дагы параметрлер" баскычын басып, файлдар менен барактарды "Жүктөлүп алынгандар" папкасынан таап алсаңыз болот</translation>
 <translation id="562289928968387744">Реакцияларды башкаруу</translation>
@@ -854,19 +854,19 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="5655963694829536461">Жүктөп алган нерселериңизди издеңиз</translation>
 <translation id="5659593005791499971">Электрондук почта</translation>
 <translation id="5665379678064389456"><ph name="APP_NAME"/> колдонмосунан иш-чара түзүңүз</translation>
-<translation id="5668833306439455813">Asil жаңыртууларды текшере алган жок</translation>
+<translation id="5668833306439455813">brave жаңыртууларды текшере алган жок</translation>
 <translation id="5686790454216892815">Файлдын аталышы өтө узун</translation>
 <translation id="569536719314091526">"Дагы параметрлер" баскычын басып, бул баракты каалаган тилге котортуп алыңыз</translation>
-<translation id="2320748512701464301">Asil сырсөздөрүңүздү коопсуз сактоого, кооптуу вебсайттардан жана башкалардан коргоого жардам берет</translation>
+<translation id="2320748512701464301">brave сырсөздөрүңүздү коопсуз сактоого, кооптуу вебсайттардан жана башкалардан коргоого жардам берет</translation>
 <translation id="570347048394355941">Өтмөккө которулуу</translation>
 <translation id="572328651809341494">Акыркы өтмөктөр</translation>
 <translation id="5726692708398506830">Барактагы бардык нерселерди чоңойтуу</translation>
-<translation id="3613110494561632737">Эгер Asil сизди башаламан иретте активдүү сыноого кошуп койгон болсо, Жарнамалар көрүлгөн вебсайттарга жана төмөндө болжолдонгон кызыккан нерселериңизге жараша көрсөтүлөт. Купуялыгыңызды коргоо максатында Asil кызыккан нерселериңизди ай сайын өчүрүп турат. Кызыккан нерселериңиз өчүрүлмөйүнчө жаңыртыла берет.</translation>
+<translation id="3613110494561632737">Эгер brave сизди башаламан иретте активдүү сыноого кошуп койгон болсо, Жарнамалар көрүлгөн вебсайттарга жана төмөндө болжолдонгон кызыккан нерселериңизге жараша көрсөтүлөт. Купуялыгыңызды коргоо максатында brave кызыккан нерселериңизди ай сайын өчүрүп турат. Кызыккан нерселериңиз өчүрүлмөйүнчө жаңыртыла берет.</translation>
 <translation id="5748802427693696783">Стандарттык өтмөктөргө которулду</translation>
-<translation id="3088191967551450609">Файлдарды жүктөп алуу үчүн Asil сактагычка мүмкүнчүлүк алышы керек.</translation>
+<translation id="3088191967551450609">Файлдарды жүктөп алуу үчүн brave сактагычка мүмкүнчүлүк алышы керек.</translation>
 <translation id="5749237766298580851">Өчүк <ph name="SEPARATOR"/> Сунушталбайт</translation>
 <translation id="5752232708629533680">GIF сүрөтүн гана бөлүшүү</translation>
-<translation id="416316836590748269">Asil'до оозеки издей аласыз</translation>
+<translation id="416316836590748269">brave'до оозеки издей аласыз</translation>
 <translation id="5754350196967618083">Сунуштар жаңырган жок</translation>
 <translation id="2633278372998075009">Жашыруун кыстырмалар</translation>
 <translation id="5763514718066511291">Бул колдонмонун URL'ин көчүрүү үчүн таптап коюңуз</translation>
@@ -878,17 +878,17 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="5793665092639000975"><ph name="SPACE_AVAILABLE"/> ичинен <ph name="SPACE_USED"/> колдонулууда</translation>
 <translation id="5795872532621730126">Издөө жана серептөө</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# саат мурун}other{# саат мурун}}</translation>
-<translation id="5311273890481188673">© Asil LLC, <ph name="YEAR"/> Баардык укуктар корголгон.</translation>
+<translation id="5311273890481188673">© brave LLC, <ph name="YEAR"/> Баардык укуктар корголгон.</translation>
 <translation id="5813552293717797987">Бул серепчи <ph name="PARENT_NAME_1"/> жана <ph name="PARENT_NAME_2"/> тарабынан башкарылат.</translation>
 <translation id="5814131985548525293">Баштоо үчүн бул жерге жазыңыз же үн сүрөтчөсүн таптап коюңуз</translation>
 <translation id="5814749351757353073">Жактырган сайттарыңызды колдоно бериңиз</translation>
 <translation id="583281660410589416">Белгисиз</translation>
 <translation id="5833984609253377421">Шилтеме менен бөлүшүү</translation>
-<translation id="4099502324559761073">QR кодун скандоо үчүн Asil'го камераңызды колдонууга уруксат бериңиз</translation>
-<translation id="2225291765389142805">Asil Dino</translation>
+<translation id="4099502324559761073">QR кодун скандоо үчүн brave'го камераңызды колдонууга уруксат бериңиз</translation>
+<translation id="2225291765389142805">brave Dino</translation>
 <translation id="5842437907245493289">Көз салган товарларды Кыстармалардагы папка сүрөтчөсү аркылуу иреттей аласыз</translation>
 <translation id="5853623416121554550">тындырылды</translation>
-<translation id="3518793343998771868">Asil'га бир да статистика же ката жөнүндө кабар жөнөтүлгөн жок</translation>
+<translation id="3518793343998771868">brave'га бир да статистика же ката жөнүндө кабар жөнөтүлгөн жок</translation>
 <translation id="5855546874025048181">Өркүндөтүү: <ph name="REFINE_TEXT"/></translation>
 <translation id="5857447844686706637">Бир жерден ката кетти. Баасына көз салуу жаңыртылбай койду.</translation>
 <translation id="5859968346865909126">Муну жөндөөлөрдөн күйгүзүп же өчүрүп салсаңыз болот</translation>
@@ -896,33 +896,33 @@ Asil аккаунтуңуздун башка Asil кызматтарынан а�
 <translation id="5860491529813859533">Күйгүзүү</translation>
 <translation id="5862731021271217234">Өтмөктөрүңүздү башка түзмөктөрүңүздөн алуу үчүн шайкештирүүнү күйгүзүңүз</translation>
 <translation id="5864419784173784555">Башка жүктөп алуу күтүлүүдө…</translation>
-<translation id="6538479075382111079">Колдонуу статистикасын жана каталар жөнүндө кабарларды Asil'га автоматтык түрдө жөнөтүп турат</translation>
+<translation id="6538479075382111079">Колдонуу статистикасын жана каталар жөнүндө кабарларды brave'га автоматтык түрдө жөнөтүп турат</translation>
 <translation id="5869522115854928033">Сакталган сырсөздөр</translation>
 <translation id="5869789175361934029">Башка түзмөктөн улантуу</translation>
-<translation id="5604589745019948682">Сайтка жазылуу үчүн ага өтүп, Asil менюсун ачып, "Жазылууну" таптаңыз.</translation>
+<translation id="5604589745019948682">Сайтка жазылуу үчүн ага өтүп, brave менюсун ачып, "Жазылууну" таптаңыз.</translation>
 <translation id="5879072387416556377">Жакшыраак сунуштарды алыңыз</translation>
-<translation id="1985257319311245640">Сайттардын URL даректери Asil Жардамчыга тапшырмаларды аткарууга жардам берет. Жардамчыны Asil'дун параметрлеринен өчүрсөңүз болот.</translation>
+<translation id="1985257319311245640">Сайттардын URL даректери brave Жардамчыга тапшырмаларды аткарууга жардам берет. Жардамчыны brave'дун параметрлеринен өчүрсөңүз болот.</translation>
 <translation id="5916664084637901428">Күйүк</translation>
 <translation id="5919204609460789179">Шайкештирүүнү баштоо үчүн <ph name="PRODUCT_NAME"/> жаңыртыңыз</translation>
 <translation id="5938820472109305350"><ph name="INTEREST"/> кошуу</translation>
-<translation id="6103327872225198548">Издөө үчүн Asil колдонулууда</translation>
+<translation id="6103327872225198548">Издөө үчүн brave колдонулууда</translation>
 <translation id="5945035219773565305">Учурдагы сунуш:  <ph name="RECOMMENDATION"/></translation>
 <translation id="5951119116059277034">Жарыяланган баракты көрүп турасыз</translation>
-<translation id="305870044889644984">Asil Жардам борборун жаңы өтмөктө ачуу</translation>
+<translation id="305870044889644984">brave Жардам борборун жаңы өтмөктө ачуу</translation>
 <translation id="5957442310066583693">Мыкты сайттарды көрүү үчүн Башкы бет баскычын таптап коюңуз</translation>
 <translation id="5958275228015807058">Файлдар менен барактарды "Жүктөлүп алынгандар" папкасынан таап алыңыз</translation>
 <translation id="5958994127112619898">Барак жөнөкөйлөтүлсүн</translation>
 <translation id="5962718611393537961">Жыйыштыруу үчүн таптап коюңуз</translation>
 <translation id="5964869237734432770">Сүрөттөмөлөрдү албоо</translation>
-<translation id="9135546826883360971">Asil тандооңузду эстеп калат</translation>
+<translation id="9135546826883360971">brave тандооңузду эстеп калат</translation>
 <translation id="5979084224081478209">Сырсөздөрдү текшерүү</translation>
 <translation id="5995726099713306770">Барак кайрадан жүктөлүп алынсынбы?</translation>
-<translation id="6456271171669383967">Asil калсын</translation>
+<translation id="6456271171669383967">brave калсын</translation>
 <translation id="6000203700195075278">Кайра жазылуу</translation>
 <translation id="6002122790816966947">Түзмөктөрүңүз</translation>
 <translation id="6005538289190791541">Сунушталган сырсөз</translation>
 <translation id="6032091552407840792">Бул сынамык версия <ph name="BEGIN_LINK"/>айрым аймактарда<ph name="END_LINK"/> гана иштейт.</translation>
-<translation id="6557407328070865042"><ph name="BEGIN_LINK"/>Privacy Sandbox<ph name="END_LINK"/> менен бирге Asil ачык тармакты коргоодо сайттарга кайчылаш көз салуудан сактай турган жаңы технологияларды иштеп чыгарууда.
+<translation id="6557407328070865042"><ph name="BEGIN_LINK"/>Privacy Sandbox<ph name="END_LINK"/> менен бирге brave ачык тармакты коргоодо сайттарга кайчылаш көз салуудан сактай турган жаңы технологияларды иштеп чыгарууда.
 
 Privacy Sandbox'тун сынамык версиялары дагы эле иштелип жатат, андыктан айрым аймактарда гана жеткиликтүү. Азырынча сайттар үчүнчү тараптын cookie файлдары сыяктуу учурда жеткиликтүү болгон веб технологияларын колдонуп жатып эле, Privacy Sandbox'ту байкап көрө алышат.</translation>
 <translation id="6039379616847168523">Кийинки өтмөккө секирүү</translation>
@@ -936,7 +936,7 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="6085886413119427067">Вебсайттарга кантип коопсуз туташуу керек экенин аныктайт</translation>
 <translation id="6091413777268123602">Privacy Sandbox'тун сыноо мезгилдери аркылуу сайттар азыраак маалыматыңызды колдонуп, бирдей карап чыгуу мүмкүнчүлүгүн бере алат. Анын жардамы менен купуялыгыңыз жакшыраак корголуп, башка сайттар азыраак көз салышат. Сыноого даяр болгон жаңы версияларды кошуп турабыз.</translation>
 <translation id="60923314841986378"><ph name="HOURS"/> саат калды</translation>
-<translation id="4726571606794511368">Эгер Asil демейки издөө каражатыңыз да болсо, сизге жакшыраак жана ылайыктуу сунуштар көрсөтүлөт</translation>
+<translation id="4726571606794511368">Эгер brave демейки издөө каражатыңыз да болсо, сизге жакшыраак жана ылайыктуу сунуштар көрсөтүлөт</translation>
 <translation id="6108923351542677676">Орнотулуп жатат…</translation>
 <translation id="6112702117600201073">Баракты жаңыртуу</translation>
 <translation id="6122831415929794347">Коопсуз серептөө өчүрүлсүнбү?</translation>
@@ -949,11 +949,11 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="6150320133806434356">Кыстарма сакталды</translation>
 <translation id="6154478581116148741">Жөндөөлөргө өтүп, экрандын кулпусун коюңуз да, ушул түзмөктөгү сырсөздөрүңүздү экспорттоңуз</translation>
 <translation id="6159729262978459665">Шайкештирилген бардык түзмөктөрүңүздөгү таржымал тазаланат.</translation>
-<translation id="7087658909840709934">Asil сизди баш багат деп болжолдогон барактарды алдын ала жүктөйт.</translation>
+<translation id="7087658909840709934">brave сизди баш багат деп болжолдогон барактарды алдын ала жүктөйт.</translation>
 <translation id="6186394685773237175">Билинип калган сырсөздөр аныкталган жок</translation>
 <translation id="6192907950379606605">Сүрөттөмөлөрдү алуу</translation>
 <translation id="6193448654517602979">Өтмөктөрдү тандоо</translation>
-<translation id="8367262879301982880">Сырсөздөр ушул түзмөктө Asil Сырсөздөрдү башкаргычка сакталат</translation>
+<translation id="8367262879301982880">Сырсөздөр ушул түзмөктө brave Сырсөздөрдү башкаргычка сакталат</translation>
 <translation id="6202812185118613467">Шайкештирип баштоо үчүн кайра кириңиз</translation>
 <translation id="6210748933810148297"><ph name="EMAIL"/> эмеспи?</translation>
 <translation id="6211386937064921208">Барак алдын ала көрсөтүлүүдө</translation>
@@ -965,7 +965,7 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="6277522088822131679">Баракты басып чыгарууда көйгөй келип чыкты. Дагы аракет кылып көрүңүз.</translation>
 <translation id="6277722725779679269">Баасына көз салуу жаңырган жок</translation>
 <translation id="6278428485366576908">Тема</translation>
-<translation id="7918815962568992845">Бир Asil аккаунту менен кирип турган түзмөктөрдө өтмөктөрдү жөнөтсөңүз болот</translation>
+<translation id="7918815962568992845">Бир brave аккаунту менен кирип турган түзмөктөрдө өтмөктөрдү жөнөтсөңүз болот</translation>
 <translation id="6297765934698848803">Түзмөгүңүздү башкарган уюм камераңызды өчүрүп койду.</translation>
 <translation id="6301525844455696527">Окуу тизмеңизди унутпаңыз</translation>
 <translation id="6303969859164067831">Аккаунттан чыгып, шайкештирүүнү өчүрүү</translation>
@@ -984,11 +984,11 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="6357653805084533597">Бул телефон менен ушул QR коду көрүнүп турган түзмөккө кире аласыз.</translation>
 <translation id="6363990818884053551">Шайкештирүүнү баштоо үчүн өзүңүз экениңизди ырастаңыз</translation>
 <translation id="6364438453358674297">Сунуш таржымалдан алынып салынсынбы?</translation>
-<translation id="806493401838431801">Көбүнчө Asil сизди баш багат деп болжолдогон барактарды алдын ала жүктөйт. Бул параметр менен көбүрөөк маалымат колдонулушу мүмкүн.</translation>
+<translation id="806493401838431801">Көбүнчө brave сизди баш багат деп болжолдогон барактарды алдын ала жүктөйт. Бул параметр менен көбүрөөк маалымат колдонулушу мүмкүн.</translation>
 <translation id="6394791151443660613">Издөө: <ph name="SEARCH_QUERY"/></translation>
 <translation id="6395288395575013217">ШИЛТЕМЕ</translation>
 <translation id="6397616442223433927">Кайрадан онлайн</translation>
-<translation id="8789425457808164956">Бул өтмөктү башка түзмөккө жөнөтүү үчүн ошол түзмөктөн Asil'го кириңиз</translation>
+<translation id="8789425457808164956">Бул өтмөктү башка түзмөккө жөнөтүү үчүн ошол түзмөктөн brave'го кириңиз</translation>
 <translation id="6402652558933147609"><ph name="VIOLATED_URL"/> – <ph name="ERROR_CODE"/></translation>
 <translation id="6403371459378431832">Бардык түзмөктөрдөгү маалыматты шайкештириңиз</translation>
 <translation id="6404511346730675251">Кыстарманы түзөтүү</translation>
@@ -997,7 +997,7 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="6410404864818553978">Негизги колдонуу статистикасы</translation>
 <translation id="6410883413783534063">Бир учурда бир нече барактарга баш багуу үчүн өтмөктөрдү ачыңыз</translation>
 <translation id="6411219469806822692">Өйдөрөөк өтүү мүмкүн эмес. Барактын өйдө жагынан баштап көрүңүз.</translation>
-<translation id="7810992039564280750">Asil'догу кооптуу сайттардын тизмесиндеги URL даректерин текшерет. Эгер сайт сырсөзүңүздү уурдоого аракет кылса же кооптуу файлды жүктөп алсаңыз, Asil URL даректерди, анын ичинде барактардагы мазмунду Коопсуз серептөөгө жөнөтүшү мүмкүн.</translation>
+<translation id="7810992039564280750">brave'догу кооптуу сайттардын тизмесиндеги URL даректерин текшерет. Эгер сайт сырсөзүңүздү уурдоого аракет кылса же кооптуу файлды жүктөп алсаңыз, brave URL даректерди, анын ичинде барактардагы мазмунду Коопсуз серептөөгө жөнөтүшү мүмкүн.</translation>
 <translation id="641643625718530986">Басып чыгаруу…</translation>
 <translation id="6422857128426228781">Көз салган бааларды ушул жерден табасыз</translation>
 <translation id="6433501201775827830">Издөө каражатыңызды тандаңыз</translation>
@@ -1008,17 +1008,17 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="6447558397796644647">Кыстарма табылбай жатат. Ал туура жазылганын текшериңиз же жаңы кыстарма кошуңуз.</translation>
 <translation id="6459045781120991510">Сурамжылоолор</translation>
 <translation id="6461962085415701688">Файл ачылбай жатат</translation>
-<translation id="9055113864158719823">Asil'до кирген сайттарды көрүп, аларга таймерлерди кошо аласыз.\n\nBrave таймерлер коюлган сайттар жана ал сайттарда канча убакыт өткөргөнүңүз тууралуу маалыматты алып турат. Бул маалымат Санариптик бакубаттык кызматын жакшыртуу үчүн колдонулат.</translation>
+<translation id="9055113864158719823">brave'до кирген сайттарды көрүп, аларга таймерлерди кошо аласыз.\n\nBrave таймерлер коюлган сайттар жана ал сайттарда канча убакыт өткөргөнүңүз тууралуу маалыматты алып турат. Бул маалымат Санариптик бакубаттык кызматын жакшыртуу үчүн колдонулат.</translation>
 <translation id="6473086018775716761">Бөлүшүү параметрлеринин тизмеси экрандын жарымына чейин ачылды.</translation>
 <translation id="6475951671322991020">Видеону жүктөп алуу</translation>
 <translation id="6477928892249167417">Бул сайттар сиз үчүн маанилүү окшойт:</translation>
 <translation id="6482749332252372425"><ph name="FILE_NAME"/> кампада орун жоктугуна байланыштуу жүктөлбөй калды.</translation>
 <translation id="6496823230996795692"><ph name="APP_NAME"/> колдонмосун биринчи жолу колдонгондо, Интернетке туташуу талап кылынат.</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{Файл жүктөлүп алынды}other{# файл жүктөлүп алынды}}</translation>
-<translation id="3960299545138990065">Asil’ду өчүрүп-күйгүзүңүз</translation>
+<translation id="3960299545138990065">brave’ду өчүрүп-күйгүзүңүз</translation>
 <translation id="6527303717912515753">Бөлүшүү</translation>
-<translation id="708829030563435351">Asil'до кирген сайттарыңыз көрүнбөйт. Бардык сайттардагы таймерлер өчүрүлөт.</translation>
-<translation id="7723158744459952869">Asil'дун жооп берүүсү өтө узакка созулуп кетти</translation>
+<translation id="708829030563435351">brave'до кирген сайттарыңыз көрүнбөйт. Бардык сайттардагы таймерлер өчүрүлөт.</translation>
+<translation id="7723158744459952869">brave'дун жооп берүүсү өтө узакка созулуп кетти</translation>
 <translation id="6539092367496845964">Бир жерден ката кетти. Бир аздан кийин кайталап көрүңүз.</translation>
 <translation id="6541042852576515209">Өлчөмүн өзгөртүү жана буруу</translation>
 <translation id="6541983376925655882">{NUM_HOURS,plural, =1{1 саат мурда текшерилди}other{# саат мурда текшерилди}}</translation>
@@ -1028,31 +1028,31 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="6560414384669816528">Sogou менен издөө</translation>
 <translation id="656065428026159829">Дагы көрүү</translation>
 <translation id="6565959834589222080">Wi-Fi жеткиликтүү болгондо колдонулат</translation>
-<translation id="4480935821314799946">Эми жаңы өтмөктү ачканда, <ph name="SITE_NAME"/> окуяларын көрүп турасыз. Сиз жазылган сайттар Asil аккаунтуңузда сакталат. Аларды Сунуштардын параметрлеринен башкара аласыз.</translation>
+<translation id="4480935821314799946">Эми жаңы өтмөктү ачканда, <ph name="SITE_NAME"/> окуяларын көрүп турасыз. Сиз жазылган сайттар brave аккаунтуңузда сакталат. Аларды Сунуштардын параметрлеринен башкара аласыз.</translation>
 <translation id="6573096386450695060">Дайым уруксат берүү</translation>
-<translation id="5157964048453367290">Башка түзмөктөрүңүздөн Asil аркылуу ачылган өтмөктөр ушул жерден көрүнөт.</translation>
+<translation id="5157964048453367290">Башка түзмөктөрүңүздөн brave аркылуу ачылган өтмөктөр ушул жерден көрүнөт.</translation>
 <translation id="6583199322650523874">Учурдагы баракчаны кыстарып коюу</translation>
 <translation id="6588043302623806746">Коопсуз DNS'ти колдонуу</translation>
 <translation id="6590471736817333463">60% чейин трафик үнөмдөңүз</translation>
 <translation id="6590680911007613645">Сактап жаткан сырсөзүңүз <ph name="SITE"/> вебсайтындагы сырсөзгө дал келиши керек</translation>
 <translation id="6593061639179217415">Компьютер версиясы</translation>
-<translation id="2372700594671864890">Asil ачык тармакты коргоодо сайттарга кайчылаш көз салуудан кантип коргой турганын көрүңүз</translation>
-<translation id="2466982615210189224">Сүрөттөмөлөрдү жакшыртуу үчүн сүрөттөр Asil'га жөнөтүлөт.</translation>
-<translation id="663059986967017181">Asil'го көчүрүлдү</translation>
+<translation id="2372700594671864890">brave ачык тармакты коргоодо сайттарга кайчылаш көз салуудан кантип коргой турганын көрүңүз</translation>
+<translation id="2466982615210189224">Сүрөттөмөлөрдү жакшыртуу үчүн сүрөттөр brave'га жөнөтүлөт.</translation>
+<translation id="663059986967017181">brave'го көчүрүлдү</translation>
 <translation id="661266467055912436">Сиз жана башкалар үчүн Интернеттеги коопсуздукту арттырат.</translation>
 <translation id="6618554661997243500">Башкы бет баскычын таптаган сайын эң көп колдонгон сайттарыңыз жана акыркы окуяларыңыз көрүнөт</translation>
-<translation id="8127050479140582768">Бул өтмөктү башка түзмөккө жөнөтүү үчүн эки түзмөктөн тең Asil'го кириңиз</translation>
+<translation id="8127050479140582768">Бул өтмөктү башка түзмөккө жөнөтүү үчүн эки түзмөктөн тең brave'го кириңиз</translation>
 <translation id="6627583120233659107">Куржунду түзөтүү</translation>
 <translation id="4660964651149493586">Жашыруун режимдин кулпусун ачуу</translation>
 <translation id="6636623428211296678">Төмөндө көбүрөөк жөндөөлөрдү изилдеңиз же азыр бүтүрүңүз</translation>
-<translation id="2259649928554669581">Купуялыкка, коопсуздукка жана дайындарды чогултууга байланыштуу дагы башка жөндөөлөрдү көрүү үчүн <ph name="BEGIN_LINK1"/>Шайкештирү<ph name="END_LINK1"/> жана <ph name="BEGIN_LINK2"/>Asil кызматтары<ph name="END_LINK2"/> бөлүмүнө өтүңүз.</translation>
-<translation id="7939692063031538305">Колдонмону жакшыртууга жардам берүү үчүн Asil колдонулушу жана ката тууралуу маалыматты Asil'га жөнөтөт. <ph name="BEGIN_UMA_LINK"/>Башкаруу<ph name="END_UMA_LINK"/></translation>
+<translation id="2259649928554669581">Купуялыкка, коопсуздукка жана дайындарды чогултууга байланыштуу дагы башка жөндөөлөрдү көрүү үчүн <ph name="BEGIN_LINK1"/>Шайкештирү<ph name="END_LINK1"/> жана <ph name="BEGIN_LINK2"/>brave кызматтары<ph name="END_LINK2"/> бөлүмүнө өтүңүз.</translation>
+<translation id="7939692063031538305">Колдонмону жакшыртууга жардам берүү үчүн brave колдонулушу жана ката тууралуу маалыматты brave'га жөнөтөт. <ph name="BEGIN_UMA_LINK"/>Башкаруу<ph name="END_UMA_LINK"/></translation>
 <translation id="6640207029842583248">Ар дайым бөгөттөө</translation>
 <translation id="6641780377503683465"><ph name="INTEREST"/> өчүрүү</translation>
 <translation id="6643016212128521049">Тазалоо</translation>
 <translation id="6645629752388991326">Бул түзмөктү коопсуздук ачкычы катары колдонуп, аккаунтка кайсы түзмөктөр кире аларын көзөмөлдөңүз.</translation>
-<translation id="7556503430569358637">Кийин кайсы сайттарга кирериңизди болжолдоо үчүн сиз баш баккан URL даректери Asil'га жөнөтүлүп турат</translation>
-<translation id="6678472970290886941">Администраторуңуз серепчини алыстан жөндөй алат. Бул түзмөктө аткарылган аракеттер Asil'дон тышкары да башкарылышы мүмкүн.</translation>
+<translation id="7556503430569358637">Кийин кайсы сайттарга кирериңизди болжолдоо үчүн сиз баш баккан URL даректери brave'га жөнөтүлүп турат</translation>
+<translation id="6678472970290886941">Администраторуңуз серепчини алыстан жөндөй алат. Бул түзмөктө аткарылган аракеттер brave'дон тышкары да башкарылышы мүмкүн.</translation>
 <translation id="6648977384226967773">{CONTACT,plural, =1{<ph name="CONTACT_PREVIEW"/>\u2026 жана дагы <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/>}other{<ph name="CONTACT_PREVIEW"/>\u2026 жана дагы <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/>}}</translation>
 <translation id="6649642165559792194">Сүрөттү алдын ала көрүү <ph name="BEGIN_NEW"/>Жаңы<ph name="END_NEW"/></translation>
 <translation id="6657585470893396449">Сырсөз</translation>
@@ -1060,9 +1060,9 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="666731172850799929">Төмөнкүдө ачуу <ph name="APP_NAME"/></translation>
 <translation id="6671495933530132209">Сүрөттү көчүрүү</translation>
 <translation id="6674571176963658787">Шайкештирүүнү баштоо үчүн сыр сүйлөмүңүздү киргизиңиз</translation>
-<translation id="8581481290581777242">Asil'догу дайын-даректериңиз бул түзмөктөн өчүрүлсүнбү?</translation>
-<translation id="3683330416566109578">Бул сайтка жана Asil'го кириңиз</translation>
-<translation id="3385384709865894288">Asil'ду жакшыртууга жардам бериңиз</translation>
+<translation id="8581481290581777242">brave'догу дайын-даректериңиз бул түзмөктөн өчүрүлсүнбү?</translation>
+<translation id="3683330416566109578">Бул сайтка жана brave'го кириңиз</translation>
+<translation id="3385384709865894288">brave'ду жакшыртууга жардам бериңиз</translation>
 <translation id="670498945988402717">Кечээ текшерилди</translation>
 <translation id="6710213216561001401">Мурунку</translation>
 <translation id="671481426037969117"><ph name="FQDN"/> таймериңиздин убакыты бүттү. Ал эртең кайра башталат.</translation>
@@ -1076,13 +1076,13 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="6767294960381293877">Жалпы түзмөктөрдүн тизмеси көрсөтүлгөн өтмөк экрандын жарымында ачылды.</translation>
 <translation id="6770042910635026163">Кызыккан нерселериңизди аныктай турган сайттар</translation>
 <translation id="6770602306803890733">Сиз жана башкалар үчүн Интернеттеги коопсуздукту арттырат</translation>
-<translation id="8174975477247159780">Asil менен ChromeOS'тун Кошумча Тейлөө шарттары</translation>
+<translation id="8174975477247159780">brave менен ChromeOS'тун Кошумча Тейлөө шарттары</translation>
 <translation id="6795633245022906657">Жаңы өтмөктү ыкчам ачыңыз. Бул ыкчам баскычты түзөтүү үчүн жөндөөлөргө өтүңүз.</translation>
 <translation id="6802555630140434547">Терезе жабылат</translation>
 <translation id="6811034713472274749">Барак карап чыгууга даяр</translation>
-<translation id="8418237809013783651">Asil'го кириңиз. Ачылды.</translation>
+<translation id="8418237809013783651">brave'го кириңиз. Ачылды.</translation>
 <translation id="6817747507826986771">Бул баракты ыкчам бөлүшүү. Бул ыкчам баскычты түзөтүү үчүн коё бербей басып туруңуз.</translation>
-<translation id="118366698571543506">Asil'дагы нерселерди бардык түзмөктөрүңүздө колдонуу үчүн аккаунтуңузга кириңиз</translation>
+<translation id="118366698571543506">brave'дагы нерселерди бардык түзмөктөрүңүздө колдонуу үчүн аккаунтуңузга кириңиз</translation>
 <translation id="6820686453637990663">CVC</translation>
 <translation id="6824899148643461612"><ph name="TAB_TITLE"/> өтмөгү тандалды</translation>
 <translation id="6828070228333235514">Баасына көз салууну токтотуу</translation>
@@ -1092,7 +1092,7 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="6846298663435243399">Жүктөлүүдө…</translation>
 <translation id="6850409657436465440">Файлыңыз дагы эле жүктөлүп алынууда</translation>
 <translation id="6850830437481525139"><ph name="TAB_COUNT"/> өтмөк жабылды</translation>
-<translation id="4046835482356054431">Asil cунуштары – өчүк</translation>
+<translation id="4046835482356054431">brave cунуштары – өчүк</translation>
 <translation id="686366188661646310">Сырсөз жок кылынсынбы?</translation>
 <translation id="6864459304226931083">Сүрөттү жүктөп алуу</translation>
 <translation id="6865313869410766144">Автотолтуруу формасынын дайындары</translation>
@@ -1124,7 +1124,7 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="7029809446516969842">Сырсөздөр</translation>
 <translation id="7030304022046916278">URL даректерин текшерүү үчүн Коопсуз серептөөгө жөнөтөт</translation>
 <translation id="7030585293819777123">Акыркы жасалчу ишиңизди улантасызбы?</translation>
-<translation id="5813862251770201080">Asil'го Asil аккаунтуңуз менен кириңиз</translation>
+<translation id="5813862251770201080">brave'го brave аккаунтуңуз менен кириңиз</translation>
 <translation id="7038956721828960940">chrome_image_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="7054588988317389591">Сүрөттүн сүрөттөмөлөрүн аласызбы?</translation>
 <translation id="7055152154916055070">Багыттоо бөгөттөлгөн:</translation>
@@ -1132,9 +1132,9 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="7071521146534760487">Аккаунтту башкаруу</translation>
 <translation id="707155805709242880">Төмөндө шайкештириле турган нерселерди тандаңыз</translation>
 <translation id="7077143737582773186">SD-карта</translation>
-<translation id="2374582967527009647">URL даректерин текшерүү үчүн Коопсуз серептөөгө жөнөтөт. Барактардын чакан үлгүлөрүн, жүктөлүп алынган файлдарды, кеңейтүүлөрдүн аракеттерин жана тутум маалыматын жөнөтүп, жаңы коркунучтарды аныктоого жардам берет. Asil колдонмолорунда коопсуздугуңузду коргоо үчүн аккаунтуңуз менен кирип турганда, бул маалыматты Asil аккаунтуңуз менен байланыштырат.</translation>
-<translation id="5499149312981370855">Asil таржымалын Asil кызматтарын жекелештирүү үчүн колдонуп же колдонбоону тандаңыз</translation>
-<translation id="8208853227947884571">Asil жаңыртылды</translation>
+<translation id="2374582967527009647">URL даректерин текшерүү үчүн Коопсуз серептөөгө жөнөтөт. Барактардын чакан үлгүлөрүн, жүктөлүп алынган файлдарды, кеңейтүүлөрдүн аракеттерин жана тутум маалыматын жөнөтүп, жаңы коркунучтарды аныктоого жардам берет. brave колдонмолорунда коопсуздугуңузду коргоо үчүн аккаунтуңуз менен кирип турганда, бул маалыматты brave аккаунтуңуз менен байланыштырат.</translation>
+<translation id="5499149312981370855">brave таржымалын brave кызматтарын жекелештирүү үчүн колдонуп же колдонбоону тандаңыз</translation>
+<translation id="8208853227947884571">brave жаңыртылды</translation>
 <translation id="7093803425429738190">Сезим кошуу</translation>
 <translation id="7105047059074518658">Түзмөктөрдү оңой колдонуу үчүн аккаунтуңузга кириңиз</translation>
 <translation id="7106762743910369165">Серепчиңиз уюмуңуз тарабынан башкарылат</translation>
@@ -1143,24 +1143,24 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="7143462160780459030">Скриншот тартылбай жатат. Кайталоо.</translation>
 <translation id="7146622961999026732">Бул сайттар менен колдонмолор сиз үчүн маанилүү окшойт:</translation>
 <translation id="7149893636342594995">Акыркы 24 саат</translation>
-<translation id="604991236434948997">QR кодун скандоо үчүн жөндөөлөрдү өзгөртүп, Asil'го камераңызды колдонууга уруксат бериңиз</translation>
+<translation id="604991236434948997">QR кодун скандоо үчүн жөндөөлөрдү өзгөртүп, brave'го камераңызды колдонууга уруксат бериңиз</translation>
 <translation id="7173114856073700355">Жөндөөлөрдү ачуу</translation>
 <translation id="7177466738963138057">Муну кийинчерээк Жөндөөлөрдөн өзгөртсөңүз болот</translation>
 <translation id="7177873915659574692">QR коду түзүлгөн жок. URL дареги <ph name="CHARACTER_LIMIT"/> символдон ашып кетти.</translation>
-<translation id="7631741717293858595">Бул функциялар тууралуу кеңири маалымат алуу үчүн Asil параметрлерине өтүңүз.</translation>
+<translation id="7631741717293858595">Бул функциялар тууралуу кеңири маалымат алуу үчүн brave параметрлерине өтүңүз.</translation>
 <translation id="7180611975245234373">Жаңылоо</translation>
 <translation id="718226107353899806"><ph name="MAX_NUM_REACTIONS"/> реакцияга чейин кошо аласыз</translation>
 <translation id="7183693674623539380">Өтмөктөр тобу – <ph name="TITLE_OF_GROUP"/></translation>
-<translation id="8355565210555500987">Аккаунтуңузга киргенде Asil'до жана башка Asil колдонмолорунда коопсуздугуңузду коргоп турат.</translation>
+<translation id="8355565210555500987">Аккаунтуңузга киргенде brave'до жана башка brave колдонмолорунда коопсуздугуңузду коргоп турат.</translation>
 <translation id="7191430249889272776">Өтмөк фондо ачылды.</translation>
 <translation id="7196215469483532480">Купуялык жетектемесинин түшүндүрмөсү толугу менен ачылды</translation>
 <translation id="7207760545532569765"><ph name="TAB_COUNT"/> өтмөктү фондогу жаңы өтмөктөр катары калыбына келтирүү.</translation>
 <translation id="7208109991155904980">Реакция жылдырылды</translation>
-<translation id="6302653771627628530">Asil'дон чыкканыңызда жашыруун өтмөктөр кулпуланат</translation>
+<translation id="6302653771627628530">brave'дон чыкканыңызда жашыруун өтмөктөр кулпуланат</translation>
 <translation id="7222235798733126207">Сайттардын арасындагы бөлүшүү аракетин чектөө</translation>
 <translation id="7227218174981371415">{FILE_COUNT,plural, =1{1 жүктөп алуу күтүлүүдө}other{# жүктөп алуу күтүлүүдө}}</translation>
 <translation id="7242755609445462077">Cтилдештирилген бөлүп көрсөтүү: <ph name="CURRENT_DATE"/></translation>
-<translation id="8287068819750208230"><ph name="TARGET_DEVICE_NAME"/> түзмөгүңүздү шайкештирүү Asil'дон күйгүзүлгөнүн текшериңиз</translation>
+<translation id="8287068819750208230"><ph name="TARGET_DEVICE_NAME"/> түзмөгүңүздү шайкештирүү brave'дон күйгүзүлгөнүн текшериңиз</translation>
 <translation id="7252076891734325316">Телефонуңузду компьютерге жакын коюңуз</translation>
 <translation id="727288900855680735"><ph name="ONE_TIME_CODE"/> коду <ph name="ORIGIN"/> сайтына тапшырылсынбы?</translation>
 <translation id="7274013316676448362">Бөгөттөлгөн сайт</translation>
@@ -1170,10 +1170,10 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="7291910923717764901">Сүрөттүн бул баракка кошулган сүрөттөмөлөрү</translation>
 <translation id="7293429513719260019">Тил тандоо</translation>
 <translation id="729975465115245577">Түзмөгүңүздө сырсөздөрдүн файлын сактай турган колдонмо жок экен.</translation>
-<translation id="1382596880054356475">Оффлайн. Asil сырсөздөрүңүздү текшере албай жатат</translation>
+<translation id="1382596880054356475">Оффлайн. brave сырсөздөрүңүздү текшере албай жатат</translation>
 <translation id="7313188324932846546">Шайкештирүүнү жөндөө үчүн басыңыз</translation>
 <translation id="7332075081379534664">Аккаунтуңузга ийгиликтүү кирдиңиз</translation>
-<translation id="8716243540027092298">Asil'дан эң ылайыктуу контентти көрүү үчүн шайкештирүүнү иштетиңиз</translation>
+<translation id="8716243540027092298">brave'дан эң ылайыктуу контентти көрүү үчүн шайкештирүүнү иштетиңиз</translation>
 <translation id="7339898014177206373">Жаңы терезе</translation>
 <translation id="7340958967809483333">Сунуштардын параметрлери</translation>
 <translation id="7352339641508007922">Узун скриншот тартып алуу үчүн сүйрөңүз</translation>
@@ -1186,14 +1186,14 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="7376560087009844242">Барактагы көбүрөөк текст камтылса, тийип издегенде жакшыраак натыйжалар көрсөтүлүшү мүмкүн. Муну <ph name="BEGIN_LINK"/>жөндөөлөрдөн<ph name="END_LINK"/> каалаган убакта өзгөртө аласыз.</translation>
 <translation id="7379900596734708416">Сайттар үчүн Караңгы тема жеткиликтүү</translation>
 <translation id="7400418766976504921">URL</translation>
-<translation id="724102042129299115">Asil'ду алгачкы иштетүү тажрыйбасы</translation>
+<translation id="724102042129299115">brave'ду алгачкы иштетүү тажрыйбасы</translation>
 <translation id="741204030948306876">Ооба, макулмун</translation>
 <translation id="7419565702166471774">Ар дайым коопсуз туташуулар колдонулсун</translation>
 <translation id="7431991332293347422">Издөөнү жана башка кызматтарды жекечелештирүү үчүн серептөө таржымалыңыз кандайча пайдаланыларын көзөмөлдөңүз</translation>
 <translation id="7435356471928173109">Администраторуңуз өчүрүп койду</translation>
-<translation id="6234515504547364178">Asil'дон чыгуу</translation>
+<translation id="6234515504547364178">brave'дон чыгуу</translation>
 <translation id="4785410057733147746">Жашыруун режимде сайттар жарнамаларды жекелештирүү максатында башка сайттардагы серептөө аракеттериңизди көрүү үчүн cookie файлдарын колдоно алышпайт. Функциялар айрым сайттарда туура иштебеши мүмкүн.</translation>
-<translation id="3699067418237091329">Сиз көпчүлүк сайттардагы каттоо эсептериңизден чыгарылып, бирок Asil аккаунтуңуздан чыкпайсыз.</translation>
+<translation id="3699067418237091329">Сиз көпчүлүк сайттардагы каттоо эсептериңизден чыгарылып, бирок brave аккаунтуңуздан чыкпайсыз.</translation>
 <translation id="7454641608352164238">Орун жетишсиз</translation>
 <translation id="7456774706094330779">Кеңейтилген алдын ала жүктөө</translation>
 <translation id="7468819939926272717">Быйтыкча тандаңыз</translation>
@@ -1208,7 +1208,7 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="749294055653435199">Бул түзмөктө Google Lens иштебейт</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (Жаңырган <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7498271377022651285">Күтө туруңуз…</translation>
-<translation id="8156131600798538460">Бардык вебсайттарда Asil аккаунтуңуздан чыгуу үчүн <ph name="BEGIN_LINK1"/>Asil'дон чыгыңыз<ph name="END_LINK1"/>.</translation>
+<translation id="8156131600798538460">Бардык вебсайттарда brave аккаунтуңуздан чыгуу үчүн <ph name="BEGIN_LINK1"/>brave'дон чыгыңыз<ph name="END_LINK1"/>.</translation>
 <translation id="750228856503700085">Жаңыртуулар жеткиликсиз</translation>
 <translation id="7507207699631365376">Бул кызмат көрсөтүүчүнүн <ph name="BEGIN_LINK"/>купуялык саясатын<ph name="END_LINK"/> көрүңүз</translation>
 <translation id="7514365320538308">Жүктөп алуу</translation>
@@ -1216,7 +1216,7 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="752220631458524187">Бүтүргөндө ажыратыңыз</translation>
 <translation id="7523960634226602883">Камераны иштетип, Google Lens'те колдонуңуз</translation>
 <translation id="7562080006725997899">Серептөө дайындары тазаланууда</translation>
-<translation id="7814200940910057384">Asil дайындары тазаланды</translation>
+<translation id="7814200940910057384">brave дайындары тазаланды</translation>
 <translation id="7577900504646297215">Кызыккан нерселерди башкаруу</translation>
 <translation id="757855969265046257">{FILES,plural, =1{<ph name="FILES_DOWNLOADED_ONE"/> файл жүктөлүп алынды}other{<ph name="FILES_DOWNLOADED_MANY"/> файл жүктөлүп алынды}}</translation>
 <translation id="7581273696622423628">Сурамжылоого катышуу</translation>
@@ -1225,10 +1225,10 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="7594687499944811403"><ph name="EMBEDDED_ORIGIN"/> кызматына <ph name="TOP_ORIGIN"/> үчүн бул сиз экениңизди ырастоого уруксат бериңиз</translation>
 <translation id="7596558890252710462">Иштөө тутуму</translation>
 <translation id="7605594153474022051">Шайкештирүү иштебей жатат</translation>
-<translation id="649070405679044769">Asil'га төмөнкү аркылуу кирип турасыз</translation>
+<translation id="649070405679044769">brave'га төмөнкү аркылуу кирип турасыз</translation>
 <translation id="7616551326690708776">Бөлүп көрсөтүлгөн нерсе үчүн үлгү тандаңыз.</translation>
 <translation id="7619072057915878432"><ph name="FILE_NAME"/> тармак жөндөмсүздүгүнө байланыштуу жүктөлбөй калды.</translation>
-<translation id="7207456302801184289">Asil'го кош келиңиз</translation>
+<translation id="7207456302801184289">brave'го кош келиңиз</translation>
 <translation id="7630202231528827509">Провайдердин URL дареги</translation>
 <translation id="7634280112532283638">Спам жана шылуундукту азайтуу</translation>
 <translation id="7638584964844754484">Туура эмес купуя сөз айкашы</translation>
@@ -1242,7 +1242,7 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="766587987807204883">Оффлайн режиминде да окула турган макалалар ушул жерде көрүнөт</translation>
 <translation id="768232549260819724">GIF көчүрүлдү</translation>
 <translation id="7682724950699840886">Төмөнкү кеңештерди аткарып көрүңүз: түзмөгүңүздө бош орун бар экенин текшерип, кайра экспорттоп көрүңүз.</translation>
-<translation id="2667018639405889513">Cиз баш баккан айрым барактар алдын ала жүктөлгөн. Asil сайтынан шилтеме берилген барактар Asil'дун серверлери аркылуу алдын ала жүктөлүшү мүмкүн.</translation>
+<translation id="2667018639405889513">Cиз баш баккан айрым барактар алдын ала жүктөлгөн. brave сайтынан шилтеме берилген барактар brave'дун серверлери аркылуу алдын ала жүктөлүшү мүмкүн.</translation>
 <translation id="7698359219371678927"><ph name="APP_NAME"/> колдонмосунан электрондук почта түзүңүз</translation>
 <translation id="7704317875155739195">Издөө сурамдарын жана URL'дерди автоматтык түрдө толтуруу</translation>
 <translation id="770741401784017797">GIF түзүлүүдө</translation>
@@ -1252,14 +1252,14 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="7725024127233776428">Сиз кыстарма катары сактаган барактар ушул жерде көрүнөт</translation>
 <translation id="7757787379047923882"><ph name="DEVICE_NAME"/> түзмөгүнөн көчүрүлгөн текст</translation>
 <translation id="7762668264895820836"><ph name="SD_CARD_NUMBER"/>-SD-карта</translation>
-<translation id="9101995357058996048">Кошумча функциялар жана Asil'дун коопсуздук системасы үчүн аккаунтка кириңиз</translation>
+<translation id="9101995357058996048">Кошумча функциялар жана brave'дун коопсуздук системасы үчүн аккаунтка кириңиз</translation>
 <translation id="7764225426217299476">Дарек кошуу</translation>
 <translation id="7772032839648071052">Купуя сөз айкашын ырастаңыз</translation>
 <translation id="7772375229873196092"><ph name="APP_NAME"/> өтмөгүн жабуу</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 жана дагы <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 жана дагы <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/>}}</translation>
 <translation id="7778840695157240389">Жаңы окуяларды көрүү үчүн мезгил-мезгили менен баш багып туруңуз</translation>
-<translation id="7703329426540523149">Asil колдонмолорунда коопсуздугуңузду коргоо үчүн аккаунтуңуз менен кирип турганда, бул маалыматты Asil аккаунтуңуз менен байланыштырат</translation>
-<translation id="4885054029571583374">Asil Жардамчы менен Интернетте оозеки издеп, ачкан сайттарыңызда иштегенде жакшыраак натыйжаларды аласыз. Asil Жардамчы ал аркылуу ачкан сайттарыңыздын URL даректерин жана мазмундарын алып турат.</translation>
+<translation id="7703329426540523149">brave колдонмолорунда коопсуздугуңузду коргоо үчүн аккаунтуңуз менен кирип турганда, бул маалыматты brave аккаунтуңуз менен байланыштырат</translation>
+<translation id="4885054029571583374">brave Жардамчы менен Интернетте оозеки издеп, ачкан сайттарыңызда иштегенде жакшыраак натыйжаларды аласыз. brave Жардамчы ал аркылуу ачкан сайттарыңыздын URL даректерин жана мазмундарын алып турат.</translation>
 <translation id="7791543448312431591">Кошуу</translation>
 <translation id="7798392620021911922"><ph name="TAB_COUNT"/> өтмөк калыбына келтирилди</translation>
 <translation id="780301667611848630">Жок, рахмат</translation>
@@ -1269,7 +1269,7 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="7815484226266492798">Узун скриншот</translation>
 <translation id="78270725016672455">Компьютериңиз бул түзмөктү сайтка кирүү үчүн каттагысы келет</translation>
 <translation id="7844171778363018843">Шайкештириле турган маалымат тандалган жок</translation>
-<translation id="7068829570137757602">Asil кызматтары</translation>
+<translation id="7068829570137757602">brave кызматтары</translation>
 <translation id="784934925303690534">Убакыт аралыгы</translation>
 <translation id="7851858861565204677">Башка түзмөктөр</translation>
 <translation id="7853202427316060426">Аракеттер</translation>
@@ -1279,10 +1279,10 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="7875915731392087153">Электрондук почта түзүңүз</translation>
 <translation id="7876243839304621966">Баарын алып салуу</translation>
 <translation id="7879130110979560610">{READING_LIST_REMINDER_NOTIFICATION_SUBTITLE,plural, =1{<ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_ONE"/> барак окула элек}other{<ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_MANY"/> барак окула элек}}</translation>
-<translation id="6143689084714664628">Asil'до иштеп жатат</translation>
+<translation id="6143689084714664628">brave'до иштеп жатат</translation>
 <translation id="7887174313503389866">Негизги купуялык жана коопсуздукту көзөмөлдөө каражаттары тууралуу коштомо. Кошумча параметрлерди көрүү үчүн жеке жөндөөлөргө өтүңүз.</translation>
 <translation id="7887334752153342268">Көчүрмөлөө</translation>
-<translation id="5570166585033664196">Asil'ду кантип колдонуу керек</translation>
+<translation id="5570166585033664196">brave'ду кантип колдонуу керек</translation>
 <translation id="7903184275147100332">Бир аз убакыт талап кылынышы мүмкүн</translation>
 <translation id="7914399737746719723">Колдонмо орнотулду</translation>
 <translation id="7919123827536834358">Төмөнкү тилдер автоматтык түрдө которулсун</translation>
@@ -1307,7 +1307,7 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="7998918019931843664">Жабылган кыстырманы кайра ачуу</translation>
 <translation id="8004582292198964060">Серепчи</translation>
 <translation id="7721367250891727403">Жашыруун режимде бөгөттөө</translation>
-<translation id="3325020657155065477">Ошондой эле Asil дайындары бул түзмөктөн өчүрүлсүн</translation>
+<translation id="3325020657155065477">Ошондой эле brave дайындары бул түзмөктөн өчүрүлсүн</translation>
 <translation id="8015452622527143194">Баракта бардык нерселерди демейки өлчөмгө кайтаруу</translation>
 <translation id="8026334261755873520">Серептөө дайындарын тазалап салуу</translation>
 <translation id="8027863900915310177">Кайда жүктөлүп алынарын тандаңыз</translation>
@@ -1321,7 +1321,7 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="8048728378294435881">Маалыматтын камдык көчүрмөсүн сактап, башка түзмөктө колдоно аласыз</translation>
 <translation id="8051695050440594747"><ph name="MEGABYTES"/>Мб жеткиликтүү</translation>
 <translation id="8058655154417507695">Мөөнөтү аяктаган жыл</translation>
-<translation id="2317945146070194624">Жаңы Asil өтмөгүнөн ачуу</translation>
+<translation id="2317945146070194624">Жаңы brave өтмөгүнөн ачуу</translation>
 <translation id="8062594758852531064">Кеңейтилген алдын ала жүктөө:</translation>
 <translation id="8063895661287329888">Кыстарма кошулбай калды.</translation>
 <translation id="806745655614357130">Дайындарды өзүнчө сактоо</translation>
@@ -1329,18 +1329,18 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="8076492880354921740">Өтмөктөр</translation>
 <translation id="8078096376109663956">Текстти гана бөлүшүү</translation>
 <translation id="8084114998886531721">Сакталган сырсөз</translation>
-<translation id="1718138320251931534">Asil аккаунтуңуздагы маалыматты көзөмөлдөңүз</translation>
+<translation id="1718138320251931534">brave аккаунтуңуздагы маалыматты көзөмөлдөңүз</translation>
 <translation id="808747664143081553">Түзмөккө туташты</translation>
 <translation id="1998933850996224665">Жакын жердеги адамдар менен бөлүшүү үчүн алар бул QR кодун скандашы керек</translation>
 <translation id="8090732854597034573">Жардам керек болсо, ата-энеңе кайрыл</translation>
-<translation id="1501443023467711714">Asil'го кириңиз</translation>
+<translation id="1501443023467711714">brave'го кириңиз</translation>
 <translation id="3377025655491224618">Жашыруун өтмөк</translation>
-<translation id="3249150807062904185">Улантуу менен, <ph name="BEGIN_TOS_LINK"/>Тейлөө шарттарын<ph name="END_TOS_LINK"/> кабыл аласыз.\nКолдонмону жакшыртууга жардам берүү үчүн Asil колдонулушу жана ката тууралуу маалыматты Asil'га жөнөтөт. <ph name="BEGIN_UMA_LINK"/>Башкаруу<ph name="END_UMA_LINK"/></translation>
+<translation id="3249150807062904185">Улантуу менен, <ph name="BEGIN_TOS_LINK"/>Тейлөө шарттарын<ph name="END_TOS_LINK"/> кабыл аласыз.\nКолдонмону жакшыртууга жардам берүү үчүн brave колдонулушу жана ката тууралуу маалыматты brave'га жөнөтөт. <ph name="BEGIN_UMA_LINK"/>Башкаруу<ph name="END_UMA_LINK"/></translation>
 <translation id="8105893657415066307"><ph name="DESCRIPTION"/> <ph name="SEPARATOR"/> <ph name="FILE_SIZE"/></translation>
 <translation id="8107530384992929318">Иреттөө параметрлерин жабуу</translation>
 <translation id="8109613176066109935">Кыстармаларды бардык түзмөктөрүңүздө колдонуу үчүн шайкештирүүнү күйгүзүңүз</translation>
-<translation id="2919733817273403520">Asil функцияларын жана майнаптуулугун өркүндөтүүгө жардам бериңиз</translation>
-<translation id="4565206163201411670">Asil'ду колдонуу дайын-даректериңиз Санариптик бакубаттык кызматында көрсөтүлсүнбү?</translation>
+<translation id="2919733817273403520">brave функцияларын жана майнаптуулугун өркүндөтүүгө жардам бериңиз</translation>
+<translation id="4565206163201411670">brave'ду колдонуу дайын-даректериңиз Санариптик бакубаттык кызматында көрсөтүлсүнбү?</translation>
 <translation id="8118117428362942925">Жардам керек болсо, ата-энеңе кайрыл (<ph name="PARENT_NAME"/>)</translation>
 <translation id="8127542551745560481">Башкы бетти түзөтүү</translation>
 <translation id="8130309322784422030">Сакталган кирүү маалыматынын мөөнөтү өтүп кеткен окшойт</translation>
@@ -1358,9 +1358,9 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="8221656072740924283">Улантуу</translation>
 <translation id="8223642481677794647">Түрмөктөгү меню</translation>
 <translation id="8250920743982581267">Документтер</translation>
-<translation id="5138664332909611586">Бул барак өтө көп эстутум колдонгондуктан, Asil айрым мазмунду өчүрдү.</translation>
+<translation id="5138664332909611586">Бул барак өтө көп эстутум колдонгондуктан, brave айрым мазмунду өчүрдү.</translation>
 <translation id="8255617931166444521">Сайттар cookie файлдары аркылуу сайтында көрүлгөн барактарды көрө алышат</translation>
-<translation id="2876689296031086375">Алдын ала жүктөлгөн барактар шифрленгендиктен, Asil алардын мазмунун окуй албайт. Asil'дун серверлери кайсы сайттар алдын ала жүктөлгөнүн аныктайт. Бул маалымат барактарды алдын ала жүктөө үчүн гана колдонулат, ошондой эле Asil аккаунтуңуздагы башка маалыматка байланыштырылбайт.</translation>
+<translation id="2876689296031086375">Алдын ала жүктөлгөн барактар шифрленгендиктен, brave алардын мазмунун окуй албайт. brave'дун серверлери кайсы сайттар алдын ала жүктөлгөнүн аныктайт. Бул маалымат барактарды алдын ала жүктөө үчүн гана колдонулат, ошондой эле brave аккаунтуңуздагы башка маалыматка байланыштырылбайт.</translation>
 <translation id="8260126382462817229">Кайра кирип көрүңүз.</translation>
 <translation id="8261506727792406068">Жок кылуу</translation>
 <translation id="82619448491672958">Башка өтмөктөрдү көрүү</translation>
@@ -1372,28 +1372,28 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="8310344678080805313">Стандарттык кыстырмалар</translation>
 <translation id="831192587911042850">Учурдагы вебсайтты жазылган вебсайттардын тизмесине кошуңуз.</translation>
 <translation id="834313815369870491">Сайттар эч качан которулбасын</translation>
-<translation id="7890337656251106515"><ph name="BEGIN_BOLD"/>Бул маалыматты кантип колдонобуз:<ph name="END_BOLD"/> Сайттар кызыккан нерселериңиз тууралуу маалыматты Asil'до сакташы мүмкүн. Мисалы, марафон үчүн бут кийим сатып алуу үчүн сайтка баш баксаңыз, ал сайт "марафондо чуркоону" кызыккан нерсеңиз катары аныктайт. Кийинчерээк, жарышууга катталуу үчүн башка бир сайтка баш баксаңыз, ал сайт кызыккан нерселериңиздин негизинде чуркоо үчүн бут кийимдин жарнамасын көрсөтүшү мүмкүн.</translation>
+<translation id="7890337656251106515"><ph name="BEGIN_BOLD"/>Бул маалыматты кантип колдонобуз:<ph name="END_BOLD"/> Сайттар кызыккан нерселериңиз тууралуу маалыматты brave'до сакташы мүмкүн. Мисалы, марафон үчүн бут кийим сатып алуу үчүн сайтка баш баксаңыз, ал сайт "марафондо чуркоону" кызыккан нерсеңиз катары аныктайт. Кийинчерээк, жарышууга катталуу үчүн башка бир сайтка баш баксаңыз, ал сайт кызыккан нерселериңиздин негизинде чуркоо үчүн бут кийимдин жарнамасын көрсөтүшү мүмкүн.</translation>
 <translation id="8352996530981010042">Реакциялар жүктөлбөй жатат. Кайталоо.</translation>
 <translation id="8354977102499939946">Оозеки ыкчам издеңиз. Бул ыкчам баскычты түзөтүү үчүн жөндөөлөргө өтүңүз.</translation>
 <translation id="835847953965672673">Жүктөлүп алынган <ph name="NUMBER_OF_DOWNLOADS"/> нерсе калыбына келтирилди</translation>
 <translation id="8368001212524806591">Баага көз салуу</translation>
-<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Бул маалыматты кантип колдонобуз:<ph name="END_BOLD"/> Asil кызыккан нерселериңизди болжолдой алат. Кийинчерээк сиз баш баккан сайттар Asil'дон кызыккан нерселериңиз тууралуу маалымат алып, ылайыктуу жарнамаларды көрсөтө алат.</translation>
+<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Бул маалыматты кантип колдонобуз:<ph name="END_BOLD"/> brave кызыккан нерселериңизди болжолдой алат. Кийинчерээк сиз баш баккан сайттар brave'дон кызыккан нерселериңиз тууралуу маалымат алып, ылайыктуу жарнамаларды көрсөтө алат.</translation>
 <translation id="8387617938027387193">Өзүңүздү ырастаңыз</translation>
 <translation id="8393700583063109961">Билдирүү жөнөтүү</translation>
-<translation id="7651600795135059130">Asil'догу кооптуу сайттардын тизмесиндеги URL даректерин текшерет</translation>
+<translation id="7651600795135059130">brave'догу кооптуу сайттардын тизмесиндеги URL даректерин текшерет</translation>
 <translation id="8402673309244746971">Жазылгандарга өтүү</translation>
 <translation id="8413126021676339697">Таржымалды толугу менен көрсөтүү</translation>
 <translation id="8414396119627470038"><ph name="SITE_ETLD_PLUS_ONE"/> сайтына <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> менен кириңиз</translation>
-<translation id="2100587595569959771">Asil'до жарнамаларды жекелештирүү жөнүндө кеңири маалымат алыңыз</translation>
+<translation id="2100587595569959771">brave'до жарнамаларды жекелештирүү жөнүндө кеңири маалымат алыңыз</translation>
 <translation id="8419244640277402268">Камтылсын</translation>
-<translation id="5735840612282428689">Барак жөнөтүлдү. Аны көрүү үчүн Asil'ду <ph name="DEVICE_TYPE"/> ачыңыз</translation>
+<translation id="5735840612282428689">Барак жөнөтүлдү. Аны көрүү үчүн brave'ду <ph name="DEVICE_TYPE"/> ачыңыз</translation>
 <translation id="8427875596167638501">Алдын ала көрүү өтмөгүнүн жарымы жабык</translation>
 <translation id="8428213095426709021">Параметрлер</translation>
 <translation id="8430824733382774043">Скриншотту гана бөлүшүү</translation>
 <translation id="8438566539970814960">Издөө жана серептөө аракеттериңизди жакшыртыңыз</translation>
 <translation id="8439974325294139057"><ph name="LANG"/> - Тил жүктөлүп алынды. <ph name="APP_NAME"/> колдонмосун өчүрүп күйгүзүңүз.</translation>
 <translation id="8442258441309440798">Окуялар жеткиликсиз</translation>
-<translation id="4058091506841967397">Asil жаңырбай жатат</translation>
+<translation id="4058091506841967397">brave жаңырбай жатат</translation>
 <translation id="8445448999790540984">Сырсөздөр экспорттолбой жатат</translation>
 <translation id="8446884382197647889">Көбүрөөк билүү</translation>
 <translation id="8453310803815879010">Динозавр оюнун ойноп баштоо</translation>
@@ -1413,16 +1413,16 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="8497242791509864205">Иреттөө параметрлерин ачуу</translation>
 <translation id="8497480609928300907">Купуялык жетектемесинин түшүндүрмөсү</translation>
 <translation id="8497726226069778601">Бул жерде көрө турган эч нерсе жок… азырынча</translation>
-<translation id="230699814587342492">Asil сырсөздөрү</translation>
+<translation id="230699814587342492">brave сырсөздөрү</translation>
 <translation id="8503813439785031346">Колдонуучунун ысымы</translation>
 <translation id="8505766168025405649">Жүктөп алуу статусу тууралуу билдирмени караңыз</translation>
-<translation id="133012818630824069">Asil'до сакталган сырсөздөрдү экспорттоо</translation>
+<translation id="133012818630824069">brave'до сакталган сырсөздөрдү экспорттоо</translation>
 <translation id="8516012719330875537">Сүрөттү түзөткүч</translation>
-<translation id="713191641919118540">Asil'дун божомолу боюнча төмөнкү нерселерге кызыгасыз</translation>
+<translation id="713191641919118540">brave'дун божомолу боюнча төмөнкү нерселерге кызыгасыз</translation>
 <translation id="8523928698583292556">Сакталган сырсөздү жок кылуу</translation>
 <translation id="8540136935098276800">Туура форматталган URL дарегин киргизиңиз</translation>
 <translation id="854522910157234410">Бул бетти ачыңыз</translation>
-<translation id="5711390076756601471">Asil жабылганда, жашыруун өтмөктөрдү кулпулоо</translation>
+<translation id="5711390076756601471">brave жабылганда, жашыруун өтмөктөрдү кулпулоо</translation>
 <translation id="8559990750235505898">Башка тилдердеги барактарды которуу сунушталсын</translation>
 <translation id="8560560256644480257">GIF түзүлүүдө: <ph name="PERCENT"/>%%</translation>
 <translation id="8560602726703398413">Окуу тизмеңизди кыстармалардан табыңыз</translation>
@@ -1435,9 +1435,9 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="8583805026567836021">Аккаунттун дайындары тазаланууда</translation>
 <translation id="859046281437143747">Баасына "Дагы параметрлер" баскычы аркылуу көз сала аласыз</translation>
 <translation id="860043288473659153">Карта ээсинин аты</translation>
-<translation id="1673533133011266617">Asil'го кириңиз. Жабылды.</translation>
+<translation id="1673533133011266617">brave'го кириңиз. Жабылды.</translation>
 <translation id="860282621117673749">Баалардын түшкөнү жөнүндө эскертүүлөр</translation>
-<translation id="5784514951651328424">Asil аккаунтуңуздун серептөө таржымалынын башка түрлөрү <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> дарегинде болушу мүмкүн.</translation>
+<translation id="5784514951651328424">brave аккаунтуңуздун серептөө таржымалынын башка түрлөрү <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> дарегинде болушу мүмкүн.</translation>
 <translation id="8617240290563765734">Жүктөлүп алынган мазмунда белгиленип сунушталган URL ачылсынбы?</translation>
 <translation id="8621068256433641644">телефондо</translation>
 <translation id="8636825310635137004">Өтмөктөрүңүздү башка түзмөктөрүңүздөн алуу үчүн шайкештирүүнү күйгүзүңүз.</translation>
@@ -1445,10 +1445,10 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="864544049772947936">Терезелерди башкаруу (<ph name="INSTANCE_COUNTS"/>)</translation>
 <translation id="8645920082661222035">Кооптуу нерселерди божомолдоп, алар орун алганга чейин сизге кабарлап турат</translation>
 <translation id="8646467750715887511">Барактар ачылгандан кийин гана жүктөлөт.</translation>
-<translation id="2734140769649165081">Бул дайындарды Asil'дун параметрлеринен тазаласаңыз болот</translation>
-<translation id="6464188276370426100">Asil менен кантип издөө керек</translation>
+<translation id="2734140769649165081">Бул дайындарды brave'дун параметрлеринен тазаласаңыз болот</translation>
+<translation id="6464188276370426100">brave менен кантип издөө керек</translation>
 <translation id="8662811608048051533">Көпчүлүк сайттардагы каттоо эсептериңизден чыгарыласыз.</translation>
-<translation id="7436978557885042606">Asil'ду каалагандай пайдаланыңыз</translation>
+<translation id="7436978557885042606">brave'ду каалагандай пайдаланыңыз</translation>
 <translation id="8664979001105139458">Мындай аталыштагы файл бар</translation>
 <translation id="8666759526542103597">Серепчиге негизделген жарнаманы жекелештирүү жөнүндө</translation>
 <translation id="8676789164135894283">Кирүүнү ырастоо</translation>
@@ -1483,17 +1483,17 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="8873817150012960745">Баштоо үчүн бул жерди таптаңыз</translation>
 <translation id="8881973373982641723">Издөө таржымалы, анын ичинде издөө кутучасындагы таржымал тазаланат.</translation>
 <translation id="8884023684057697730"><ph name="BEGIN_BOLD"/>Маалыматыңызды кантип башкара аласыз:<ph name="END_BOLD"/> Купуялыгыңызды камсыздоо үчүн тизмеде 4 апта мурун пайда болгон сайттарды автоматтык түрдө жок кылып турабыз. Сиз кайра кирген сайт тизмеде кайрадан пайда болушу мүмкүн. Же болбосо, кызыккан нерселериңизди эч качан аныктабасын деген сайттын жөндөөсүнөн өчүрүп койсоңуз болот.</translation>
-<translation id="1984646864943401749">Сиз баш баккан айрым барактардын URL даректерин, чектелген тутум маалыматын жана айрым барактардын мазмунун бардык колдонуучулар үчүн мүмкүн болгон коркунучтарды аныктап, бөгөттөө үчүн Asil'га жөнөтөт.</translation>
+<translation id="1984646864943401749">Сиз баш баккан айрым барактардын URL даректерин, чектелген тутум маалыматын жана айрым барактардын мазмунун бардык колдонуучулар үчүн мүмкүн болгон коркунучтарды аныктап, бөгөттөө үчүн brave'га жөнөтөт.</translation>
 <translation id="8906502871739599113">Реакция кайталанды</translation>
 <translation id="8909135823018751308">Бөлүшүү…</translation>
-<translation id="2684652081942622950">Asil аккаунту</translation>
+<translation id="2684652081942622950">brave аккаунту</translation>
 <translation id="8920114477895755567">Ата-эненин чоо-жайы күтүлүүдө.</translation>
 <translation id="8921980840204105660">Башка түзмөктөрдөгү кыстармаларды колдонуу үчүн шайкештирүүнү иштетиңиз</translation>
 <translation id="8922289737868596582">"Дагы параметрлер" баскычын басып, оффлайн режиминде иштөө үчүн барактарды жүктөп алуу</translation>
 <translation id="8924575305646776101"><ph name="BEGIN_LINK"/>Кеңири маалымат<ph name="END_LINK"/></translation>
 <translation id="892496902842311796">Тил (<ph name="LANG"/>) жүктөлүп алынды</translation>
-<translation id="6894658278639191411">Тапшырмаларды аткарууга жардам берүү үчүн Asil Жардамчыны колдонгон сайттардын URL даректерин жана мазмунун, ошондой эле Жардамчы аркылуу тапшырган маалыматты алат. Бул маалымат Asil аккаунтуңузда сакталышы мүмкүн. Жардамчыны Asil'дун параметрлеринен өчүрсөңүз болот.</translation>
-<translation id="1174893863889683998">Asil'ду колдонуу дайын-даректериңиз Санариптик бакубаттык кызматынан өчүрүлсүнбү?</translation>
+<translation id="6894658278639191411">Тапшырмаларды аткарууга жардам берүү үчүн brave Жардамчыны колдонгон сайттардын URL даректерин жана мазмунун, ошондой эле Жардамчы аркылуу тапшырган маалыматты алат. Бул маалымат brave аккаунтуңузда сакталышы мүмкүн. Жардамчыны brave'дун параметрлеринен өчүрсөңүз болот.</translation>
+<translation id="1174893863889683998">brave'ду колдонуу дайын-даректериңиз Санариптик бакубаттык кызматынан өчүрүлсүнбү?</translation>
 <translation id="8942627711005830162">Башка терезеде ачуу</translation>
 <translation id="8945143127965743188"><ph name="LANG"/> - Бул тил жүктөлүп алынбай калды. Кийинчерээк кайталаңыз.</translation>
 <translation id="8955719471735800169">Башына кайтуу</translation>
@@ -1505,21 +1505,21 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="8972098258593396643">Демейки папкага жүктөлүп алынсынбы?</translation>
 <translation id="8987641763863173640">Видеону алдын ала көрүү параметрлерин башкарасыз</translation>
 <translation id="898854820045159673">Реакция кошулду</translation>
-<translation id="5320085753638900910">Жарнамалар көрүлгөн вебсайттарга жана төмөндө болжолдонгон кызыккан нерселериңизге жараша көрсөтүлөт. Купуялыгыңызды коргоо максатында Asil кызыккан нерселериңизди ай сайын автоматтык түрдө жок кылат. Кызыккан нерселериңиз өчүрүлмөйүнчө жаңыртыла берет.</translation>
+<translation id="5320085753638900910">Жарнамалар көрүлгөн вебсайттарга жана төмөндө болжолдонгон кызыккан нерселериңизге жараша көрсөтүлөт. Купуялыгыңызды коргоо максатында brave кызыккан нерселериңизди ай сайын автоматтык түрдө жок кылат. Кызыккан нерселериңиз өчүрүлмөйүнчө жаңыртыла берет.</translation>
 <translation id="2280910239864711607">Жаңы өтмөктү жашыруун режимде ачуу</translation>
 <translation id="8996847606757455498">Башка провайдерди тандоо</translation>
-<translation id="3275122921244685452">Сиз <ph name="MANAGED_DOMAIN"/> доменинин администратору тарабынан башкарылган аккаунтка кирип жатасыз. Ал мындан тарта сиздин аккаунтуңузга байланган Asil дайын-даректериңизды башкарып калат. Asil аккаунткан чыксаңыз, бул түзмөктөн дайын-даректериңиз жок кылынып, бирок Asil Каттоо эсебинде сакталып кала берет.</translation>
+<translation id="3275122921244685452">Сиз <ph name="MANAGED_DOMAIN"/> доменинин администратору тарабынан башкарылган аккаунтка кирип жатасыз. Ал мындан тарта сиздин аккаунтуңузга байланган brave дайын-даректериңизды башкарып калат. brave аккаунткан чыксаңыз, бул түзмөктөн дайын-даректериңиз жок кылынып, бирок brave Каттоо эсебинде сакталып кала берет.</translation>
 <translation id="9022774213089566801">Көп каралгандар</translation>
 <translation id="9041669420854607037">{FILE_COUNT,plural, =1{# видео}other{# видео}}</translation>
 <translation id="9042893549633094279">Купуялык жана коопсуздук</translation>
 <translation id="9050666287014529139">Купуя сөз айкашы</translation>
 <translation id="9063523880881406963">Иш тактасынын сайтындагы суроо-талапты өчүрүү</translation>
 <translation id="9065203028668620118">Түзөтүү</translation>
-<translation id="5496925146144075335">Asil анча маанилүү деп эсептебеген сайттардын дайын-даректери (мис., параметрлери сакталбаган же сиз көп кирбеген сайттар)</translation>
+<translation id="5496925146144075335">brave анча маанилүү деп эсептебеген сайттардын дайын-даректери (мис., параметрлери сакталбаган же сиз көп кирбеген сайттар)</translation>
 <translation id="906781307897697745"><ph name="PRODUCT_NAME"/> кызматында</translation>
 <translation id="9069999660519089861">Окула элек барактар жок</translation>
 <translation id="9070377983101773829">Айтып издеп баштаңыз</translation>
-<translation id="8494430740943879273">Asil сунуштаган кызыктуу нерселерди алып туруу үчүн аккаунтуңузга кирип, шайкештирүүнү күйгүзүңүз.</translation>
+<translation id="8494430740943879273">brave сунуштаган кызыктуу нерселерди алып туруу үчүн аккаунтуңузга кирип, шайкештирүүнү күйгүзүңүз.</translation>
 <translation id="9074739597929991885">Bluetooth</translation>
 <translation id="1961291599064731706">Сиз баш баккан сайттар Жашыруун режимде сакталбайт</translation>
 <translation id="9086302186042011942">Шайкештештирилүүдө</translation>
@@ -1548,14 +1548,14 @@ Privacy Sandbox'тун сынамык версиялары дагы эле иш�
 <translation id="9212845824145208577">Ылдыйраак өтүү мүмкүн эмес. Барактын ылдый жагынан баштап көрүңүз.</translation>
 <translation id="9219103736887031265">Сүрөттөр</translation>
 <translation id="9219582468404818260">Интернетти жакшыртууга жардам бериңиз</translation>
-<translation id="6946179564366058239">Cайт барактагы шилтемелерди алдын ала жүктөөнү суранса, Asil барактарды шифрлеп, Asil'дун серверлери аркылуу алдын ала жүктөйт (cookie файлдарысыз). Ушуну менен өздүгүңүз тууралуу маалымат алдын ала жүктөлгөн сайттан жашырылат.</translation>
-<translation id="4596514158372210596">Asil'ду колдонуу дайын-даректериңизди Санариптик бакубаттык кызматынан алып салыңыз</translation>
-<translation id="2830145431802238213">Asil'до Жөнөкөй режимди колдонуңуз</translation>
+<translation id="6946179564366058239">Cайт барактагы шилтемелерди алдын ала жүктөөнү суранса, brave барактарды шифрлеп, brave'дун серверлери аркылуу алдын ала жүктөйт (cookie файлдарысыз). Ушуну менен өздүгүңүз тууралуу маалымат алдын ала жүктөлгөн сайттан жашырылат.</translation>
+<translation id="4596514158372210596">brave'ду колдонуу дайын-даректериңизди Санариптик бакубаттык кызматынан алып салыңыз</translation>
+<translation id="2830145431802238213">brave'до Жөнөкөй режимди колдонуңуз</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME"/> сайтына жазылгансыз</translation>
 <translation id="932327136139879170">Башкы</translation>
 <translation id="938850635132480979">Ката: <ph name="ERROR_CODE"/></translation>
 <translation id="939598580284253335">Купуя сөз айкашын киргизиңиз</translation>
-<translation id="5406914950576900927">Asil Кытай жергесинде издөө үчүн <ph name="BEGIN_BOLD"/>Sogou'ду<ph name="END_BOLD"/> колдоно алат. Аны <ph name="BEGIN_LINK"/>Жөндөөлөрдөн<ph name="END_LINK"/> өзгөртүп койсоңуз болот.</translation>
+<translation id="5406914950576900927">brave Кытай жергесинде издөө үчүн <ph name="BEGIN_BOLD"/>Sogou'ду<ph name="END_BOLD"/> колдоно алат. Аны <ph name="BEGIN_LINK"/>Жөндөөлөрдөн<ph name="END_LINK"/> өзгөртүп койсоңуз болот.</translation>
 <translation id="962979164594783469">Бул колдонмону орнотуу</translation>
 <translation id="96681097142096641">Жөнөкөйлөтүлгөн баракты көрөсүзбү?</translation>
 <translation id="968900484120156207">Сиз баш баккан барактар ушул жерде көрүнөт</translation>

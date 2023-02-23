@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -14,18 +14,18 @@ RegisterPolymerTemplateModifications({
     let optionsTemplate: HTMLTemplateElement | null =
       templateContent.querySelector<HTMLTemplateElement>('template[is="dom-if"][if*="shouldShowOptionsSection_"]')
     if (!optionsTemplate) {
-      console.error('[Asil Extensions Overrides] Could not find optionsTemplate')
+      console.error('[brave Extensions Overrides] Could not find optionsTemplate')
       return
     }
     let incognitoTemplate =
       optionsTemplate.content.querySelector<HTMLTemplateElement>('template[is="dom-if"][if*="shouldShowIncognitoOption_"]')
     if (!incognitoTemplate) {
-      console.error('[Asil Extensions Overrides] Could not find incognitoTemplate')
+      console.error('[brave Extensions Overrides] Could not find incognitoTemplate')
       return
     }
     let incognitoWarningDiv = incognitoTemplate.content.querySelector<HTMLDivElement>('.section-content')
     if (!incognitoWarningDiv) {
-      console.error('[Asil Extensions Overrides] Could not find incognitoWarningDiv')
+      console.error('[brave Extensions Overrides] Could not find incognitoWarningDiv')
       return
     }
     incognitoWarningDiv.innerText = I18nBehavior.i18n('privateInfoWarning')

@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -27,7 +27,7 @@ TEST(UserAgentUtilsTest, UserAgentMetadata) {
   auto metadata = GetUserAgentMetadata();
 
   const std::string major_version = version_info::GetMajorVersionNumber();
-  const blink::UserAgentBrandVersion product_brand_version = {"Asil",
+  const blink::UserAgentBrandVersion product_brand_version = {"brave",
                                                               major_version};
   EXPECT_TRUE(
       ContainsBrandVersion(metadata.brand_version_list, product_brand_version));

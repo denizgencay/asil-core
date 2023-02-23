@@ -25,7 +25,7 @@
 <translation id="1055184225775184556">&amp;ביטול הוספה</translation>
 <translation id="1056663316309890343">תוכנות לתמונות</translation>
 <translation id="1056898198331236512">אזהרה</translation>
-<translation id="1248991947169346185">‏<ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לשחק במשחק Dino Run ב-Asil</translation>
+<translation id="1248991947169346185">‏<ph name="PLAY_CHROME_DINO_GAME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לשחק במשחק Dino Run ב-brave</translation>
 <translation id="1058479211578257048">הכרטיסים נשמרים...</translation>
 <translation id="1060320201901229167">‏מעטפה – Kaku 5</translation>
 <translation id="10614374240317010">פריטים שאף פעם לא יישמרו</translation>
@@ -43,7 +43,7 @@
 <translation id="1088860948719068836">הוספת השם שמופיע בכרטיס</translation>
 <translation id="1089439967362294234">שינוי סיסמה</translation>
 <translation id="1096545575934602868">השדה הזה יכול לכלול עד <ph name="MAX_ITEMS_LIMIT"/> רשומות. כל הרשומות הנוספות יימחקו.</translation>
-<translation id="7584468665743195331">‏הלחצן להמשך התהליך, מקישים על Enter כדי להמשיך בתהליך ולהציג את הפעילות הרלוונטית בהיסטוריה ב-Asil</translation>
+<translation id="7584468665743195331">‏הלחצן להמשך התהליך, מקישים על Enter כדי להמשיך בתהליך ולהציג את הפעילות הרלוונטית בהיסטוריה ב-brave</translation>
 <translation id="1101672080107056897">פעולת שגיאה</translation>
 <translation id="1103523840287552314">ברצוני לקבל תרגום מ<ph name="LANGUAGE"/> תמיד</translation>
 <translation id="1108464073729874771">A3x4</translation>
@@ -53,7 +53,7 @@
 <translation id="1123753900084781868">הכתוביות המיידיות לא זמינות עכשיו.</translation>
 <translation id="1125573121925420732">לפעמים מופיעות אזהרות בזמן שאתרים מעדכנים את האבטחה שלהם. זה אמור להיפסק בקרוב.</translation>
 <translation id="112840717907525620">המטמון של המדיניות תקין</translation>
-<translation id="3186248837008742887">‏הלחצן 'תרגום הדף', יש ללחוץ על Enter כדי לתרגם את הדף הזה באמצעות Asil Translate</translation>
+<translation id="3186248837008742887">‏הלחצן 'תרגום הדף', יש ללחוץ על Enter כדי לתרגם את הדף הזה באמצעות brave Translate</translation>
 <translation id="1131264053432022307">תמונה שהעתקת</translation>
 <translation id="1147769322402934017">גלריות תמונות אונליין</translation>
 <translation id="1150979032973867961">השרת הזה לא הצליח להוכיח שהוא <ph name="DOMAIN"/>. אישור האבטחה שלו לא נחשב כמהימן על ידי מערכת ההפעלה של המחשב. ייתכן שהסיבה לכך היא תצורה שגויה או תוקף המיירט את החיבור שלך.</translation>
@@ -84,13 +84,13 @@
 <translation id="1204602502194308272">דגים ואקווריומים</translation>
 <translation id="1206967143813997005">חתימה ראשונית לא חוקית</translation>
 <translation id="1209206284964581585">להסתיר בינתיים</translation>
-<translation id="8250355499536962710">‏לחצן ליצירת טופס, מקישים על Enter כדי ליצור במהירות טופס חדש ב-Asil Forms</translation>
+<translation id="8250355499536962710">‏לחצן ליצירת טופס, מקישים על Enter כדי ליצור במהירות טופס חדש ב-brave Forms</translation>
 <translation id="121201262018556460">ניסית להגיע אל <ph name="DOMAIN"/>, אך השרת הציג אישור המכיל מפתח חלש. ייתכן שתוקף פרץ את המפתח הפרטי, והשרת אינו השרת שרצית (ייתכן שניסית לתקשר עם תוקף).</translation>
 <translation id="1219129156119358924">אבטחת מערכת</translation>
 <translation id="1222060260947439312">המגש הימני</translation>
 <translation id="1224330468394120478">A3x6</translation>
 <translation id="1225570101506606926">ביליארד</translation>
-<translation id="2735968720006267833">‏Asil תחפש בשבילך הנחות</translation>
+<translation id="2735968720006267833">‏brave תחפש בשבילך הנחות</translation>
 <translation id="1227224963052638717">מדיניות לא ידועה.</translation>
 <translation id="1228893227497259893">מזהה יישות שגוי</translation>
 <translation id="1232569758102978740">ללא שם</translation>
@@ -100,8 +100,8 @@
 <translation id="124116460088058876">שפות נוספות</translation>
 <translation id="1243027604378859286">מחבר:</translation>
 <translation id="1246424317317450637">מודגש</translation>
-<translation id="1052005765108026699">‏כדי לשלם מהר יותר בפעם הבאה, אפשר לשמור בחשבון Asil את פרטי הכרטיס, השם והכתובת לחיוב.</translation>
-<translation id="2900208483223661703">‏לחצן ליצירה של גיליון, מקישים על Enter כדי ליצור במהירות גיליון אלקטרוני חדש ב-Asil Sheets</translation>
+<translation id="1052005765108026699">‏כדי לשלם מהר יותר בפעם הבאה, אפשר לשמור בחשבון brave את פרטי הכרטיס, השם והכתובת לחיוב.</translation>
+<translation id="2900208483223661703">‏לחצן ליצירה של גיליון, מקישים על Enter כדי ליצור במהירות גיליון אלקטרוני חדש ב-brave Sheets</translation>
 <translation id="1253921432148366685"><ph name="TYPE_1"/>, <ph name="TYPE_2"/> (מסונכרנים)</translation>
 <translation id="1256368399071562588">‏&lt;p&gt;אם ניסית להיכנס לאתר והוא לא נפתח, קודם יש לנסות לפתור את הבעיה בעזרת השלבים הבאים:&lt;/p&gt;
     &lt;ol&gt;
@@ -111,20 +111,20 @@
     &lt;/ol&gt;</translation>
 <translation id="1257286744552378071">הזנת את הסיסמה באתר שאינו מנוהל על-ידי הארגון שלך. כדי להגן על החשבון, אין לעשות שימוש חוזר בסיסמה באפליקציות ובאתרים אחרים.</translation>
 <translation id="1257553931232494454">רמות מרחק מהתצוגה</translation>
-<translation id="8101828947363663989">‏<ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לנהל את הגדרות Asil</translation>
+<translation id="8101828947363663989">‏<ph name="MANAGE_CHROME_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לנהל את הגדרות brave</translation>
 <translation id="1263231323834454256">רשימת קריאה</translation>
 <translation id="1264309058268477500">חלופי</translation>
 <translation id="1264974993859112054">ספורט</translation>
 <translation id="1266469291454105242">ביטול נעילת המכשיר</translation>
 <translation id="1268480293435976622">מעטפה – סינית 7</translation>
-<translation id="53564677632020212">‏יצירה מהירה של אתר חדש ב-Asil Sites</translation>
+<translation id="53564677632020212">‏יצירה מהירה של אתר חדש ב-brave Sites</translation>
 <translation id="1270502636509132238">שיטת איסוף</translation>
 <translation id="1273592791152866347">המעקב אחר מחירים מושבת</translation>
 <translation id="1281476433249504884">מערים 1</translation>
 <translation id="1285320974508926690">איני רוצה לקבל תרגום של אתר זה</translation>
 <translation id="1288548991597756084">שמירה מאובטחת של הכרטיס</translation>
 <translation id="1292571435393770077">מגש 16</translation>
-<translation id="1209478311331937175">‏"יש תוכנה במחשב שלך שמונעת מ-Asil להתחבר באופן מאובטח אל האינטרנט" (מחשבי Windows בלבד)</translation>
+<translation id="1209478311331937175">‏"יש תוכנה במחשב שלך שמונעת מ-brave להתחבר באופן מאובטח אל האינטרנט" (מחשבי Windows בלבד)</translation>
 <translation id="1293797321964802402">‏מעטפה – 9x11 אינץ'</translation>
 <translation id="1294154142200295408">וריאציות של שורת פקודה</translation>
 <translation id="129553762522093515">נסגרו לאחרונה</translation>
@@ -143,7 +143,7 @@
 <translation id="1323433172918577554">הצגת פריטים נוספים</translation>
 <translation id="132390688737681464">שמירה ומילוי של כתובות</translation>
 <translation id="1330449323196174374">כנף שמאלית בקיפול</translation>
-<translation id="4274264486214599895">‏הפעלת המשחק Asil Dino</translation>
+<translation id="4274264486214599895">‏הפעלת המשחק brave Dino</translation>
 <translation id="1333989956347591814">הפעילות שלך <ph name="BEGIN_EMPHASIS"/>עדיין עשויה להיות מוצגת<ph name="END_EMPHASIS"/> בפני:
         <ph name="BEGIN_LIST"/>
           <ph name="LIST_ITEM"/>אתרים שאליהם נכנסת
@@ -217,7 +217,7 @@
 <translation id="1492194039220927094">דחיפת מדיניות:</translation>
 <translation id="14938948731065592">ציוד היקפי למחשב</translation>
 <translation id="1495677929897281669">חזרה לכרטיסייה</translation>
-<translation id="1812569385220097122">‏הצגת כרטיסים מחשבון Asil שלך</translation>
+<translation id="1812569385220097122">‏הצגת כרטיסים מחשבון brave שלך</translation>
 <translation id="150536342253161096">חדשות מקומיות</translation>
 <translation id="1507202001669085618">‏&lt;p&gt;השגיאה הזו תוצג אם משתמשים בפורטל Wi-Fi שבו צריך להיכנס לחשבון לפני התחברות לרשת.&lt;/p&gt;
     &lt;p&gt;כדי לפתור את השגיאה, צריך ללחוץ על &lt;strong&gt;התחברות&lt;/strong&gt; בדף שמנסים לפתוח.&lt;/p&gt;</translation>
@@ -227,7 +227,7 @@
 <translation id="1517433312004943670">יש צורך במספר טלפון</translation>
 <translation id="1519264250979466059">‏תאריך ה-Build</translation>
 <translation id="1521159554480556801">אומנות טקסטיל ואריגים</translation>
-<translation id="5524011986660000129">Asil Sheets</translation>
+<translation id="5524011986660000129">brave Sheets</translation>
 <translation id="1527263332363067270">תיכף נתחבר…</translation>
 <translation id="1529789484829130889">מגש 8</translation>
 <translation id="1530707389502320859">‏האתר שניסית לבקר בו נראה כמו אתר מזויף. תוקפים שמחקים אתרים לפעמים משתמשים בכתובת ה-URL של האתר המקורי ועושים בה שינויים קלים ביותר כדי שיהיה קשה להבחין בהבדל.</translation>
@@ -238,7 +238,7 @@
 <translation id="154408704832528245">בחירת כתובת למסירה</translation>
 <translation id="1549470594296187301">‏JavaScript צריך להיות מופעל כדי להשתמש בתכונה זו.</translation>
 <translation id="1551884710160394169">תוכנות חינמיות ותוכנות שיתופיות</translation>
-<translation id="1705567146636171298">‏כדאי לעדכן את Asil</translation>
+<translation id="1705567146636171298">‏כדאי לעדכן את brave</translation>
 <translation id="1555130319947370107">כחול</translation>
 <translation id="1559447966090556585">לאפשר קבלת התראות?</translation>
 <translation id="1559486004335285648">מילוי אוטומטי של פרטי התשלום</translation>
@@ -250,7 +250,7 @@
 <translation id="156703335097561114">מידע שקשור לרשת, כמו כתובות, הגדרת הממשק ואיכות החיבור.</translation>
 <translation id="1567040042588613346">המדיניות הזו פועלת כמו שצריך אבל הוגדר ערך זהה במקום אחר שמוחלף על ידי המדיניות הזו.</translation>
 <translation id="1569487616857761740">יש להזין תאריך תפוגה</translation>
-<translation id="1385693425784118652">‏Asil מנסה להפעיל את Windows Hello כדי למלא סיסמאות.</translation>
+<translation id="1385693425784118652">‏brave מנסה להפעיל את Windows Hello כדי למלא סיסמאות.</translation>
 <translation id="1572765991610098222">‏<ph name="WIDTH"/>x<ph name="HEIGHT"/> אינץ'</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">משהו השתבש בעת הצגת דף אינטרנט זה.</translation>
@@ -261,7 +261,7 @@
 <translation id="1594030484168838125">בחירה</translation>
 <translation id="1596296697375291157">סרטי מתח, פשע ומסתורין</translation>
 <translation id="1599199147673445968">כרטיס חדש? <ph name="BEGIN_LINK"/>להזנת פרטי הכרטיס<ph name="END_LINK"/></translation>
-<translation id="8523167061098356223">‏הפעלת המשחק Dino Run ב-Asil</translation>
+<translation id="8523167061098356223">‏הפעלת המשחק Dino Run ב-brave</translation>
 <translation id="161042844686301425">ציאן</translation>
 <translation id="1611101756749861742">גליל שני</translation>
 <translation id="1615402009686901181">בהתאם למדיניות מנהל המערכת, צילום המסך מושבת כשמוצג תוכן סודי</translation>
@@ -279,16 +279,16 @@
 <translation id="1640244768702815859">יש לנסות <ph name="BEGIN_LINK"/>להיכנס לדף הבית של האתר<ph name="END_LINK"/>.</translation>
 <translation id="1641976391427233992">עיכוב הפלט עד</translation>
 <translation id="164212631332220697">תשלום בקופה עם <ph name="CARD_DETAIL"/>.</translation>
-<translation id="9108890623444393630">‏לחצן לשינוי הסיסמה ל-Asil, מקישים על Enter כדי לשנות את הסיסמה לחשבון Asil</translation>
+<translation id="9108890623444393630">‏לחצן לשינוי הסיסמה ל-brave, מקישים על Enter כדי לשנות את הסיסמה לחשבון brave</translation>
 <translation id="1644574205037202324">היסטוריה</translation>
 <translation id="1645368109819982629">פרוטוקול לא נתמך</translation>
-<translation id="1995056549836388472">‏ניהול הגדרות Asil</translation>
+<translation id="1995056549836388472">‏ניהול הגדרות brave</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="3848846802033604519">‏Asil יצר גרסה פשוטה של הדף הזה כדי להקל את הקריאה שלו. אחזור הדף המקורי בוצע על-ידי Asil באמצעות חיבור מאובטח.</translation>
+<translation id="3848846802033604519">‏brave יצר גרסה פשוטה של הדף הזה כדי להקל את הקריאה שלו. אחזור הדף המקורי בוצע על-ידי brave באמצעות חיבור מאובטח.</translation>
 <translation id="1656489000284462475">איסוף</translation>
 <translation id="1658918301167915956">‏מכשירי Bluetooth</translation>
 <translation id="1662550410081243962">שמירה ומילוי של אמצעי תשלום</translation>
-<translation id="1838576226863399477">‏הכרטיסים והכתובות נלקחים מ-Asil. אפשר לנהל אותם ב<ph name="BEGIN_LINK"/>הגדרות<ph name="END_LINK"/>.</translation>
+<translation id="1838576226863399477">‏הכרטיסים והכתובות נלקחים מ-brave. אפשר לנהל אותם ב<ph name="BEGIN_LINK"/>הגדרות<ph name="END_LINK"/>.</translation>
 <translation id="1671391448414634642">דפים ב<ph name="SOURCE_LANGUAGE"/> יתורגמו מעכשיו ל<ph name="TARGET_LANGUAGE"/>.</translation>
 <translation id="1674504678466460478"><ph name="SOURCE_LANGUAGE"/> ל<ph name="TARGET_LANGUAGE"/></translation>
 <translation id="1682696192498422849">הקצה הקצר ראשון</translation>
@@ -337,8 +337,8 @@
 <translation id="1768211456781949159">‏<ph name="BEGIN_LINK"/>יש לנסות להפעיל את אבחון הרשת של Windows<ph name="END_LINK"/>.</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">כאן מופיעות הכרטיסיות שפתחת</translation>
-<translation id="3480410886581896628">Asil Smart Lock</translation>
-<translation id="8114214752558951503">‏<ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, צריך להקיש על Tab ואז על Enter כדי לנהל את המידע, הפרטיות והאבטחה בחשבון Asil</translation>
+<translation id="3480410886581896628">brave Smart Lock</translation>
+<translation id="8114214752558951503">‏<ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, צריך להקיש על Tab ואז על Enter כדי לנהל את המידע, הפרטיות והאבטחה בחשבון brave</translation>
 <translation id="1798447301915465742">‏<ph name="MULTIPLE_ACTIONS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, ניתן לבצע כמה פעולות, יש להקיש על Tab כדי לעבור ביניהן</translation>
 <translation id="1800473098294731951">B9</translation>
 <translation id="1801812870656502108">פרטי הכרטיס הווירטואלי</translation>
@@ -369,7 +369,7 @@
 <translation id="1873899211667975540">מוזיקת רוק</translation>
 <translation id="1874224422119691492">ב<ph name="SETTINGS"/> יש אפשרות לקבוע אם להשתמש בנעילת המסך למילוי סיסמאות</translation>
 <translation id="1875025161375567525">מגש התמונות</translation>
-<translation id="85321348617848915">Asil Forms</translation>
+<translation id="85321348617848915">brave Forms</translation>
 <translation id="187918866476621466">פתיחת דפי פתיחה</translation>
 <translation id="1883255238294161206">כיווץ רשימה</translation>
 <translation id="1884843295353628214">ג'אז</translation>
@@ -377,7 +377,7 @@
 <translation id="1898423065542865115">סינון</translation>
 <translation id="1901443836186977402">{1,plural, =1{השרת הזה לא הצליח להוכיח שהוא <ph name="DOMAIN"/>. התוקף של אישור האבטחה שלו פג במהלך היממה האחרונה. ייתכן שהסיבה לכך היא הגדרה שגויה או שתוקף מיירט את החיבור שלך. על פי השעון במחשב שלך, עכשיו <ph name="CURRENT_DATE"/>. האם זה נכון? אם לא, עליך לכוון את שעון המערכת ולאחר מכן לרענן את הדף הזה.}one{השרת הזה לא הצליח להוכיח שהוא <ph name="DOMAIN"/>. תוקף אישור האבטחה שלו פג לפני # ימים. ייתכן שהסיבה לכך היא תצורה שגויה או שתוקף מיירט את החיבור שלך. על פי השעון במחשב שלך, עכשיו <ph name="CURRENT_DATE"/>. האם זה נכון? אם לא, עליך לכוון את שעון המערכת ולאחר מכן לרענן את הדף הזה.}two{השרת הזה לא הצליח להוכיח שהוא <ph name="DOMAIN"/>. תוקף אישור האבטחה שלו פג לפני יומיים. ייתכן שהסיבה לכך היא תצורה שגויה או שתוקף מיירט את החיבור שלך. על פי השעון במחשב שלך, עכשיו <ph name="CURRENT_DATE"/>. האם זה נכון? אם לא, עליך לכוון את שעון המערכת ולאחר מכן לרענן את הדף הזה.}other{השרת הזה לא הצליח להוכיח שהוא <ph name="DOMAIN"/>. תוקף אישור האבטחה שלו פג לפני # ימים. ייתכן שהסיבה לכך היא תצורה שגויה או שתוקף מיירט את החיבור שלך. על פי השעון במחשב שלך, עכשיו <ph name="CURRENT_DATE"/>. האם זה נכון? אם לא, עליך לכוון את שעון המערכת ולאחר מכן לרענן את הדף הזה.}}</translation>
 <translation id="1902576642799138955">תקופת תוקף</translation>
-<translation id="6932104141210291380">‏לחצן ליצירת הערה, מקישים על Enter כדי ליצור במהירות הערה חדשה ב-Asil Keep</translation>
+<translation id="6932104141210291380">‏לחצן ליצירת הערה, מקישים על Enter כדי ליצור במהירות הערה חדשה ב-brave Keep</translation>
 <translation id="1908217026282415406">הרשאה להשתמש במצלמה ולהזיז אותה</translation>
 <translation id="191374271204266022">‏העתקה כ-JSON</translation>
 <translation id="1914326953223720820">שירות לפתיחת קבצים דחוסים</translation>
@@ -387,7 +387,7 @@
 <translation id="1919526244108283799">‏400x600 מ"מ</translation>
 <translation id="192020519938775529">{COUNT,plural, =0{ללא}=1{אתר אחד}one{# אתרים}two{שני אתרים}other{# אתרים}}</translation>
 <translation id="1924727005275031552">חדשה</translation>
-<translation id="2926892173992041302">‏לחצן להרצת בדיקת אבטחה ב-Asil, לוחצים על Enter כדי להריץ בדיקת אבטחה בהגדרות של Asil</translation>
+<translation id="2926892173992041302">‏לחצן להרצת בדיקת אבטחה ב-brave, לוחצים על Enter כדי להריץ בדיקת אבטחה בהגדרות של brave</translation>
 <translation id="1935995810530254458">אעתיק בכל זאת</translation>
 <translation id="1939175642807587452">האתר יכול לבקש הרשאה לשלוח התראות</translation>
 <translation id="1943994668912612445">עיצוב</translation>
@@ -396,7 +396,7 @@
 <translation id="1954847915560574887">A3x3</translation>
 <translation id="1956486093533522234">איתור המכשיר, הגנה עליו או מחיקת הנתונים שבו</translation>
 <translation id="1958218078413065209">הניקוד הכי גבוה שלך הוא <ph name="SCORE"/>.</translation>
-<translation id="990584554013599191">‏כדי לעזור לנו לשפר את האבטחה באינטרנט לטובת כולם, המערכת תשלח אל Asil <ph name="BEGIN_WHITEPAPER_LINK"/>כתובות URL של כמה מהדפים שנכנסת אליהם, מידע מוגבל על המערכת וחלק מהתוכן של הדפים<ph name="END_WHITEPAPER_LINK"/>. <ph name="BEGIN_PRIVACY_PAGE_LINK"/>מדיניות פרטיות<ph name="END_PRIVACY_PAGE_LINK"/></translation>
+<translation id="990584554013599191">‏כדי לעזור לנו לשפר את האבטחה באינטרנט לטובת כולם, המערכת תשלח אל brave <ph name="BEGIN_WHITEPAPER_LINK"/>כתובות URL של כמה מהדפים שנכנסת אליהם, מידע מוגבל על המערכת וחלק מהתוכן של הדפים<ph name="END_WHITEPAPER_LINK"/>. <ph name="BEGIN_PRIVACY_PAGE_LINK"/>מדיניות פרטיות<ph name="END_PRIVACY_PAGE_LINK"/></translation>
 <translation id="1962204205936693436">סימניות של <ph name="DOMAIN"/></translation>
 <translation id="1973335181906896915">שגיאה בעריכה בסידרה</translation>
 <translation id="1974060860693918893">מתקדם</translation>
@@ -412,8 +412,8 @@
 <translation id="2001146170449793414">{COUNT,plural, =1{ואפליקציה אחת נוספת}one{ו-# אפליקציות נוספות}two{ושתי אפליקציות נוספות}other{ו-# אפליקציות נוספות}}</translation>
 <translation id="2003709556000175978">צריך לאפס את הסיסמה עכשיו</translation>
 <translation id="2003775180883135320">4 ניקובים בצד שמאל</translation>
-<translation id="2342444980304536062">‏ניתן לנהל את ההרשאות והנתונים השמורים בכל האתרים בהגדרות Asil</translation>
-<translation id="6955198705411680473">‏הלחצן לניהול הגדרות הנגישות, מקישים על Enter כדי להתאים אישית את כלי הנגישות בהגדרות Asil</translation>
+<translation id="2342444980304536062">‏ניתן לנהל את ההרשאות והנתונים השמורים בכל האתרים בהגדרות brave</translation>
+<translation id="6955198705411680473">‏הלחצן לניהול הגדרות הנגישות, מקישים על Enter כדי להתאים אישית את כלי הנגישות בהגדרות brave</translation>
 <translation id="202224654587969958">‏12x19 אינץ'</translation>
 <translation id="2025115093177348061">מציאות רבודה</translation>
 <translation id="2025186561304664664">‏שרת Proxy נקבע למוגדר אוטומטית.</translation>
@@ -425,7 +425,7 @@
 <translation id="2040463897538655645">אחסון נשלף</translation>
 <translation id="2040894699575719559">המיקום נחסם</translation>
 <translation id="2042213636306070719">מגש 7</translation>
-<translation id="3163988908275223348">‏כדי להשתמש בסיסמאות השמורות בחשבון Asil, עליך להיכנס שוב לחשבון</translation>
+<translation id="3163988908275223348">‏כדי להשתמש בסיסמאות השמורות בחשבון brave, עליך להיכנס שוב לחשבון</translation>
 <translation id="2045871135676061132">מעטפה אישית</translation>
 <translation id="2048261947532620704">הדף בתהליך תרגום…</translation>
 <translation id="205212645995975601">ברביקיו וצלייה</translation>
@@ -442,9 +442,9 @@
 <translation id="20817612488360358">‏נקבע שימוש בהגדרות שרת Proxy של מערכת אך בנוסף מצוינת גם תצורה מפורשת של שרת Proxy.</translation>
 <translation id="2082238445998314030">תוצאה <ph name="RESULT_NUMBER"/> מתוך <ph name="TOTAL_RESULTS"/></translation>
 <translation id="2085876078937250610">שמירה…</translation>
-<translation id="7333248841044450790">‏הלחצן 'ניהול הסנכרון', יש להקיש על Enter כדי לקבוע איזה מידע יסונכרן בהגדרות Asil</translation>
+<translation id="7333248841044450790">‏הלחצן 'ניהול הסנכרון', יש להקיש על Enter כדי לקבוע איזה מידע יסונכרן בהגדרות brave</translation>
 <translation id="2091887806945687916">צליל</translation>
-<translation id="4871965986998315786">‏Asil מנסה לכבות את Windows Hello כדי למלא סיסמאות.</translation>
+<translation id="4871965986998315786">‏brave מנסה לכבות את Windows Hello כדי למלא סיסמאות.</translation>
 <translation id="2094505752054353250">אי התאמה בדומיינים</translation>
 <translation id="2099652385553570808">3 סיכות הידוק בצד שמאל</translation>
 <translation id="2101225219012730419">גרסה:</translation>
@@ -527,7 +527,7 @@
 <translation id="2292556288342944218">הגישה לאינטרנט חסומה</translation>
 <translation id="2293443924986248631">‏כשהאפשרות מופעלת, אתרים לא יכולים להשתמש בקובצי cookie כדי לעקוב אחריך באינטרנט. ייתכנו שיבושים בפעולה של תכונות באתרים מסוימים.</translation>
 <translation id="2295290966866883927">‏כתובות URL של דפים שאליהם נכנסת נשלחות אל Google Cloud או צדדים שלישיים לניתוח. לדוגמה, ייתכן שהן ייסרקו כדי לזהות אתרים לא בטוחים.</translation>
-<translation id="2144551375735610273">‏הלחצן 'ניהול קובצי Cookie', יש להקיש על Enter כדי לנהל את ההעדפות לגבי קובצי Cookie בהגדרות Asil</translation>
+<translation id="2144551375735610273">‏הלחצן 'ניהול קובצי Cookie', יש להקיש על Enter כדי לנהל את ההעדפות לגבי קובצי Cookie בהגדרות brave</translation>
 <translation id="2300306941146563769">לא הועלה</translation>
 <translation id="2316159751672436664">‏התאמה אישית של כלי הנגישות בהגדרות ChromeOS</translation>
 <translation id="2316887270356262533">‏פינוי של פחות מ-‎1 MB‎ מהשטח. ייתכן שחלק מהאתרים ייטענו לאט יותר בביקור הבא שלך.</translation>
@@ -544,7 +544,7 @@
 <translation id="2350796302381711542">האם לאפשר ל-<ph name="HANDLER_HOSTNAME"/> לפתוח את כל קישורי <ph name="PROTOCOL"/> במקום את <ph name="REPLACED_HANDLER_TITLE"/>?</translation>
 <translation id="2353297238722298836">ניתן להשתמש בדף זה במצלמה ובמיקרופון</translation>
 <translation id="2354001756790975382">סימניות אחרות</translation>
-<translation id="2354430244986887761">‏התכונה 'גלישה בטוחה' של Asil <ph name="BEGIN_LINK"/>מצאה לאחרונה אפליקציות מזיקות<ph name="END_LINK"/> באתר <ph name="SITE"/>.</translation>
+<translation id="2354430244986887761">‏התכונה 'גלישה בטוחה' של brave <ph name="BEGIN_LINK"/>מצאה לאחרונה אפליקציות מזיקות<ph name="END_LINK"/> באתר <ph name="SITE"/>.</translation>
 <translation id="2355395290879513365">ייתכן שתוקפים יוכלו לראות את התמונות שבהן צפית באתר זה, ולאחר מכן הם ינסו להונות אותך על ידי שינוי התמונות.</translation>
 <translation id="2356070529366658676">לשאול</translation>
 <translation id="2357481397660644965">המכשיר שלך מנוהל על ידי <ph name="DEVICE_MANAGER"/> והחשבון שלך מנוהל על ידי <ph name="ACCOUNT_MANAGER"/>.</translation>
@@ -555,9 +555,9 @@
 <translation id="236340516568226369">תפריט מתגים לשינוי גודל</translation>
 <translation id="2367567093518048410">רמה</translation>
 <translation id="2380886658946992094">Legal</translation>
-<translation id="5475992123321966556">‏התאמה אישית של כלי הנגישות בהגדרות Asil</translation>
+<translation id="5475992123321966556">‏התאמה אישית של כלי הנגישות בהגדרות brave</translation>
 <translation id="2384307209577226199">ברירת מחדל של ארגון</translation>
-<translation id="5244533701344680487">‏עדכון Asil דרך הגדרות Asil</translation>
+<translation id="5244533701344680487">‏עדכון brave דרך הגדרות brave</translation>
 <translation id="2386255080630008482">אישור השרת נשלל.</translation>
 <translation id="239293030466334554">מכוניות עם גג נפתח</translation>
 <translation id="2392959068659972793">הצגת מדיניות ללא ערך מוגדר</translation>
@@ -568,7 +568,7 @@
 <translation id="2413155254802890957">ישנה</translation>
 <translation id="2413528052993050574">השרת הזה לא הצליח להוכיח שהוא <ph name="DOMAIN"/>. ייתכן שאישור האבטחה שלו בוטל. הסיבה לכך עשויה להיות הגדרה שגויה או תוקף המיירט את החיבור שלך.</translation>
 <translation id="2414886740292270097">כהה</translation>
-<translation id="2089192652156377984">‏ניהול חשבון Asil, צריך להקיש על Enter כדי לנהל את המידע, הפרטיות והאבטחה בחשבון Asil</translation>
+<translation id="2089192652156377984">‏ניהול חשבון brave, צריך להקיש על Enter כדי לנהל את המידע, הפרטיות והאבטחה בחשבון brave</translation>
 <translation id="2436186046335138073">האם לאפשר ל-<ph name="HANDLER_HOSTNAME"/> לפתוח את כל קישורי <ph name="PROTOCOL"/>?</translation>
 <translation id="2438874542388153331">4 ניקובים בצד ימין</translation>
 <translation id="2448295565072560657">ציוד היקפי שמחובר למכשיר הזה לאחר התחברות לחשבון שלך</translation>
@@ -576,7 +576,7 @@
 <translation id="2463739503403862330">מילוי</translation>
 <translation id="2465655957518002998">בחירת שיטת מסירה</translation>
 <translation id="2465688316154986572">סיכת הידוק</translation>
-<translation id="4058615531773510267">‏ניהול הקבצים שהורדת ב-Asil</translation>
+<translation id="4058615531773510267">‏ניהול הקבצים שהורדת ב-brave</translation>
 <translation id="2466004615675155314">הצגת מידע מהאינטרנט</translation>
 <translation id="2467272921457885625">‏מפרטים של חומרת המכשיר ונתונים סטטיסטיים כמו היסטוריית הניצול של המעבד (CPU)/ה-RAM</translation>
 <translation id="2467694685043708798"><ph name="BEGIN_LINK"/>להפעיל את אבחון הרשת<ph name="END_LINK"/></translation>
@@ -593,7 +593,7 @@
 <translation id="2505268675989099013">הגנה על החשבון</translation>
 <translation id="2509167091171468975">קמעונאי מזון ומצרכים</translation>
 <translation id="2512101340618156538">אין הרשאה (ברירת מחדל)</translation>
-<translation id="3233967599412104589">‏לחצן להגדרת Asil כדפדפן ברירת המחדל, יש ללחוץ על Enter כדי להגדיר את Asil כדפדפן ברירת המחדל של המערכת בהגדרות iOS</translation>
+<translation id="3233967599412104589">‏לחצן להגדרת brave כדפדפן ברירת המחדל, יש ללחוץ על Enter כדי להגדיר את brave כדפדפן ברירת המחדל של המערכת בהגדרות iOS</translation>
 <translation id="2515629240566999685">לבדוק את האות באזור שלך</translation>
 <translation id="2515761554693942801">‏בחרת לבצע אימות באמצעות Touch ID באתרים שמשתמשים ב-<ph name="PROVIDER_ORIGIN"/>. יכול להיות שהספק הזה אחסן מידע על אמצעי התשלום שלך, שאותו אפשר <ph name="LINK_TEXT"/>.</translation>
 <translation id="2521385132275182522">סיכת הידוק בפינה הימנית התחתונה</translation>
@@ -608,7 +608,7 @@
 <translation id="2542106216580219892">גלישת גלים</translation>
 <translation id="2544546346215446551">האדמין הפעיל את המכשיר שלך מחדש</translation>
 <translation id="2544644783021658368">מסמך יחיד</translation>
-<translation id="5342827302598046226">‏הגדר את Asil כדפדפן ברירת המחדל</translation>
+<translation id="5342827302598046226">‏הגדר את brave כדפדפן ברירת המחדל</translation>
 <translation id="2546283357679194313">‏נתוני אתר וקובצי Cookie</translation>
 <translation id="2547466893236767989">עיצוב ופיתוח אתרים</translation>
 <translation id="254947805923345898">ערך המדיניות לא חוקי.</translation>
@@ -623,7 +623,7 @@
 <translation id="2570734079541893434">ניהול ההגדרות</translation>
 <translation id="2573834589046842510">דפוס והוצאה לאור</translation>
 <translation id="257674075312929031">קבוצה</translation>
-<translation id="1447512280692323528">‏הלחצן 'ניהול הגדרות האבטחה', יש להקיש על Enter כדי לנהל את הגלישה הבטוחה ועוד בהגדרות Asil</translation>
+<translation id="1447512280692323528">‏הלחצן 'ניהול הגדרות האבטחה', יש להקיש על Enter כדי לנהל את הגלישה הבטוחה ועוד בהגדרות brave</translation>
 <translation id="2586657967955657006">לוח</translation>
 <translation id="2587730715158995865">מאת <ph name="ARTICLE_PUBLISHER"/>. לקריאת כתבה זו ועוד <ph name="OTHER_ARTICLE_COUNT"/> כתבות נוספות.</translation>
 <translation id="2587841377698384444">‏מזהה Directory API:</translation>
@@ -636,14 +636,14 @@
 <translation id="2610561535971892504">לחיצה להעתקה</translation>
 <translation id="2625385379895617796">השעון שלך מקדים</translation>
 <translation id="262745152991669301">‏האתר יכול לבקש הרשאה להתחבר אל התקני USB</translation>
-<translation id="2915787201097107005">‏כדי ליהנות מאבטחה ברמה הגבוהה ביותר ב-Asil, יש <ph name="BEGIN_ENHANCED_PROTECTION_LINK"/>להפעיל את ההגנה המשופרת<ph name="END_ENHANCED_PROTECTION_LINK"/></translation>
+<translation id="2915787201097107005">‏כדי ליהנות מאבטחה ברמה הגבוהה ביותר ב-brave, יש <ph name="BEGIN_ENHANCED_PROTECTION_LINK"/>להפעיל את ההגנה המשופרת<ph name="END_ENHANCED_PROTECTION_LINK"/></translation>
 <translation id="2634124572758952069">‏לא ניתן היה למצוא את כתובת ה-IP של השרת של <ph name="HOST_NAME"/>.</translation>
 <translation id="2639739919103226564">סטטוס:</translation>
 <translation id="2643134278432436513">טיפוח השיער</translation>
 <translation id="2647852283046201479">משחקי אסטרטגיה</translation>
 <translation id="264810637653812429">לא נמצאו מכשירים תואמים.</translation>
 <translation id="2649204054376361687"><ph name="CITY"/>, <ph name="COUNTRY"/></translation>
-<translation id="9078005688100552065">‏<ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לנקות את נתוני היסטוריית הגלישה, קובצי ה-cookie, המטמון ועוד בהגדרות Asil</translation>
+<translation id="9078005688100552065">‏<ph name="CLEAR_BROWSING_DATA_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לנקות את נתוני היסטוריית הגלישה, קובצי ה-cookie, המטמון ועוד בהגדרות brave</translation>
 <translation id="2650446666397867134">לא ניתן לגשת לקובץ</translation>
 <translation id="2653659639078652383">שליחה</translation>
 <translation id="2657637947725373811">{0,plural, =1{להעביר את הקובץ הסודי?}one{להעביר את הקבצים הסודיים?}two{להעביר את הקבצים הסודיים?}other{להעביר את הקבצים הסודיים?}}</translation>
@@ -671,18 +671,18 @@
 <translation id="2705137772291741111">העותק השמור (בקובץ השמור) של האתר הזה היה בלתי קריא.</translation>
 <translation id="2709516037105925701">מילוי אוטומטי</translation>
 <translation id="2713444072780614174">לבן</translation>
-<translation id="4131157740532436004">‏<ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לנהל את התשלומים ואת פרטי כרטיס האשראי שלך בהגדרות Asil</translation>
+<translation id="4131157740532436004">‏<ph name="UPDATE_CREDIT_CARD_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לנהל את התשלומים ואת פרטי כרטיס האשראי שלך בהגדרות brave</translation>
 <translation id="2715808615350965923">‏8.9x14 אינץ' (Super A)</translation>
 <translation id="271663710482723385">צריך ללחוץ על |<ph name="ACCELERATOR1"/>| + |<ph name="ACCELERATOR2"/>| כדי לצאת מהמסך המלא</translation>
 <translation id="2718207025093645426">לא נטענה מדיניות למכשיר או למשתמש המנוהל.</translation>
 <translation id="2721148159707890343">הבקשה בוצעה בהצלחה</translation>
-<translation id="4054726005361352357">‏הרצה של בדיקת אבטחה בהגדרות Asil</translation>
+<translation id="4054726005361352357">‏הרצה של בדיקת אבטחה בהגדרות brave</translation>
 <translation id="2726001110728089263">מגש צידי</translation>
 <translation id="2728127805433021124">האישור של השרת נחתם באמצעות אלגוריתם של חתימה חלשה.</translation>
 <translation id="2730326759066348565"><ph name="BEGIN_LINK"/>מפעיל את אבחון הקישוריות<ph name="END_LINK"/></translation>
 <translation id="2730600605555029057">מוזיקה קלאסית</translation>
 <translation id="2731382536835015353">‏44x68 אינץ'</translation>
-<translation id="3163800392243881597">‏רוצה ש-Asil תשתמש בעגלות הקניות כדי לחפש הנחות בהתאמה אישית? אם יהיו הנחות, הן יוצגו באופן אוטומטי בעגלות הקניות.</translation>
+<translation id="3163800392243881597">‏רוצה ש-brave תשתמש בעגלות הקניות כדי לחפש הנחות בהתאמה אישית? אם יהיו הנחות, הן יוצגו באופן אוטומטי בעגלות הקניות.</translation>
 <translation id="2738330467931008676">בחירת כתובת לאיסוף</translation>
 <translation id="2740531572673183784">אישור</translation>
 <translation id="2742511345840685325">טניס שולחן</translation>
@@ -699,7 +699,7 @@
 <translation id="2792012897584536778">מנהלי מערכת של המכשיר הזה הגדירו אישורי אבטחה שעשויים לאפשר להם לראות את התוכן של אתרים שביקרת בהם.</translation>
 <translation id="2799020568854403057">האתר הבא מכיל יישומים מזיקים</translation>
 <translation id="2799223571221894425">הפעלה מחדש</translation>
-<translation id="2803306138276472711">‏לאחרונה, 'גלישה בטוחה של Asil‏' <ph name="BEGIN_LINK"/>זיהתה תוכנה זדונית<ph name="END_LINK"/> באתר <ph name="SITE"/>. אתרים שבדרך כלל נחשבים לבטוחים נדבקים לעתים בתוכנה זדונית.</translation>
+<translation id="2803306138276472711">‏לאחרונה, 'גלישה בטוחה של brave‏' <ph name="BEGIN_LINK"/>זיהתה תוכנה זדונית<ph name="END_LINK"/> באתר <ph name="SITE"/>. אתרים שבדרך כלל נחשבים לבטוחים נדבקים לעתים בתוכנה זדונית.</translation>
 <translation id="2807052079800581569">‏מיקום תמונה על ציר Y</translation>
 <translation id="2808278141522721006">‏אפשר להפעיל או להשבית את Windows Hello ב<ph name="SETTINGS"/></translation>
 <translation id="2820957248982571256">מתבצעת סריקה…</translation>
@@ -715,7 +715,7 @@
 <translation id="2859806420264540918">באתר הזה מוצגות מודעות מפריעות או מטעות.</translation>
 <translation id="287596039013813457">ידידותי</translation>
 <translation id="28761159517501904">סרטים</translation>
-<translation id="1117301625415017890">‏<ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, לוחצים על Tab ואז על Enter כדי לנהל את הגלישה הבטוחה ועוד בהגדרות Asil</translation>
+<translation id="1117301625415017890">‏<ph name="MANAGE_SECURITY_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, לוחצים על Tab ואז על Enter כדי לנהל את הגלישה הבטוחה ועוד בהגדרות brave</translation>
 <translation id="2878197950673342043">קיפול כרזה</translation>
 <translation id="2878424575911748999">A1</translation>
 <translation id="2879694782644540289">להשתמש בנעילת המסך למילוי סיסמאות</translation>
@@ -743,7 +743,7 @@
 <translation id="2943895734390379394">זמן העלאה:</translation>
 <translation id="2945026002409061480">קהילות באינטרנט</translation>
 <translation id="2948083400971632585">‏ניתן להשבית כל שרת proxy המוגדר לחיבור מדף ההגדרות.</translation>
-<translation id="3955566820843143766">‏המערכת התעלמה מהמדיניות כי המכונה לא רשומה בממשק המרכזי לניהול דפדפן Asil.</translation>
+<translation id="3955566820843143766">‏המערכת התעלמה מהמדיניות כי המכונה לא רשומה בממשק המרכזי לניהול דפדפן brave.</translation>
 <translation id="2951588413176968965">תיבת הדואר שלי</translation>
 <translation id="2952904171810469095">A2x5</translation>
 <translation id="295526156371527179">אזהרה: המדיניות הזו לא עברה מיזוג כמילון בהתאם למדיניות, מאחר שהיא אינה מילון.</translation>
@@ -776,13 +776,13 @@
 <translation id="3037177537145227281">המחיר במעקב</translation>
 <translation id="3037605927509011580">אוי, לא!</translation>
 <translation id="3041612393474885105">פרטי אישור</translation>
-<translation id="8418829431154568330">‏ההיסטוריה של Asil Remote Desktop, כולל חותמות זמן, מארחים ומזהי סשנים של לקוחות</translation>
+<translation id="8418829431154568330">‏ההיסטוריה של brave Remote Desktop, כולל חותמות זמן, מארחים ומזהי סשנים של לקוחות</translation>
 <translation id="3052964831964880138">הנחה בסך <ph name="PRICE_DROP"/> על <ph name="PRODUCT_NAME"/></translation>
 <translation id="3061707000357573562">שירות תיקון</translation>
 <translation id="306573536155379004">המשחק התחיל.</translation>
 <translation id="3068991664510324412">משחקי מחשב ומשחקי וידאו</translation>
 <translation id="3080254622891793721">גרפיקה</translation>
-<translation id="254030672859277244">‏רוצה ש-Asil תשתמש בעגלות הקניות כדי למצוא הנחות זמינות בהתאמה אישית?</translation>
+<translation id="254030672859277244">‏רוצה ש-brave תשתמש בעגלות הקניות כדי למצוא הנחות זמינות בהתאמה אישית?</translation>
 <translation id="3086579638707268289">הפעילות שלך באינטרנט נמצאת במעקב</translation>
 <translation id="3087734570205094154">תחתית</translation>
 <translation id="3095940652251934233">Statement</translation>
@@ -825,7 +825,7 @@
 <translation id="3194737229810486521"><ph name="URL"/> רוצה לאחסן נתונים במכשיר שלך באופן קבוע</translation>
 <translation id="3195213714973468956"><ph name="PRINTER_NAME"/> בשרת <ph name="SERVER_NAME"/></translation>
 <translation id="3197136577151645743">האתר יכול לבקש הרשאה לשאול מתי את/ה משתמש/ת בפועל במכשיר</translation>
-<translation id="6629751330289763215">‏<ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לקבוע איזה מידע יסונכרן בהגדרות Asil</translation>
+<translation id="6629751330289763215">‏<ph name="MANAGE_SYNC_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לקבוע איזה מידע יסונכרן בהגדרות brave</translation>
 <translation id="320323717674993345">ביטול תשלום</translation>
 <translation id="3203366800380907218">מהאינטרנט</translation>
 <translation id="3207960819495026254">מסומן בסימנייה</translation>
@@ -848,7 +848,7 @@
 <translation id="3240683217920639535">‏<ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי להתאים אישית את מראה הדפדפן</translation>
 <translation id="3240791268468473923">הגיליון 'אין התאמה בין פרטי הכניסה לפרטי הכניסה לתשלום מאובטח' פתוח</translation>
 <translation id="324180406144491771">קישורים של “<ph name="HOST_NAME"/>” חסומים</translation>
-<translation id="5195034764845981810">‏האתר הזה מגדיר את תחומי העניין שלך, ואתרים אחרים יכולים להשתמש במידע הזה כדי להציג לך מודעות. בנוסף, יוצגו לך מודעות רלוונטיות יותר באתר על סמך תחומי העניין שלך מ-Asil.</translation>
+<translation id="5195034764845981810">‏האתר הזה מגדיר את תחומי העניין שלך, ואתרים אחרים יכולים להשתמש במידע הזה כדי להציג לך מודעות. בנוסף, יוצגו לך מודעות רלוונטיות יותר באתר על סמך תחומי העניין שלך מ-brave.</translation>
 <translation id="3249151924975132674">הלוואות לסטודנטים ומימון השכלה גבוהה</translation>
 <translation id="3249845759089040423">מגניב</translation>
 <translation id="3250640885957938546">פרסום ושיווק</translation>
@@ -856,9 +856,9 @@
 <translation id="3252266817569339921">צרפתית</translation>
 <translation id="3254301855501243548">‏18x22 אינץ'</translation>
 <translation id="3256863843508922226">פרישה ופנסיה</translation>
-<translation id="6900454207575412115">‏<ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור במהירות אירוע חדש ביומן Asil</translation>
+<translation id="6900454207575412115">‏<ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור במהירות אירוע חדש ביומן brave</translation>
 <translation id="3261488570342242926">מידע על כרטיסים וירטואליים</translation>
-<translation id="3893393287627341086">‏הלחצן לניהול הגדרות Asil, מקישים על Enter כדי להיכנס להגדרות Asil</translation>
+<translation id="3893393287627341086">‏הלחצן לניהול הגדרות brave, מקישים על Enter כדי להיכנס להגדרות brave</translation>
 <translation id="3266793032086590337">ערך (התנגשות)</translation>
 <translation id="3266972086368072861">{NUM_COOKIES,plural, =0{אין אתרים חסומים, כולל אתרים קשורים}=1{אתר אחד נחסם, כולל אתרים קשורים}one{# אתרים חסומים, כולל אתרים קשורים}two{# אתרים חסומים, כולל אתרים קשורים}other{# אתרים חסומים, כולל אתרים קשורים}}</translation>
 <translation id="3268451620468152448">כרטיסיות פתוחות</translation>
@@ -873,7 +873,7 @@
 <translation id="3287510313208355388">להורדה אחרי התחברות לרשת</translation>
 <translation id="3288238092761586174">ייתכן שיידרשו שלבים נוספים לאימות התשלום שלך על ידי <ph name="URL"/></translation>
 <translation id="3293642807462928945">מידע נוסף על המדיניות <ph name="POLICY_NAME"/></translation>
-<translation id="5894665462526421022">‏הצגה וניהול של הסיסמאות שלך בהגדרות Asil</translation>
+<translation id="5894665462526421022">‏הצגה וניהול של הסיסמאות שלך בהגדרות brave</translation>
 <translation id="3299098170013242198">‏התכונה Windows Hello מופעלת לצורך מילוי סיסמאות</translation>
 <translation id="3303176609391916566">‏30x42 אינץ'</translation>
 <translation id="3303855915957856445">לא נמצאו תוצאות חיפוש</translation>
@@ -903,9 +903,9 @@
 <translation id="3366477098757335611">הצגת כרטיסים</translation>
 <translation id="3369192424181595722">שגיאת שעון</translation>
 <translation id="3369459162151165748">חלקי חילוף ואביזרים לרכב</translation>
-<translation id="2273851479262317744">‏הגדרת Asil כדפדפן ברירת המחדל</translation>
+<translation id="2273851479262317744">‏הגדרת brave כדפדפן ברירת המחדל</translation>
 <translation id="337363190475750230">ניהול התצורה בוטל</translation>
-<translation id="7740652748540081864">‏הרצה של בדיקת אבטחה ב-Asil</translation>
+<translation id="7740652748540081864">‏הרצה של בדיקת אבטחה ב-brave</translation>
 <translation id="3377144306166885718">‏בשרת נעשה שימוש בגרסה מיושנת של TLS.</translation>
 <translation id="3377188786107721145">שגיאה בניתוח המדיניות</translation>
 <translation id="3377736046129930310">נעילת המסך מאפשרת לך לאשר כרטיסים מהר יותר</translation>
@@ -934,7 +934,7 @@
 <translation id="3431636764301398940">שמירת כרטיס זה במכשיר הנוכחי</translation>
 <translation id="3432601291244612633">סגירת הדף</translation>
 <translation id="3435738964857648380">אבטחה</translation>
-<translation id="4527130811319726464">‏שימוש בסיסמאות השמורות בחשבון Asil שלך</translation>
+<translation id="4527130811319726464">‏שימוש בסיסמאות השמורות בחשבון brave שלך</translation>
 <translation id="3440783957068352691">ריבוע</translation>
 <translation id="3447661539832366887">הבעלים של המכשיר הזה כיבה את משחק הדינוזאורים.</translation>
 <translation id="3447884698081792621">הצגת אישור (נופק על-ידי <ph name="ISSUER"/>)</translation>
@@ -957,7 +957,7 @@
 <translation id="3507936815618196901">ליצור מפה בתלת ממד של הסביבה שלך ולעקוב אחר מיקום המצלמה</translation>
 <translation id="3512163584740124171">המערכת מתעלמת מהמדיניות הזו כי יש מדיניות אחרת מאותה קבוצה של הגדרות מדיניות שקיבלה עדיפות גבוהה יותר.</translation>
 <translation id="3515972145999192222">הכתובת <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> נחסמה על ידי הארגון שלך עקב הפרת מדיניות. <ph name="BEGIN_LEARN_MORE_LINK"/>מידע נוסף<ph name="END_LEARN_MORE_LINK"/></translation>
-<translation id="6733862566637706294">‏הלחצן 'ניהול כתובות', יש להקיש על Enter כדי להוסיף ולנהל כתובות בהגדרות Asil</translation>
+<translation id="6733862566637706294">‏הלחצן 'ניהול כתובות', יש להקיש על Enter כדי להוסיף ולנהל כתובות בהגדרות brave</translation>
 <translation id="3518941727116570328">טיפול באובייקטים מרובים</translation>
 <translation id="3525130752944427905">‏10x14 אינץ'</translation>
 <translation id="3528171143076753409">אישור השרת אינו מהימן.</translation>
@@ -985,7 +985,7 @@
 <translation id="3576616784287504635">דף מוטמע באתר <ph name="SITE"/> אומר</translation>
 <translation id="3577473026931028326">משהו השתבש. יש לנסות שוב.</translation>
 <translation id="3577902790357386792">התעמלות</translation>
-<translation id="230476913390177517">‏כשהדף יהיה מוכן, מערכת Asil תודיע לך על כך. &lt;a&gt;ביטול&lt;/a&gt;</translation>
+<translation id="230476913390177517">‏כשהדף יהיה מוכן, מערכת brave תודיע לך על כך. &lt;a&gt;ביטול&lt;/a&gt;</translation>
 <translation id="3582930987043644930">הוספת שם</translation>
 <translation id="3583757800736429874">&amp;ביצוע מחדש של העברה</translation>
 <translation id="3584299510153766161">שני ניקובים בחלק התחתון</translation>
@@ -999,7 +999,7 @@
 <translation id="3611317423880285981">מוצרים לבית</translation>
 <translation id="3614103345592970299">גודל 2</translation>
 <translation id="361438452008624280">רשומה ברשימה "<ph name="LANGUAGE_ID"/>": שפה לא מוכרת או לא נתמכת.</translation>
-<translation id="3274500070896023877">‏<ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, לוחצים על Tab ואז על Enter כדי להריץ בדיקת אבטחה בהגדרות Asil</translation>
+<translation id="3274500070896023877">‏<ph name="RUN_CHROME_SAFETY_CHECK_FOCUSED_FRIENDLY_MATCH_TEXT"/>, לוחצים על Tab ואז על Enter כדי להריץ בדיקת אבטחה בהגדרות brave</translation>
 <translation id="3615877443314183785">עליך להזין תאריך תפוגה חוקי</translation>
 <translation id="36224234498066874">ניקוי נתוני גלישה…</translation>
 <translation id="362276910939193118">כל ההיסטוריה</translation>
@@ -1010,7 +1010,7 @@
 <translation id="3631244953324577188">מידע ביומטרי</translation>
 <translation id="3632503704576938756">שיתוף המסך נמשך</translation>
 <translation id="3632892046558972264">שיתוף המסך מושהה</translation>
-<translation id="1367445511302842209">‏הלחצן 'עדכון Asil', יש להקיש על Enter כדי לעדכן את דפדפן Asil בהגדרות Asil</translation>
+<translation id="1367445511302842209">‏הלחצן 'עדכון brave', יש להקיש על Enter כדי לעדכן את דפדפן brave בהגדרות brave</translation>
 <translation id="3634530185120165534">מגש 5</translation>
 <translation id="3642638418806704195">אפליקציה:</translation>
 <translation id="3647286794400715637">‏כל רשומת מחרוזת של כתובות URL חייבת להכיל כתובת URL אחת או שתיים.</translation>
@@ -1046,14 +1046,14 @@
 <translation id="3715597595485130451">‏התחברות ל-Wi-Fi</translation>
 <translation id="3717027428350673159">‏<ph name="BEGIN_LINK"/>לבדוק את תצורת ה-DNS, חומת האש ושרת ה-Proxy<ph name="END_LINK"/></translation>
 <translation id="372429172604983730">‏אפליקציות שיכולות לגרום לשגיאה הזו כוללות תוכנות אנטי-וירוס, חומות אש ותוכנות proxy או סינון אתרים.</translation>
-<translation id="3838210050876514022">‏<ph name="CREATE_GOOGLE_SLIDE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור במהירות מצגת חדשה ב-Asil Slides</translation>
+<translation id="3838210050876514022">‏<ph name="CREATE_GOOGLE_SLIDE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור במהירות מצגת חדשה ב-brave Slides</translation>
 <translation id="3733139489341305600">רכבים אוטונומיים</translation>
 <translation id="3736520371357197498">אם הבנת את הסיכונים בנוגע לאבטחה שלך, באפשרותך <ph name="BEGIN_LINK"/>להיכנס לאתר לא בטוח זה<ph name="END_LINK"/> לפני הסרת התוכניות המסוכנות.</translation>
 <translation id="3738166223076830879">הדפדפן מנוהל על ידי מנהל המערכת</translation>
 <translation id="3740319564441798148">אוטובוסים ורכבות למרחקים ארוכים</translation>
 <translation id="3744111561329211289">סנכרון ברקע</translation>
 <translation id="3744286742364977428">‏קבצים שמורידים נשלחים אל Google Cloud או אל צדדים שלישיים לצורך ניתוח. לדוגמה, יכול להיות שהקבצים יעברו סריקה כדי לאתר מידע אישי רגיש או תוכנות זדוניות, וייתכן שהם יישמרו בהתאם למדיניות החברה.</translation>
-<translation id="4098534208927606680">‏אחרי שנקבל ממך אישור, נשתף עם האתר הזה את פרטי הכרטיס מחשבון Asil.</translation>
+<translation id="4098534208927606680">‏אחרי שנקבל ממך אישור, נשתף עם האתר הזה את פרטי הכרטיס מחשבון brave.</translation>
 <translation id="3748148204939282805">תוקפים באתר <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> עלולים להונות אותך כדי לגרום לך לבצע פעולות מסוכנות, כמו התקנת תוכנה או חשיפת מידע אישי (לדוגמה, סיסמאות, מספרי טלפון או כרטיסי אשראי). <ph name="BEGIN_LEARN_MORE_LINK"/>מידע נוסף<ph name="END_LEARN_MORE_LINK"/></translation>
 <translation id="3748912308089554501">תעשייה אווירית</translation>
 <translation id="3752543821772132562">המערכת התעלמה מהמדיניות הזו כי המדיניות <ph name="POLICY_NAME"/> לא מוגדרת.</translation>
@@ -1065,8 +1065,8 @@
 <translation id="3761718714832595332">הסתרת הסטטוס</translation>
 <translation id="3765588406864124894">תיבת דואר 9</translation>
 <translation id="3767485424735936570">לפי המדיניות של מנהל המערכת, לא מומלץ להעתיק את התוכן ולהדביק אותו ב-<ph name="VM_NAME"/></translation>
-<translation id="8247912309816231326">‏<ph name="CREATE_GOOGLE_KEEP_NOTE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור הערה חדשה במהירות ב-Asil Keep</translation>
-<translation id="5141491707451394486">‏ברצונך לשמור את הכרטיס בחשבון Asil שלך ובמכשיר הזה?</translation>
+<translation id="8247912309816231326">‏<ph name="CREATE_GOOGLE_KEEP_NOTE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור הערה חדשה במהירות ב-brave Keep</translation>
+<translation id="5141491707451394486">‏ברצונך לשמור את הכרטיס בחשבון brave שלך ובמכשיר הזה?</translation>
 <translation id="3780694243617746492">סל פלט</translation>
 <translation id="3781428340399460090">ורוד בוהק</translation>
 <translation id="3783418713923659662">מאסטרקארד</translation>
@@ -1144,14 +1144,14 @@
 <translation id="401170183602135785">‏מעטפה – C6</translation>
 <translation id="4014128326099193693">{COUNT,plural, =1{‏מסמך ה-PDF מכיל דף אחד ({COUNT})}one{‏מסמך ה-PDF מכיל דף אחד ({COUNT})}two{‏מסמך ה-PDF מכיל {COUNT} דפים}other{‏מסמך ה-PDF מכיל {COUNT} דפים}}</translation>
 <translation id="4023431997072828269">שליחת הטופס הזה מתבצעת דרך חיבור שאינו מאובטח, לכן המידע שלך יהיה גלוי לאחרים.</translation>
-<translation id="3356024105713905662">‏הלחצן לניהול הגדרות הפרטיות ב-Asil, מקישים על Enter כדי להיכנס להגדרות הפרטיות בחשבון Asil</translation>
+<translation id="3356024105713905662">‏הלחצן לניהול הגדרות הפרטיות ב-brave, מקישים על Enter כדי להיכנס להגדרות הפרטיות בחשבון brave</translation>
 <translation id="4030383055268325496">&amp;ביטול הוספה</translation>
 <translation id="4031179711345676612">ניתן להשתמש במיקרופון בדף זה</translation>
 <translation id="4040350669425716613">מכללות ואוניברסיטאות</translation>
 <translation id="4047351652147966654">‏18x24 אינץ'</translation>
 <translation id="405399507749852140">קבלת התראות על הנחות באתר כלשהו</translation>
 <translation id="4056223980640387499">חום-ספיה</translation>
-<translation id="4161619938555288542">‏Asil תעזור לך למצוא הנחות על מוצרים בעגלות הקניות</translation>
+<translation id="4161619938555288542">‏brave תעזור לך למצוא הנחות על מוצרים בעגלות הקניות</translation>
 <translation id="4063924980214801036">שימוש בביטול נעילת המכשיר כדי לאשר כרטיסים מהר יותר</translation>
 <translation id="4067098466788473230">מענקים ומלגות לימוד</translation>
 <translation id="4067947977115446013">הוספה של כתובת חוקית</translation>
@@ -1163,18 +1163,18 @@
 <translation id="4079302484614802869">‏תצורת ה-Proxy מוגדרת להשתמש בכתובת אתר של סקריפט מסוג ‎.Pac ולא בשרתי Proxy קבועים.</translation>
 <translation id="4082393374666368382">הגדרות - ניהול</translation>
 <translation id="4084219288110917128">‏מעטפה – C1</translation>
-<translation id="8049340108547416244">‏לחצן ליצירת אירוע, מקישים על Enter כדי ליצור במהירות אירוע חדש ביומן Asil</translation>
+<translation id="8049340108547416244">‏לחצן ליצירת אירוע, מקישים על Enter כדי ליצור במהירות אירוע חדש ביומן brave</translation>
 <translation id="4088981014127559358">‏הזזה של תמונה בצד 1 על ציר Y</translation>
 <translation id="4089152113577680600">מגש 14</translation>
 <translation id="4096237801206588987">‏11x15 אינץ'</translation>
 <translation id="4097288585054919042">כיבוי ההתראות</translation>
 <translation id="4098354747657067197">זהירות, אתר מטעה</translation>
 <translation id="4099048595830172239">לפי המדיניות של מנהל המערכת, לא מומלץ לשתף את המסך עם <ph name="APPLICATION_TITLE"/> כשמופיע בו תוכן סודי גלוי:</translation>
-<translation id="5393384033795488834">‏<ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי להתאים אישית את הגופנים וגודל הטקסט ב-Asil</translation>
+<translation id="5393384033795488834">‏<ph name="CUSTOMIZE_CHROME_FONTS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי להתאים אישית את הגופנים וגודל הטקסט ב-brave</translation>
 <translation id="4101413244023615925">טקסט וגרפיקה</translation>
 <translation id="410148943680000050">הוצאה לאור שולחנית</translation>
 <translation id="4103249731201008433">המספר הסידורי של המכשיר אינו חוקי</translation>
-<translation id="1823668038006695695">‏לחצן ליצירת אתר, מקישים על Enter כדי ליצור במהירות אתר חדש ב-Asil Sites</translation>
+<translation id="1823668038006695695">‏לחצן ליצירת אתר, מקישים על Enter כדי ליצור במהירות אתר חדש ב-brave Sites</translation>
 <translation id="4110652170750985508">בדיקת התשלום</translation>
 <translation id="4111546256784973544">פיינטבול</translation>
 <translation id="4112140312785995938">הרצה לאחור</translation>
@@ -1244,7 +1244,7 @@
 <translation id="4281998142035485137">{0,plural, =1{לפתוח את הקובץ הסודי?}one{לפתוח את הקבצים הסודיים?}two{לפתוח את הקבצים הסודיים?}other{לפתוח את הקבצים הסודיים?}}</translation>
 <translation id="4282346679996504092">ההתראות לגבי המוצר הזה הושבתו והסימנייה הוסרה</translation>
 <translation id="4285498937028063278">ביטול הצמדה</translation>
-<translation id="8314946990939758167">{NUM_CARDS,plural, =1{‏הכרטיס הזה נשמר בחשבון Asil שלך}one{‏הכרטיסים האלה נשמרו בחשבון Asil שלך}two{‏הכרטיסים האלה נשמרו בחשבון Asil שלך}other{‏הכרטיסים האלה נשמרו בחשבון Asil שלך}}</translation>
+<translation id="8314946990939758167">{NUM_CARDS,plural, =1{‏הכרטיס הזה נשמר בחשבון brave שלך}one{‏הכרטיסים האלה נשמרו בחשבון brave שלך}two{‏הכרטיסים האלה נשמרו בחשבון brave שלך}other{‏הכרטיסים האלה נשמרו בחשבון brave שלך}}</translation>
 <translation id="4287885627794386150">מתאים להשתתפות בניסוי, לא פעיל</translation>
 <translation id="4297502707443874121">תמונה ממוזערת של הדף <ph name="THUMBNAIL_PAGE"/></translation>
 <translation id="4298000214066716287">השקעות</translation>
@@ -1255,7 +1255,7 @@
 <translation id="4305666528087210886">לא ניתן לגשת לקובץ</translation>
 <translation id="4306529830550717874">לשמור את הכתובת?</translation>
 <translation id="4306812610847412719">לוח</translation>
-<translation id="4270648948919210881">‏המערכת מתעלמת מהמדיניות הזו כי המשתמש לא משויך. כדי להחיל את המדיניות צריך לנהל את הדפדפן והפרופיל ב-Asil דרך מסוף Admin של אותו ארגון.</translation>
+<translation id="4270648948919210881">‏המערכת מתעלמת מהמדיניות הזו כי המשתמש לא משויך. כדי להחיל את המדיניות צריך לנהל את הדפדפן והפרופיל ב-brave דרך מסוף Admin של אותו ארגון.</translation>
 <translation id="4310070645992025887">חיפוש בתהליכים</translation>
 <translation id="4310496734563057511">‏אם המכשיר הזה משותף עם אחרים, יש לך אפשרות להפעיל את Windows Hello כדי לאמת את זהותך בכל שימוש בסיסמה שמורה</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1271,8 +1271,8 @@
 <translation id="4331519897422864041">מערים 5</translation>
 <translation id="4331708818696583467">לא מאובטח</translation>
 <translation id="4333561522337981382">ניהול החלונות בכל המסכים</translation>
-<translation id="5792122559159836842">‏המודעה הזו צרכה משאבים רבים מדי מהמכשיר שלך, ולכן היא הוסרה על-ידי Asil.</translation>
-<translation id="6116812392674177288">‏המחשב לא זוהה כמכשיר המנוהל על ידי הארגון, כך שלפי המדיניות מותר להתקין אוטומטית רק תוספים מחנות האינטרנט של Asil. כתובת האתר לעדכונים מחנות האינטרנט של Asil היא "<ph name="CWS_UPDATE_URL"/>".</translation>
+<translation id="5792122559159836842">‏המודעה הזו צרכה משאבים רבים מדי מהמכשיר שלך, ולכן היא הוסרה על-ידי brave.</translation>
+<translation id="6116812392674177288">‏המחשב לא זוהה כמכשיר המנוהל על ידי הארגון, כך שלפי המדיניות מותר להתקין אוטומטית רק תוספים מחנות האינטרנט של brave. כתובת האתר לעדכונים מחנות האינטרנט של brave היא "<ph name="CWS_UPDATE_URL"/>".</translation>
 <translation id="4346197816712207223">כרטיסי אשראי שהסוחר מקבל</translation>
 <translation id="4348834659292907206">החיבור אל <ph name="SITE"/> אינו מאובטח</translation>
 <translation id="4349365535725594680">אי אפשר לשתף תוכן סודי</translation>
@@ -1309,7 +1309,7 @@
 <translation id="443673843213245140">‏השימוש בשרת Proxy הושבת, אך צוינה תצורת שרת Proxy מפורשת.</translation>
 <translation id="4441832193888514600">המערכת מתעלמת מהמדיניות כי ניתן להגדיר אותה רק כמדיניות משתמש בענן.</translation>
 <translation id="4451135742916150903">‏האתר יכול לבקש הרשאה להתחבר למכשירי HID</translation>
-<translation id="8416018650396907203">‏הסיסמה שבה השתמשת עכשיו אותרה בפרצה באבטחת מידע. כדי להגן על החשבונות שלך, לפי מנהל הסיסמאות של Asil, מומלץ לבדוק את הסיסמאות השמורות שלך.</translation>
+<translation id="8416018650396907203">‏הסיסמה שבה השתמשת עכשיו אותרה בפרצה באבטחת מידע. כדי להגן על החשבונות שלך, לפי מנהל הסיסמאות של brave, מומלץ לבדוק את הסיסמאות השמורות שלך.</translation>
 <translation id="4460315069258617173">יש השראה עד לסגירת כרטיסיות של האתר הזה</translation>
 <translation id="4464826014807964867">אתרים שקיבלו פרטים מהארגון שלך</translation>
 <translation id="447665707681730621"><ph name="BUBBLE_MESSAGE"/>. <ph name="LEARN_MORE_TEXT"/></translation>
@@ -1319,16 +1319,16 @@
 <translation id="4482953324121162758">האתר הזה לא יתורגם.</translation>
 <translation id="4489023393592172404">‏מעטפה – Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
-<translation id="3966104135245031874">‏הצפנת סיסמאות מסונכרנות באמצעות חשבון Asil</translation>
-<translation id="3614771894046523359">‏התכונות האלה מושבתות כברירת מחדל. הן לא יהיו זמינות בגרסאות עתידיות של Asil.</translation>
+<translation id="3966104135245031874">‏הצפנת סיסמאות מסונכרנות באמצעות חשבון brave</translation>
+<translation id="3614771894046523359">‏התכונות האלה מושבתות כברירת מחדל. הן לא יהיו זמינות בגרסאות עתידיות של brave.</translation>
 <translation id="4493480324863638523">‏כתובת URL לא חוקית. הסכימה של כתובת ה-URL צריכה להיות רגילה, כלומר: http://example.com או https://example.com.</translation>
 <translation id="4500587658229086076">תוכן לא מאובטח</translation>
 <translation id="4506176782989081258">שגיאת אימות: <ph name="VALIDATION_ERROR"/></translation>
 <translation id="4506599922270137252">לפנות אל מנהל המערכת</translation>
 <translation id="450710068430902550">שיתוף עם מנהל מערכת</translation>
-<translation id="7581711177899574338">‏<ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לתרגם את הדף הזה באמצעות Asil Translate</translation>
+<translation id="7581711177899574338">‏<ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לתרגם את הדף הזה באמצעות brave Translate</translation>
 <translation id="4514308731478712184">השבתת התהליכים</translation>
-<translation id="4892470328555495647">‏הכרטיסים והכתובות לקוחים מ-Asil ומחשבון Asil שלך (<ph name="ACCOUNT_EMAIL"/>). אפשר לנהל אותם ב<ph name="BEGIN_LINK"/>הגדרות<ph name="END_LINK"/>.</translation>
+<translation id="4892470328555495647">‏הכרטיסים והכתובות לקוחים מ-brave ומחשבון brave שלך (<ph name="ACCOUNT_EMAIL"/>). אפשר לנהל אותם ב<ph name="BEGIN_LINK"/>הגדרות<ph name="END_LINK"/>.</translation>
 <translation id="4520048001084013693">בהתאם למדיניות האדמין, הורדת הקובץ הזה חסומה</translation>
 <translation id="4521157617044179198"><ph name="WIDTH"/> × <ph name="HEIGHT"/> מ"מ (<ph name="ORIENTATION"/>)</translation>
 <translation id="4521280267704259211">‏מעטפה – Monarch</translation>
@@ -1356,13 +1356,13 @@
 <translation id="4600084978141515058">מטבח טבעוני</translation>
 <translation id="4602465984861132303">באולינג</translation>
 <translation id="4606870351894164739">מרשים</translation>
-<translation id="7265018635737406618">‏לחצן להצגת טיפים של Asil, מקישים על Enter כדי לקבל מידע על התכונות של Asil</translation>
-<translation id="8338928872956435647">‏הצגת טיפים לשימוש ב-Asil</translation>
+<translation id="7265018635737406618">‏לחצן להצגת טיפים של brave, מקישים על Enter כדי לקבל מידע על התכונות של brave</translation>
+<translation id="8338928872956435647">‏הצגת טיפים לשימוש ב-brave</translation>
 <translation id="460848736049414407">הכתובת נחסמה על ידי האדמין</translation>
 <translation id="4610279718074907952">האתר הזה שייך לקבוצת אתרים שיש להם הרשאה לראות את הפעילות שלך. הקבוצה הוגדרה על ידי <ph name="SET_OWNER"/></translation>
 <translation id="4617273035598175554">תוכנות גרפיקה ואנימציה</translation>
 <translation id="4622292761762557753">אעביר בכל זאת</translation>
-<translation id="6398431831028858802">‏לא ניתן להגדיר את המדיניות הזאת ברמה של פרופיל Asil. המערכת תתעלם מהמדיניות.</translation>
+<translation id="6398431831028858802">‏לא ניתן להגדיר את המדיניות הזאת ברמה של פרופיל brave. המערכת תתעלם מהמדיניות.</translation>
 <translation id="4628948037717959914">תמונה</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">הקאשבק מקושר</translation>
@@ -1384,7 +1384,7 @@
 <translation id="4673460618347856347">‏משחק Dino, הפעלה</translation>
 <translation id="467662567472608290">השרת הזה לא הצליח להוכיח שהוא <ph name="DOMAIN"/>; אישור האבטחה שלו מכיל שגיאות. ייתכן שהסיבה לכך היא הגדרה שגויה או תוקף המיירט את החיבור שלך.</translation>
 <translation id="4677585247300749148"><ph name="URL"/> רוצה להגיב לאירועי נגישות</translation>
-<translation id="8197094463444457125">Asil Slides</translation>
+<translation id="8197094463444457125">brave Slides</translation>
 <translation id="4682496302933121474">לתרגם את הדף?</translation>
 <translation id="468314109939257734">הצגת המספר של הכרטיס הווירטואלי שלך</translation>
 <translation id="4692623383562244444">מנועי חיפוש</translation>
@@ -1416,10 +1416,10 @@
 <translation id="4754461935447132332">אין הרשאה באתרים שאינם מאובטחים</translation>
 <translation id="4756388243121344051">&amp;היסטוריה</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="1015173303159845845">‏הזנת כרגע את הסיסמה שלך באתר מטעה. כדי להגן על החשבונות שלך, ההמלצה של Asil היא לבדוק את הסיסמאות השמורות.</translation>
+<translation id="1015173303159845845">‏הזנת כרגע את הסיסמה שלך באתר מטעה. כדי להגן על החשבונות שלך, ההמלצה של brave היא לבדוק את הסיסמאות השמורות.</translation>
 <translation id="4758311279753947758">הוספת פרטים ליצירת קשר</translation>
 <translation id="4761104368405085019">להשתמש במיקרופון</translation>
-<translation id="1980929286541331105">‏הרצה של בדיקת אבטחה ב-Asil</translation>
+<translation id="1980929286541331105">‏הרצה של בדיקת אבטחה ב-brave</translation>
 <translation id="4764776831041365478">ייתכן שדף האינטרנט בכתובת <ph name="URL"/> אינו פעיל זמנית, או שהועבר לכתובת אינטרנט חדשה לצמיתות.</translation>
 <translation id="4766713847338118463">שתי סיכות הידוק בחלק התחתון</translation>
 <translation id="4771973620359291008">‏אירעה שגיאה לא מוכרת.
@@ -1429,7 +1429,7 @@
 Del</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{חלון קופץ נחסם}one{# חלונות קופצים נחסמו}two{# חלונות קופצים נחסמו}other{# חלונות קופצים נחסמו}}</translation>
 <translation id="4780366598804516005">תיבת דואר 1</translation>
-<translation id="752757955979594126">‏ניהול חשבון Asil</translation>
+<translation id="752757955979594126">‏ניהול חשבון brave</translation>
 <translation id="4785689107224900852">החלפה לכרטיסייה זו</translation>
 <translation id="4786804728079074733">כדורעף</translation>
 <translation id="4789704664580239421">התראות על הנחות יוצגו בכרטיסיות הפתוחות</translation>
@@ -1437,7 +1437,7 @@ Del</translation>
 <translation id="4792686369684665359">המידע שבכוונתך לשלוח לא מאובטח</translation>
 <translation id="4793219378458250238">‏11x12 אינץ'</translation>
 <translation id="4796594887379589189">מזהה חשבון עבודה</translation>
-<translation id="7110430050177876111">‏כדי לעדכן את פרטי הכרטיס, יש להזין את תאריך התפוגה וקוד האימות של <ph name="CREDIT_CARD"/>. אחרי שנקבל ממך אישור, נשתף עם האתר הזה את פרטי הכרטיס מחשבון Asil.</translation>
+<translation id="7110430050177876111">‏כדי לעדכן את פרטי הכרטיס, יש להזין את תאריך התפוגה וקוד האימות של <ph name="CREDIT_CARD"/>. אחרי שנקבל ממך אישור, נשתף עם האתר הזה את פרטי הכרטיס מחשבון brave.</translation>
 <translation id="4798269756263412078">קבלת התראות על הנחות באתר כלשהו. ההתראות יישלחו אליך באימייל.</translation>
 <translation id="4800132727771399293">‏יש לבדוק את תאריך התפוגה ואת ה-CVC ולנסות שוב</translation>
 <translation id="4803924862070940586"><ph name="CURRENCY_CODE"/> <ph name="FORMATTED_TOTAL_AMOUNT"/></translation>
@@ -1447,13 +1447,13 @@ Del</translation>
 <translation id="4813512666221746211">שגיאת רשת</translation>
 <translation id="4816492930507672669">התאמה לדף</translation>
 <translation id="4819347708020428563">לערוך את ההערות בתצוגת ברירת מחדל?</translation>
-<translation id="551961240839010112">‏<ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור במהירות גיליון אלקטרוני חדש ב-Asil Sheets</translation>
+<translation id="551961240839010112">‏<ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור במהירות גיליון אלקטרוני חדש ב-brave Sheets</translation>
 <translation id="4825507807291741242">עוצמתי</translation>
 <translation id="483241715238664915">הפעלת האזהרות</translation>
 <translation id="4834250788637067901">‏אמצעי תשלום, מבצעים וכתובות שנשמרו ב‑Google Pay</translation>
 <translation id="4838327282952368871">חלומי</translation>
-<translation id="1923748633297576468">‏התשלום הבא יהיה מהיר יותר והכרטיס יהיה מוגן באמצעי האבטחה המובילים של Asil.</translation>
-<translation id="246176083348620700">‏הצגת ההיסטוריה ב-Asil</translation>
+<translation id="1923748633297576468">‏התשלום הבא יהיה מהיר יותר והכרטיס יהיה מוגן באמצעי האבטחה המובילים של brave.</translation>
+<translation id="246176083348620700">‏הצגת ההיסטוריה ב-brave</translation>
 <translation id="484462545196658690">אוטומטי</translation>
 <translation id="484671803914931257">קבלת הנחות על מוצרים של <ph name="MERCHANT_NAME"/> ועוד</translation>
 <translation id="484988093836683706">שימוש בביטול נעילת המכשיר</translation>
@@ -1462,7 +1462,7 @@ Del</translation>
 <translation id="485316830061041779">גרמנית</translation>
 <translation id="4853901935952445031">‏האתר הזה לא יוכל להשתמש ב-U2F API אחרי פברואר 2022. אם האתר בבעלותך, צריך לשנות אותו כך שיוכל להשתמש ב-Web Authentication API.</translation>
 <translation id="4854362297993841467">שיטת המסירה הזו אינה זמינה. עליך לבחור שיטה אחרת.</translation>
-<translation id="3418609161696289726">‏יצירת הערה חדשה ב-Asil Keep במהירות</translation>
+<translation id="3418609161696289726">‏יצירת הערה חדשה ב-brave Keep במהירות</translation>
 <translation id="485902285759009870">הקוד בתהליך אימות…</translation>
 <translation id="4866506163384898554">צריך להקיש על |<ph name="ACCELERATOR1"/>| + |<ph name="ACCELERATOR2"/>| כדי להציג את הסמן</translation>
 <translation id="4876188919622883022">תצוגה נקייה</translation>
@@ -1515,7 +1515,7 @@ Del</translation>
 <translation id="4995216769782533993">יש לאמת את קוד האבטחה כדי לשתף פרטי כרטיס עם האתר הזה</translation>
 <translation id="4995474875135717171">שונה בתאריך:</translation>
 <translation id="4995749490935861684">‏<ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לנהל את החיפוש באתר ואת מנוע החיפוש שבברירת מחדל</translation>
-<translation id="3676215163710610678">‏אם האפשרות הזו תופעל, Asil יאחסן עותק של הכרטיס שלך במכשיר הזה למילוי מהיר יותר של טפסים.</translation>
+<translation id="3676215163710610678">‏אם האפשרות הזו תופעל, brave יאחסן עותק של הכרטיס שלך במכשיר הזה למילוי מהיר יותר של טפסים.</translation>
 <translation id="5011561501798487822">זוהתה השפה</translation>
 <translation id="5015510746216210676">שם המחשב:</translation>
 <translation id="5017554619425969104">טקסט שהעתקת</translation>
@@ -1524,12 +1524,12 @@ Del</translation>
 <translation id="5018802455907704660">‏16x20 אינץ'</translation>
 <translation id="5019198164206649151">האחסון המשמש כגיבוי אינו תקין</translation>
 <translation id="5020776957610079374">מוזיקת עולם</translation>
-<translation id="6516968977334148048">‏מעקב אחר מחירים באמצעות Asil</translation>
+<translation id="6516968977334148048">‏מעקב אחר מחירים באמצעות brave</translation>
 <translation id="5023310440958281426">יש לבדוק את תקנון מנהל המערכת שלך</translation>
 <translation id="5029568752722684782">מחיקת העותק</translation>
 <translation id="5030338702439866405">הונפק על ידי</translation>
 <translation id="503069730517007720">‏יש צורך באישור שורש בשביל "<ph name="SOFTWARE_NAME"/>", אבל לא מותקן אישור כזה. על מנהל ה-IT לבדוק את הוראות התצורה של "<ph name="SOFTWARE_NAME"/>" כדי לפתור את הבעיה. <ph name="FURTHER_EXPLANATION"/></translation>
-<translation id="6425384654920630035">‏מידע על Asil Translate</translation>
+<translation id="6425384654920630035">‏מידע על brave Translate</translation>
 <translation id="503498442187459473"><ph name="HOST"/> רוצה להשתמש במצלמה ובמיקרופון שלך</translation>
 <translation id="5035135400558156732">גינון</translation>
 <translation id="503574301575803523">SRA3</translation>
@@ -1556,7 +1556,7 @@ Del</translation>
 <translation id="5087580092889165836">הוספת כרטיס</translation>
 <translation id="5088142053160410913">הודעה לאופרטור</translation>
 <translation id="5093232627742069661">‏קיפול Z</translation>
-<translation id="4906192414477726331">‏השרת הזה לא הצליח להוכיח שהוא <ph name="DOMAIN"/>. אישור האבטחה שלו לא נחשב כמהימן על ידי Asil. ייתכן שהסיבה לכך היא תצורה שגויה או תוקף המיירט את החיבור שלך.</translation>
+<translation id="4906192414477726331">‏השרת הזה לא הצליח להוכיח שהוא <ph name="DOMAIN"/>. אישור האבטחה שלו לא נחשב כמהימן על ידי brave. ייתכן שהסיבה לכך היא תצורה שגויה או תוקף המיירט את החיבור שלך.</translation>
 <translation id="5097099694988056070">‏נתונים סטטיסטיים של המכשיר, כמו ניצול יחידת העיבוד המרכזית (CPU)/זיכרון RAM</translation>
 <translation id="5097468150760963273">‏27x39 אינץ'</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1588,8 +1588,8 @@ Del</translation>
 <translation id="5161334686036120870">נושא:</translation>
 <translation id="5161506081086828129">מערים 9</translation>
 <translation id="5164798890604758545">מתבצעת הזנת טקסט</translation>
-<translation id="2996889577833788807">‏יש להזין את קוד האימות של <ph name="CREDIT_CARD"/>. אחרי שנקבל ממך אישור, נשתף עם האתר הזה את פרטי הכרטיס מחשבון Asil.</translation>
-<translation id="8515152881111950319">‏ייתכן שלא יתאפשר לך לגשת לחשבון הארגוני, והזהות שלך עלולה להיגנב. לגלישה בטוחה ב-Asil, מומלץ לשנות את הסיסמה עכשיו.</translation>
+<translation id="2996889577833788807">‏יש להזין את קוד האימות של <ph name="CREDIT_CARD"/>. אחרי שנקבל ממך אישור, נשתף עם האתר הזה את פרטי הכרטיס מחשבון brave.</translation>
+<translation id="8515152881111950319">‏ייתכן שלא יתאפשר לך לגשת לחשבון הארגוני, והזהות שלך עלולה להיגנב. לגלישה בטוחה ב-brave, מומלץ לשנות את הסיסמה עכשיו.</translation>
 <translation id="5171045022955879922">טקסט או כתובת אתר לחיפוש</translation>
 <translation id="5172758083709347301">מכונה</translation>
 <translation id="5177076414499237632">מידע על המקור והנושא של הדף הזה</translation>
@@ -1616,7 +1616,7 @@ Del</translation>
 <translation id="5239623327352565343">יש הרשאת גישה למיקום</translation>
 <translation id="5242889659037569123">מזוודות ואביזרים לנסיעה</translation>
 <translation id="5250209940322997802">"יש להתחבר לרשת"</translation>
-<translation id="6055400808586511449">‏מידע על התכונות של Asil</translation>
+<translation id="6055400808586511449">‏מידע על התכונות של brave</translation>
 <translation id="5251803541071282808">ענן</translation>
 <translation id="5254043433801397071">אופטימיזציה של תוכן ההדפסה</translation>
 <translation id="5255690596502591079">אני בכל זאת רוצה לצלם</translation>
@@ -1637,7 +1637,7 @@ Del</translation>
 <translation id="5287456746628258573">האתר הזה משתמש בהגדרת אבטחה מיושנת, שעלולה לחשוף את המידע שלך (למשל, סיסמאות או מספרים של כרטיס אשראי) כשהוא נשלח לאתר זה.</translation>
 <translation id="5288108484102287882">בעקבות אימות ערכי המדיניות הופיעו אזהרות</translation>
 <translation id="5288393065350884210">חשבונאות וביקורת</translation>
-<translation id="782502454152246205">‏חיבור האתר מאובטח אלא אם תתקבל הודעה שונה מ-Asil</translation>
+<translation id="782502454152246205">‏חיבור האתר מאובטח אלא אם תתקבל הודעה שונה מ-brave</translation>
 <translation id="5289384342738547352">טיפול במסמכים מרובים</translation>
 <translation id="5293919335876685914">מכוניות קוּפּה</translation>
 <translation id="5296589789433599000">בישול ומתכונים</translation>
@@ -1656,15 +1656,15 @@ Del</translation>
 <translation id="5324080437450482387">בחירת פרטי איש קשר</translation>
 <translation id="5329858041417644019">הדפדפן שלך לא מנוהל</translation>
 <translation id="5332219387342487447">שיטת משלוח</translation>
-<translation id="5038014878861342914">‏Asil איתר את הסיסמה שבה השתמשת עכשיו בפרצה באבטחת מידע. כדי לאבטח את החשבונות שלך, מומלץ לבדוק את הסיסמאות השמורות.</translation>
+<translation id="5038014878861342914">‏brave איתר את הסיסמה שבה השתמשת עכשיו בפרצה באבטחת מידע. כדי לאבטח את החשבונות שלך, מומלץ לבדוק את הסיסמאות השמורות.</translation>
 <translation id="5334013548165032829">יומני מערכת מפורטים</translation>
 <translation id="5334145288572353250">לשמור את הכתובת?</translation>
 <translation id="5335920952954443287">לב פועם</translation>
-<translation id="4632358739585490563">‏לחצן להגדרת Asil כדפדפן ברירת המחדל, יש ללחוץ על Enter כדי להגדיר את Asil כדפדפן ברירת המחדל של המערכת.</translation>
+<translation id="4632358739585490563">‏לחצן להגדרת brave כדפדפן ברירת המחדל, יש ללחוץ על Enter כדי להגדיר את brave כדפדפן ברירת המחדל של המערכת.</translation>
 <translation id="5340250774223869109">האפליקציה חסומה</translation>
 <translation id="534295439873310000">‏מכשירי NFC</translation>
 <translation id="5344579389779391559">ייתכן שהדף הזה ינסה לדרוש ממך תשלום</translation>
-<translation id="145631537248113690">‏הלחצן להתאמה אישית של הגופנים ב-Asil, מקישים על Enter כדי להתאים אישית את הגופנים וגודל הטקסט ב-Asil</translation>
+<translation id="145631537248113690">‏הלחצן להתאמה אישית של הגופנים ב-brave, מקישים על Enter כדי להתאים אישית את הגופנים וגודל הטקסט ב-brave</translation>
 <translation id="5355557959165512791">נכון לעכשיו אי אפשר לבקר באתר <ph name="SITE"/> מאחר שהאישור שלו בוטל. שגיאות רשת ומתקפות הן בדרך כלל זמניות, כך שהדף הזה יחזור כנראה לפעול מאוחר יותר.</translation>
 <translation id="5356837363448394805">הסמקה</translation>
 <translation id="5357848622083956825">אומנות חזותית ועיצוב</translation>
@@ -1674,7 +1674,7 @@ Del</translation>
 <translation id="5371425731340848620">עדכון כרטיס</translation>
 <translation id="5375686690914744327">SRA1</translation>
 <translation id="5377026284221673050">‏"השעון מאחר", "השעון מקדים" או "&lt;span class="error-code"&gt;NET::ERR_CERT_DATE_INVALID&lt;/span&gt;"</translation>
-<translation id="6943284267010400133">‏לחצן ליצירה של מצגת, מקישים על Enter כדי ליצור במהירות מצגת חדשה ב-Asil Slides</translation>
+<translation id="6943284267010400133">‏לחצן ליצירה של מצגת, מקישים על Enter כדי ליצור במהירות מצגת חדשה ב-brave Slides</translation>
 <translation id="5385857628869214740">הומור</translation>
 <translation id="5386426401304769735">‏שרשרת האישורים של האתר הזה כוללת אישור שנחתם באמצעות SHA-1.</translation>
 <translation id="5396631636586785122">הידוק קצוות בצד ימין</translation>
@@ -1683,7 +1683,7 @@ Del</translation>
 <translation id="540630185148148480">הפעלת ההתראות</translation>
 <translation id="540969355065856584">שרת זה לא הצליח להוכיח שהוא <ph name="DOMAIN"/>; אישור האבטחה שלו אינו תקף כעת. הסיבה לכך עשויה להיות תצורה שגויה או שתוקף מיירט את החיבור שלך.</translation>
 <translation id="5412040515238827314">פורמט לא תקין: אמורה להופיע רשימת תבניות.</translation>
-<translation id="9079419934310259761">‏יוצגו לך מודעות רלוונטיות יותר באתר על סמך תחומי העניין שלך מ-Asil</translation>
+<translation id="9079419934310259761">‏יוצגו לך מודעות רלוונטיות יותר באתר על סמך תחומי העניין שלך מ-brave</translation>
 <translation id="5412245327974352290"><ph name="TRADITIONAL_TEXT"/> – <ph name="ADDITIONAL_TEXT"/></translation>
 <translation id="541416427766103491">מערים 4</translation>
 <translation id="5414511064953050917">אעביר בכל זאת</translation>
@@ -1726,7 +1726,7 @@ Del</translation>
 <translation id="5526617258931667850">‏<ph name="MANAGE_CHROMEOS_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, לוחצים על Tab ואז על Enter כדי להתאים אישית את כלי הנגישות בהגדרות ChromeOS</translation>
 <translation id="5528532273234423708">אוטומציה בבית</translation>
 <translation id="55293785478302737">הידוק קצוות</translation>
-<translation id="6477838366754392112">‏הלחצן 'ניקוי נתוני גלישה', יש להקיש על Enter כדי לנקות את היסטוריית הגלישה, קובצי ה-cookie, המטמון ועוד בהגדרות Asil</translation>
+<translation id="6477838366754392112">‏הלחצן 'ניקוי נתוני גלישה', יש להקיש על Enter כדי לנקות את היסטוריית הגלישה, קובצי ה-cookie, המטמון ועוד בהגדרות brave</translation>
 <translation id="5536214594743852365">הצגת הקטע "<ph name="SECTION"/>"</translation>
 <translation id="553782666181800029">‏מעטפה – Chou 2</translation>
 <translation id="5539243836947087108">Raft</translation>
@@ -1737,7 +1737,7 @@ Del</translation>
 <translation id="5543722831081909240">180 מעלות</translation>
 <translation id="5545756402275714221">מאמרים שעשויים לעניין אותך</translation>
 <translation id="5551890439174915351">‏100x200 מ"מ</translation>
-<translation id="6084314943327785510">‏מערכת Asil בודקת מדי פעם את הסיסמאות שלך ומשווה אותן לרשימות שהתפרסמו באינטרנט. כשהפעולה הזו מבוצעת, הסיסמאות ושמות המשתמש מוצפנים, כך שאיש לא יוכל לקרוא אותם, כולל Asil.</translation>
+<translation id="6084314943327785510">‏מערכת brave בודקת מדי פעם את הסיסמאות שלך ומשווה אותן לרשימות שהתפרסמו באינטרנט. כשהפעולה הזו מבוצעת, הסיסמאות ושמות המשתמש מוצפנים, כך שאיש לא יוכל לקרוא אותם, כולל brave.</translation>
 <translation id="5556459405103347317">טעינה מחדש</translation>
 <translation id="5560088892362098740">תאריך תפוגה</translation>
 <translation id="55635442646131152">ראשי הפרקים של המסמך</translation>
@@ -1760,7 +1760,7 @@ Del</translation>
 <translation id="5605670050355397069">Ledger</translation>
 <translation id="5610142619324316209">לבדוק את החיבור</translation>
 <translation id="5610807607761827392">אפשר לנהל את הכרטיסים והכתובות דרך ה<ph name="BEGIN_LINK"/>הגדרות<ph name="END_LINK"/>.</translation>
-<translation id="2012723355262040739">‏ניתן לתרגם את הדף הזה באמצעות Asil Translate</translation>
+<translation id="2012723355262040739">‏ניתן לתרגם את הדף הזה באמצעות brave Translate</translation>
 <translation id="5612720917913232150"><ph name="URL"/> רוצה להשתמש במיקום המחשב שלך</translation>
 <translation id="561669346091975195">סדרות מדע בדיוני ופנטזיה</translation>
 <translation id="5617949217645503996"><ph name="HOST_NAME"/> הפנה אותך מחדש פעמים רבות מדי.</translation>
@@ -1799,9 +1799,9 @@ Del</translation>
 <translation id="5720705177508910913">משתמש נוכחי:</translation>
 <translation id="5723287205918986743">תעשיית ההגנה</translation>
 <translation id="5725567311035061582">‏ניהול קובצי ה-cookie והנתונים מאתרים</translation>
-<translation id="3006790309890592320">‏אם הזנת את הסיסמה שלך באתרים אחרים, ההמלצה של Asil היא לאפס אותה.</translation>
+<translation id="3006790309890592320">‏אם הזנת את הסיסמה שלך באתרים אחרים, ההמלצה של brave היא לאפס אותה.</translation>
 <translation id="5736165827969430182">מתכות וכרייה</translation>
-<translation id="5576538372759072019">{NUM_CARDS,plural, =1{‏שמירת הכרטיס בחשבון Asil}one{‏שמירת הכרטיסים בחשבון Asil}two{‏שמירת הכרטיסים בחשבון Asil}other{‏שמירת הכרטיסים בחשבון Asil}}</translation>
+<translation id="5576538372759072019">{NUM_CARDS,plural, =1{‏שמירת הכרטיס בחשבון brave}one{‏שמירת הכרטיסים בחשבון brave}two{‏שמירת הכרטיסים בחשבון brave}other{‏שמירת הכרטיסים בחשבון brave}}</translation>
 <translation id="5738385766833540397">ניהול של אופן קבלת ההתראות על הנחות לגבי מוצרים במעקב</translation>
 <translation id="5740911612628596808">‏מעטפה – C9</translation>
 <translation id="5743638595296120378">קניית רכב</translation>
@@ -1825,14 +1825,14 @@ Del</translation>
 <translation id="5784606427469807560">הייתה בעיה באישור הכרטיס. יש לבדוק את החיבור לאינטרנט ולנסות שוב.</translation>
 <translation id="5785756445106461925">כמו כן, דף זה כולל משאבים נוספים שאינם מאובטחים. גורמים אחרים עלולים לראות את המשאבים האלה במהלך העברתם, ותוקף עלול לשנות אותם באופן שישנה את מראה הדף.</translation>
 <translation id="5786044859038896871">האם ברצונך למלא את פרטי הכרטיס שלך?</translation>
-<translation id="3985758120980526872">‏Asil איתר את הסיסמה שבה השתמשת עכשיו בפרצה באבטחת מידע. מומלץ לשנות את הסיסמה הזו מיד.</translation>
+<translation id="3985758120980526872">‏brave איתר את הסיסמה שבה השתמשת עכשיו בפרצה באבטחת מידע. מומלץ לשנות את הסיסמה הזו מיד.</translation>
 <translation id="5789643057113097023">.</translation>
 <translation id="5803412860119678065">האם ברצונך למלא את פרטי הכרטיס <ph name="CARD_DETAIL"/>?</translation>
 <translation id="5804241973901381774">הרשאות</translation>
-<translation id="5937482014241669139">‏הצגת ההיסטוריה ב‑Asil</translation>
+<translation id="5937482014241669139">‏הצגת ההיסטוריה ב‑brave</translation>
 <translation id="5808542072418270309">משחקי הדמיה</translation>
 <translation id="5810442152076338065">החיבור שלך אל <ph name="DOMAIN"/> מוצפן באמצעות חבילת צופן מיושנת.</translation>
-<translation id="7295730649911402188">‏כאשר אירועי אבטחה מדווחים על ידי Asil, נתונים רלוונטיים לגבי האירועים האלה נשלחים למנהל המערכת. הנתונים האלה יכולים לכלול את כתובות ה-URL של הדפים שבהם ביקרת ב-Asil, השמות או המטא-נתונים של הקבצים ואת שם המשתמש שבאמצעותו נכנסת לאפליקציות מבוססות-אינטרנט, למכשיר שלך ול-Asil.</translation>
+<translation id="7295730649911402188">‏כאשר אירועי אבטחה מדווחים על ידי brave, נתונים רלוונטיים לגבי האירועים האלה נשלחים למנהל המערכת. הנתונים האלה יכולים לכלול את כתובות ה-URL של הדפים שבהם ביקרת ב-brave, השמות או המטא-נתונים של הקבצים ואת שם המשתמש שבאמצעותו נכנסת לאפליקציות מבוססות-אינטרנט, למכשיר שלך ול-brave.</translation>
 <translation id="5813119285467412249">&amp;ביצוע מחדש של הוספה</translation>
 <translation id="5813309815819933152">סדרות ריאליטי</translation>
 <translation id="5813753398265398978">פיזיקה</translation>
@@ -1868,7 +1868,7 @@ Del</translation>
 <translation id="5920262536204764679">{NUM_COOKIES,plural, =1{אחד נמצא בשימוש}one{# נמצאים בשימוש}two{שניים נמצאים בשימוש}other{# נמצאים בשימוש}}</translation>
 <translation id="592031860219554105">החלקה על הקרח</translation>
 <translation id="5921185718311485855">מופעל</translation>
-<translation id="2687595201721621314">‏לשמור את הכרטיס בחשבון Asil?</translation>
+<translation id="2687595201721621314">‏לשמור את הכרטיס בחשבון brave?</translation>
 <translation id="5922853866070715753">עוד רגע מסיימים</translation>
 <translation id="5923492272538889093">‏להשתמש בביטול נעילת המכשיר במקום בקוד האימות (CVC)?</translation>
 <translation id="5928444777041341328">לבית ולגינה</translation>
@@ -1894,8 +1894,8 @@ Del</translation>
 <translation id="598637245381783098">לא ניתן לפתוח את אפליקציית התשלומים</translation>
 <translation id="5989320800837274978">‏לא צוינו שרתי Proxy קבועים ולא כתובת אתר של סקריפט ‎.pac</translation>
 <translation id="5992691462791905444">‏קיפול מסוג Engineering Z</translation>
-<translation id="7409510288691071929">‏ניהול של המידע, הפרטיות והאבטחה בחשבון Asil</translation>
-<translation id="3494641719937626561">‏הסיסמה שבה השתמשת עכשיו אותרה בפרצה באבטחת מידע. כדי להגן על החשבונות שלך, לפי מנהל הסיסמאות של Asil, מומלץ לשנות אותה עכשיו ולבדוק את הסיסמאות השמורות שלך.</translation>
+<translation id="7409510288691071929">‏ניהול של המידע, הפרטיות והאבטחה בחשבון brave</translation>
+<translation id="3494641719937626561">‏הסיסמה שבה השתמשת עכשיו אותרה בפרצה באבטחת מידע. כדי להגן על החשבונות שלך, לפי מנהל הסיסמאות של brave, מומלץ לשנות אותה עכשיו ולבדוק את הסיסמאות השמורות שלך.</translation>
 <translation id="6000758707621254961"><ph name="RESULT_COUNT"/> תוצאות בשביל '<ph name="SEARCH_TEXT"/>'</translation>
 <translation id="6005765687956866568">הפרטים שמולאו באופן אוטומטי נוקו מהטופס</translation>
 <translation id="6006365096047131769">‏3x5 אינץ'</translation>
@@ -1945,12 +1945,12 @@ Del</translation>
 <translation id="6105460996796456817">יצירת אתר</translation>
 <translation id="6106989379647458772">ייתכן שדף האינטרנט בכתובת <ph name="PAGE"/> אינו פעיל זמנית, או שהוא הועבר לכתובת אינטרנט קבועה אחרת.</translation>
 <translation id="6107012941649240045">מונפק ל</translation>
-<translation id="8233947174119245051">‏ייתכן שיהיה אפשר לגשת לסוגים אחרים של היסטוריית גלישה בחשבון Asil בכתובת <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="8233947174119245051">‏ייתכן שיהיה אפשר לגשת לסוגים אחרים של היסטוריית גלישה בחשבון brave בכתובת <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="6116338172782435947">גישה אל טקסט ותמונות שהועתקו ללוח</translation>
 <translation id="6118782133429281336">רשימת המקורות ריקה.</translation>
 <translation id="6120179357481664955">‏מזהה UPI שלך זכור לך?</translation>
 <translation id="6122181661879998141">החלק הקדמי של הכרטיס</translation>
-<translation id="5972135347314259717">‏מחברים של Asil Enterprise</translation>
+<translation id="5972135347314259717">‏מחברים של brave Enterprise</translation>
 <translation id="6126565365696310362">מעטפה – סינית 2</translation>
 <translation id="6127379762771434464">הפריט הוסר</translation>
 <translation id="6133984428121856852">סיומת הקובץ ריקה או לא תקינה.</translation>
@@ -1976,10 +1976,10 @@ Del</translation>
 <translation id="6197648101609735209">‏89x89 מ"מ</translation>
 <translation id="6203231073485539293">בדיקת חיבור האינטרנט</translation>
 <translation id="6212314149070368045">‏11x14.88 אינץ' (Fanfold – ארה"ב)</translation>
-<translation id="8385639954311581596">‏האם להסיר מ-Asil את הכתובת?</translation>
+<translation id="8385639954311581596">‏האם להסיר מ-brave את הכתובת?</translation>
 <translation id="622039917539443112">קיפול מקביל</translation>
-<translation id="6221345481584921695">‏לאחרונה, 'גלישה בטוחה של Asil' ‏<ph name="BEGIN_LINK"/>זיהתה תוכנה זדונית<ph name="END_LINK"/> ב-<ph name="SITE"/>. אתרים שבדרך כלל נחשבים לבטוחים נדבקים לעתים בתוכנה זדונית. התוכן הזדוני מגיע מ-<ph name="SUBRESOURCE_HOST"/>, מפיץ ידוע של תוכנות זדוניות.</translation>
-<translation id="8997875939727100757">‏<ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי להתאים אישית את כלי הנגישות בהגדרות Asil</translation>
+<translation id="6221345481584921695">‏לאחרונה, 'גלישה בטוחה של brave' ‏<ph name="BEGIN_LINK"/>זיהתה תוכנה זדונית<ph name="END_LINK"/> ב-<ph name="SITE"/>. אתרים שבדרך כלל נחשבים לבטוחים נדבקים לעתים בתוכנה זדונית. התוכן הזדוני מגיע מ-<ph name="SUBRESOURCE_HOST"/>, מפיץ ידוע של תוכנות זדוניות.</translation>
+<translation id="8997875939727100757">‏<ph name="MANAGE_CHROME_ACCESSIBILITY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי להתאים אישית את כלי הנגישות בהגדרות brave</translation>
 <translation id="6229649258872345286">נסיעות משפחתיות</translation>
 <translation id="6232271601416750929">קוסמטיקה ידידותית לסביבה</translation>
 <translation id="6233160458685643793">חיוך</translation>
@@ -1988,7 +1988,7 @@ Del</translation>
 <translation id="6240447795304464094">‏הלוגו של Google Pay</translation>
 <translation id="6241121617266208201">הסתרת ההצעות</translation>
 <translation id="624499991300733384">שירות מחבר הדפסות</translation>
-<translation id="3917320044622606497">‏<ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לנהל קבצים שהורדת ב-Asil</translation>
+<translation id="3917320044622606497">‏<ph name="MANAGE_CHROME_DOWNLOADS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לנהל קבצים שהורדת ב-brave</translation>
 <translation id="6254436959401408446">אין מספיק זיכרון כדי לפתוח את הדף</translation>
 <translation id="6259156558325130047">&amp;ביצוע מחדש של שינוי סדר</translation>
 <translation id="6263376278284652872">סימניות <ph name="DOMAIN"/></translation>
@@ -1996,14 +1996,14 @@ Del</translation>
 <translation id="6264485186158353794">חזרה לחוף מבטחים</translation>
 <translation id="6265794661083428563">העתקת ערך המדיניות <ph name="POLICY_NAME"/></translation>
 <translation id="6266934640124581640">כחול-ירקרק בהיר</translation>
-<translation id="1300170712564922349">‏חזרה לתהליך כדי להציג את הפעילות הרלוונטית בהיסטוריה ב-Asil</translation>
-<translation id="9136010393039243713">‏עדכוני Asil</translation>
+<translation id="1300170712564922349">‏חזרה לתהליך כדי להציג את הפעילות הרלוונטית בהיסטוריה ב-brave</translation>
+<translation id="9136010393039243713">‏עדכוני brave</translation>
 <translation id="6276112860590028508">דפים מרשימת הקריאה שלך מופיעים כאן</translation>
-<translation id="7954557091400543500">‏כדי לשלם מהר יותר בפעם הבאה, אפשר לשמור בחשבון Asil את פרטי הכרטיס ואת הכתובת לחיוב.</translation>
+<translation id="7954557091400543500">‏כדי לשלם מהר יותר בפעם הבאה, אפשר לשמור בחשבון brave את פרטי הכרטיס ואת הכתובת לחיוב.</translation>
 <translation id="6279183038361895380">יש להקיש על |<ph name="ACCELERATOR"/>| כדי להציג את הסמן</translation>
 <translation id="6280223929691119688">לא ניתן לבצע מסירה בכתובת זו. עליך לבחור כתובת אחרת.</translation>
 <translation id="6284292079994426700">‏26x38 אינץ'</translation>
-<translation id="9069724554626063339">‏הלחצן לניהול הורדות ב-Asil, מקישים על Enter לניהול הקבצים שהורדת ב-Asil</translation>
+<translation id="9069724554626063339">‏הלחצן לניהול הורדות ב-brave, מקישים על Enter לניהול הקבצים שהורדת ב-brave</translation>
 <translation id="6289939620939689042">צבע הדף</translation>
 <translation id="6290238015253830360">הצעות של מאמרים עבורך מופיעות כאן</translation>
 <translation id="6293309776179964942">JIS B5</translation>
@@ -2018,7 +2018,7 @@ Del</translation>
 <translation id="6319249456820053699">מצלמות וידאו וסטילס</translation>
 <translation id="6321917430147971392">‏יש לבדוק את הגדרות ה-DNS</translation>
 <translation id="6322182122604171028">‏לא ניתן היה להשתמש ב-Windows Hello</translation>
-<translation id="7962450223988560278">‏הגדרת Asil כדפדפן ברירת המחדל של המערכת בהגדרות iOS</translation>
+<translation id="7962450223988560278">‏הגדרת brave כדפדפן ברירת המחדל של המערכת בהגדרות iOS</translation>
 <translation id="6328639280570009161">יש לנסות להשבית את חיזוי הרשת</translation>
 <translation id="6328784461820205019">‏"החיבור שלך אינו פרטי" או "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;" או "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;" או "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;" או "&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;" או "שגיאת אישור SSL"</translation>
 <translation id="6328786501058569169">האתר הזה מטעה</translation>
@@ -2059,7 +2059,7 @@ Del</translation>
 <translation id="6427730057873428458">כנף בקיפול</translation>
 <translation id="6428450836711225518">אימות מספר הטלפון שלך</translation>
 <translation id="6429267199680088961">A4 Tab</translation>
-<translation id="7772223497488184427">‏שינוי הסיסמה ל-Asil</translation>
+<translation id="7772223497488184427">‏שינוי הסיסמה ל-brave</translation>
 <translation id="6431119592588449664">הדוח הועלה</translation>
 <translation id="6433490469411711332">עריכת הפרטים ליצירת קשר</translation>
 <translation id="6433595998831338502">לא ניתן היה להתחבר אל <ph name="HOST_NAME"/>.</translation>
@@ -2091,7 +2091,7 @@ Del</translation>
 <translation id="6502626736864595182">ספקי פורומים וצ'אטים</translation>
 <translation id="6502991525169604759">ללא השינויים שלך</translation>
 <translation id="6506959208958864820">מעטפה</translation>
-<translation id="3960299545138990065">‏הפעלה מחדש של Asil</translation>
+<translation id="3960299545138990065">‏הפעלה מחדש של brave</translation>
 <translation id="6513005815064132016">האתר יכול לבקש הרשאה לעקוב אחר מיקום המצלמה</translation>
 <translation id="6517596291481585650">אזהרה! המדיניות הזו לא עברה מיזוג בהתאם למדיניות, מאחר שהיא אינה רשימה.</translation>
 <translation id="6518133107902771759">אימות</translation>
@@ -2112,11 +2112,11 @@ Del</translation>
 <translation id="657902945730878902">ציור וצביעה</translation>
 <translation id="6579630537141957243">‏לחבר התקן MIDI?</translation>
 <translation id="6579990219486187401">ורוד בהיר</translation>
-<translation id="5302585261530504168">‏Asil איתר את הסיסמה שבה השתמשת עכשיו בפרצה באבטחת מידע. כדי לאבטח את החשבונות שלך, מומלץ לשנות אותה מיד ואז לבדוק את הסיסמאות השמורות.</translation>
+<translation id="5302585261530504168">‏brave איתר את הסיסמה שבה השתמשת עכשיו בפרצה באבטחת מידע. כדי לאבטח את החשבונות שלך, מומלץ לשנות אותה מיד ואז לבדוק את הסיסמאות השמורות.</translation>
 <translation id="6587893660316489419">‏מעטפה – B5</translation>
 <translation id="6587923378399804057">קישור שהעתקת</translation>
 <translation id="6591833882275308647"><ph name="DEVICE_TYPE"/> זה אינו מנוהל</translation>
-<translation id="7150996650768688560">‏הלחצן 'ניהול ההגדרות לאתרים', יש להקיש על Enter כדי לנהל את ההרשאות והנתונים השמורים בכל האתרים בהגדרות Asil</translation>
+<translation id="7150996650768688560">‏הלחצן 'ניהול ההגדרות לאתרים', יש להקיש על Enter כדי לנהל את ההרשאות והנתונים השמורים בכל האתרים בהגדרות brave</translation>
 <translation id="6596325263575161958">אפשרויות הצפנה</translation>
 <translation id="6597665340361269064">90 מעלות</translation>
 <translation id="6599642189720630047">מוצרים במעקב</translation>
@@ -2133,8 +2133,8 @@ Del</translation>
 <translation id="6643016212128521049">ניקוי</translation>
 <translation id="6645291930348198241">‏לקבל גישה לקובצי Cookie ולנתוני אתרים.</translation>
 <translation id="6645478838938543427">התראות על הנחות יישלחו לכתובת <ph name="EMAIL_ADDRESS"/></translation>
-<translation id="1375868315964791309">{COUNT,plural, =0{ללא}=1{‏מאתר אחד (לא תבוצע יציאה מחשבון Asil שלך.)}one{‏מ-# אתרים (לא תבוצע יציאה מחשבון Asil שלך.)}two{‏מ-# אתרים (לא תבוצע יציאה מחשבון Asil שלך.)}other{‏מ-# אתרים (לא תבוצע יציאה מחשבון Asil שלך.)}}</translation>
-<translation id="6678472970290886941">‏מנהל המערכת יכול לשנות את הגדרת הדפדפן שלך מרחוק. בנוסף, ניתן לנהל את הפעילות במכשיר הזה מחוץ ל-Asil.</translation>
+<translation id="1375868315964791309">{COUNT,plural, =0{ללא}=1{‏מאתר אחד (לא תבוצע יציאה מחשבון brave שלך.)}one{‏מ-# אתרים (לא תבוצע יציאה מחשבון brave שלך.)}two{‏מ-# אתרים (לא תבוצע יציאה מחשבון brave שלך.)}other{‏מ-# אתרים (לא תבוצע יציאה מחשבון brave שלך.)}}</translation>
+<translation id="6678472970290886941">‏מנהל המערכת יכול לשנות את הגדרת הדפדפן שלך מרחוק. בנוסף, ניתן לנהל את הפעילות במכשיר הזה מחוץ ל-brave.</translation>
 <translation id="6648524591329069940">‏גופן Serif</translation>
 <translation id="6649510485211003056">‏195x270 מ"מ</translation>
 <translation id="6651270836885078973">בניהול של:</translation>
@@ -2152,8 +2152,8 @@ Del</translation>
 <translation id="6688743156324860098">עדכון…</translation>
 <translation id="6688775486821967877">הכרטיס הווירטואלי לא זמין כרגע. יש לנסות שוב מאוחר יותר</translation>
 <translation id="6689249931105087298">יחסי עם דחיסת נקודות שחורות</translation>
-<translation id="5406652219015697259">‏מאחר שנכנסת לחשבון, Asil מציע לשמור את הכרטיסים שלך בחשבון Asil. אפשר לשנות את ההתנהגות הזאת בהגדרות. שם בעל הכרטיס מגיע מהחשבון שלך.</translation>
-<translation id="6522914004575214087">‏<ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לאתר את המכשיר דרך חשבון Asil</translation>
+<translation id="5406652219015697259">‏מאחר שנכנסת לחשבון, brave מציע לשמור את הכרטיסים שלך בחשבון brave. אפשר לשנות את ההתנהגות הזאת בהגדרות. שם בעל הכרטיס מגיע מהחשבון שלך.</translation>
+<translation id="6522914004575214087">‏<ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לאתר את המכשיר דרך חשבון brave</translation>
 <translation id="6696588630955820014">‏לחצן לשיתוף הכרטיסייה הזו, מקישים על Enter כדי לשתף את הכרטיסייה הזו על ידי שיתוף הקישור, יצירת קוד QR, העברה (cast) ועוד</translation>
 <translation id="6698381487523150993">נוצר:</translation>
 <translation id="6702919718839027939">הצגה</translation>
@@ -2218,7 +2218,7 @@ Del</translation>
 <translation id="6883221904761970440">גיליון האימות של פרטי הכניסה לתשלום המאובטח סגור</translation>
 <translation id="6884662655240309489">גודל 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE"/> <ph name="SHORT_URL"/></translation>
-<translation id="7265969755975834932">‏Asil יצר גרסה פשוטה של הדף הזה כדי להקל את הקריאה שלו. אחזור הדף המקורי בוצע על-ידי Asil באמצעות חיבור לא מאובטח.</translation>
+<translation id="7265969755975834932">‏brave יצר גרסה פשוטה של הדף הזה כדי להקל את הקריאה שלו. אחזור הדף המקורי בוצע על-ידי brave באמצעות חיבור לא מאובטח.</translation>
 <translation id="6890443033788248019">לאשר גישה למיקום?</translation>
 <translation id="6890531741535756070">בחרת לבצע אימות באמצעות <ph name="DEVICE_LABEL"/> באתרים שמשתמשים ב-<ph name="PROVIDER_ORIGIN"/>. יכול להיות שהספק הזה אחסן מידע על אמצעי התשלום שלך, ואפשר <ph name="BEGIN_LINK"/>לבקש למחוק את המידע הזה<ph name="END_LINK"/>.</translation>
 <translation id="6891596781022320156">רמת המדיניות אינה נתמכת.</translation>
@@ -2234,7 +2234,7 @@ Del</translation>
 <translation id="6916954549222464607">תכנון וניהול פיננסי</translation>
 <translation id="6917795328362592458">הסיסמה שבה השתמשת עכשיו אותרה בפרצה באבטחת מידע. כדי להגן על החשבונות שלך, לפי מנהל הסיסמאות, מומלץ לבדוק את הסיסמאות השמורות שלך.</translation>
 <translation id="6925267999184670015">‏13x19 אינץ' (B+‎ – צפון אמריקה)</translation>
-<translation id="6722453239914327220">‏השם הזה הוא מחשבון Asil שלך</translation>
+<translation id="6722453239914327220">‏השם הזה הוא מחשבון brave שלך</translation>
 <translation id="6936976777388162184">‏זהו מכשיר שמגיע בחבילה ולא ניתן לרשום אותו לשדרוג של מכשירים לחתימה דיגיטלית ושל Kiosk.</translation>
 <translation id="6939469646605424232">סדרות דרמה</translation>
 <translation id="6944692733090228304">הזנת את הסיסמה שלך באתר שלא מנוהל על ידי <ph name="BEGIN_BOLD"/><ph name="ORG_NAME"/><ph name="END_BOLD"/>. כדי להגן על החשבון, מומלץ לא להשתמש בסיסמה שלך באפליקציות ובאתרים אחרים.</translation>
@@ -2248,7 +2248,7 @@ Del</translation>
 <translation id="695140971690006676">איפוס של הכול</translation>
 <translation id="6954049078461159956">הוקי</translation>
 <translation id="6957887021205513506">נראה שהאישור של השרת מזויף.</translation>
-<translation id="774679539085757206">‏ניהול הגדרות הפרטיות ב-Asil בחשבון Asil</translation>
+<translation id="774679539085757206">‏ניהול הגדרות הפרטיות ב-brave בחשבון brave</translation>
 <translation id="695864015080711809">תעסוקה וחינוך</translation>
 <translation id="6961733224437895943">ביטוח לבית</translation>
 <translation id="6961844873822989059">האתר יכול לבקש הרשאה להשתמש בגופנים שמותקנים במכשיר</translation>
@@ -2260,7 +2260,7 @@ Del</translation>
 <translation id="6965978654500191972">התקן</translation>
 <translation id="696703987787944103">בהתאם לתפישה</translation>
 <translation id="6968269510885595029">צריך להשתמש במפתח האבטחה</translation>
-<translation id="8485851762575764192">‏יצירה מהירה של מצגת חדשה ב-Asil Slides</translation>
+<translation id="8485851762575764192">‏יצירה מהירה של מצגת חדשה ב-brave Slides</translation>
 <translation id="6972629891077993081">‏התקני HID</translation>
 <translation id="6973656660372572881">‏צוינו שרתי Proxy קבועים וכתובת אתר של הסקריפט מסוג ‎.Pac</translation>
 <translation id="6973988895180423160">‏3.5x5 אינץ'</translation>
@@ -2281,7 +2281,7 @@ Del</translation>
 <translation id="7029809446516969842">סיסמאות</translation>
 <translation id="7030436163253143341">האישור לא תקין</translation>
 <translation id="7031646650991750659">‏אילו אפליקציות התקנת מ-Google Play.</translation>
-<translation id="8918349693525256593">‏<ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לנהל את הגדרות הפרטיות בחשבון Asil.</translation>
+<translation id="8918349693525256593">‏<ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לנהל את הגדרות הפרטיות בחשבון brave.</translation>
 <translation id="7048095965575426564">‏8.5x12 אינץ' (Fanfold – אירופה)</translation>
 <translation id="7050187094878475250">ניסית להגיע אל <ph name="DOMAIN"/>, אך השרת הציג אישור שתקופת התוקף שלו ארוכה מדי ולכן אינו מהימן.</translation>
 <translation id="705310974202322020">{NUM_CARDS,plural, =1{אי אפשר לשמור עכשיו את הכרטיס הזה}one{אי אפשר לשמור עכשיו את הכרטיסים האלה}two{אי אפשר לשמור עכשיו את הכרטיסים האלה}other{אי אפשר לשמור עכשיו את הכרטיסים האלה}}</translation>
@@ -2290,7 +2290,7 @@ Del</translation>
 <translation id="7058774143982824355">‏שירות לניתוח סיסמאות CSV</translation>
 <translation id="7061777300866737982">בטיחות ואבטחה בבית</translation>
 <translation id="7062635574500127092">כחול-ירקרק</translation>
-<translation id="5320462991730735481">‏ניתן להוסיף ולנהל כתובות בהגדרות Asil</translation>
+<translation id="5320462991730735481">‏ניתן להוסיף ולנהל כתובות בהגדרות brave</translation>
 <translation id="7064851114919012435">פרטים ליצירת קשר</translation>
 <translation id="7067633076996245366">מוזיקת נשמה ואר-אנד-בי</translation>
 <translation id="7068733155164172741">יש להזין קוד בן <ph name="OTP_LENGTH"/> ספרות</translation>
@@ -2301,11 +2301,11 @@ Del</translation>
 <translation id="7081308185095828845">התכונה הזו לא זמינה במכשיר שלך</translation>
 <translation id="7083258188081898530">מגש 9</translation>
 <translation id="7086090958708083563">ההעלאה התבקשה על ידי המשתמש</translation>
-<translation id="1313878436434241688">‏<ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לנהל את ההרשאות והנתונים השמורים בכל האתרים בהגדרות Asil</translation>
+<translation id="1313878436434241688">‏<ph name="MANAGE_SITE_SETTINGS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לנהל את ההרשאות והנתונים השמורים בכל האתרים בהגדרות brave</translation>
 <translation id="7096937462164235847">הזהות של האתר הזה לא אומתה.</translation>
 <translation id="7101893872976785596">סרטי אימה</translation>
 <translation id="7102079138917191645">בניין ותחזוקה</translation>
-<translation id="6793825086874189463">‏הפעלת המשחק Asil Dino</translation>
+<translation id="6793825086874189463">‏הפעלת המשחק brave Dino</translation>
 <translation id="7108338896283013870">הסתרה</translation>
 <translation id="7108634116785509031"><ph name="HOST"/> רוצה להשתמש במצלמה שלך</translation>
 <translation id="7108819624672055576">אושרה על-ידי תוסף</translation>
@@ -2341,7 +2341,7 @@ Del</translation>
 <translation id="719464814642662924">Visa</translation>
 <translation id="7199278868241956094">‏8.5x13.4 אינץ' (Oficio)</translation>
 <translation id="7201591969684833065">מנהל המערכת יכול לראות:</translation>
-<translation id="2540471381262404386">‏הגדרת Asil כדפדפן ברירת המחדל של המערכת</translation>
+<translation id="2540471381262404386">‏הגדרת brave כדפדפן ברירת המחדל של המערכת</translation>
 <translation id="7210863904660874423"><ph name="HOST_NAME"/> לא פועל בהתאם לתקני האבטחה.</translation>
 <translation id="7210993021468939304">‏קיימת פעילות של Linux בתוך המאגר וניתן להתקין ולהפעיל אפליקציות של Linux בתוך המאגר</translation>
 <translation id="721197778055552897"><ph name="BEGIN_LINK"/>מידע נוסף<ph name="END_LINK"/> בנושא זה.</translation>
@@ -2367,13 +2367,13 @@ Del</translation>
 <translation id="7260504762447901703">ביטול גישה</translation>
 <translation id="7275334191706090484">סימניות מנוהלות</translation>
 <translation id="7277998515889183784">איפור וקוסמטיקה</translation>
-<translation id="2837210582972105306">‏<ph name="CHANGE_GOOGLE_PASSWORD_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לשנות את הסיסמה לחשבון Asil</translation>
+<translation id="2837210582972105306">‏<ph name="CHANGE_GOOGLE_PASSWORD_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לשנות את הסיסמה לחשבון brave</translation>
 <translation id="7292031607255951991">שם הנמען</translation>
 <translation id="7298195798382681320">מומלצים</translation>
 <translation id="7299471494012161875">ציוד היקפי מחובר של תצוגה</translation>
 <translation id="7300012071106347854">כחול קובלט</translation>
 <translation id="7304030187361489308">גבוה</translation>
-<translation id="244157907932852817">‏ניהול הגדרות הפרטיות בחשבון Asil</translation>
+<translation id="244157907932852817">‏ניהול הגדרות הפרטיות בחשבון brave</translation>
 <translation id="7305756307268530424">התחלה איטית יותר</translation>
 <translation id="7308436126008021607">סנכרון ברקע</translation>
 <translation id="7310392214323165548">המכשיר יופעל מחדש בקרוב</translation>
@@ -2394,14 +2394,14 @@ Del</translation>
 <translation id="7353601530677266744">שורת פקודה </translation>
 <translation id="7354880545102894991">נסיעות מוזלות ונסיעות בדקה ה-90</translation>
 <translation id="7359588939039777303">מודעות חסומות.</translation>
-<translation id="7308957539693927108">‏כש-Asil מוצאת הנחות זמינות, הן יוצגו במהלך התשלום בקופה</translation>
-<translation id="5417725730200908216">‏<ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי להוסיף ולנהל כתובות בהגדרות Asil</translation>
+<translation id="7308957539693927108">‏כש-brave מוצאת הנחות זמינות, הן יוצגו במהלך התשלום בקופה</translation>
+<translation id="5417725730200908216">‏<ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי להוסיף ולנהל כתובות בהגדרות brave</translation>
 <translation id="7365849542400970216">רוצה שהאתר יקבל מידע לגבי השימוש שלך במכשיר?</translation>
 <translation id="7366117520888504990">‏198x275 מ"מ</translation>
 <translation id="7366362069757178916">‏מעבדי handler לתשלומים</translation>
 <translation id="7372973238305370288">תוצאת חיפוש</translation>
 <translation id="7374461526650987610">תוכניות לטיפול בפרוטוקולים</translation>
-<translation id="3898257577441589237">‏הבעיה הזו מתרחשת בגלל אישור שהותקן במכשיר על ידך או על ידי מישהו אחר. האישור הזה מוכר כאישור שמשמש לצורך מעקב אחרי רשתות ויירוט נתונים מרשתות, והוא לא נחשב כמהימן על ידי Asil. במקרים מסוימים מתבצע מעקב מסיבות לגיטימיות, כמו במוסדות חינוך או ברשתות של חברות, אך Asil רוצה לוודא שהמעקב מתבצע בידיעתך גם אם אין לך אפשרות לעצור אותו. המעקב עשוי להתבצע בכל דפדפן או אפליקציה שניגשים לאינטרנט.</translation>
+<translation id="3898257577441589237">‏הבעיה הזו מתרחשת בגלל אישור שהותקן במכשיר על ידך או על ידי מישהו אחר. האישור הזה מוכר כאישור שמשמש לצורך מעקב אחרי רשתות ויירוט נתונים מרשתות, והוא לא נחשב כמהימן על ידי brave. במקרים מסוימים מתבצע מעקב מסיבות לגיטימיות, כמו במוסדות חינוך או ברשתות של חברות, אך brave רוצה לוודא שהמעקב מתבצע בידיעתך גם אם אין לך אפשרות לעצור אותו. המעקב עשוי להתבצע בכל דפדפן או אפליקציה שניגשים לאינטרנט.</translation>
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{אין אתרים עם הרשאה}=1{יש אתר אחד עם הרשאה}one{יש # אתרים עם הרשאה}two{יש # אתרים עם הרשאה}other{יש # אתרים עם הרשאה}}</translation>
 <translation id="7375818412732305729">מצורף קובץ</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE"/> - <ph name="FULL_DATE"/></translation>
@@ -2427,7 +2427,7 @@ Del</translation>
       &lt;li&gt;בקטע &lt;strong&gt;סוג הפעלה&lt;/strong&gt;, בוחרים &lt;strong&gt;מושבת&lt;/strong&gt;
       &lt;li&gt;בקטע &lt;strong&gt;סטטוס שירות&lt;/strong&gt;, לוחצים על &lt;strong&gt;עצירה&lt;/strong&gt;
       &lt;li&gt;לוחצים על &lt;strong&gt;הפעלה&lt;/strong&gt; ולאחר מכן לוחצים על &lt;strong&gt;אישור&lt;/strong&gt;
-      &lt;li&gt;עוברים אל &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;מרכז העזרה של Asil&lt;/a&gt; כדי ללמוד כיצד להסיר את התוכנה מהמחשב
+      &lt;li&gt;עוברים אל &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;מרכז העזרה של brave&lt;/a&gt; כדי ללמוד כיצד להסיר את התוכנה מהמחשב
       &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">חביב</translation>
 <translation id="741204030948306876">כן, אני רוצה</translation>
@@ -2435,7 +2435,7 @@ Del</translation>
 <translation id="7418620734632363981">תכנות</translation>
 <translation id="7419106976560586862">נתיב פרופיל</translation>
 <translation id="7421067045979951561">‏רכיבי handler של פרוטוקולים</translation>
-<translation id="1451399671339759400">‏הלחצן להצגת ההיסטוריה ב-Asil, מקישים על Enter כדי להציג את היסטוריית הגלישה ולנהל אותה בהגדרות Asil</translation>
+<translation id="1451399671339759400">‏הלחצן להצגת ההיסטוריה ב-brave, מקישים על Enter כדי להציג את היסטוריית הגלישה ולנהל אותה בהגדרות brave</translation>
 <translation id="7427366580982928791">בטיחות ילדים באינטרנט</translation>
 <translation id="7429429656042611765">‏7.25x10.5 אינץ' (Executive)</translation>
 <translation id="7437289804838430631">הוספת פרטים ליצירת קשר</translation>
@@ -2462,7 +2462,7 @@ Del</translation>
 <translation id="7812541223399526596">‏לחצן ליצירת מסמך, מקישים על Enter כדי ליצור במהירות מסמך ב-Google Docs</translation>
 <translation id="7501663406926337752">האתר שבכתובת הזו סומן על ידי הארגון שלך</translation>
 <translation id="7501853161948120656">מקורות מידע לימודיים</translation>
-<translation id="2957285558977211818">‏Asil <ph name="BEGIN_EMPHASIS"/>לא ישמור<ph name="END_EMPHASIS"/> את המידע הבא:
+<translation id="2957285558977211818">‏brave <ph name="BEGIN_EMPHASIS"/>לא ישמור<ph name="END_EMPHASIS"/> את המידע הבא:
         <ph name="BEGIN_LIST"/>
           <ph name="LIST_ITEM"/>היסטוריית הגלישה שלך
           <ph name="LIST_ITEM"/>קובצי Cookie ונתוני אתרים
@@ -2490,7 +2490,7 @@ Del</translation>
 <translation id="7546409722674205727">האפליקציה <ph name="APP_NAME"/> נפתחת</translation>
 <translation id="7548892272833184391">פתרון שגיאות חיבור</translation>
 <translation id="7549584377607005141">דף אינטרנט זה זקוק לנתונים שהזנת קודם לכן כדי שהוא יוצג כראוי. ניתן לשלוח שוב את הנתונים, אך פעולה זו תגרום לחזרה על כל פעולה שדף זה ביצע בעבר.</translation>
-<translation id="5474381306981932386">‏שם המשתמש במכשיר ושם המשתמש ב-Asil</translation>
+<translation id="5474381306981932386">‏שם המשתמש במכשיר ושם המשתמש ב-brave</translation>
 <translation id="7551484245293639699">ביטוח נסיעות</translation>
 <translation id="755279583747225797">הניסוי הופעל</translation>
 <translation id="7552846755917812628">אולי הטיפים האלו יעזרו לך:</translation>
@@ -2500,16 +2500,16 @@ Del</translation>
 <translation id="7559278538486662777">לא ניתן לשנות את גודל החלון של האפליקציה הזו</translation>
 <translation id="7564680668369175887">מכוניות סטיישן</translation>
 <translation id="7567204685887185387">השרת הזה לא הצליח להוכיח שהוא <ph name="DOMAIN"/>. ייתכן שאישור האבטחה שלו נופק כהונאה. הסיבה לכך עשויה להיות הגדרה שגויה או תוקף המיירט את החיבור שלך.</translation>
-<translation id="8661288256654172117">‏Asil מנסה למלא את הסיסמה שלך ב-<ph name="APP_NAME"/>.</translation>
+<translation id="8661288256654172117">‏brave מנסה למלא את הסיסמה שלך ב-<ph name="APP_NAME"/>.</translation>
 <translation id="7569490014721427265">גולף</translation>
 <translation id="7569761772822664555">‏לחצן לניהול מנועי חיפוש, מקישים על Enter כדי לנהל את מנוע החיפוש שמוגדר כברירת מחדל ואת החיפוש באתרים</translation>
 <translation id="7569983096843329377">שחור</translation>
 <translation id="7575207903026901870">‏הלחצן 'הסרת ההצעה', יש ללחוץ על Enter כדי להסיר את ההצעה הזו</translation>
 <translation id="7577900504646297215">ניהול תחומי עניין</translation>
-<translation id="405970181812690156">‏ניתן לשלם במהירות באתרים ובאפליקציות בכל המכשירים באמצעות כרטיסים ששמרת ב-Asil.</translation>
+<translation id="405970181812690156">‏ניתן לשלם במהירות באתרים ובאפליקציות בכל המכשירים באמצעות כרטיסים ששמרת ב-brave.</translation>
 <translation id="7579442726219254162">משתנה לא ידוע '<ph name="VARIABLE"/>' בהגדרות האישיות המנוהלות של '<ph name="APPLICATION_ID"/>'.</translation>
 <translation id="7581199239021537589">‏הזזה של תמונה בצד 2 על ציר Y</translation>
-<translation id="4790068920551988473">‏יצירה מהירה של אירוע חדש ביומן Asil</translation>
+<translation id="4790068920551988473">‏יצירה מהירה של אירוע חדש ביומן brave</translation>
 <translation id="7583969447617676942">שירותים משפטיים</translation>
 <translation id="7586676035079382730">אין הרשאת גישה להתראות</translation>
 <translation id="7591288787774558753">לשתף מידע סודי?</translation>
@@ -2521,19 +2521,19 @@ Del</translation>
 <translation id="7600965453749440009">איני רוצה לקבל תרגום מ<ph name="LANGUAGE"/> בכלל</translation>
 <translation id="7610193165460212391">הערך מחוץ לטווח <ph name="VALUE"/>.</translation>
 <translation id="7613889955535752492">תפוגה: <ph name="EXPIRATION_MONTH"/>/<ph name="EXPIRATION_YEAR"/></translation>
-<translation id="5704205738724476508">‏<ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי להציג ולנהל סיסמאות בהגדרות Asil</translation>
-<translation id="8565825862287624454">‏מנהל המערכת הפעיל את Asil Enterprise Connectors בדפדפן שלך. למחברים האלה יש גישה אל חלק מהנתונים שלך.</translation>
+<translation id="5704205738724476508">‏<ph name="MANAGE_PASSWORDS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי להציג ולנהל סיסמאות בהגדרות brave</translation>
+<translation id="8565825862287624454">‏מנהל המערכת הפעיל את brave Enterprise Connectors בדפדפן שלך. למחברים האלה יש גישה אל חלק מהנתונים שלך.</translation>
 <translation id="7617825962482469577">‏מעטפה – C7/C6</translation>
 <translation id="7619838219691048931">גיליון סיום</translation>
 <translation id="7625242817712715120">בהתאם למדיניות של מנהל המערכת, לא מומלץ להדפיס את התוכן הזה</translation>
 <translation id="762844065391966283">פריט מידע אחד בכל פעם</translation>
 <translation id="7631444403134069754">אתלטיקה</translation>
 <translation id="7633909222644580952">נתוני ביצועים ודוחות קריסה</translation>
-<translation id="6386821459680628976">‏האם להסיר מ-Asil את כרטיס האשראי?</translation>
+<translation id="6386821459680628976">‏האם להסיר מ-brave את כרטיס האשראי?</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{אין סיסמאות}=1{סיסמה אחת בחשבון (עבור <ph name="DOMAIN_LIST"/>)}one{# סיסמאות בחשבון (עבור <ph name="DOMAIN_LIST"/>)}two{# סיסמאות בחשבון (עבור <ph name="DOMAIN_LIST"/>)}other{# סיסמאות בחשבון (עבור <ph name="DOMAIN_LIST"/>)}}</translation>
 <translation id="7638605456503525968">יציאות טוריות</translation>
 <translation id="7639968568612851608">אפור כהה</translation>
-<translation id="8275603180424408640">‏הסיסמה שבה השתמשת עכשיו אותרה בפרצה באבטחת מידע. לפי מנהל הסיסמאות של Asil, מומלץ לשנות את הסיסמה שלך עכשיו.</translation>
+<translation id="8275603180424408640">‏הסיסמה שבה השתמשת עכשיו אותרה בפרצה באבטחת מידע. לפי מנהל הסיסמאות של brave, מומלץ לשנות את הסיסמה שלך עכשיו.</translation>
 <translation id="7647206758853451655">איכות הדפסה</translation>
 <translation id="7648992873808071793">לאחסן קבצים במכשיר הזה</translation>
 <translation id="7653957176542370971">גיליון פרטי התשלום סגור</translation>
@@ -2552,7 +2552,7 @@ Del</translation>
 <translation id="7673278391011283842">תיבת דואר 6</translation>
 <translation id="7675325315208090829">לניהול אמצעי התשלום…</translation>
 <translation id="7676643023259824263">חיפוש טקסט בלוח, <ph name="TEXT"/></translation>
-<translation id="4628681623692678085">‏הצגה וניהול של היסטוריית הגלישה בהגדרות Asil</translation>
+<translation id="4628681623692678085">‏הצגה וניהול של היסטוריית הגלישה בהגדרות brave</translation>
 <translation id="7679947978757153706">בייסבול</translation>
 <translation id="7681273392938116652">ליגת החלומות</translation>
 <translation id="7682287625158474539">משלוח</translation>
@@ -2574,13 +2574,13 @@ Del</translation>
 <translation id="7716375162095500223">עדיין לא הועלה או המערכת מתעלמת מהפריט</translation>
 <translation id="7716424297397655342">לא ניתן לטעון את האתר הזה מהמטמון</translation>
 <translation id="7723047071702270851">עריכת כרטיס</translation>
-<translation id="1296098648902562076">‏יצירה מהירה של טופס חדש ב-Asil Forms</translation>
+<translation id="1296098648902562076">‏יצירה מהירה של טופס חדש ב-brave Forms</translation>
 <translation id="773466115871691567">ברצוני לקבל תרגום תמיד דפים ב<ph name="SOURCE_LANGUAGE"/></translation>
 <translation id="7736959720849233795">העתקת הכתובת של הקישור</translation>
 <translation id="7740996059027112821">רגילה</translation>
 <translation id="77424286611022110">באתר הזה מוצגות מודעות מפריעות או מטעות. <ph name="LEARN_MORE_LINK_TEXT"/></translation>
 <translation id="774634243536837715">תוכן מסוכן נחסם.</translation>
-<translation id="921286857694606205">‏התאמה אישית של הגופנים וגודל הטקסט ב-Asil</translation>
+<translation id="921286857694606205">‏התאמה אישית של הגופנים וגודל הטקסט ב-brave</translation>
 <translation id="7752995774971033316">ללא ניהול</translation>
 <translation id="7755624218968747854">הגליל הראשי</translation>
 <translation id="7758069387465995638">ייתכן שחומת אש או תוכנת אנטי-וירוס חסמו את החיבור.</translation>
@@ -2604,7 +2604,7 @@ Del</translation>
 <translation id="7805571567667010077">מנוהלת על ידי הארגון שלך</translation>
 <translation id="7805768142964895445">סטטוס</translation>
 <translation id="7812922009395017822">Mir</translation>
-<translation id="4670564340385807132">‏האם להסיר מ-Asil הצעות בשביל טפסים?</translation>
+<translation id="4670564340385807132">‏האם להסיר מ-brave הצעות בשביל טפסים?</translation>
 <translation id="781440967107097262">לשתף את הלוח?</translation>
 <translation id="7815407501681723534">נמצאו <ph name="NUMBER_OF_RESULTS"/> <ph name="SEARCH_RESULTS"/> בנושא '<ph name="SEARCH_STRING"/>'</translation>
 <translation id="7822320754433038727">ציד וירי</translation>
@@ -2613,7 +2613,7 @@ Del</translation>
 <translation id="7855695075675558090"><ph name="TOTAL_LABEL"/> <ph name="CURRENCY_CODE"/> <ph name="FORMATTED_TOTAL_AMOUNT"/></translation>
 <translation id="7862185352068345852">לצאת מהאתר?</translation>
 <translation id="7865448901209910068">המהירות הטובה ביותר</translation>
-<translation id="7971990257511863579">‏שינוי הסיסמה לחשבון Asil</translation>
+<translation id="7971990257511863579">‏שינוי הסיסמה לחשבון brave</translation>
 <translation id="7877007680666472091">‏תוכן מוגן ב-Content ID</translation>
 <translation id="7878562273885520351">ייתכן שאבטחת הסיסמה שלך נפגעה</translation>
 <translation id="7880146494886811634">שמירת הכתובת</translation>
@@ -2628,7 +2628,7 @@ Del</translation>
 <translation id="793209273132572360">לעדכן את הכתובת?</translation>
 <translation id="7932579305932748336">ציפוי</translation>
 <translation id="79338296614623784">עליך להזין מספר טלפון חוקי</translation>
-<translation id="8329449853370113380">‏<ph name="URL"/> רוצה להפעיל תוכן מוגן. זהות המכשיר שלך תאומת על-ידי Asil.</translation>
+<translation id="8329449853370113380">‏<ph name="URL"/> רוצה להפעיל תוכן מוגן. זהות המכשיר שלך תאומת על-ידי brave.</translation>
 <translation id="7935318582918952113">DOM Distiller</translation>
 <translation id="7937554595067888181">בתוקף עד <ph name="EXPIRATION_DATE_ABBR"/></translation>
 <translation id="7938958445268990899">אישור השרת עדיין לא בתוקף.</translation>
@@ -2640,8 +2640,8 @@ Del</translation>
 <translation id="7943893128817522649">האתר יכול לבקש הרשאה להוריד מספר קבצים באופן אוטומטי</translation>
 <translation id="7946724693008564269">זוהתה השפה</translation>
 <translation id="7947285636476623132">יש לבדוק את שנת התפוגה ולנסות שוב</translation>
-<translation id="3227327027957060968">‏<ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לקבל מידע על התכונות של Asil</translation>
-<translation id="1535074845255182168">‏ניתן לנהל את ההעדפות לגבי קובצי Cookie בהגדרות Asil</translation>
+<translation id="3227327027957060968">‏<ph name="SEE_CHROME_TIPS_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי לקבל מידע על התכונות של brave</translation>
+<translation id="1535074845255182168">‏ניתן לנהל את ההעדפות לגבי קובצי Cookie בהגדרות brave</translation>
 <translation id="7951415247503192394">(32 סיביות)</translation>
 <translation id="7952192831285741665">‏12x14 אינץ' (EDP – אירופה)</translation>
 <translation id="7952804540472583406"><ph name="BEGIN_LINK"/>נכנסים<ph name="END_LINK"/> לרשת.</translation>
@@ -2657,7 +2657,7 @@ Del</translation>
 <translation id="7981129096182302364">מוזיקת דאנס ומוזיקה אלקטרונית</translation>
 <translation id="798134797138789862">האתר יכול לבקש הרשאה להשתמש בנתונים ובמכשירים של מציאות מדומה</translation>
 <translation id="7983008347525536475">רכבי פנאי</translation>
-<translation id="8896585555528145662">‏לא ניתן לבקר כעת באתר <ph name="SITE"/> מכיוון שהאתר שלח אישורים משובשים ש-Asil אינו יכול לעבד. שגיאות רשת ותקיפות מתרחשות בדרך כלל לזמן מוגבל, כך שסביר להניח שדף זה יפעל מאוחר יותר.</translation>
+<translation id="8896585555528145662">‏לא ניתן לבקר כעת באתר <ph name="SITE"/> מכיוון שהאתר שלח אישורים משובשים ש-brave אינו יכול לעבד. שגיאות רשת ותקיפות מתרחשות בדרך כלל לזמן מוגבל, כך שסביר להניח שדף זה יפעל מאוחר יותר.</translation>
 <translation id="7986319120639858961"><ph name="CARD_TITLE"/> <ph name="TIME"/> <ph name="BOOKMARKED"/> <ph name="TITLE"/> <ph name="DOMAIN"/></translation>
 <translation id="799149739215780103">כריכה</translation>
 <translation id="7992044431894087211">שיתוף המסך באמצעות <ph name="APPLICATION_TITLE"/> ממשיך</translation>
@@ -2670,11 +2670,11 @@ Del</translation>
 <translation id="8009843239480947060">‏10x11 אינץ'</translation>
 <translation id="8012116502927253373">{NUM_CARDS,plural, =1{הכרטיס הזה יישמר יחד עם הכתובת שלו לחיוב. יתאפשר לך להשתמש בו לאחר התחברות אל <ph name="USER_EMAIL"/>.}one{הכרטיסים האלה יישמרו יחד עם הכתובות שלהם לחיוב. יתאפשר לך להשתמש בהם לאחר התחברות אל <ph name="USER_EMAIL"/>.}two{הכרטיסים האלה יישמרו יחד עם הכתובות שלהם לחיוב. יתאפשר לך להשתמש בהם לאחר התחברות אל <ph name="USER_EMAIL"/>.}other{הכרטיסים האלה יישמרו יחד עם הכתובות שלהם לחיוב. יתאפשר לך להשתמש בהם לאחר התחברות אל <ph name="USER_EMAIL"/>.}}</translation>
 <translation id="8019861005170389898"><ph name="TRADITIONAL_TEXT"/> (<ph name="ADDITIONAL_TEXT"/>)</translation>
-<translation id="1625114571336329891">‏<ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, לוחצים על Tab ואז על Enter כדי להגדיר את Asil כדפדפן ברירת המחדל של המערכת</translation>
+<translation id="1625114571336329891">‏<ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, לוחצים על Tab ואז על Enter כדי להגדיר את brave כדפדפן ברירת המחדל של המערכת</translation>
 <translation id="8025119109950072390">תוקפים באתר הזה עשויים לגרום לך, בדרכי מרמה, לבצע פעולות מסוכנות כמו התקנת תוכנה או חשיפה של מידע אישי (לדוגמה: סיסמאות, מספרי טלפון או פרטי כרטיסי אשראי).</translation>
 <translation id="8026334261755873520">ניקוי נתוני גלישה</translation>
 <translation id="8027077570865220386">מגש 15</translation>
-<translation id="814401020562419411">‏<ph name="CREATE_GOOGLE_FORM_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור במהירות טופס חדש ב-Asil Forms</translation>
+<translation id="814401020562419411">‏<ph name="CREATE_GOOGLE_FORM_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור במהירות טופס חדש ב-brave Forms</translation>
 <translation id="8028960012888758725">חיתוך אחרי העבודה</translation>
 <translation id="8034522405403831421">דף זה מוצג ב<ph name="SOURCE_LANGUAGE"/>. האם לתרגם אותו ל<ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="8035152190676905274">עט</translation>
@@ -2690,9 +2690,9 @@ Del</translation>
 <translation id="8057711352706143257">יש בעיה בהגדרה של "<ph name="SOFTWARE_NAME"/>". בדרך כלל, הסרת ההתקנה של "<ph name="SOFTWARE_NAME"/>" פותרת את הבעיה. <ph name="FURTHER_EXPLANATION"/></translation>
 <translation id="8058009102480785916">ייצור מזון</translation>
 <translation id="8066225060526005217">‏בניהול הגדרות קובצי ה-cookie</translation>
-<translation id="5442778523450464826">‏הזנת כרגע את הסיסמה שלך באתר מטעה. אפשר לפתור את הבעיה בעזרת Asil. כדי לשנות את הסיסמה ולהודיע ל-Asil שייתכן כי החשבון בסיכון, יש ללחוץ על 'הגנה על החשבון'.</translation>
+<translation id="5442778523450464826">‏הזנת כרגע את הסיסמה שלך באתר מטעה. אפשר לפתור את הבעיה בעזרת brave. כדי לשנות את הסיסמה ולהודיע ל-brave שייתכן כי החשבון בסיכון, יש ללחוץ על 'הגנה על החשבון'.</translation>
 <translation id="8070439594494267500">סמל האפליקציה</translation>
-<translation id="7738019368151747786">‏יצירה מהירה של גיליון אלקטרוני חדש ב-Asil Sheets</translation>
+<translation id="7738019368151747786">‏יצירה מהירה של גיליון אלקטרוני חדש ב-brave Sheets</translation>
 <translation id="8075898834294118863">ניהול ההגדרות לאתרים</translation>
 <translation id="8076492880354921740">כרטיסיות</translation>
 <translation id="8077669823243888800">מעטפה – סינית 8</translation>
@@ -2720,7 +2720,7 @@ Del</translation>
 <translation id="8116925261070264013">מושתקים</translation>
 <translation id="8118489163946903409">אמצעי תשלום</translation>
 <translation id="8123046743443732598">מחשבים שולחניים</translation>
-<translation id="1930033552459819898">‏לחצן להתאמה אישית של Asil, מקישים על Enter כדי להתאים אישית את המראה של הדפדפן</translation>
+<translation id="1930033552459819898">‏לחצן להתאמה אישית של brave, מקישים על Enter כדי להתאים אישית את המראה של הדפדפן</translation>
 <translation id="8126056688005753476">טיולי הרפתקאות</translation>
 <translation id="8127301229239896662">‏הייתה בעיה בהתקנה של "<ph name="SOFTWARE_NAME"/>" במחשב שלך או ברשת. יש לבקש ממנהל ה-IT לפתור את הבעיה.</translation>
 <translation id="8131740175452115882">אישור</translation>
@@ -2731,7 +2731,7 @@ Del</translation>
 <translation id="8157295877370077682">יציאה מהאתר</translation>
 <translation id="8163866351304776260">4 ניקובים בצד שמאל</translation>
 <translation id="8175330382720204696">‏8x10 אינץ' (Government Letter)</translation>
-<translation id="4351627595884993315">‏Asil מציע לשמור את הכרטיסים שלך בחשבון Asil כי התחברת לחשבון. אפשר לשנות את ההתנהגות הזאת בהגדרות.</translation>
+<translation id="4351627595884993315">‏brave מציע לשמור את הכרטיסים שלך בחשבון brave כי התחברת לחשבון. אפשר לשנות את ההתנהגות הזאת בהגדרות.</translation>
 <translation id="8176440868214972690">מנהל המערכת של המכשיר הזה שלח מספר פרטים, כמו הגדרות ומדיניות, לאתרים הבאים.</translation>
 <translation id="8184538546369750125">שימוש בברירת המחדל הכללית (אפשר)</translation>
 <translation id="8186706823560132848">תוכנה</translation>
@@ -2776,11 +2776,11 @@ Del</translation>
 <translation id="8270242299912238708">‏מסמכי PDF</translation>
 <translation id="8275952078857499577">אין להציג את ההצעה לתרגם את האתר הזה</translation>
 <translation id="8277900682056760511">טופס פרטי התשלום פתוח</translation>
-<translation id="2164614088382669062">‏ההתראות של Asil צריכות לפעול. אפשר להפעיל אותן ב<ph name="BEGIN_LINK"/><ph name="NOTIFICATION_SETTINGS"/><ph name="END_LINK"/>.</translation>
+<translation id="2164614088382669062">‏ההתראות של brave צריכות לפעול. אפשר להפעיל אותן ב<ph name="BEGIN_LINK"/><ph name="NOTIFICATION_SETTINGS"/><ph name="END_LINK"/>.</translation>
 <translation id="8280630997017109758">מגש 11</translation>
 <translation id="8281886186245836920">דילוג</translation>
 <translation id="8282947398454257691">ידיעת המזהה הייחודי של המכשיר</translation>
-<translation id="4596532552309852907">‏ניתן לנהל את הגלישה הבטוחה ועוד בהגדרות Asil</translation>
+<translation id="4596532552309852907">‏ניתן לנהל את הגלישה הבטוחה ועוד בהגדרות brave</translation>
 <translation id="8286036467436129157">כניסה</translation>
 <translation id="8288807391153049143">הצגת אישור</translation>
 <translation id="8289355894181816810">כדי לברר מה זה אומר, מומלץ לפנות למנהל הרשת.</translation>
@@ -2819,7 +2819,7 @@ Del</translation>
 <translation id="8390725133630534698">השיתוף מ-<ph name="ORIGIN_NAME"/> אל <ph name="VM_NAME"/> חסום בהתאם למדיניות של מנהל המערכת</translation>
 <translation id="8396522675989118466">זהו הקוד בן <ph name="NUMBER_OF_DIGITS"/> הספרות שמופיע ב<ph name="SIDE_OF_CARD"/></translation>
 <translation id="8398790343843005537">אתר את הטלפון שלך</translation>
-<translation id="15931837016421186">‏ניתן לקבוע איזה מידע יסונכרן בהגדרות Asil</translation>
+<translation id="15931837016421186">‏ניתן לקבוע איזה מידע יסונכרן בהגדרות brave</translation>
 <translation id="8406071103346257942">להפסיק להשתמש בנעילת המסך למילוי סיסמאות</translation>
 <translation id="8409413588194360210">‏רכיבי handler של תשלומים</translation>
 <translation id="8412145213513410671">קריסות (<ph name="CRASH_COUNT"/>)</translation>
@@ -2831,7 +2831,7 @@ Del</translation>
 <translation id="8427848540066057481">‏500x750 מ"מ</translation>
 <translation id="8428213095426709021">הגדרות</translation>
 <translation id="8428634594422941299">הבנתי</translation>
-<translation id="5808418475906247813">‏<ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לנהל את ההעדפות לגבי קובצי Cookie בהגדרות Asil</translation>
+<translation id="5808418475906247813">‏<ph name="MANAGE_COOKIES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לנהל את ההעדפות לגבי קובצי Cookie בהגדרות brave</translation>
 <translation id="8433057134996913067">פעולה זו תוציא אותך מהחשבון ברוב האתרים.</translation>
 <translation id="8434840396568290395">חיות מחמד</translation>
 <translation id="8437238597147034694">&amp;ביטול העברה</translation>
@@ -2852,12 +2852,12 @@ Del</translation>
 <translation id="8473863474539038330">כתובות ועוד</translation>
 <translation id="8474910779563686872">הצגת פרטי המפתח</translation>
 <translation id="8479754468255770962">סיכת הידוק בפינה השמאלית התחתונה</translation>
-<translation id="5142582872611298328">‏כדי להשתמש בכרטיסים מחשבון Asil, יש להיכנס אל Asil</translation>
+<translation id="5142582872611298328">‏כדי להשתמש בכרטיסים מחשבון brave, יש להיכנס אל brave</translation>
 <translation id="8488350697529856933">חלה על</translation>
 <translation id="8490137692873530638">מערים 10</translation>
 <translation id="8493948351860045254">פינוי נפח אחסון</translation>
 <translation id="8498891568109133222">ל-<ph name="HOST_NAME"/> נדרש זמן רב מדי להגיב.</translation>
-<translation id="230699814587342492">‏סיסמאות Asil</translation>
+<translation id="230699814587342492">‏סיסמאות brave</translation>
 <translation id="8503813439785031346">שם משתמש</translation>
 <translation id="8507227106804027148">שורת פקודה</translation>
 <translation id="8508648098325802031">סמל החיפוש</translation>
@@ -2865,8 +2865,8 @@ Del</translation>
 <translation id="851353418319061866">בדיקת דיוק</translation>
 <translation id="8513580896341796021">ההורדה התחילה. כדי להציג אותה, צריך להקיש על |<ph name="ACCELERATOR"/>|.</translation>
 <translation id="8519753333133776369">‏מכשיר HID שאושר על ידי האדמין</translation>
-<translation id="1426902392270366682">‏בעזרת Asil אפשר להגן על חשבון Asil ולשנות את הסיסמה.</translation>
-<translation id="1215802963054007211">‏בהגדרות Asil, ניתן לנקות את היסטוריית הגלישה, את קובצי ה-cookie, את המטמון ועוד</translation>
+<translation id="1426902392270366682">‏בעזרת brave אפשר להגן על חשבון brave ולשנות את הסיסמה.</translation>
+<translation id="1215802963054007211">‏בהגדרות brave, ניתן לנקות את היסטוריית הגלישה, את קובצי ה-cookie, את המטמון ועוד</translation>
 <translation id="853332391023689529">טנדרים</translation>
 <translation id="8533619373899488139">‏בכתובת &lt;strong&gt;chrome://policy&lt;/strong&gt; מוצגת רשימה של כתובות אתרים שנחסמו ותקנונים אחרים שנאכפים על ידי מנהל המערכת.</translation>
 <translation id="8539500321752640291">לאשר את 2 ההרשאות?</translation>
@@ -2914,7 +2914,7 @@ Del</translation>
 <translation id="868922510921656628">דפים בכל קבוצה</translation>
 <translation id="869891660844655955">תאריך תפוגה</translation>
 <translation id="8699041776323235191">‏התקן HID</translation>
-<translation id="4959770473590669345">‏לחצן להפעלת המשחק Asil Dino, מקישים על Enter כדי לשחק במשחק Dino Run ב-Asil</translation>
+<translation id="4959770473590669345">‏לחצן להפעלת המשחק brave Dino, מקישים על Enter כדי לשחק במשחק Dino Run ב-brave</translation>
 <translation id="8699985386408839112">‏מעטפה – Kaku 1</translation>
 <translation id="8703575177326907206">ההתחברות שלך אל <ph name="DOMAIN"/> אינה מוצפנת.</translation>
 <translation id="8705331520020532516">מספר סידורי</translation>
@@ -2932,11 +2932,11 @@ Del</translation>
 <translation id="8726549941689275341">גודל דף:</translation>
 <translation id="8730621377337864115">בוצע</translation>
 <translation id="8731268612289859741">קוד האבטחה</translation>
-<translation id="1769647018144434441">‏הלחצן 'ניהול סיסמאות', יש להקיש על Enter כדי להציג ולנהל את הסיסמאות בהגדרות Asil</translation>
+<translation id="1769647018144434441">‏הלחצן 'ניהול סיסמאות', יש להקיש על Enter כדי להציג ולנהל את הסיסמאות בהגדרות brave</translation>
 <translation id="8734529307927223492">ה-<ph name="DEVICE_TYPE"/> מנוהל על-ידי <ph name="MANAGER"/></translation>
 <translation id="8736059027199600831">‏30x40 אינץ'</translation>
 <translation id="8737685506611670901">פתיחת קישורי <ph name="PROTOCOL"/> במקום <ph name="REPLACED_HANDLER_TITLE"/></translation>
-<translation id="6326805297893828864">‏כדי ליצור חיבור מאובטח, השעון צריך להיות מוגדר כהלכה. הסיבה לכך היא שהאישורים שבהם אתרים משתמשים כדי לזהות את עצמם תקפים רק למשך פרקי זמן מסוימים. מאחר שהשעון במכשיר שלך שגוי, Asil לא יכול לאמת את האישורים האלו.</translation>
+<translation id="6326805297893828864">‏כדי ליצור חיבור מאובטח, השעון צריך להיות מוגדר כהלכה. הסיבה לכך היא שהאישורים שבהם אתרים משתמשים כדי לזהות את עצמם תקפים רק למשך פרקי זמן מסוימים. מאחר שהשעון במכשיר שלך שגוי, brave לא יכול לאמת את האישורים האלו.</translation>
 <translation id="8740359287975076522">‏לא ניתן היה למצוא את &lt;abbr id="dnsDefinition"&gt;כתובת ה-DNS&lt;/abbr&gt; של <ph name="HOST_NAME"/>. מאבחן את הבעיה.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE"/> הוא הקוד שלך בשביל <ph name="ORIGIN"/></translation>
 <translation id="874918643257405732">הוספת הכרטיסייה לסימניות</translation>
@@ -2946,7 +2946,7 @@ Del</translation>
 <translation id="8758885506338294482">משחקי וידאו תחרותיים</translation>
 <translation id="8759274551635299824">פג תוקפו של הכרטיס</translation>
 <translation id="87601671197631245">באתר הזה נעשה שימוש בתצורת הגנה מיושנת, כך שמידע נשלח אליו עשוי להיחשף (למשל סיסמאות, הודעות או כרטיסי אשראי).</translation>
-<translation id="8761567432415473239">‏גלישה בטוחה של Asil <ph name="BEGIN_LINK"/>איתרה לאחרונה תוכניות מזיקות<ph name="END_LINK"/> באתר <ph name="SITE"/>.</translation>
+<translation id="8761567432415473239">‏גלישה בטוחה של brave <ph name="BEGIN_LINK"/>איתרה לאחרונה תוכניות מזיקות<ph name="END_LINK"/> באתר <ph name="SITE"/>.</translation>
 <translation id="8763927697961133303">‏התקן USB</translation>
 <translation id="8766943070169463815">גיליון האימות של פרטי הכניסה לתשלום המאובטח פתוח</translation>
 <translation id="8767765348545497220">סגירה של בועת העזרה</translation>
@@ -2954,9 +2954,9 @@ Del</translation>
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">אופנועים</translation>
 <translation id="8790007591277257123">&amp;ביצוע מחדש של מחיקה</translation>
-<translation id="5304100303568917877">‏הגישה שלך לחשבון <ph name="ORG_NAME"/> עשויה להישלל והזהות שלך עשויה להיגנב. ההמלצה של Asil היא לשנות את הסיסמה עכשיו.</translation>
+<translation id="5304100303568917877">‏הגישה שלך לחשבון <ph name="ORG_NAME"/> עשויה להישלל והזהות שלך עשויה להיגנב. ההמלצה של brave היא לשנות את הסיסמה עכשיו.</translation>
 <translation id="8792626944327216835">מיקרופון</translation>
-<translation id="9156291179464624174">‏הדומיין <ph name="ENROLLMENT_DOMAIN"/> הפעיל את Asil Enterprise Connectors בדפדפן שלך. למחברים האלה יש גישה אל חלק מהנתונים שלך.</translation>
+<translation id="9156291179464624174">‏הדומיין <ph name="ENROLLMENT_DOMAIN"/> הפעיל את brave Enterprise Connectors בדפדפן שלך. למחברים האלה יש גישה אל חלק מהנתונים שלך.</translation>
 <translation id="8798099450830957504">ברירת מחדל</translation>
 <translation id="8798739476508189189">רוצה למצוא את התכונות הניסיוניות של הדפדפן? אפשר להיכנס אל</translation>
 <translation id="8805819170075074995">‏ערך רשימה "<ph name="LANGUAGE_ID"/>": המערכת התעלמה מהערך מאחר שהוא כלול גם במדיניות SpellcheckLanguage.</translation>
@@ -2964,7 +2964,7 @@ Del</translation>
 <translation id="8807160976559152894">חיתוך אחרי כל עמוד</translation>
 <translation id="8813277370772331957">אני רוצה לקבל תזכורת אחר כך</translation>
 <translation id="8814707942599948500">‏מעטפה – C8</translation>
-<translation id="7674607358106534914">‏<ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לעדכן את דפדפן Asil בהגדרות Asil</translation>
+<translation id="7674607358106534914">‏<ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter כדי לעדכן את דפדפן brave בהגדרות brave</translation>
 <translation id="882338992931677877">חריץ ידני</translation>
 <translation id="8830320733681313421">Hagaki Postcard</translation>
 <translation id="883848425547221593">סימניות אחרות</translation>
@@ -2975,8 +2975,8 @@ Del</translation>
 <translation id="8852567725116633427">מכוניות מיני וסופר-מיני</translation>
 <translation id="885306012106043620">טניס</translation>
 <translation id="8855742650226305367">ריקוד</translation>
-<translation id="7487066225574140895">‏שיתוף עם Asil</translation>
-<translation id="4764754838347156633">‏אם הזנת את הסיסמה של <ph name="BEGIN_BOLD"/><ph name="ORG_NAME"/><ph name="END_BOLD"/> באתרים אחרים, ההמלצה של Asil היא לאפס אותה.</translation>
+<translation id="7487066225574140895">‏שיתוף עם brave</translation>
+<translation id="4764754838347156633">‏אם הזנת את הסיסמה של <ph name="BEGIN_BOLD"/><ph name="ORG_NAME"/><ph name="END_BOLD"/> באתרים אחרים, ההמלצה של brave היא לאפס אותה.</translation>
 <translation id="885906927438988819">‏אם האיות תקין, <ph name="BEGIN_LINK"/>יש לנסות להפעיל את אבחון הרשת של Windows<ph name="END_LINK"/>.</translation>
 <translation id="8866132857352163524">פסקולים</translation>
 <translation id="8866481888320382733">שגיאה בניתוח הגדרות המדיניות</translation>
@@ -2995,13 +2995,13 @@ Del</translation>
 <translation id="8897428486789851669">שחייה</translation>
 <translation id="8903921497873541725">התקרבות לתצוגה</translation>
 <translation id="890493561996401738">‏הלחצן 'הסרת הצעה', יש ללחוץ על Enter כדי להסיר, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT"/></translation>
-<translation id="2684652081942622950">‏חשבון Asil</translation>
-<translation id="4102271590580840789">‏הלחצן 'ניהול אמצעי תשלום', יש להקיש על Enter כדי לנהל את התשלומים ואת פרטי כרטיס האשראי שלך בהגדרות Asil</translation>
+<translation id="2684652081942622950">‏חשבון brave</translation>
+<translation id="4102271590580840789">‏הלחצן 'ניהול אמצעי תשלום', יש להקיש על Enter כדי לנהל את התשלומים ואת פרטי כרטיס האשראי שלך בהגדרות brave</translation>
 <translation id="8922013791253848639">תמיד לאפשר מודעות באתר הזה</translation>
 <translation id="892588693504540538">ניקוב בפינה הימנית העליונה</translation>
 <translation id="8930098617363288380">הערך של <ph name="SECURE_DNS_SALT"/> לא רלוונטי ולא ייעשה בו שימוש, אלא אם המדיניות <ph name="SECURE_DNS_TEMPLATES_WITH_IDENTIFIERS"/> מוגדרת.</translation>
 <translation id="8930330541574156305">נדל"ן</translation>
-<translation id="7757992844965332255">‏האם ברצונך לשמור את הכרטיס הזה בחשבון Asil שלך?</translation>
+<translation id="7757992844965332255">‏האם ברצונך לשמור את הכרטיס הזה בחשבון brave שלך?</translation>
 <translation id="8932102934695377596">השעון שלך מאחר</translation>
 <translation id="893332455753468063">הוספת שם</translation>
 <translation id="8942355029279167844">‏מנהל המערכת שלך אפשר לאפליקציה <ph name="APP_NAME"/> לאסוף נתוני אבחון כדי לשפר את חוויית השימוש במוצר. מידע נוסף זמין בכתובת <ph name="BEGIN_LINK"/>https://www.parallels.com/pcep<ph name="END_LINK"/>.</translation>
@@ -3016,9 +3016,9 @@ Del</translation>
 <translation id="8971063699422889582">פג תוקפו של אישור השרת.</translation>
 <translation id="8975012916872825179">כולל מידע כמו מספרי טלפון, כתובות אימייל וכתובות למשלוח</translation>
 <translation id="8975263830901772334">שמות הקבצים שמודפסים על ידך</translation>
-<translation id="8978053250194585037">‏לאחרונה <ph name="BEGIN_LINK"/>זוהה פישינג<ph name="END_LINK"/> באתר <ph name="SITE"/> על-ידי הגלישה הבטוחה של Asil. אתרי פישינג מתחזים לאתרים אחרים כדי להונות אותך.</translation>
+<translation id="8978053250194585037">‏לאחרונה <ph name="BEGIN_LINK"/>זוהה פישינג<ph name="END_LINK"/> באתר <ph name="SITE"/> על-ידי הגלישה הבטוחה של brave. אתרי פישינג מתחזים לאתרים אחרים כדי להונות אותך.</translation>
 <translation id="8983369100812962543">מעכשיו ניתן לשנות את הגודל של האפליקציה</translation>
-<translation id="447219378802101672">‏<ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי להציג את היסטוריית הגלישה ב-Asil</translation>
+<translation id="447219378802101672">‏<ph name="VIEW_CHROME_HISTORY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי להציג את היסטוריית הגלישה ב-brave</translation>
 <translation id="8987927404178983737">חודש</translation>
 <translation id="8989148748219918422"><ph name="ORGANIZATION"/> [<ph name="COUNTRY"/>]</translation>
 <translation id="8992061558343343009">רוצה לאתר את גרסת המערכת? יש לעבור לכתובת</translation>
@@ -3046,7 +3046,7 @@ Del</translation>
 <translation id="9036306139374661733">לאפשר את הגישה למיקרופון?</translation>
 <translation id="9038649477754266430">שימוש בשירות חיזוי כדי לטעון דפים מהר יותר</translation>
 <translation id="9039213469156557790">כמו כן, דף זה כולל משאבים נוספים שאינם מאובטחים. גורמים אחרים עלולים לראות את המשאבים האלה במהלך העברתם, ותוקף עלול לשנות אותם באופן שישנה את התנהגות הדף.</translation>
-<translation id="6093455506390049122">‏הלחצן 'איפה המכשיר שלי', מקישים על Enter כדי להיכנס ל'איפה המכשיר שלי' דרך חשבון Asil</translation>
+<translation id="6093455506390049122">‏הלחצן 'איפה המכשיר שלי', מקישים על Enter כדי להיכנס ל'איפה המכשיר שלי' דרך חשבון brave</translation>
 <translation id="9042617223719777575">קיבולת גדולה</translation>
 <translation id="9044359186343685026">‏שימוש ב-Touch ID</translation>
 <translation id="9045525010788763347"><ph name="RESULT_MODIFIED_DATE"/> - <ph name="RESULT_PRODUCT_SOURCE"/></translation>
@@ -3066,19 +3066,19 @@ Del</translation>
 <translation id="908796725011587895">ספורט אוניברסיטאי</translation>
 <translation id="9089260154716455634">מדיניות לשעות ללא פעילות:</translation>
 <translation id="9095388113577226029">שפות נוספות...</translation>
-<translation id="7650489975492745604">‏<ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, לוחצים על Tab ואז על Enter כדי להגדיר את Asil כדפדפן ברירת המחדל של המערכת בהגדרות iOS</translation>
+<translation id="7650489975492745604">‏<ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, לוחצים על Tab ואז על Enter כדי להגדיר את brave כדפדפן ברירת המחדל של המערכת בהגדרות iOS</translation>
 <translation id="9096679202588811390">תוכניות וסדרות טלוויזיה</translation>
 <translation id="9101630580131696064">מגש 1</translation>
 <translation id="9102081333385212048">‏קבצים שמעתיקים או שמעבירים יישלחו אל Google Cloud או לצדדים שלישיים לצורך ניתוח. לדוגמה, יכול להיות שהקבצים יעברו סריקה כדי לאתר מידע אישי רגיש או תוכנות זדוניות.</translation>
 <translation id="9103537084693478942">תוכנות וידאו</translation>
-<translation id="6373940988468425649">‏האתר <ph name="SITE"/> משתמש בדרך כלל בהצפנה כדי להגן על המידע שלך. כאשר Asil ניסה הפעם להתחבר ל-<ph name="SITE"/>, האתר שלח חזרה אישורים חריגים ושגויים. ייתכן שתוקף מנסה להתחזות לאתר <ph name="SITE"/>, או שמסך כניסה ל-Wi-Fi הפריע לחיבור. המידע שלך עדיין מאובטח מכיוון ש-Asil הפסיק את החיבור לפני חילופי הנתונים.</translation>
+<translation id="6373940988468425649">‏האתר <ph name="SITE"/> משתמש בדרך כלל בהצפנה כדי להגן על המידע שלך. כאשר brave ניסה הפעם להתחבר ל-<ph name="SITE"/>, האתר שלח חזרה אישורים חריגים ושגויים. ייתכן שתוקף מנסה להתחזות לאתר <ph name="SITE"/>, או שמסך כניסה ל-Wi-Fi הפריע לחיבור. המידע שלך עדיין מאובטח מכיוון ש-brave הפסיק את החיבור לפני חילופי הנתונים.</translation>
 <translation id="9106062320799175032">הוספה של כתובת לחיוב</translation>
 <translation id="9107467864910557787">הדפדפן שלך מנוהל על ידי <ph name="MANAGER"/></translation>
 <translation id="91108059142052966">בהתאם למדיניות מנהל המערכת, שיתוף המסך באמצעות <ph name="APPLICATION_TITLE"/> מושבת כשמוצג תוכן סודי</translation>
 <translation id="9114524666733003316">אישור הכרטיס מתבצע...</translation>
-<translation id="3582535072753734287">‏הדפדפן הזה לא מנוהל על ידי חברה או ארגון אחר. ייתכן שהפעילות במכשיר הזה מנוהלת מחוץ ל-Asil. <ph name="BEGIN_LINK"/>מידע נוסף<ph name="END_LINK"/></translation>
+<translation id="3582535072753734287">‏הדפדפן הזה לא מנוהל על ידי חברה או ארגון אחר. ייתכן שהפעילות במכשיר הזה מנוהלת מחוץ ל-brave. <ph name="BEGIN_LINK"/>מידע נוסף<ph name="END_LINK"/></translation>
 <translation id="9117930699067497412">מרענן</translation>
-<translation id="2628864952962474930">‏<ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter להמשך התהליך ולהצגת פעילות רלוונטית בהיסטוריה ב-Asil</translation>
+<translation id="2628864952962474930">‏<ph name="HISTORY_CLUSTERS_SEARCH_FOCUSED_FRIENDLY_MATCH_TEXT"/>, יש להקיש על Tab ואז על Enter להמשך התהליך ולהצגת פעילות רלוונטית בהיסטוריה ב-brave</translation>
 <translation id="9119042192571987207">הועלה</translation>
 <translation id="9122954576417194280">מסחר בסחורות ובחוזים עתידיים</translation>
 <translation id="9128016270925453879">המדיניות נטענה</translation>
@@ -3094,7 +3094,7 @@ Del</translation>
 <translation id="9148088599418889305">בחירת שיטת משלוח</translation>
 <translation id="9148507642005240123">&amp;ביטול עריכה</translation>
 <translation id="9150045010208374699">להשתמש במצלמה</translation>
-<translation id="5874192512642998555">‏מנהל המערכת יכול לשנות את הגדרת הדפדפן שלך מרחוק. בנוסף, ניתן לנהל את הפעילות במכשיר הזה מחוץ ל-Asil. <ph name="BEGIN_LINK"/>מידע נוסף<ph name="END_LINK"/></translation>
+<translation id="5874192512642998555">‏מנהל המערכת יכול לשנות את הגדרת הדפדפן שלך מרחוק. בנוסף, ניתן לנהל את הפעילות במכשיר הזה מחוץ ל-brave. <ph name="BEGIN_LINK"/>מידע נוסף<ph name="END_LINK"/></translation>
 <translation id="9154194610265714752">עודכן</translation>
 <translation id="9155211586651734179">ציוד האודיו הההיקפי מחובר</translation>
 <translation id="9157595877708044936">ההגדרה מתבצעת...</translation>
@@ -3109,7 +3109,7 @@ Del</translation>
 <translation id="917450738466192189">אישור השרת לא חוקי.</translation>
 <translation id="9174623988242579721">מכוניות על ומכוניות מיוחדות</translation>
 <translation id="9174917557437862841">‏לחצן החלפת כרטיסיות, צריך להקיש על Enter כדי לעבור לכרטיסייה הזו</translation>
-<translation id="5129795253416930127">‏ניהול התשלומים ופרטי כרטיס האשראי בהגדרות Asil</translation>
+<translation id="5129795253416930127">‏ניהול התשלומים ופרטי כרטיס האשראי בהגדרות brave</translation>
 <translation id="9179907736442194268">קבלת התראות באימייל על הנחות באתר כלשהו</translation>
 <translation id="9183302530794969518">Google Docs</translation>
 <translation id="9183425211371246419"><ph name="HOST_NAME"/> משתמש בפרוטוקול שאינו נתמך.</translation>
@@ -3121,17 +3121,17 @@ Del</translation>
 <translation id="920511547311754821">הקוד לא נמצא? <ph name="IDS_AUTOFILL_CARD_UNMASK_OTP_INPUT_DIALOG_NEW_CODE_MESSAGE"/></translation>
 <translation id="9207861905230894330">הוספת הפריט נכשלה.</translation>
 <translation id="9213433120051936369">התאמה אישית של המראה</translation>
-<translation id="2206050430829841793">‏יישום כלשהו לא מאפשר ל-Asil להתחבר באופן מאובטח לאתר זה</translation>
+<translation id="2206050430829841793">‏יישום כלשהו לא מאפשר ל-brave להתחבר באופן מאובטח לאתר זה</translation>
 <translation id="9219103736887031265">תמונות</translation>
-<translation id="142389341645668510">‏התאמה אישית של Asil</translation>
+<translation id="142389341645668510">‏התאמה אישית של brave</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">ניקוי הטופס</translation>
-<translation id="7486559383537872796">‏ייתכן שמישהו אחר ישלול את הגישה שלך לחשבון Asil. לגלישה בטוחה ב-Asil, מומלץ לשנות את הסיסמה עכשיו.</translation>
+<translation id="7486559383537872796">‏ייתכן שמישהו אחר ישלול את הגישה שלך לחשבון brave. לגלישה בטוחה ב-brave, מומלץ לשנות את הסיסמה עכשיו.</translation>
 <translation id="937457230470581909">גני חיות, אקווריומים ושמורות טבע</translation>
 <translation id="939736085109172342">תיקייה חדשה</translation>
 <translation id="940053046584497293">נסיעות ותחבורה</translation>
 <translation id="945855313015696284">יש לבדוק את המידע שבהמשך ולמחוק כרטיסים עם שגיאות</translation>
-<translation id="1283739678317676574">‏<ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור במהירות אתר חדש ב-Asil Sites</translation>
+<translation id="1283739678317676574">‏<ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, מקישים על Tab ואז על Enter כדי ליצור במהירות אתר חדש ב-brave Sites</translation>
 <translation id="950736567201356821">3 ניקובים בחלק העליון</translation>
 <translation id="961663415146723894">כריכה בקצה התחתון</translation>
 <translation id="962484866189421427">ייתכן שבתוכן הזה יש קוד להתקנת אפליקציות מטעות שמתחזות למשהו אחר או שאוספות נתונים המאפשרים לעקוב אחריך. <ph name="BEGIN_LINK"/>אני רוצה לראות בכל זאת<ph name="END_LINK"/></translation>
@@ -3173,9 +3173,9 @@ Del</translation>
 <translation id="8794378783472961468">עם זאת, אינך בלתי נראה. המעבר למצב גלישה בסתר לא מסתיר את הגלישה שלך מהמעסיק, מספק האינטרנט או מהאתרים שאליהם אתה נכנס.</translation>
 <translation id="5673623523506565506">כעת באפשרותך לגלוש בפרטיות, ופרופילים אחרים שמשתמשים במכשיר זה לא יראו את פעילותך. עם זאת, הורדות וסימניות יישמרו.</translation>
 <translation id="3812568169637430422">כעת באפשרותך לגלוש בפרטיות, ופרופילים אחרים שמשתמשים במכשיר זה לא יראו את פעילותך. עם זאת, הורדות וסימניות יישמרו.</translation>
-<translation id="6085043210649933880">מצב פרטי ב-Asil</translation>
+<translation id="6085043210649933880">מצב פרטי ב-brave</translation>
 <translation id="3683567996395248272">מה מצב פרטי עושה</translation>
-<translation id="8817208096236092047">כאשר אתה סוגר את כל הכרטיסיות הפרטיות (Asil), הפעילות שלך בכרטיסיות האלה נמחקת מהמכשיר הזה:
+<translation id="8817208096236092047">כאשר אתה סוגר את כל הכרטיסיות הפרטיות (brave), הפעילות שלך בכרטיסיות האלה נמחקת מהמכשיר הזה:
           <ph name="BEGIN_LIST"/>
             <ph name="LIST_ITEM"/>פעילות גלישה <ph name="END_LIST_ITEM"/>
             <ph name="LIST_ITEM"/>חפש היסטוריה<ph name="END_LIST_ITEM"/>
@@ -3188,7 +3188,7 @@ Del</translation>
           מעסיקים או בתי ספר יכולים לעקוב אחר פעילות הגלישה <ph name="END_LIST_ITEM"/>
           ספקי שירותי אינטרנט יכולים לפקח על תעבורת האינטרנט<ph name="END_LIST_ITEM"/>
         <ph name="END_LIST"/></translation>
-<translation id="6043883615739972429"><ph name="BEGIN_LINK"/>למידע נוסף על פרטי ב-Asil<ph name="END_LINK"/></translation>
+<translation id="6043883615739972429"><ph name="BEGIN_LINK"/>למידע נוסף על פרטי ב-brave<ph name="END_LINK"/></translation>
 <translation id="9153679102508470540">חסום קובצי Cookie של צד שלישי בפרטי</translation>
 <translation id="5549245478906381817">פתח חלון פרטי</translation>
 <translation id="5497977785983089120">פתח/י חלון פרטי חדש כדי לגלוש בפרטיות</translation>
@@ -3206,9 +3206,9 @@ Del</translation>
 <translation id="1090109565956608696">לא מורשה בפרטי</translation>
 <translation id="6934396344327597525">בחרת לצאת ממצב גלישה בסתר כדי לשלם באמצעות יישום חיצוני. להמשיך?</translation>
 <translation id="7948746210201997548">{NUM_DAYS, plural,
-     =0 {כאשר בקרה זו מופעלת, Asil קובע לאיזו קבוצה גדולה של פרופילים, או "קוהורטה," פעילות העיון האחרונה שלך הכי דומה. מפרסמים יכולים לבחור מודעות עבור הקבוצה ופעילות העיון שלך נשמרת פרטית במכשיר שלך. הקבוצה שלך מעודכנת מדי יום.}
-     =1 {כאשר בקרה זו מופעלת, Asil קובע לאיזו קבוצה גדולה של פרופילים, או "קוהורטה," פעילות העיון האחרונה שלך הכי דומה. מפרסמים יכולים לבחור מודעות עבור הקבוצה ופעילות העיון שלך נשמרת פרטית במכשיר שלך. הקבוצה שלך מעודכנת מדי יום.}
-     other {כאשר בקרה זו מופעלת, Asil קובע לאיזו קבוצה גדולה של פרופילים, או "קוהורטה," פעילות העיון האחרונה שלך הכי דומה. מפרסמים יכולים לבחור מודעות עבור הקבוצה ופעילות העיון שלך נשמרת פרטית במכשיר שלך. הקבוצה שלך מעודכנת מדי {NUM_DAYS} ימים.}}</translation>
+     =0 {כאשר בקרה זו מופעלת, brave קובע לאיזו קבוצה גדולה של פרופילים, או "קוהורטה," פעילות העיון האחרונה שלך הכי דומה. מפרסמים יכולים לבחור מודעות עבור הקבוצה ופעילות העיון שלך נשמרת פרטית במכשיר שלך. הקבוצה שלך מעודכנת מדי יום.}
+     =1 {כאשר בקרה זו מופעלת, brave קובע לאיזו קבוצה גדולה של פרופילים, או "קוהורטה," פעילות העיון האחרונה שלך הכי דומה. מפרסמים יכולים לבחור מודעות עבור הקבוצה ופעילות העיון שלך נשמרת פרטית במכשיר שלך. הקבוצה שלך מעודכנת מדי יום.}
+     other {כאשר בקרה זו מופעלת, brave קובע לאיזו קבוצה גדולה של פרופילים, או "קוהורטה," פעילות העיון האחרונה שלך הכי דומה. מפרסמים יכולים לבחור מודעות עבור הקבוצה ופעילות העיון שלך נשמרת פרטית במכשיר שלך. הקבוצה שלך מעודכנת מדי {NUM_DAYS} ימים.}}</translation>
 <translation id="2446780203663220049">פרופילים וחברה</translation>
 <translation id="1426112902089905810">‏&lt;h4&gt;שלב ראשון: כניסה לפורטל&lt;/h4&gt;
     &lt;p&gt;כדי להשתמש ברשתות Wi-Fi במקומות כמו בתי קפה ושדות תעופה, צריך להיכנס לפורטל ייעודי. כדי לראות את דף הכניסה צריך להיכנס לדף שהכתובת שלו מתחילה ב-&lt;code&gt;http://&lt;/code&gt;.&lt;/p&gt;
@@ -3218,11 +3218,11 @@ Del</translation>
     &lt;/ol&gt;
     &lt;h4&gt;שלב שני: פתיחת הדף במצב גלישה בסתר (מחשבים בלבד)&lt;/h4&gt;
     &lt;p&gt;פותחים את הדף שאליו רוצים להיכנס בחלון גלישה בסתר.&lt;/p&gt;
-    &lt;p&gt;אם הדף נפתח, יש בעיה בתוסף של Asil. כדי לפתור את השגיאה צריך להשבית את התוסף.&lt;/p&gt;
+    &lt;p&gt;אם הדף נפתח, יש בעיה בתוסף של brave. כדי לפתור את השגיאה צריך להשבית את התוסף.&lt;/p&gt;
     &lt;h4&gt;שלב שלישי: עדכון מערכת ההפעלה&lt;/h4&gt;
     &lt;p&gt;מוודאים שמערכת ההפעלה במכשיר מעודכנת.&lt;/p&gt;
     &lt;h4&gt;שלב רביעי: השבתה זמנית של האנטי-וירוס&lt;/h4&gt;
-    &lt;p&gt;השגיאה זו תוצג אם במחשב מותקנת תוכנת אנטי-וירוס שמספקת "הגנת HTTPS" או "סריקת HTTPS". תוכנת האנטי-וירוס מונעת מ-Asil לספק אבטחה.&lt;/p&gt;
+    &lt;p&gt;השגיאה זו תוצג אם במחשב מותקנת תוכנת אנטי-וירוס שמספקת "הגנת HTTPS" או "סריקת HTTPS". תוכנת האנטי-וירוס מונעת מ-brave לספק אבטחה.&lt;/p&gt;
     &lt;p&gt;כדי לפתור את הבעיה, יש לכבות את תוכנת האנטי-וירוס. אם הדף פועל לאחר כיבוי התוכנה, יש לכבות אותה בזמן השימוש באתרים מאובטחים.&lt;/p&gt;
     &lt;p&gt;חשוב להפעיל שוב את האנטי-וירוס בסיום.&lt;/p&gt;
     &lt;h4&gt;שלב חמישי: סיוע נוסף&lt;/h4&gt;

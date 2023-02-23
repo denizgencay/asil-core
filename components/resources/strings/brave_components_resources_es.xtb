@@ -32,10 +32,10 @@
 <translation id="985862351129593673">Personalizar el Dashboard</translation>
 <translation id="7180865173735832675">Personalizar</translation>
 <translation id="8522669544471808198">Mostrar imágenes de fondo</translation>
-<translation id="5801450813341024983">Fondos de Asil</translation>
+<translation id="5801450813341024983">Fondos de brave</translation>
 <translation id="1416884769823233410">Usa el tuyo</translation>
 <translation id="6246790815526961700">Subir uno del dispositivo</translation>
-<translation id="7275773481201277457">Mostrar Estadísticas de Asil</translation>
+<translation id="7275773481201277457">Mostrar Estadísticas de brave</translation>
 <translation id="6836061097810262923">Mostrar Reloj</translation>
 <translation id="5912396950572065471">Formato</translation>
 <translation id="604124094241169006">Automático</translation>
@@ -59,40 +59,40 @@
 <translation id="4546260624932151782">Mostrar favoritos</translation>
 <translation id="1230746063445072175">¿Quieres mejorar aún más la privacidad?</translation>
 <translation id="6699628638740071563">Ha llegado el momento de despedirse de Google.</translation>
-<translation id="2045455461902775806">Búsqueda de Asil no sesga ni censura los resultados. Tampoco rastrea tu actividad, tus consultas ni los enlaces en los que haces clic.</translation>
-<translation id="6811221529729056895">Prueba Búsqueda de Asil</translation>
+<translation id="2045455461902775806">Búsqueda de brave no sesga ni censura los resultados. Tampoco rastrea tu actividad, tus consultas ni los enlaces en los que haces clic.</translation>
+<translation id="6811221529729056895">Prueba Búsqueda de brave</translation>
 <translation id="5525668735313040116">Buscar en la web de forma privada</translation>
-<translation id="3446024864193919737">Mostrar Asil Rewards</translation>
+<translation id="3446024864193919737">Mostrar brave Rewards</translation>
 <translation id="5585019845078534178">Tarjetas</translation>
 <translation id="3870475560794762985">Mostrar imágenes patrocinadas</translation>
 <translation id="8466529005131466476">Puedes ganar dinero por ver sitios patrocinados.</translation>
 <translation id="3955742714798578476">Estás ganando dinero por ver imágenes patrocinadas.</translation>
-<translation id="7822618650711767369">Asil se nutre del apoyo de imágenes patrocinadas. ¡Gracias a las Recompensas de Asil, puedes ganar parte de los beneficios obtenidos con las imágenes patrocinadas y apoyar también a creadores de contenido!</translation>
+<translation id="7822618650711767369">brave se nutre del apoyo de imágenes patrocinadas. ¡Gracias a las Recompensas de brave, puedes ganar parte de los beneficios obtenidos con las imágenes patrocinadas y apoyar también a creadores de contenido!</translation>
 <translation id="5579480493856401823">Si desactivas los sitios patrocinados, obtendrás menos tokens y los creadores de contenido recibirán menos apoyo cada mes.</translation>
 <translation id="2875302873837723333">sitios populares</translation>
-<translation id="8173998484743827990">Estadísticas de Asil</translation>
+<translation id="8173998484743827990">Estadísticas de brave</translation>
 <translation id="383680190590774040">reloj</translation>
-<translation id="3333887201479867589">Asil Rewards</translation>
+<translation id="3333887201479867589">brave Rewards</translation>
 <translation id="3159285901314605198">Imagen de fondo</translation>
 <translation id="385051799172605136">Atrás</translation>
 <translation id="4225429340218993596">Colores sólidos</translation>
 <translation id="7610541582755894669">Gradientes</translation>
 <translation id="1606851618930975029">Actualizar en cada pestaña nueva</translation>
-<translation id="9024104284526126630">Puedes iniciar una llamada privada en Asil.</translation>
-<translation id="4903286433687221248">Llama sin límite alguno a amigos y compañeros con Asil Talk.</translation>
+<translation id="9024104284526126630">Puedes iniciar una llamada privada en brave.</translation>
+<translation id="4903286433687221248">Llama sin límite alguno a amigos y compañeros con brave Talk.</translation>
 <translation id="7115051913071512405">Pruébalo</translation>
 <translation id="370665806235115550">Loading...</translation>
 <translation id="4634933166298842522">Gestionar las suscripciones</translation>
 <translation id="4108314971463891922">Seguir</translation>
 <translation id="3861486700625780712">Dejar de seguir</translation>
 <translation id="8909741410750517071">Sigue esta fuente con 1 clic.</translation>
-<translation id="1982678174789043774">Estate al tanto de toda la actualidad con Noticias de Asil.</translation>
+<translation id="1982678174789043774">Estate al tanto de toda la actualidad con Noticias de brave.</translation>
 <translation id="7894417427965898400">Gestionar canales</translation>
 <translation id="9164544612367905452">Buscando…</translation>
 <translation id="1276592121036104130">Cargar nuevo contenido</translation>
-<translation id="2875288128871360696">Desplázate hasta Asil News</translation>
-<translation id="8510120023634509743">Restablecer fuentes de Asil News</translation>
-<translation id="75825199302994272">¿Restablecer todas las acciones de publicidad de Asil News a los valores predeterminados?</translation>
+<translation id="2875288128871360696">Desplázate hasta brave News</translation>
+<translation id="8510120023634509743">Restablecer fuentes de brave News</translation>
+<translation id="75825199302994272">¿Restablecer todas las acciones de publicidad de brave News a los valores predeterminados?</translation>
 <translation id="954001034349395856">Todas las fuentes</translation>
 <translation id="8890516388109605451">Fuentes</translation>
 <translation id="5158129253322921540">Deshabilitar contenido de <ph name="PUBLISHER_NAME"/></translation>
@@ -102,12 +102,12 @@
 <translation id="7791543448312431591">Añadir</translation>
 <translation id="7679334366167089823">Gana tokens por ver anuncios que respetan la privacidad.</translation>
 <translation id="7191394989411626168">Al desactivar las tarjetas, se ocultarán todas las tarjetas disponibles actualmente. Sin embargo, podrá seguir recibiendo notificaciones de nuevas tarjetas.</translation>
-<translation id="6820526586005233839">Asil Ads en pausa</translation>
-<translation id="5190407395832551012">Con el fin de evitar el uso abusivo de Asil Rewards, vamos a pedirles de forma aleatoria a algunos usuarios que resuelvan un captcha. Haz clic en “Resolver” para reanudar los anuncios.</translation>
+<translation id="6820526586005233839">brave Ads en pausa</translation>
+<translation id="5190407395832551012">Con el fin de evitar el uso abusivo de brave Rewards, vamos a pedirles de forma aleatoria a algunos usuarios que resuelvan un captcha. Haz clic en “Resolver” para reanudar los anuncios.</translation>
 <translation id="1693773514029371138">Resolver</translation>
 <translation id="6991128190741664836">Más tarde</translation>
-<translation id="8112367589167674370">Asil Talk</translation>
-<translation id="8488282162676695335">Cartera Asil</translation>
+<translation id="8112367589167674370">brave Talk</translation>
+<translation id="8488282162676695335">Cartera brave</translation>
 <translation id="8820817407110198400">Marcadores</translation>
 <translation id="1644574205037202324">Historial</translation>
 <translation id="2702801445560668637">Lista de Lectura</translation>
@@ -116,23 +116,23 @@
 <translation id="8730621377337864115">Listo</translation>
 <translation id="730042046912793465">Esto es una</translation>
 <translation id="2055363275850890030">Ventana Privada</translation>
-<translation id="9133213713928851646">Asil no recordará tu actividad en una ventana privada. Los sitios web que hayas visitado no aparecerán en tu historial y las cookies desaparecerán cuando hayas terminado. Sin embargo, las ventanas privadas no te vuelven completamente anónimo online.</translation>
-<translation id="4085423007106063912">Asil nunca guarda lo que haces cuando navegas en modo privado. Los sitios que visites no aparecerán en tu historial. Las cookies, los datos de formularios y los datos de los sitios desaparecerán al cerrar la ventana.</translation>
+<translation id="9133213713928851646">brave no recordará tu actividad en una ventana privada. Los sitios web que hayas visitado no aparecerán en tu historial y las cookies desaparecerán cuando hayas terminado. Sin embargo, las ventanas privadas no te vuelven completamente anónimo online.</translation>
+<translation id="4085423007106063912">brave nunca guarda lo que haces cuando navegas en modo privado. Los sitios que visites no aparecerán en tu historial. Las cookies, los datos de formularios y los datos de los sitios desaparecerán al cerrar la ventana.</translation>
 <translation id="1700746046668116047">Ten en cuenta que tanto tu proveedor de servicios de Internet como los observadores pasivos de la red y los responsables de tu empresa (si utilizas una red o un equipo del trabajo) pueden ver tus actividades. Si quieres más privacidad, abre una ventana privada con Tor.</translation>
 <translation id="8759753423332885148">Más información</translation>
 <translation id="8611976753572844841">Ventana privada con conectividad Tor</translation>
-<translation id="1645589858096839236">Asil no almacena la actividad de navegación de las ventanas privadas. Además, gracias a la conectividad Tor, los sitios web tienen más difícil descubrir tu verdadera dirección IP y los observadores de redes encuentran más dificultades a la hora de detectar qué sitios web visitas. En cualquier caso, si tu seguridad personal depende de permanecer en el anonimato, utiliza el navegador Tor en su lugar.</translation>
+<translation id="1645589858096839236">brave no almacena la actividad de navegación de las ventanas privadas. Además, gracias a la conectividad Tor, los sitios web tienen más difícil descubrir tu verdadera dirección IP y los observadores de redes encuentran más dificultades a la hora de detectar qué sitios web visitas. En cualquier caso, si tu seguridad personal depende de permanecer en el anonimato, utiliza el navegador Tor en su lugar.</translation>
 <translation id="7919374705736538787">Busca de forma privada con</translation>
 <translation id="3135655280958284640">DuckDuckGo</translation>
-<translation id="218839872518145456">Con la búsqueda privada, Asil usará DuckDuckGo para búsquedas en una Ventana Privada. DuckDuckGo no rastrea tu historial de búsqueda, por lo que puedes buscar de forma privada.</translation>
+<translation id="218839872518145456">Con la búsqueda privada, brave usará DuckDuckGo para búsquedas en una Ventana Privada. DuckDuckGo no rastrea tu historial de búsqueda, por lo que puedes buscar de forma privada.</translation>
 <translation id="1925197199485958903">En Ventanas Privadas con Tor, DuckDuckGo es el motor de búsqueda por defecto. Algunos de los otros motores de búsqueda populares son más difíciles de usar con Tor. DuckDuckGo no rastrea tu historial de búsqueda, con Tor ni siquiera pueden saber tu dirección IP.</translation>
 <translation id="4371533307685765155">Buscar con DuckDuckGo</translation>
 <translation id="548478195417408221">Haz las Ventanas Privadas aún más privadas</translation>
 <translation id="3294503279952534143">Esta ventana privada es más privada</translation>
 <translation id="6126226144537295436">con conectividad Tor</translation>
 <translation id="8541421872680304667">Tor oculta su dirección IP de los sitios que visita, dirigiendo su navegación a través de varios servidores Tor antes de que llegue a su destino. Tor puede ralentizar la navegación y algunos sitios pueden no funcionar en absoluto.</translation>
-<translation id="8897548669448660973">El uso de ventanas privadas solo cambia lo que hace Asil en tu dispositivo. No cambia, por tanto, el comportamiento de ninguna persona. Tor oculta tu dirección IP a los sitios web que visitas y hace complicado, pero no imposible, que tu ISP o tu jefe sepa qué páginas has visitado. Abre una Ventana privada con Tor desde el menú o mediante  [[ key ]].</translation>
-<translation id="6975708438781948564">Saber más sobre Tor en Asil</translation>
+<translation id="8897548669448660973">El uso de ventanas privadas solo cambia lo que hace brave en tu dispositivo. No cambia, por tanto, el comportamiento de ninguna persona. Tor oculta tu dirección IP a los sitios web que visitas y hace complicado, pero no imposible, que tu ISP o tu jefe sepa qué páginas has visitado. Abre una Ventana privada con Tor desde el menú o mediante  [[ key ]].</translation>
+<translation id="6975708438781948564">Saber más sobre Tor en brave</translation>
 <translation id="4712050378540986986">Estado de Tor</translation>
 <translation id="1939334281379458295">Tor se ha conectado correctamente</translation>
 <translation id="8030169304546394654">Desconectado</translation>
@@ -141,7 +141,7 @@
 <translation id="2795840524629682765">Fallo en la conexión Tor</translation>
 <translation id="1149108864689950951">Tor se está conectando… [[percentage]] %</translation>
 <translation id="3651192084771403430">¿Tienes problemas de conexión? Prueba a <ph name="BEGIN_LINK"/>desactivar<ph name="END_LINK"/> la ventana privada con Tor y, luego, vuelve a activarla en los ajustes.</translation>
-<translation id="8834376622642889380">Abre <ph name="BEGIN_LINK"/>Configuración de Asil<ph name="END_LINK"/>, desactiva "Ventana privada con Tor", y luego vuelve a activarla.</translation>
+<translation id="8834376622642889380">Abre <ph name="BEGIN_LINK"/>Configuración de brave<ph name="END_LINK"/>, desactiva "Ventana privada con Tor", y luego vuelve a activarla.</translation>
 <translation id="1576202729986800142"><ph name="BEGIN_BOLD"/>¿Sigues teniendo problemas?<ph name="END_BOLD"/> Prueba a usar <ph name="BEGIN_BRIDGES_LINK"/>puentes<ph name="END_BRIDGES_LINK"/> o <ph name="BEGIN_SUPPORT_LINK"/>contacta con asistencia técnica<ph name="END_SUPPORT_LINK"/>.</translation>
 <translation id="8388043004918289671">Contacta con el servicio de asistencia.</translation>
 <translation id="4272382368346338917">Filtros Adicionales</translation>
@@ -161,22 +161,22 @@
 <translation id="5334844597069022743">Ver fuente</translation>
 <translation id="4720556299488643018">Cancelar suscripción</translation>
 <translation id="1209739344687072997">Notificar un error...</translation>
-<translation id="8510478288840333677">Haz saber a los desarrolladores de Asil de que este sitio no funciona correctamente con los Escudos Asil:</translation>
-<translation id="4105411033440701818">Nota: Si haces clic en "Enviar", compartirás la dirección de la web, el número de la versión de Asil que utilizas y tu dirección IP con los desarrolladores de Asil. (La dirección IP no quedará almacenada).</translation>
+<translation id="8510478288840333677">Haz saber a los desarrolladores de brave de que este sitio no funciona correctamente con los Escudos brave:</translation>
+<translation id="4105411033440701818">Nota: Si haces clic en "Enviar", compartirás la dirección de la web, el número de la versión de brave que utilizas y tu dirección IP con los desarrolladores de brave. (La dirección IP no quedará almacenada).</translation>
 <translation id="6476216365964140603">Detalles adicionales (opcional)</translation>
 <translation id="6145852496180774737">Contacto: (opcional)</translation>
 <translation id="7616645803364270729">Correo electrónico, Twitter, etc.</translation>
 <translation id="5299848999918506028">¡Gracias!</translation>
-<translation id="76550953340008122">Gracias por informar a los desarrolladores de Asil sobre posibles errores en este sitio. ¡Haremos todo lo posible para arreglarlo!</translation>
-<translation id="4851215387785619212">Anuncios privados de Asil</translation>
-<translation id="6480303618073442141">Los anuncios privados de Asil tienen un diseño discreto y privado. Los anuncios ofrecidos están basados en tus intereses,  pero ningún dato personal o historial de navegación sale nunca de tu dispositivo. Lo mejor de todo es que los anuncios privados de Asil te permiten ganar BAT (<ph name="BEGIN_LINK"/>Basic Attention Token<ph name="END_LINK"/> [Token de Atención Básica] ) solo por verlos.</translation>
+<translation id="76550953340008122">Gracias por informar a los desarrolladores de brave sobre posibles errores en este sitio. ¡Haremos todo lo posible para arreglarlo!</translation>
+<translation id="4851215387785619212">Anuncios privados de brave</translation>
+<translation id="6480303618073442141">Los anuncios privados de brave tienen un diseño discreto y privado. Los anuncios ofrecidos están basados en tus intereses,  pero ningún dato personal o historial de navegación sale nunca de tu dispositivo. Lo mejor de todo es que los anuncios privados de brave te permiten ganar BAT (<ph name="BEGIN_LINK"/>Basic Attention Token<ph name="END_LINK"/> [Token de Atención Básica] ) solo por verlos.</translation>
 <translation id="6112368337882254910">Contribución Automática</translation>
-<translation id="3742599705619405136">Una forma automática de apoyar a los editores y creadores de contenido. Establece un pago mensual y navega con normalidad. Las páginas verificadas por Asil que hayas visitado recibirán sus contribuciones de forma automática en base a tu atención medida por Asil.</translation>
+<translation id="3742599705619405136">Una forma automática de apoyar a los editores y creadores de contenido. Establece un pago mensual y navega con normalidad. Las páginas verificadas por brave que hayas visitado recibirán sus contribuciones de forma automática en base a tu atención medida por brave.</translation>
 <translation id="3325399124634342726">Ganancias actuales este mes (estimación)</translation>
 <translation id="8593551638387217772">Fecha del próximo pago</translation>
 <translation id="4428871418618312983">Anuncios recibidos este mes</translation>
 <translation id="4229016885653790965">¡Lo sentimos! Los Anuncios aún no están disponibles en tu región.</translation>
-<translation id="2539279826042558064">En este momento, Asil Rewards y Asil Ads no están disponibles en tu dispositivo.</translation>
+<translation id="2539279826042558064">En este momento, brave Rewards y brave Ads no están disponibles en tu dispositivo.</translation>
 <translation id="5736977383725358876">Frecuencia de los anuncios de notificación</translation>
 <translation id="7701040980221191251">Ninguno</translation>
 <translation id="767929144984201135">Hasta 1 anuncio por hora</translation>
@@ -186,7 +186,7 @@
 <translation id="8827015466803589071">Hasta 5 anuncios por hora</translation>
 <translation id="2293009346092992234">Hasta 10 anuncios por hora</translation>
 <translation id="2356652719351432565">Relevancia del anuncio a escala regional</translation>
-<translation id="3216275550298493597">Esto permite que Asil te muestre anuncios adaptados específicamente a tu región.</translation>
+<translation id="3216275550298493597">Esto permite que brave te muestre anuncios adaptados específicamente a tu región.</translation>
 <translation id="8446884382197647889">Más información</translation>
 <translation id="3783399046165388366">Detectado automáticamente como<ph name="SUBDIVISION"/></translation>
 <translation id="8010081455002666927">Detectar automáticamente</translation>
@@ -223,53 +223,53 @@
 <translation id="2807328214759298515">Hasta</translation>
 <translation id="9031738692126722094">Activar las contribuciones económicas a nivel de contenido en estas páginas</translation>
 <translation id="7583327070390027131">Fecha de las próximas propinas mensuales</translation>
-<translation id="6231182869178328516">Acabo de hacer una contribución económica a <ph name="NAME"/> mediante el navegador Asil. Puedes verlo en https://asil.com/tips.</translation>
-<translation id="5916536234616514390">¡Me encanta que <ph name="HASHTAG"/>Asil me permita apoyar a los creadores! Acabo de darle una propina a <ph name="NAME"/> de <ph name="HASHTAG2"/> BAT. Si se verifica en https://creators.asil.com antes del <ph name="DATE"/>, ¡esos BAT serán suyos!</translation>
+<translation id="6231182869178328516">Acabo de hacer una contribución económica a <ph name="NAME"/> mediante el navegador brave. Puedes verlo en https://brave.com/tips.</translation>
+<translation id="5916536234616514390">¡Me encanta que <ph name="HASHTAG"/>brave me permita apoyar a los creadores! Acabo de darle una propina a <ph name="NAME"/> de <ph name="HASHTAG2"/> BAT. Si se verifica en https://creators.brave.com antes del <ph name="DATE"/>, ¡esos BAT serán suyos!</translation>
 <translation id="8404935570206006581">DaPropinasConBrave</translation>
 <translation id="3082557070674409251">Pulsado</translation>
 <translation id="7119308337584989771">Rechazado</translation>
 <translation id="6805660603861526473">Visto</translation>
-<translation id="8826352442759228526">Tu perfil de Recompensas de Asil no se puede verificar porque has alcanzado el límite máximo de dispositivos verificados.</translation>
+<translation id="8826352442759228526">Tu perfil de Recompensas de brave no se puede verificar porque has alcanzado el límite máximo de dispositivos verificados.</translation>
 <translation id="1221593978088944142">Error: Se ha alcanzado el límite de dispositivos</translation>
 <translation id="3113653894794167793">Lo sentimos, ha habido un problema al procesar su solicitud, inténtelo de nuevo.</translation>
-<translation id="3509185560119586847">Lamentablemente, tu perfil de Recompensas de Asil está marcado, así que no puedes verificarte con un custodio en esta ocasión. A veces, este tipo de marca se debe a alguna actividad irregular por parte de Anuncios de Asil, aunque también puede tratarse de un falso positivo.</translation>
-<translation id="5031451251720571882">Ten en cuenta que no podrás verificarte mientras tu perfil de Recompensas de Asil esté marcado.</translation>
-<translation id="7301759045821910866">No es necesaria ninguna acción por tu parte. Tu perfil de Recompensas de Asil se reevaluará automáticamente cada cierto tiempo para determinar cuándo (o si) se puede eliminar la marca. Vuelve a intentarlo con frecuencia para ver si la marca ha desaparecido.</translation>
-<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Obtén más información sobre el proceso que sigue Asil para marcar los perfiles de Recompensas.<ph name="END_LINK"/></translation>
-<translation id="5028274575541726856">Error: el perfil de Recompensas de Asil está marcado</translation>
+<translation id="3509185560119586847">Lamentablemente, tu perfil de Recompensas de brave está marcado, así que no puedes verificarte con un custodio en esta ocasión. A veces, este tipo de marca se debe a alguna actividad irregular por parte de Anuncios de brave, aunque también puede tratarse de un falso positivo.</translation>
+<translation id="5031451251720571882">Ten en cuenta que no podrás verificarte mientras tu perfil de Recompensas de brave esté marcado.</translation>
+<translation id="7301759045821910866">No es necesaria ninguna acción por tu parte. Tu perfil de Recompensas de brave se reevaluará automáticamente cada cierto tiempo para determinar cuándo (o si) se puede eliminar la marca. Vuelve a intentarlo con frecuencia para ver si la marca ha desaparecido.</translation>
+<translation id="280350148043792509"><ph name="BEGIN_LINK"/>Obtén más información sobre el proceso que sigue brave para marcar los perfiles de Recompensas.<ph name="END_LINK"/></translation>
+<translation id="5028274575541726856">Error: el perfil de Recompensas de brave está marcado</translation>
 <translation id="2607420597216860026">Vuelve a intentarlo cuando hayas terminado de verificar tu ID en <ph name="PROVIDER"/>.</translation>
 <translation id="3183954159462541696">Error: Necesitas una cuenta verificada para iniciar sesión</translation>
-<translation id="1859789048900659918">Vaya, parece que tu país de recompensas de Asil no coincide con el país de la cuenta de <ph name="PROVIDER"/> que intentas vincular.</translation>
+<translation id="1859789048900659918">Vaya, parece que tu país de recompensas de brave no coincide con el país de la cuenta de <ph name="PROVIDER"/> que intentas vincular.</translation>
 <translation id="8925428135452218262">Error: Los países no coinciden</translation>
-<translation id="5260522591743022748">Vaya, parece que tu perfil de Recompensas de Asil ya se ha verificado con otra cuenta de <ph name="PROVIDER"/>. Intenta verificarte de nuevo con tu cuenta anterior.</translation>
+<translation id="5260522591743022748">Vaya, parece que tu perfil de Recompensas de brave ya se ha verificado con otra cuenta de <ph name="PROVIDER"/>. Intenta verificarte de nuevo con tu cuenta anterior.</translation>
 <translation id="5111921830714291902">Error: cuenta diferente</translation>
-<translation id="5225019866741699134">Parece no se puede conectar <ph name="PROVIDER"/> con Recompensas de Asil en este momento. Inténtalo de nuevo más tarde.</translation>
+<translation id="5225019866741699134">Parece no se puede conectar <ph name="PROVIDER"/> con Recompensas de brave en este momento. Inténtalo de nuevo más tarde.</translation>
 <translation id="6105073131081187815">Puedes consultar el <ph name="BEGIN_LINK"/>estado del servicio aquí<ph name="END_LINK"/>.</translation>
 <translation id="2400786541309111904">Error: No se puede conectar con el administrador seleccionado en este momento</translation>
-<translation id="1024520300696337331">No es posible vincular tu cuenta de <ph name="PROVIDER"/> con tu perfil de Recompensas de Asil en estos momentos. Tu cuenta de <ph name="PROVIDER"/> está registrada en un país que no es compatible actualmente con las Recompensas de Asil.</translation>
-<translation id="619384413404021992">Consulta la <ph name="LINK_BEGIN"/>lista actual de regiones admitidas y obtén más información<ph name="END_LINK"/> sobre cómo vincular una cuenta con custodia con las Recompensas de Asil.</translation>
+<translation id="1024520300696337331">No es posible vincular tu cuenta de <ph name="PROVIDER"/> con tu perfil de Recompensas de brave en estos momentos. Tu cuenta de <ph name="PROVIDER"/> está registrada en un país que no es compatible actualmente con las Recompensas de brave.</translation>
+<translation id="619384413404021992">Consulta la <ph name="LINK_BEGIN"/>lista actual de regiones admitidas y obtén más información<ph name="END_LINK"/> sobre cómo vincular una cuenta con custodia con las Recompensas de brave.</translation>
 <translation id="7193389978208728181">Error: Región actualmente no admitida</translation>
 <translation id="5382684862562314222">Uphold aún no admite BAT en tu región.</translation>
 <translation id="9074594632540931067">Error: no hay BAT</translation>
 <translation id="5376524136040178759">Según Uphold, tu cuenta de Uphold presenta algunas limitaciones en este momento. Inicia sesión en Uphold y comprueba si tienes algún aviso o requisito de cuenta pendiente. Después, inténtalo de nuevo. Por ejemplo, es posible que Uphold necesite que le envíes más información.</translation>
 <translation id="6996157559236886133">Error: Cuenta de Uphold con funcionalidades limitadas</translation>
-<translation id="3274650021044762770">Se ha producido un problema al validar la solicitud del navegador para vincular Recompensas de Asil con tu cuenta de <ph name="PROVIDER"/>. Si necesitas ayuda, puedes <ph name="BEGIN_LINK"/>contactar con el servicio de asistencia<ph name="END_LINK"/>.</translation>
+<translation id="3274650021044762770">Se ha producido un problema al validar la solicitud del navegador para vincular Recompensas de brave con tu cuenta de <ph name="PROVIDER"/>. Si necesitas ayuda, puedes <ph name="BEGIN_LINK"/>contactar con el servicio de asistencia<ph name="END_LINK"/>.</translation>
 <translation id="1316066811927496401">Error: no se ha podido validar la solicitud</translation>
 <translation id="8167256685618982116">Al activar <ph name="TITLE"/>, aceptas las <ph name="BEGIN_LINK1"/>Condiciones de uso<ph name="END_LINK1"/> y la <ph name="BEGIN_LINK2"/>Política de privacidad<ph name="END_LINK2"/>.</translation>
 <translation id="4123948149985772126">Elige un proveedor de cuentas</translation>
 <translation id="2916515880661220182">Si ya tienes una cuenta de administrador, se te pedirá que la conectes. Si no la tienes, se te permitirá crear una.</translation>
 <translation id="2054853229650377447">Nota: Tus transacciones serán visibles para el administrador una vez que lo autorices. Este podrá ver, por ejemplo, el destinatario y el importe de tus propinas.</translation>
 <translation id="121894865378699201">¿Listo para empezar a ganar BAT?</translation>
-<translation id="4478996292566912629">Los proveedores de cuentas con custodia tienen la obligación de verificar la identidad, lo que puede incluir presentar un documento de identificación con fotografía. Consulte nuestra<ph name="BEGIN_LINK"/>Política de privacidad de recompensas de Asil<ph name="END_LINK"/>.</translation>
+<translation id="4478996292566912629">Los proveedores de cuentas con custodia tienen la obligación de verificar la identidad, lo que puede incluir presentar un documento de identificación con fotografía. Consulte nuestra<ph name="BEGIN_LINK"/>Política de privacidad de recompensas de brave<ph name="END_LINK"/>.</translation>
 <translation id="7730415569603152862">Conecte su cuenta con custodia a su perfil de Recompensas para poder:</translation>
 <translation id="5785531043735482053">Almacenar, gestionar y retirar sus ganancias de BAT</translation>
 <translation id="5155452078869279096">Recargar tu cuenta con los BAT que hayas comprado</translation>
 <translation id="5497001757280825146">Enviar propina a sus lugares favoritos &amp; creadores</translation>
 <translation id="1233129511866436960">Más información acerca de las regiones y la compatibilidad entre ellas</translation>
 <translation id="7329170127335794328">No está disponible en estos momentos en tu región</translation>
-<translation id="8304979233901023264">He leído y acepto las’s <ph name="TOS_LINK_BEGIN"/>Condiciones de uso<ph name="TOS_LINK_END"/> y la <ph name="PP_LINK_BEGIN"/>Política de privacidad<ph name="PP_LINK_END"/> de Asil.</translation>
+<translation id="8304979233901023264">He leído y acepto las’s <ph name="TOS_LINK_BEGIN"/>Condiciones de uso<ph name="TOS_LINK_END"/> y la <ph name="PP_LINK_BEGIN"/>Política de privacidad<ph name="PP_LINK_END"/> de brave.</translation>
 <translation id="1892970806832316900">Pendiente hasta el <ph name="DATE"/></translation>
-<translation id="7849926087559412554">¡Vaya! Tu navegador no puede recibir los anuncios privados de Asil.</translation>
+<translation id="7849926087559412554">¡Vaya! Tu navegador no puede recibir los anuncios privados de brave.</translation>
 <translation id="5177429570315095022">Para seguir viendo los anuncios, tienes que actualizar tu navegador.</translation>
 <translation id="7352651011704765696">Algo ha ido mal</translation>
 <translation id="752216563428219524">No se han iniciado los anuncios. Actualiza la página.</translation>
@@ -293,7 +293,7 @@
 <translation id="7420180413541445142">Reservar</translation>
 <translation id="3390504443230842742">Transacción externa</translation>
 <translation id="7413895050241358090">Créditos</translation>
-<translation id="386483240851194811">Se ha desactivado Asil Rewards</translation>
+<translation id="386483240851194811">Se ha desactivado brave Rewards</translation>
 <translation id="3354337256330577726">Se desactivó la contribución automática</translation>
 <translation id="6727186931929643711">Se ha dejado de reintentar</translation>
 <translation id="8978461348341400550">Administrador:</translation>
@@ -376,7 +376,7 @@
 <translation id="9088057605518918276">Se ha establecido una propina mensual.</translation>
 <translation id="6306631474379759382">Fecha de la próxima propina:</translation>
 <translation id="4647657427328119430">No hay suficientes tokens.</translation>
-<translation id="3586352807094428968">Asil recauda el 5 % de la propina en concepto de tasa de tramitación.</translation>
+<translation id="3586352807094428968">brave recauda el 5 % de la propina en concepto de tasa de tramitación.</translation>
 <translation id="207268487070188114">Propina única</translation>
 <translation id="69861679024013299">Importe de la propina única:</translation>
 <translation id="3288812755711687300">Publicación de <ph name="USER"/></translation>
@@ -392,8 +392,8 @@
 <translation id="839058704683989763">¡Has configurado una propina pendiente!</translation>
 <translation id="5096821444729034955">para su publicación</translation>
 <translation id="2978223787436054634">Tuitea sobre tu apoyo</translation>
-<translation id="5916290544882167205">Asil Software. Asil es una marca registrada de Asil Software. Los nombres de los sitios pueden ser marcas comerciales o marcas registradas del propietario del sitio.</translation>
-<translation id="9026369588205476247">Para proteger tu privacidad, este extracto de Asil Rewards no se guarda, graba ni registra en ningún otro lugar aparte de tu dispositivo (este equipo). No se puede recuperar desde Asil en caso de perder los datos en tu dispositivo.</translation>
+<translation id="5916290544882167205">brave Software. brave es una marca registrada de brave Software. Los nombres de los sitios pueden ser marcas comerciales o marcas registradas del propietario del sitio.</translation>
+<translation id="9026369588205476247">Para proteger tu privacidad, este extracto de brave Rewards no se guarda, graba ni registra en ningún otro lugar aparte de tu dispositivo (este equipo). No se puede recuperar desde brave en caso de perder los datos en tu dispositivo.</translation>
 <translation id="3587482841069643663">Todo</translation>
 <translation id="4241224519481557898">Categoría</translation>
 <translation id="3080423471207781945">Máximo de anuncios recibidos por hora:</translation>
@@ -403,7 +403,7 @@
 <translation id="2777306694585938662">Recompensas de anuncios recibidas</translation>
 <translation id="5212777575344695266">Marcar Como Inapropiado</translation>
 <translation id="2111256234277361810">Marcar Como Inapropiado ✓</translation>
-<translation id="8988332871810963281">Actualmente no hay ningún historial de Asil Ads</translation>
+<translation id="8988332871810963281">Actualmente no hay ningún historial de brave Ads</translation>
 <translation id="5345727496083327478">No volverás a recibir anuncios de esta categoría</translation>
 <translation id="2631006050119455616">Guardados</translation>
 <translation id="3819257035322786455">Copia de seguridad</translation>
@@ -416,18 +416,18 @@
 <translation id="4932733599132424254">Fecha</translation>
 <translation id="3552003743293281224">Depósitos</translation>
 <translation id="3866249974567520381">Descripción</translation>
-<translation id="8605272644314973683">Asil Rewards es</translation>
+<translation id="8605272644314973683">brave Rewards es</translation>
 <translation id="1346059596910821859">Propina</translation>
 <translation id="7277134233385925078">Fijar propina mensual</translation>
-<translation id="298067735430872465">Ganancias de Asil Ads</translation>
+<translation id="298067735430872465">Ganancias de brave Ads</translation>
 <translation id="1418534671788496616">Ver el historial de depósitos</translation>
 <translation id="3412655388715513818">Excluir este sitio web</translation>
 <translation id="418343137736963579">Número total de sitios web que has excluido de la Contribución Automática:</translation>
-<translation id="8802504113265057166">Los [[currency]] que no se utilicen antes de la fecha de vencimiento se devolverán automáticamente al Grupo decrecimiento de usuarios de Asil.</translation>
+<translation id="8802504113265057166">Los [[currency]] que no se utilicen antes de la fecha de vencimiento se devolverán automáticamente al Grupo decrecimiento de usuarios de brave.</translation>
 <translation id="279567716178902927">Fecha de Vencimiento de la Concesión</translation>
 <translation id="1389143276807887637">importar</translation>
 <translation id="3810973564298564668">Administrar</translation>
-<translation id="6302422639282249274">Gestionar Asil Rewards</translation>
+<translation id="6302422639282249274">Gestionar brave Rewards</translation>
 <translation id="211044356803193224">¡Propinas mensuales!</translation>
 <translation id="2487641031722095938">¡Es tu día de suerte!</translation>
 <translation id="6255773350565723852">El token de la concesión está de camino.</translation>
@@ -468,14 +468,14 @@
 <translation id="5939518447894949180">Restablecer</translation>
 <translation id="5669281110673664811">Borrar lista de exclusión</translation>
 <translation id="1797334173232638045">Tus páginas ancladas se han trasladado a</translation>
-<translation id="542042553430131913">Si no verificas Recompensas de Asil, tu saldo de BAT se almacenará en los archivos locales de tu dispositivo.</translation>
+<translation id="542042553430131913">Si no verificas Recompensas de brave, tu saldo de BAT se almacenará en los archivos locales de tu dispositivo.</translation>
 <translation id="2142973554991645476">Si quieres asegurar tus BAT por si necesitas reinstalar por completo el navegador o reformatear tu dispositivo, y tener otros beneficios como agregar o retirar tus BAT, te recomendamos que te <ph name="LINK_BEGIN"/>verifiques<ph name="LINK_END"/>.</translation>
 <translation id="5317144262906129592">Puedes apoyar a este creador de contenido enviándole una propina para agradecerle su gran labor.</translation>
 <translation id="3074127054582480056">Atención</translation>
-<translation id="3659457123782988823">¿Seguro que quieres restablecer Recompensas de Asil?</translation>
-<translation id="1666001796278936721">Al reiniciar, tu perfil de recompensa de Asil se eliminará y empezarás otra vez con un perfil de recompensa de Asil completamente nuevo. Por si acaso, antes de proceder, <ph name="LINK_BEGIN"/>obtén más información<ph name="LINK_END"/> acerca del reinicio.</translation>
+<translation id="3659457123782988823">¿Seguro que quieres restablecer Recompensas de brave?</translation>
+<translation id="1666001796278936721">Al reiniciar, tu perfil de recompensa de brave se eliminará y empezarás otra vez con un perfil de recompensa de brave completamente nuevo. Por si acaso, antes de proceder, <ph name="LINK_BEGIN"/>obtén más información<ph name="LINK_END"/> acerca del reinicio.</translation>
 <translation id="94095197509579227">Nota: actualmente dispones de <ph name="BAT_AMOUNT"/>ganancias estimadas este mes que se perderán si reinicias ahora.</translation>
-<translation id="4806029412510565611">Entiendo que mi perfil actual de Recompensas de Asil y los datos de Recompensas de Asil se eliminarán de mi dispositivo y he leído el <ph name="LINK_BEGIN"/>artículo de asistencia sobre el reinicio<ph name="LINK_END"/>.</translation>
+<translation id="4806029412510565611">Entiendo que mi perfil actual de Recompensas de brave y los datos de Recompensas de brave se eliminarán de mi dispositivo y he leído el <ph name="LINK_BEGIN"/>artículo de asistencia sobre el reinicio<ph name="LINK_END"/>.</translation>
 <translation id="4914597931214386232">Token Reclamados</translation>
 <translation id="3494964159182650590">Resumen de Rewards</translation>
 <translation id="2913994227901456490">Ver los [[numItems]] artículos</translation>
@@ -489,14 +489,14 @@
 <translation id="5015443703424816075">Token</translation>
 <translation id="1634828734222219955">Total</translation>
 <translation id="3535654229833214438">Transacciones</translation>
-<translation id="8772672608371898774">Publicador Verificado por Asil</translation>
+<translation id="8772672608371898774">Publicador Verificado por brave</translation>
 <translation id="5050370287908180130">Para más Detalles, visualiza el Estado Mensual</translation>
 <translation id="7853202427316060426">Actividad</translation>
 <translation id="7232682712743566408">Saldo de recompensas</translation>
 <translation id="1910721550319506122">¡Bienvenido!</translation>
-<translation id="4258022280942725182">Tus recompensas de Asil</translation>
+<translation id="4258022280942725182">Tus recompensas de brave</translation>
 <translation id="6727483290601442544">Ver detalles</translation>
-<translation id="4206899127409458763">Cómo crear tu perfil de Recompensas de Asil</translation>
+<translation id="4206899127409458763">Cómo crear tu perfil de Recompensas de brave</translation>
 <translation id="1988679729106502285">AVISO:</translation>
 <translation id="942863887222585572">Estás conectado a <ph name="USER_PROVIDER"/>, pero este creador está conectado a <ph name="CREATOR_PROVIDER"/>. Esto significa que tu propina no puede llegar a este creador. Por ahora, cualquier propina que envíes quedará pendiente y se reintentará de forma automática durante 90 días.</translation>
 <translation id="5530734056858418442">Este creador aún no está registrado. Cualquier propina que envíes se quedará pendiente, y se volverá a intentar el pago automáticamente durante 90 días.</translation>
@@ -513,11 +513,11 @@
 <translation id="5113531205597573951">Sitios Vistos</translation>
 <translation id="4450893287417543264">No volver a mostrar</translation>
 <translation id="6518133107902771759">Verificar</translation>
-<translation id="422369484771082705">La verificación es opcional. No obstante, si te verificas, podrás transferir los BAT que has ganado con Recompensas de Asil directamente a una cartera con custodia.</translation>
-<translation id="4354564238172327160">¡Hazte creador de Asil!</translation>
-<translation id="4639659520811817892">Visita creators.asil.com para registrarte hoy mismo y empezar a recibir BAT de tus fans y seguidores.</translation>
-<translation id="4816455138209470435">¡Asil es compatible con YouTube, Twitch, Vimeo y  muchas otras plataformas!</translation>
-<translation id="3656941797339037856">¡Vincula Asil Rewards con Gemini!</translation>
+<translation id="422369484771082705">La verificación es opcional. No obstante, si te verificas, podrás transferir los BAT que has ganado con Recompensas de brave directamente a una cartera con custodia.</translation>
+<translation id="4354564238172327160">¡Hazte creador de brave!</translation>
+<translation id="4639659520811817892">Visita creators.brave.com para registrarte hoy mismo y empezar a recibir BAT de tus fans y seguidores.</translation>
+<translation id="4816455138209470435">¡brave es compatible con YouTube, Twitch, Vimeo y  muchas otras plataformas!</translation>
+<translation id="3656941797339037856">¡Vincula brave Rewards con Gemini!</translation>
 <translation id="2888702144235098855">Intercambia más de 50 criptomonedas, como BAT, en Gemini. Se trata de una plataforma segura en la que puedes almacenar tus criptomonedas.</translation>
 <translation id="7404779623219601861">Canjear BAT para las tarjetas de regalo</translation>
 <translation id="6215565499749144110">Con TAP Network, puedes canjear tus BAT por tarjetas de regalo de marcas populares.</translation>
@@ -525,39 +525,39 @@
 <translation id="7703007724342399482">Obtén un 2 % en cryptoback con la tarjeta Uphold</translation>
 <translation id="1109729143147368573">Gaste sus criptomonedas y otros activos en casi 50 millones de comercios y cajeros automáticos de todo el mundo. Gaste criptomonedas para obtener criptomonedas.</translation>
 <translation id="3787061634640932557">Editar tarjetas</translation>
-<translation id="2070991379950719711">Empezar a utilizar Asil Rewards</translation>
+<translation id="2070991379950719711">Empezar a utilizar brave Rewards</translation>
 <translation id="5977237145327845546">Inicia una videollamada privada con tus amigos y compañeros.</translation>
 <translation id="8863928195533744356">Iniciar llamada</translation>
 <translation id="3651550649176056334">Acerca de tus datos</translation>
 <translation id="1544192797660353713">Wallet</translation>
-<translation id="616639131065447379">Te damos la bienvenida a Asil Crypto Wallets</translation>
-<translation id="1740464057879304704">Crypto Wallets le permite trabajar con las criptodivisas y los activos relacionados en Asil. Crypto Wallets admite fichas de Ethereum como ETH y BAT, así como piezas de colección, y le permite trabajar con Ðapps y otros contratos inteligentes. Todo esto es para personas que están familiarizadas con el Ethereum y otros sistemas de cadenas de bloques, o que tienen ganas de aprender.</translation>
-<translation id="4855440621031541830">Solo haga uso de Crypto Wallets si acepta que es el único responsable de todos los riesgos asociados a dicho uso, y que Asil Software no asume ninguna responsabilidad por cualquier pérdida, incluidas las pérdidas incidentales o indirectas que pueda sufrir como resultado del uso.</translation>
+<translation id="616639131065447379">Te damos la bienvenida a brave Crypto Wallets</translation>
+<translation id="1740464057879304704">Crypto Wallets le permite trabajar con las criptodivisas y los activos relacionados en brave. Crypto Wallets admite fichas de Ethereum como ETH y BAT, así como piezas de colección, y le permite trabajar con Ðapps y otros contratos inteligentes. Todo esto es para personas que están familiarizadas con el Ethereum y otros sistemas de cadenas de bloques, o que tienen ganas de aprender.</translation>
+<translation id="4855440621031541830">Solo haga uso de Crypto Wallets si acepta que es el único responsable de todos los riesgos asociados a dicho uso, y que brave Software no asume ninguna responsabilidad por cualquier pérdida, incluidas las pérdidas incidentales o indirectas que pueda sufrir como resultado del uso.</translation>
 <translation id="3187473319809074178">Todo está completamente separado de</translation>
 <translation id="8327818101454798856">Así que si quiere apoyar a sus sitios favoritos, mejor diríjase allí.</translation>
 <translation id="412480955826088549">Descargando componente...</translation>
 <translation id="4894106830958548828">Lo entiendo</translation>
 <translation id="7534079972563542000">Unstoppable Domains</translation>
-<translation id="4492298165410552103">¿Habilitar la compatibilidad con los Unstoppable Domains en Asil?</translation>
-<translation id="3647533686160055812">Asil comenzará a usar Infura para resolver los nombres de dominios .crypto (y también .x, .nft, .dao, .wallet, .blockchain, .bitcoin, .zil) que están en Unstoppable Domains. Infura oculta tu dirección IP. Si activas esto, Infura verá que alguien está intentando visitar estos dominios pero nada más. Consulta las <ph name="BEGIN_INFURA_TOU_LINK"/>Condiciones de uso<ph name="END_INFURA_TOU_LINK"/> y la <ph name="BEGIN_INFURA_PRIVACY_LINK"/>Política de privacidad<ph name="END_INFURA_PRIVACY_LINK"/> de Infura.</translation>
+<translation id="4492298165410552103">¿Habilitar la compatibilidad con los Unstoppable Domains en brave?</translation>
+<translation id="3647533686160055812">brave comenzará a usar Infura para resolver los nombres de dominios .crypto (y también .x, .nft, .dao, .wallet, .blockchain, .bitcoin, .zil) que están en Unstoppable Domains. Infura oculta tu dirección IP. Si activas esto, Infura verá que alguien está intentando visitar estos dominios pero nada más. Consulta las <ph name="BEGIN_INFURA_TOU_LINK"/>Condiciones de uso<ph name="END_INFURA_TOU_LINK"/> y la <ph name="BEGIN_INFURA_PRIVACY_LINK"/>Política de privacidad<ph name="END_INFURA_PRIVACY_LINK"/> de Infura.</translation>
 <translation id="6513892817556267573">Servicio de nombres de Ethereum</translation>
-<translation id="4335039108389860301">¿Habilitar la compatibilidad con el servicio de nombres de Ethereum (ENS) en Asil?</translation>
-<translation id="4609973808011229683">Asil usará Infura para resolver los nombres de dominios .eth de Ethereum Name Service (ENS). Asil oculta tu dirección IP. Si activas esto, Infura verá que alguien está intentando visitar estos dominios .eth pero nada más. Consulta las <ph name="BEGIN_INFURA_TOU_LINK"/>Condiciones de uso<ph name="END_INFURA_TOU_LINK"/> y la <ph name="BEGIN_INFURA_PRIVACY_LINK"/>Política de privacidad<ph name="END_INFURA_PRIVACY_LINK"/> de Infura.</translation>
+<translation id="4335039108389860301">¿Habilitar la compatibilidad con el servicio de nombres de Ethereum (ENS) en brave?</translation>
+<translation id="4609973808011229683">brave usará Infura para resolver los nombres de dominios .eth de Ethereum Name Service (ENS). brave oculta tu dirección IP. Si activas esto, Infura verá que alguien está intentando visitar estos dominios .eth pero nada más. Consulta las <ph name="BEGIN_INFURA_TOU_LINK"/>Condiciones de uso<ph name="END_INFURA_TOU_LINK"/> y la <ph name="BEGIN_INFURA_PRIVACY_LINK"/>Política de privacidad<ph name="END_INFURA_PRIVACY_LINK"/> de Infura.</translation>
 <translation id="807404806385418949">Búsqueda de ENS (Servicios de Nombres de Ethereum) fuera de cadena</translation>
-<translation id="4049590838234508776">¿Habilitar la compatibilidad con la búsqueda de ENS (Servicio de Nombres de Ethereum) fuera de cadena en Asil?</translation>
+<translation id="4049590838234508776">¿Habilitar la compatibilidad con la búsqueda de ENS (Servicio de Nombres de Ethereum) fuera de cadena en brave?</translation>
 <translation id="5944991147217767764">Este nombre de dominio .eth se almacena fuera de la pasarela y será resuelto por una pasarela de terceros. Si habilita la búsqueda fuera de cadena del ENS, la pasarela de terceros verá que está intentando visitar el dominio .eth.
 <ph name="BEGIN_BRAVE_LEARN_MORE_LINK"/>Más información<ph name="END_BRAVE_LEARN_MORE_LINK"/>.</translation>
 <translation id="4047002754575891955">Proceder con la búsqueda fuera de cadena</translation>
 <translation id="531747189990625622">Servicio de nombres de Solana</translation>
-<translation id="1090584614351290462">¿Habilitar la compatibilidad con el servicio de nombres de Solana (SNS) en Asil?</translation>
-<translation id="2350552210396418924">Asil utilizará Coinbase Cloud para resolver los nombres de dominio .sol. Asil oculta tu dirección IP. Si activas esto, Coinbase verá que alguien está intentando visitar estos dominios .sol pero nada más. Consulte las <ph name="BEGIN_COINBASE_TOU_LINK"/>Condiciones de uso<ph name="END_COINBASE_TOU_LINK"/> y la <ph name="BEGIN_COINBASE_PRIVACY_LINK"/>Política de privacidad<ph name="END_COINBASE_PRIVACY_LINK"/> de Coinbase Cloud.</translation>
+<translation id="1090584614351290462">¿Habilitar la compatibilidad con el servicio de nombres de Solana (SNS) en brave?</translation>
+<translation id="2350552210396418924">brave utilizará Coinbase Cloud para resolver los nombres de dominio .sol. brave oculta tu dirección IP. Si activas esto, Coinbase verá que alguien está intentando visitar estos dominios .sol pero nada más. Consulte las <ph name="BEGIN_COINBASE_TOU_LINK"/>Condiciones de uso<ph name="END_COINBASE_TOU_LINK"/> y la <ph name="BEGIN_COINBASE_PRIVACY_LINK"/>Política de privacidad<ph name="END_COINBASE_PRIVACY_LINK"/> de Coinbase Cloud.</translation>
 <translation id="7378412287463452336">Continuar usando el servidor Infura</translation>
 <translation id="2313603121968571839">Continuar usando el servidor Coinbase Cloud</translation>
 <translation id="2356070529366658676">Preguntar</translation>
 <translation id="59174027418879706">Habilitada</translation>
 <translation id="2468755552460246661">Dominio bloqueado</translation>
 <translation id="6393849031898466746">Es posible que este sitio intente rastrear tu actividad en otros sitios</translation>
-<translation id="983774928604730749">Asil ha impedido que se cargue el siguiente sitio:</translation>
+<translation id="983774928604730749">brave ha impedido que se cargue el siguiente sitio:</translation>
 <translation id="4781961723893779890">Es posible que este sitio intente vincular algunos de tus datos personales a una cookie antes de mostrar su contenido.</translation>
 <translation id="2459038234784107183">No vuelva a advertirme sobre este sitio</translation>
 <translation id="8242426110754782860">Proceder</translation>
@@ -594,15 +594,15 @@
 <translation id="72868071984333667">Recibir más información sobre el IPFS y la privacidad</translation>
 <translation id="1886162073868201257">Error de inicio del servicio IPFS</translation>
 <translation id="5357895013476183089">IPFS no está conectado</translation>
-<translation id="7662930734991751511">No se pueden cargar recursos IPFS mediante el nodo IPFS local de Asil.</translation>
+<translation id="7662930734991751511">No se pueden cargar recursos IPFS mediante el nodo IPFS local de brave.</translation>
 <translation id="1141556610026845297">No se ha podido usar el nodo IPFS para cargar los recursos IPFS que se habían solicitado. Haz clic en el botón “Seguir” para usar la puerta de enlace pública en su lugar, y volver de forma automática a la puerta de enlace pública la próxima vez.</translation>
 <translation id="3373798179786163193">Continuar con el Portal Público</translation>
 <translation id="1974060860693918893">Avanzada</translation>
 <translation id="9096577886148726047">Ocultar Avanzados</translation>
-<translation id="182581792765792826">Asil no puede cargar los recursos IPFS solicitados, bien porque no se ha iniciado el nodo IPFS local de Asil, bien porque no hay compañeros disponibles en este momento. Si seleccionas “Proceder”, Asil volverá automáticamente a la puerta de enlace pública predeterminada cuando se produzca un error en el uso del nodo IPFS local de Asil. Puedes cambiar este comportamiento en cualquier momento en la configuración de Asil.</translation>
+<translation id="182581792765792826">brave no puede cargar los recursos IPFS solicitados, bien porque no se ha iniciado el nodo IPFS local de brave, bien porque no hay compañeros disponibles en este momento. Si seleccionas “Proceder”, brave volverá automáticamente a la puerta de enlace pública predeterminada cuando se produzca un error en el uso del nodo IPFS local de brave. Puedes cambiar este comportamiento en cualquier momento en la configuración de brave.</translation>
 <translation id="8026038288183400906">Preferencia de IPFS</translation>
 <translation id="2058855456574089690">Establecer tus preferencias de IPFS</translation>
-<translation id="4780526507945807546">Usar un nodo IPFS local de Asil</translation>
+<translation id="4780526507945807546">Usar un nodo IPFS local de brave</translation>
 <translation id="8148464361648742409">Usar una puerta de enlace pública</translation>
 <translation id="5123478056123923857">El IPFS (sistema de archivos interplanetario) es la red pública para el almacenamiento y transmisión de datos entre pares. Este protocolo tiene consideraciones de privacidad diferentes a las del HTTP(S).</translation>
 <translation id="1216911189668016151">Tu ordenador contribuye a la red pública, pero tu dirección IP y cualquier contenido que estés solicitando o proporcionando podrían quedar expuestos. El contenido que solicitas a través de IPFS se verifica antes de entregarse. Es posible que las solicitudes de red no usen la configuración del DNS ni del proxy del navegador.</translation>
@@ -615,7 +615,7 @@
 <translation id="1675751799495331928">Hemos sobrepasado el límite de intentos, vuelve a probar más tarde.</translation>
 <translation id="4499666752625407848">Ha habido un error durante una actualización</translation>
 <translation id="62991515067726424">Este contenido se ha cargado mediante protocolo IPFS</translation>
-<translation id="7263366446813126341">El Sistema de archivos interplanetario (IPFS, por sus siglas en inglés) es una red pública de almacenamiento y transmisión de datos entre pares. Puedes obtener más información acerca de la integración de Asil o configurar tus ajustes de IPFS en cualquier momento.</translation>
+<translation id="7263366446813126341">El Sistema de archivos interplanetario (IPFS, por sus siglas en inglés) es una red pública de almacenamiento y transmisión de datos entre pares. Puedes obtener más información acerca de la integración de brave o configurar tus ajustes de IPFS en cualquier momento.</translation>
 <translation id="3175567740517780285">Configuración de IPFS</translation>
 <translation id="8914505352873092008">Ir a la página de configuración de IPFS</translation>
 <translation id="3465468510001693544">Diagnóstico de IPFS</translation>
@@ -647,16 +647,16 @@
 <translation id="3600355176618429948">Ganancias estimadas</translation>
 <translation id="7934950257968365573">Inicia sesión en tu cuenta de <ph name="PROVIDER"/></translation>
 <translation id="2613359062756190460">Propinas únicas</translation>
-<translation id="590733288489975971">Recompensas de Asil Ads</translation>
+<translation id="590733288489975971">Recompensas de brave Ads</translation>
 <translation id="5308380583665731573">Connect</translation>
 <translation id="3026978804849658576">Ver extracto</translation>
 <translation id="3368922792935385530">Conectado</translation>
 <translation id="8494748383523030337">Tu saldo</translation>
 <translation id="2721354750791363122"><ph name="BOLD_BEGIN"/>¿Listo para empezar a ganar BAT?<ph name="BOLD_END"/> Simplemente conecta tu cuenta con custodia a tu perfil de Recompensas. Si no tienes una cuenta, tendrás la oportunidad de crear una.</translation>
-<translation id="1772961321862399863">Para ganar BAT, los usuarios deben conectar una cuenta con custodia a Recompensas de Asil. Desafortunadamente, no hay ningún cuidador disponible en tu región, por lo que no es posible ganar. Por ahora, al activar Recompensas de Asil, se apoyará automáticamente a los creadores.</translation>
+<translation id="1772961321862399863">Para ganar BAT, los usuarios deben conectar una cuenta con custodia a Recompensas de brave. Desafortunadamente, no hay ningún cuidador disponible en tu región, por lo que no es posible ganar. Por ahora, al activar Recompensas de brave, se apoyará automáticamente a los creadores.</translation>
 <translation id="2584752537998444309">{PUBLISHER_COUNT, plural,
-=1 {Este mes has visitado # creador apoyado por Recompensas de Asil}
-other {Este mes has visitado # creadores apoyados por Recompensas de Asil}
+=1 {Este mes has visitado # creador apoyado por Recompensas de brave}
+other {Este mes has visitado # creadores apoyados por Recompensas de brave}
 }</translation>
 <translation id="1187367336925051518">Recompensas de <ph name="MONTH"/>: <ph name="AMOUNT"/></translation>
 <translation id="3274366539954332481">¡Ya están aquí tus recompensas por los anuncios de <ph name="MONTH"/>!</translation>
@@ -668,11 +668,11 @@ other {Este mes has visitado # creadores apoyados por Recompensas de Asil}
 <translation id="8334559352278209120">Entrega</translation>
 <translation id="4782365133987903299">Te quedan <ph name="DAYS"/> para reclamar</translation>
 <translation id="3903419925307046908">Gana y restituye vales</translation>
-<translation id="244362569344671266">Gane tokens por ver Asil Ads privados y apoye a los creadores de contenido automáticamente.</translation>
+<translation id="244362569344671266">Gane tokens por ver brave Ads privados y apoye a los creadores de contenido automáticamente.</translation>
 <translation id="5095252080770652994">Progreso</translation>
 <translation id="6278643716658443228">Configuración de las recompensas</translation>
 <translation id="2862978891748913252">Selecciona tu país</translation>
-<translation id="3717922248131893262">Si deseas seguir aprovechando las recompensas de Asil, selecciona tu país para que podamos mostrarte las opciones y anuncios adecuados para tu región. <ph name="LINK_BEGIN"/>Política de privacidad<ph name="LINK_END"/></translation>
+<translation id="3717922248131893262">Si deseas seguir aprovechando las recompensas de brave, selecciona tu país para que podamos mostrarte las opciones y anuncios adecuados para tu región. <ph name="LINK_BEGIN"/>Política de privacidad<ph name="LINK_END"/></translation>
 <translation id="2965798296974325760">Empezar a usar las recompensas</translation>
 <translation id="2940863921746574646">Saldo de tokens</translation>
 <translation id="2221902203895354376">¡Hay una concesión de tokens disponible!</translation>
@@ -688,7 +688,7 @@ other {Este mes has visitado # creadores apoyados por Recompensas de Asil}
 <translation id="6965382102122355670">OK</translation>
 <translation id="6727102863431372879">Configurar</translation>
 <translation id="8853725596990766789">Cambiar la cantidad</translation>
-<translation id="6067959437127691361">Utilizar Recompensas de Asil ayuda a apoyar a los creadores de contenidos y te permite ganar BAT.</translation>
+<translation id="6067959437127691361">Utilizar Recompensas de brave ayuda a apoyar a los creadores de contenidos y te permite ganar BAT.</translation>
 <translation id="1609556006143307897">Estás ayudando a apoyar a los creadores de contenido</translation>
 <translation id="6605147707233193230">Activar para ayudar a apoyar a los creadores de contenido</translation>
 <translation id="5430495762768325224">Más información acerca de BAT</translation>
@@ -700,7 +700,7 @@ other {Este mes has visitado # creadores apoyados por Recompensas de Asil}
 <translation id="6333727259565526314">Tu recompensa está de camino.</translation>
 <translation id="39734939514946950">Su importe de recompensa</translation>
 <translation id="717952606991220586">¡Vaya!, algo ha ido mal. Por favor, inténtalo de nuevo más tarde.</translation>
-<translation id="7210234701206674260">Las recompensas de Asil tienen un problema. Inténtelo de nuevo más tarde.</translation>
+<translation id="7210234701206674260">Las recompensas de brave tienen un problema. Inténtelo de nuevo más tarde.</translation>
 <translation id="579702532610384533">Reconectar</translation>
 <translation id="3358400027937159351">Has contribuido con <ph name="AMOUNT"/>.</translation>
 <translation id="1619753851206150396">Has cerrado sesión</translation>
@@ -712,20 +712,20 @@ other {Este mes has visitado # creadores apoyados por Recompensas de Asil}
 <translation id="2892744985635833293">Se han procesado tus propinas mensuales.</translation>
 <translation id="5768819429931807686">Contribución pendiente</translation>
 <translation id="7855913851082138664">Creador <ph name="PUBLISHER_NAME"/> verificado recientemente</translation>
-<translation id="2529827670795983639">Parece que no funciona; Asil Ads continuará en pausa. Contacta con nosotros si necesitas ayuda con el captcha.</translation>
+<translation id="2529827670795983639">Parece que no funciona; brave Ads continuará en pausa. Contacta con nosotros si necesitas ayuda con el captcha.</translation>
 <translation id="261607053214862521">Se ha superado el número máx. de intentos</translation>
 <translation id="2323171459178104277">¡Resuelto!</translation>
-<translation id="1512837998731269583">Los anuncios y las ganancias se reanudarán ahora. Gracias por ayudarnos a proteger las recompensas de Asil y los anuncios basados en la privacidad.</translation>
+<translation id="1512837998731269583">Los anuncios y las ganancias se reanudarán ahora. Gracias por ayudarnos a proteger las recompensas de brave y los anuncios basados en la privacidad.</translation>
 <translation id="3247549836099021862">Contacta con el servicio de asistencia</translation>
 <translation id="5234764350956374838">Descartar</translation>
 <translation id="6717671373796332174"><ph name="TOUR_LINK_BEGIN"/>Haz un recorrido rápido<ph name="TOUR_LINK_END"/> u <ph name="LEARN_LINK_BEGIN"/>obtén más información<ph name="LEARN_LINK_END"/>.</translation>
 <translation id="7465614181960492526">Gane tokens y retribuya algo</translation>
 <translation id="2731539192954672606">Gane tokens por ver anuncios que respetan la privacidad y apoye automáticamente a sus sitios web y creadores de contenidos favoritos.</translation>
-<translation id="5425006356459378415">Las recompensas de Asil no están disponibles</translation>
-<translation id="909076461795862330">Lamentamos comunicarte que se ha producido un error al tratar de configurar las recompensas de Asil. Vuelve a intentarlo.</translation>
+<translation id="5425006356459378415">Las recompensas de brave no están disponibles</translation>
+<translation id="909076461795862330">Lamentamos comunicarte que se ha producido un error al tratar de configurar las recompensas de brave. Vuelve a intentarlo.</translation>
 <translation id="3180990265682133881">Lamentamos comunicarte que se ha producido un error al tratar de establecer tu país. Vuelve a intentarlo.</translation>
-<translation id="5931798071481566121">En este momento, Recompensas de Asil no admite nuevos registros en tu región. Vuelve a intentarlo más adelante si lo deseas. <ph name="LINK_BEGIN"/>Más información<ph name="LINK_END"/></translation>
-<translation id="8764860730661377310">Se ha establecido en <ph name="COUNTRY"/> tu región para las recompensas de Asil.</translation>
+<translation id="5931798071481566121">En este momento, Recompensas de brave no admite nuevos registros en tu región. Vuelve a intentarlo más adelante si lo deseas. <ph name="LINK_BEGIN"/>Más información<ph name="LINK_END"/></translation>
+<translation id="8764860730661377310">Se ha establecido en <ph name="COUNTRY"/> tu región para las recompensas de brave.</translation>
 <translation id="7068416025603720599">Selecciona tu país para que podamos mostrarte las opciones y anuncios adecuados para tu región. <ph name="LINK_BEGIN"/>Política de privacidad<ph name="LINK_END"/></translation>
 <translation id="1275213816424141989">Quizás más tarde</translation>
 <translation id="5187052478998910855">¿Necesitas hacer un repaso de los premios?</translation>
@@ -745,25 +745,25 @@ other {# Anuncios por hora}
 <translation id="185034574799484512">Hagamos un recorrido rápido</translation>
 <translation id="8281886186245836920">Saltar</translation>
 <translation id="1377600615067678409">Omitir de momento</translation>
-<translation id="7930505144430343145">¡Bienvenido/a a Asil Rewards!</translation>
-<translation id="3477340970981564961">Los anuncios privados de Asil te premian con vales que sirven para apoyar a los creadores de contenido. Y a diferencia de los anuncios tradicionales, no tendrás que renunciar a la privacidad de tu información personal.</translation>
+<translation id="7930505144430343145">¡Bienvenido/a a brave Rewards!</translation>
+<translation id="3477340970981564961">Los anuncios privados de brave te premian con vales que sirven para apoyar a los creadores de contenido. Y a diferencia de los anuncios tradicionales, no tendrás que renunciar a la privacidad de tu información personal.</translation>
 <translation id="6973095375773523904">¿Dónde se muestran los anuncios?</translation>
-<translation id="4328028439561659455">Los anuncios privados de Asil aparecen como notificaciones en tu pantalla. Puedes controlar la frecuencia con la que se muestran estos anuncios.</translation>
+<translation id="4328028439561659455">Los anuncios privados de brave aparecen como notificaciones en tu pantalla. Puedes controlar la frecuencia con la que se muestran estos anuncios.</translation>
 <translation id="7712287524451429139">Retribuir es facilísimo</translation>
 <translation id="105037569026952831">Los creadores reciben sus contribuciones de tokens automáticamente en función de sus niveles de compromiso que medimos como «atención».</translation>
 <translation id="5323267338679539010">Dá las gracias con las propinas</translation>
 <translation id="6042317056594735519">La propina es una forma de animar y apoyar el contenido o los creadores que le gustan. Dé propina.</translation>
 <translation id="4215679190414901888">Por último, vamos a prepararte</translation>
 <translation id="827315274423079662">¡Bien!, ya tienes todo lo que necesitas.</translation>
-<translation id="8268038362451312235">Al usar las recompensas de Asil, ayuda a hacer de la web un lugar mejor para todos. Y eso es increíble.</translation>
+<translation id="8268038362451312235">Al usar las recompensas de brave, ayuda a hacer de la web un lugar mejor para todos. Y eso es increíble.</translation>
 <translation id="6845311459433734326">Conecta una cuenta con custodia para poder ganar BAT y retirar tus recompensas</translation>
 <translation id="1443125272907895958">Lo haré más tarde</translation>
-<translation id="1015443539415537847">Lo sentimos, Recompensas de Asil no está disponible</translation>
-<translation id="5007776270364097327">Lamentamos comunicarte que Recompensas de Asil no está disponible en tu región.</translation>
+<translation id="1015443539415537847">Lo sentimos, Recompensas de brave no está disponible</translation>
+<translation id="5007776270364097327">Lamentamos comunicarte que Recompensas de brave no está disponible en tu región.</translation>
 <translation id="4934459911359992410"><ph name="LINK_BEGIN"/>Más información<ph name="LINK_END"/></translation>
 <translation id="4214852687527104244">No te preocupes.</translation>
 <translation id="5027616819996705541">¡Puedes seguir navegando de forma privada!</translation>
-<translation id="8303087505226646884">Lector de velocidad de Asil</translation>
+<translation id="8303087505226646884">Lector de velocidad de brave</translation>
 <translation id="1013121820689882118">Lector de velocidad</translation>
 <translation id="8112297508607107861">Carga siempre el modo lector de velocidad en <ph name="HOST_NAME"/></translation>
 <translation id="6278428485366576908">Tema</translation>
@@ -782,7 +782,7 @@ other {# Anuncios por hora}
 <translation id="2326876601333401685">Este método de RPC no es compatible.</translation>
 <translation id="1128992132632883337">Se ha producido un error de análisis de respuesta</translation>
 <translation id="5382339341735118861">Se ha producido un error genérico al procesar la solicitud</translation>
-<translation id="1680597601664421644">El mnemotécnico que se está importando no es válido para la cartera de Asil</translation>
+<translation id="1680597601664421644">El mnemotécnico que se está importando no es válido para la cartera de brave</translation>
 <translation id="4641919696349069826">Ya hay una solicitud en curso</translation>
 <translation id="872806943696014633">Faltan datos de la transacción</translation>
 <translation id="4805410229033541409">"from" no tiene autorización para enviar transacciones</translation>
@@ -865,7 +865,7 @@ other {# Anuncios por hora}
 <translation id="6295954645230084874"><ph name="NETWORK"/> no admite compras</translation>
 <translation id="9209024278910716955">No se admiten compras en la red seleccionada</translation>
 <translation id="4982630604810554641">Buscando dominio...</translation>
-<translation id="5467044307473123584">Asil admite el uso de pasarelas fuera de la cadena para resolver dominios .eth.</translation>
+<translation id="5467044307473123584">brave admite el uso de pasarelas fuera de la cadena para resolver dominios .eth.</translation>
 <translation id="4896417414446851895">Parece que has introducido una dirección ENS. Tendremos que utilizar una resolución de terceros para resolver esta solicitud, que es posible que pueda ver tu dirección IP y dominio.</translation>
 <translation id="8646078615727397565">Utilizar dominio ENS</translation>
 <translation id="4171338820961522154"><ph name="NETWORK"/> no admite intercambios</translation>
@@ -874,10 +874,10 @@ other {# Anuncios por hora}
 <translation id="4500473291496079954">Caduca dentro de</translation>
 <translation id="2236833281018938257">URL o dirección de la cartera</translation>
 <translation id="928500657730628112">Dirección de la cartera</translation>
-<translation id="6812967455478797345">Asil utiliza <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> como agregador DEX.</translation>
+<translation id="6812967455478797345">brave utiliza <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> como agregador DEX.</translation>
 <translation id="151946611346774041">0x procesará la dirección Ethereum y la dirección IP para completar una transacción (se ocupará incluso de calcular los presupuestos). 0x SOLO utilizará estos datos con el propósito de procesar las transacciones.</translation>
 <translation id="7465227658364622464">Jupiter procesará la dirección de Solana y la dirección IP para llevar a cabo operaciones (incluida la obtención de presupuestos). Jupiter únicamente utilizará estos datos para procesar las operaciones.</translation>
-<translation id="712738518060477110">El presupuesto incluye un <ph name="SWAP_FEE_PERCENTAGE"/> de comisión de Asil.</translation>
+<translation id="712738518060477110">El presupuesto incluye un <ph name="SWAP_FEE_PERCENTAGE"/> de comisión de brave.</translation>
 <translation id="8368540604723748428">Demasiadas posiciones decimales</translation>
 <translation id="6575120282593094155">Aún no tienes una cuenta de <ph name="ACCOUNT_TYPE"/>. ¿Quieres crear unanow?</translation>
 <translation id="1201402288615127009">Next</translation>
@@ -885,7 +885,7 @@ other {# Anuncios por hora}
 <translation id="6896758677409633944">Copiar</translation>
 <translation id="2704606927547763573">Copiado</translation>
 <translation id="6042308850641462728">Más</translation>
-<translation id="768236965975208017">Segura, multicadena y muy fácil de usar. Tu cartera de Asil está a unos clics.</translation>
+<translation id="768236965975208017">Segura, multicadena y muy fácil de usar. Tu cartera de brave está a unos clics.</translation>
 <translation id="3157931365184549694">Restaurar</translation>
 <translation id="2484275747844666540">Crear nueva cartera</translation>
 <translation id="3662348701117072366">Importar cartera existente</translation>
@@ -918,20 +918,20 @@ other {# Anuncios por hora}
 <translation id="1108298724135935307">Sitios conectados</translation>
 <translation id="163697698769819510">Haz una copia de seguridad de tu cartera para proteger tus activos y asegurarte de que no te quedas nunca sin acceso.</translation>
 <translation id="1018806299114415224">Copia de seguridad ahora</translation>
-<translation id="1400709719911593089">Puesto que Cartera de Asil no está configurada como cartera predeterminada, no responderá a las aplicaciones descentralizadas de Web3. Cambia tu cartera predeterminada en la configuración.</translation>
+<translation id="1400709719911593089">Puesto que Cartera de brave no está configurada como cartera predeterminada, no responderá a las aplicaciones descentralizadas de Web3. Cambia tu cartera predeterminada en la configuración.</translation>
 <translation id="4362717653795263052">Restaurar cuentas de criptomonedas principales</translation>
-<translation id="3038077262567136741">Introduce la frase de recuperación para restaurar tu cuenta de criptomonedas de Asil Wallet.</translation>
+<translation id="3038077262567136741">Introduce la frase de recuperación para restaurar tu cuenta de criptomonedas de brave Wallet.</translation>
 <translation id="955918646509748368">La frase de recuperación introducida no es válida.</translation>
 <translation id="8107437138787377150">Pegar la frase de recuperación desde el portapapeles</translation>
 <translation id="4811736040444856406">Mostrar frase de recuperación</translation>
-<translation id="4359319875297001084">¿Importar desde monederos de criptomonedas de Asil anteriores?</translation>
+<translation id="4359319875297001084">¿Importar desde monederos de criptomonedas de brave anteriores?</translation>
 <translation id="3331452756822160641">Contraseña nueva</translation>
 <translation id="8624315169751085215">Copiar al Portapapeles</translation>
 <translation id="7885157704277298658">Copied!</translation>
 <translation id="6346952829206698721">Pegar desde el portapapeles</translation>
 <translation id="1121335910737476837">Cuentas de criptomonedas principales</translation>
 <translation id="6969147029062037757">Cuentas importadas</translation>
-<translation id="4057718162494343222">Cartera de Asil te ofrece la posibilidad de crear cuentas principales que se pueden proteger con copias de seguridad o restaurar mediante tu frase de recuperación. Para obtener más información sobre los tipos de cuentas disponibles, consulta la sección de ayuda.</translation>
+<translation id="4057718162494343222">Cartera de brave te ofrece la posibilidad de crear cuentas principales que se pueden proteger con copias de seguridad o restaurar mediante tu frase de recuperación. Para obtener más información sobre los tipos de cuentas disponibles, consulta la sección de ayuda.</translation>
 <translation id="1011614786846182272">Estas cuentas pueden usarse con aplicaciones descentralizadas de Web3 y mostrarse en tu portafolio. Sin embargo, ten en cuenta que las cuentas secundarias no pueden restaurarse con una frase de recuperación desde la copia de seguridad de tu cuenta principal.</translation>
 <translation id="1940465339426637378">Activos</translation>
 <translation id="2236507293802791911">Activos visibles</translation>
@@ -960,7 +960,7 @@ other {# Anuncios por hora}
 <translation id="6892232036314454524">Este error tiene lugar, por ejemplo, cuando se abre una aplicación incorrecta en el dispositivo Ledger.</translation>
 <translation id="6598291715079540080">Trezor</translation>
 <translation id="5605670050355397069">Ledger</translation>
-<translation id="4247752006222818397">Permite que Asil acceda a tu dispositivo Ledger.</translation>
+<translation id="4247752006222818397">Permite que brave acceda a tu dispositivo Ledger.</translation>
 <translation id="4378551569595875038">Conectándose...</translation>
 <translation id="1943188256166395881">Añadir cuentas seleccionadas</translation>
 <translation id="8554010658308662631">Cargar más</translation>
@@ -1021,7 +1021,7 @@ other {# Anuncios por hora}
 <translation id="3352959425838279177">Obtener ethers desde un grifo para <ph name="SELECTED_NETWORK"/></translation>
 <translation id="6449626816252815844">Seleccionar método de compra</translation>
 <translation id="8009571545960303544">Tu firma ya fue solicitada</translation>
-<translation id="5294062982587710720">Ten en cuenta que Asil no puede verificar qué sucederá si firmas. La firma autoriza casi cualquier operación en tu cuenta o en tu nombre, lo que incluye, entre otras cosas, dar un control total de tu cuenta y tus criptoactivos al sitio que realiza la solicitud. Firma solo si quieres realizar esta acción y confías en el sitio que envía la solicitud.</translation>
+<translation id="5294062982587710720">Ten en cuenta que brave no puede verificar qué sucederá si firmas. La firma autoriza casi cualquier operación en tu cuenta o en tu nombre, lo que incluye, entre otras cosas, dar un control total de tu cuenta y tus criptoactivos al sitio que realiza la solicitud. Firma solo si quieres realizar esta acción y confías en el sitio que envía la solicitud.</translation>
 <translation id="3474375934783434676">Firme bajo tu propia responsabilidad</translation>
 <translation id="5488357322146334497">Mensaje</translation>
 <translation id="3586752056660754651">Firmar</translation>
@@ -1043,7 +1043,7 @@ other {# Anuncios por hora}
 <translation id="7073918978411974168">Asignación propuesta</translation>
 <translation id="9019403281000653275">Se han solicitado aprobaciones ilimitadas</translation>
 <translation id="4717431746210146708">¿Permitir que este sitio añada una red?</translation>
-<translation id="2521480044079508357">Así, esta red podrá usarse en Asil Wallet.</translation>
+<translation id="2521480044079508357">Así, esta red podrá usarse en brave Wallet.</translation>
 <translation id="1982257600591932657">Nombre de red</translation>
 <translation id="5052727830821470769">URL de la red</translation>
 <translation id="427875364838253580">Ver todos los detalles</translation>
@@ -1080,10 +1080,10 @@ other {# Anuncios por hora}
 <translation id="2240831799756994975">BYTES</translation>
 <translation id="4874303883488468190">Seleccionar cuenta(s)</translation>
 <translation id="2018472018751735678">Vea las direcciones de sus cuentas permitidas (obligatorio)</translation>
-<translation id="7029403458170657879">Conectar con Asil Wallet</translation>
+<translation id="7029403458170657879">Conectar con brave Wallet</translation>
 <translation id="2770851145415891830">Se han detectado monederosde criptomonedas</translation>
-<translation id="2237759620789871865">Si prefieres omitir el proceso de importación y seguir utilizando Crypto Wallets, accede en el navegador Asil al menú <ph name="LINK_BEFORE"/>Configuración<ph name="LINK_AFTER"/> y establece Crypto Wallets como predeterminado. En cualquier caso, también es posible realizar la importación, probar la nueva Asil Wallet y cambiar al componentes Crypto Wallets en cualquier momento.</translation>
-<translation id="5590175005414413980">Introduce la contraseña de tus carteras de criptomonedas para importarlas a Cartera de Asil. Administra criptoactivos e interactúa con aplicaciones descentralizadas de Web3 de forma más rápida y segura.</translation>
+<translation id="2237759620789871865">Si prefieres omitir el proceso de importación y seguir utilizando Crypto Wallets, accede en el navegador brave al menú <ph name="LINK_BEFORE"/>Configuración<ph name="LINK_AFTER"/> y establece Crypto Wallets como predeterminado. En cualquier caso, también es posible realizar la importación, probar la nueva brave Wallet y cambiar al componentes Crypto Wallets en cualquier momento.</translation>
+<translation id="5590175005414413980">Introduce la contraseña de tus carteras de criptomonedas para importarlas a Cartera de brave. Administra criptoactivos e interactúa con aplicaciones descentralizadas de Web3 de forma más rápida y segura.</translation>
 <translation id="880619123281809987">Escribe la contraseña de la cartera de criptomonedas</translation>
 <translation id="6344138931392227467"><ph name="DEVICE_NAME"/> conectado</translation>
 <translation id="7051244143160304048"><ph name="DEVICE_NAME"/> desconectada</translation>
@@ -1189,7 +1189,7 @@ other {# Anuncios por hora}
 <translation id="2962388922926051374">Error al solicitar el método "eth_chainId" en <ph name="URL"/></translation>
 <translation id="8325036459845654666">Ya se ha añadido esta red.</translation>
 <translation id="554350381160981853">Solo Trezor Model One con Firmware 1.10.5 (o una versión posterior) admite la firma de datos escritos</translation>
-<translation id="1752214435563414457">Lotería de intercambios de Asil</translation>
+<translation id="1752214435563414457">Lotería de intercambios de brave</translation>
 <translation id="7829441065063984927">7 días de criptorregalos, con premios valorados en ~500 000 $.</translation>
 <translation id="8292716346768453265">¡Participa!</translation>
 <translation id="1935944189549132903">Todos los activos</translation>
@@ -1199,7 +1199,7 @@ other {# Anuncios por hora}
 <translation id="4430019312045809116">Volumen</translation>
 <translation id="4312994183947987913">Comprar/Ingresar</translation>
 <translation id="5133421763709317473">No se han encontrado activos que coincidan con la búsqueda ni el filtro</translation>
-<translation id="7383613643114466279">Este activo no es compatible con el criptomonedero de Asil</translation>
+<translation id="7383613643114466279">Este activo no es compatible con el criptomonedero de brave</translation>
 <translation id="6423985584914773314">No es una dirección de FIL válida</translation>
 <translation id="3898731124813934210">Comprar con Wyre</translation>
 <translation id="5522073372365069684">Comprar con Ramp</translation>
@@ -1310,7 +1310,7 @@ other {# Anuncios por hora}
 <translation id="8060029310790625334">Centro de ayuda</translation>
 <translation id="2095142195578664632">¿Necesitas ayuda? Consulta el</translation>
 <translation id="3253669416991680932">Esta cartera de hardware no admite esta operación.</translation>
-<translation id="7457027586454688423">Escribe la contraseña de tu cartera de Asil</translation>
+<translation id="7457027586454688423">Escribe la contraseña de tu cartera de brave</translation>
 <translation id="7553242001898162573">Introduce tu contraseña</translation>
 <translation id="2873714185189940594">¿Abrir la aplicación de Rainbow Bridge?</translation>
 <translation id="2069777099181262239">Rainbow Bridge es un servicio independiente que te ayuda a establecer puentes entre activos a través de las redes, así como a utilizar tus criptoactivos en otras redes y ecosistemas de aplicaciones descentralizadas. Usar puentes entre activos y otras redes conlleva algunos riesgos.</translation>
@@ -1318,7 +1318,7 @@ other {# Anuncios por hora}
 <translation id="3890567288132019108">Más información sobre cómo mitigar riesgos en Rainbow Bridge</translation>
 <translation id="1792917191129448067">Abrir aplicación de Rainbow Bridge</translation>
 <translation id="1522775706527775647">Puente hacia Aurora</translation>
-<translation id="4903322403594141291">Más información sobre la cartera de Asil</translation>
+<translation id="4903322403594141291">Más información sobre la cartera de brave</translation>
 <translation id="3875185448438395303">Por lo menos:</translation>
 <translation id="2029465635925899949">8 caracteres</translation>
 <translation id="6697810017029555732">¡Correcto!</translation>
@@ -1327,7 +1327,7 @@ other {# Anuncios por hora}
 <translation id="8297006494302853456">Débil</translation>
 <translation id="6782556046178425980">Antes de empezar a hacer una copia de seguridad de la cartera</translation>
 <translation id="7119749028647909394">La frase de recuperación de 12-24 palabras es una clave privada que puedes utilizar para recuperar el acceso a tu cartera en caso de que pierdas uno o varios dispositivos vinculados. Guárdala en un lugar seguro y en el orden exacto en el que aparece a continuación.</translation>
-<translation id="3259018319025894691">Asil no tiene acceso a tu frase secreta de recuperación. Mantenla a buen recaudo y no la compartas con nadie.</translation>
+<translation id="3259018319025894691">brave no tiene acceso a tu frase secreta de recuperación. Mantenla a buen recaudo y no la compartas con nadie.</translation>
 <translation id="7650284207965419234"><ph name="TAG_BEFORE"/>Importante: <ph name="TAG_AFTER"/>No compartas nunca tu frase de recuperación. Cualquier persona que tenga esta frase podrá quedarse con tus activos de forma irrevocable.</translation>
 <translation id="7509948206688764960">Guarda una copia de seguridad de la frase de recuperación de tu cartera</translation>
 <translation id="8052898407431791827">Copiado en el portapapeles</translation>
@@ -1347,8 +1347,8 @@ other {# Anuncios por hora}
 <translation id="2781276194026093899">​</translation>
 <translation id="7992766987062040279">​</translation>
 <translation id="2295726992010694229">​</translation>
-<translation id="8241405611628876973">¡Enhorabuena! ¡Tu cartera de Asil ya está lista!</translation>
-<translation id="6828327990705355767">Para acceder a tu cartera, basta con hacer clic en el icono de cartera situado en la parte superior derecha de cualquier ventana del navegador Asil.</translation>
+<translation id="8241405611628876973">¡Enhorabuena! ¡Tu cartera de brave ya está lista!</translation>
+<translation id="6828327990705355767">Para acceder a tu cartera, basta con hacer clic en el icono de cartera situado en la parte superior derecha de cualquier ventana del navegador brave.</translation>
 <translation id="396152018598329740">¿Cómo funciona una cartera de criptomonedas?</translation>
 <translation id="7512061585041489067">¿Cuál es la mejor cartera de criptomonedas?</translation>
 <translation id="1342755158522323177">¿Qué es un navegador basado en criptomonedas?</translation>
@@ -1357,12 +1357,12 @@ other {# Anuncios por hora}
 <translation id="7328255859839881981">¿Qué son las aplicaciones descentralizadas?</translation>
 <translation id="3852489285890032403">¿Qué es la Web 3?</translation>
 <translation id="5448233694500869445">Hemos detectado la extensión MetaMask en tu navegador</translation>
-<translation id="8436080536329710282">Introduce la contraseña de tu cartera de MetaMask para importarla fácilmente a la cartera de Asil.</translation>
+<translation id="8436080536329710282">Introduce la contraseña de tu cartera de MetaMask para importarla fácilmente a la cartera de brave.</translation>
 <translation id="7543512765962444927">Vincula tu cartera actual</translation>
 <translation id="3551682252653406110">Para vincular una cartera que ya tienes, es posible que debas indicar tu frase de recuperación. En este momento se pueden restaurar/importar carteras de Ethereum y Solana.</translation>
 <translation id="346929827081904572">Restaurar a partir de la frase inicial</translation>
 <translation id="5645597512426471834">12-24 palabras</translation>
-<translation id="8158505311297755780">Escribe la frase de recuperación de 12-24 palabras de tu cartera de Asil.</translation>
+<translation id="8158505311297755780">Escribe la frase de recuperación de 12-24 palabras de tu cartera de brave.</translation>
 <translation id="5419707890586509000">Importar desde MetaMask</translation>
 <translation id="2265945811107390939">Utiliza tu contraseña de MetaMask para importar tu frase inicial</translation>
 <translation id="7060680423657442298">Da igual, voy a crear una nueva cartera</translation>
@@ -1372,14 +1372,14 @@ other {# Anuncios por hora}
 <translation id="6260144012548445299">Más información sobre mi nueva cartera</translation>
 <translation id="8746910870914151528">Cuestiones legales</translation>
 <translation id="5148123176978018397">Acepta lo siguiente:</translation>
-<translation id="6088314935678153800">Entiendo que esta es una cartera de custodia propia, y que yo soy la única persona responsable de cualquier fondo, activo o cuenta asociados. Por tanto, debo tomar las medidas adecuadas para asegurar, proteger y respaldar mi cartera. Entiendo que Asil NO tendrá acceso a mi monedero ni podrá revertir las operaciones en mi nombre, y que mi frase de recuperación es la ÚNICA manera de recuperar el acceso en caso de pérdida de la contraseña, robo del dispositivo o circunstancias similares.</translation>
+<translation id="6088314935678153800">Entiendo que esta es una cartera de custodia propia, y que yo soy la única persona responsable de cualquier fondo, activo o cuenta asociados. Por tanto, debo tomar las medidas adecuadas para asegurar, proteger y respaldar mi cartera. Entiendo que brave NO tendrá acceso a mi monedero ni podrá revertir las operaciones en mi nombre, y que mi frase de recuperación es la ÚNICA manera de recuperar el acceso en caso de pérdida de la contraseña, robo del dispositivo o circunstancias similares.</translation>
 <translation id="7781090633800450517">He leído y acepto las <ph name="LINK_BEFORE"/>Condiciones de uso<ph name="LINK_AFTER"/></translation>
 <translation id="1422451606553326863">Comprar criptomonedas</translation>
 <translation id="3887541341068007345">Comprobando las extensiones de la cartera...</translation>
-<translation id="3567994771568272606">Importar desde carteras de criptomonedas heredadas de Asil</translation>
+<translation id="3567994771568272606">Importar desde carteras de criptomonedas heredadas de brave</translation>
 <translation id="8407091560429310499">Seleccionar un activo</translation>
 <translation id="756590380936155533">Para finalizar la compra <ph name="ASSET_TICKER"/>, selecciona alguno de nuestros socios</translation>
-<translation id="7880860489474966219">Al finalizar, tus fondos se transferirán a tu cartera de Asil</translation>
+<translation id="7880860489474966219">Al finalizar, tus fondos se transferirán a tu cartera de brave</translation>
 <translation id="6182661078713714878">Depositar criptomonedas</translation>
 <translation id="3683305208314702347">Depositar <ph name="VALUE"/></translation>
 <translation id="5768739294929936862">Depositar tokens Solana o SPL</translation>
@@ -1426,7 +1426,7 @@ other {# Anuncios por hora}
 <translation id="3664551680108236020">Una vez que hayas hecho tu primera transacción, podrás verla aquí.</translation>
 <translation id="3033638954295674319">Se ha producido un error al recuperar la información del NFT. Inténtalo de nuevo más tarde.</translation>
 <translation id="2540568096903252632">Introduce una contraseña para continuar</translation>
-<translation id="3356580495013324916">Introduce tu contraseña de Cartera de Asil para empezar a hacer copias de seguridad de la cartera.</translation>
+<translation id="3356580495013324916">Introduce tu contraseña de Cartera de brave para empezar a hacer copias de seguridad de la cartera.</translation>
 <translation id="7545441766078366279">Aprobar <ph name="TOKEN"/></translation>
 <translation id="3115303896544539834">Saldo de <ph name="TOKEN"/> insuficiente</translation>
 <translation id="4937657825850660613">Mitad</translation>
@@ -1442,7 +1442,7 @@ other {# Anuncios por hora}
 <translation id="2538996898605796431">Impacto sobre el precio</translation>
 <translation id="8007404171238546456">Mínimo recibido tras la disminución</translation>
 <translation id="767199001998615704">Cuota de red</translation>
-<translation id="7057870207229052478">Cuota de Asil</translation>
+<translation id="7057870207229052478">Cuota de brave</translation>
 <translation id="3624518972158401291">Gratis</translation>
 <translation id="5038255447967558645">Proveedor de liquidez</translation>
 <translation id="8450638959928932199">Intercambiar &amp; enviar</translation>
@@ -1459,7 +1459,7 @@ other {# Anuncios por hora}
 <translation id="6778140392042462129">Intercambios</translation>
 <translation id="6173494033320397682">Solo ruta directa</translation>
 <translation id="2440960581098655899">Asegura solo el enrutamiento directo y también desactiva el comercio dividido</translation>
-<translation id="6245314729809503023">Asil utiliza los 60 tokens más altos para el enrutamiento intermedio para la optimización del rendimiento</translation>
+<translation id="6245314729809503023">brave utiliza los 60 tokens más altos para el enrutamiento intermedio para la optimización del rendimiento</translation>
 <translation id="2379187373676242615"><ph name="VALUE"/>% más barato que CoinGecko</translation>
 <translation id="5351867352310722022">Dentro del <ph name="VALUE"/>% CoinGecko</translation>
 <translation id="7695501918490163821"><ph name="VALUE"/>% más caro que CoinGecko</translation>
@@ -1467,8 +1467,8 @@ other {# Anuncios por hora}
 <translation id="4029551149873989025">Cambiar red</translation>
 <translation id="7561262633951061138">Mejor</translation>
 <translation id="3143110700666266545">Esta aplicación utiliza las siguientes API de terceros:</translation>
-<translation id="8411419545176806786">El Intercambio de Asil utiliza 0x como agregador DEX para las redes EVM compatibles. 0x procesará la dirección de la cartera Ethereum y la dirección IP para completar una transacción (incluyendo la obtención de cotizaciones). 0x SOLO utilizará estos datos para fines de procesamiento de las transacciones.</translation>
-<translation id="7467728126359974661">El Intercambio de Asil utiliza Jupiter como agregador DEX para la red Solana. Jupiter procesará la dirección de la cartera Solana y la dirección IP para realizar una transacción (incluida la obtención de cotizaciones). Jupiter SOLO utilizará estos datos para fines de procesamiento de las transacciones.</translation>
+<translation id="8411419545176806786">El Intercambio de brave utiliza 0x como agregador DEX para las redes EVM compatibles. 0x procesará la dirección de la cartera Ethereum y la dirección IP para completar una transacción (incluyendo la obtención de cotizaciones). 0x SOLO utilizará estos datos para fines de procesamiento de las transacciones.</translation>
+<translation id="7467728126359974661">El Intercambio de brave utiliza Jupiter como agregador DEX para la red Solana. Jupiter procesará la dirección de la cartera Solana y la dirección IP para realizar una transacción (incluida la obtención de cotizaciones). Jupiter SOLO utilizará estos datos para fines de procesamiento de las transacciones.</translation>
 <translation id="8497751359931572880">Haz clic aquí para ver la Política de privacidad de 0x.</translation>
 <translation id="4904748904130272182">Haz clic aquí para ver la Política de privacidad de Jupiter.</translation>
 <translation id="3155170474926428993">Lanzador de Tor</translation>
@@ -1479,10 +1479,10 @@ other {# Anuncios por hora}
 <translation id="6951743416068151209">URI del proxy Tor</translation>
 <translation id="1671503397662036257">Estado de la conexión de Tor</translation>
 <translation id="6024292492796847324">Progreso de inicialización de Tor</translation>
-<translation id="8300751939969131609">Activa Noticias de Asil para no quedarte fuera de onda</translation>
-<translation id="7758665172236842395">Sigue tus fuentes favoritas en un solo canal. Solo tienes que abrir una pestaña en Asil, desplazarte hacia abajo… ¡y listo!</translation>
-<translation id="2376542729617592331">Noticias de Asil se mantiene con publicidad y muestra anuncios completamente privados y anónimos. <ph name="LINK_START"/>Más información.<ph name="LINK_END"/>.</translation>
-<translation id="1765217911817124376">Activar Noticias de Asil</translation>
+<translation id="8300751939969131609">Activa Noticias de brave para no quedarte fuera de onda</translation>
+<translation id="7758665172236842395">Sigue tus fuentes favoritas en un solo canal. Solo tienes que abrir una pestaña en brave, desplazarte hacia abajo… ¡y listo!</translation>
+<translation id="2376542729617592331">Noticias de brave se mantiene con publicidad y muestra anuncios completamente privados y anónimos. <ph name="LINK_START"/>Más información.<ph name="LINK_END"/>.</translation>
+<translation id="1765217911817124376">Activar Noticias de brave</translation>
 <translation id="780301667611848630">No, gracias</translation>
 <translation id="6265592479622441247">Volver al <ph name="BEGIN_BOLD"/>panel de control<ph name="END_BOLD"/></translation>
 <translation id="8981973962043893066">Busca sitios web, temas o canales de RSS</translation>
@@ -1503,11 +1503,11 @@ other {# Anuncios por hora}
 <translation id="3225021799163709119">Populares</translation>
 <translation id="7436846601026966360">Algunas fuentes que podrían gustarte. Las sugerencias son anónimas y se ajustan únicamente a tu dispositivo.</translation>
 <translation id="7950715913905993008">Vaya…</translation>
-<translation id="7158100730468448581">Noticias de Asil no ha podido recuperar el contenido.</translation>
+<translation id="7158100730468448581">Noticias de brave no ha podido recuperar el contenido.</translation>
 <translation id="254100925533869330">No hay contenido</translation>
-<translation id="7172792761509429092">Noticias de Asil no tiene ningún contenido que mostrar.</translation>
+<translation id="7172792761509429092">Noticias de brave no tiene ningún contenido que mostrar.</translation>
 <translation id="1771307734839364850">Elige fuentes de contenido</translation>
-<translation id="939305735877869636">Asil</translation>
+<translation id="939305735877869636">brave</translation>
 <translation id="6261915643960475695">Negocios</translation>
 <translation id="8265589281845759879">Coches</translation>
 <translation id="7577010593836079522">Cultura</translation>
@@ -1534,14 +1534,14 @@ other {# Anuncios por hora}
 <translation id="1297570508541015874">Noticias de Estados Unidos</translation>
 <translation id="1459693405370120464">Tiempo</translation>
 <translation id="8366057325711477500">Noticias internacionales</translation>
-<translation id="6303294677342628402">Escudos Asil</translation>
-<translation id="8458987127502506209">Habilitar Protecciones de Asil</translation>
+<translation id="6303294677342628402">Escudos brave</translation>
+<translation id="8458987127502506209">Habilitar Protecciones de brave</translation>
 <translation id="7509914170164691086">Las protecciones están ACTIVADAS <ph name="LINK_BEFORE"/>durante<ph name="LINK_AFTER"/></translation>
 <translation id="260764436039299868">Las protecciones están DESACTIVADAS <ph name="LINK_BEFORE"/>durante<ph name="LINK_AFTER"/></translation>
 <translation id="3907405056878805220">Si el sitio no funciona, prueba a desactivar Protecciones. 
-    <ph name="LINK_BEFORE"/>Nota: esto puede reducir la protección de la privacidad de Asil.<ph name="LINK_AFTER"/></translation>
+    <ph name="LINK_BEFORE"/>Nota: esto puede reducir la protección de la privacidad de brave.<ph name="LINK_AFTER"/></translation>
 <translation id="8377155647357436161">Se han bloqueado rastreadores y anuncios, entre otras cosas <ph name="LINK_BEFORE"/>Más información<ph name="LINK_AFTER"/></translation>
-<translation id="7604553853176833536">Sin la protección de Protecciones de Asil <ph name="LINK_BEFORE"/>Más información<ph name="LINK_AFTER"/></translation>
+<translation id="7604553853176833536">Sin la protección de Protecciones de brave <ph name="LINK_BEFORE"/>Más información<ph name="LINK_AFTER"/></translation>
 <translation id="650318023204990401">Controles avanzados</translation>
 <translation id="5799940914270080805">Si se modificase esta configuración, los sitios podrían dejar de funcionar.</translation>
 <translation id="9204041448536398473">Configuración global de Protecciones</translation>
@@ -1565,38 +1565,38 @@ other {# Anuncios por hora}
 <translation id="8034285923190068220">Permitir huellas dactilares</translation>
 <translation id="1992750560347846445">Informar sobre el sitio</translation>
 <translation id="2387532482048804818">Dinos si el sitio no funcionó como es debido con las protecciones activadas.</translation>
-<translation id="3795015906457257780">Estás consultando este sitio sin las protecciones de privacidad de Asil.</translation>
-<translation id="7194012750329511146">Protecciones de Asil
+<translation id="3795015906457257780">Estás consultando este sitio sin las protecciones de privacidad de brave.</translation>
+<translation id="7194012750329511146">Protecciones de brave
 Se han bloqueado <ph name="NUMBER"/> rastreadores, anuncios y otros elementos</translation>
 <translation id="4292121526390005808">Scripts bloqueados</translation>
 <translation id="264682546981571963">¿Ya te aburren los avisos de consentimiento de cookies?</translation>
-<translation id="4986297793092101884">Asil ya bloquea las cookies de terceros. También podemos bloquear los avisos de consentimiento de cookies.</translation>
+<translation id="4986297793092101884">brave ya bloquea las cookies de terceros. También podemos bloquear los avisos de consentimiento de cookies.</translation>
 <translation id="535688588637568715">Sí, bloquear los avisos de consentimiento de cookies</translation>
-<translation id="2808175374672429053">No se admiten comodines para los Escudos de Asil.</translation>
+<translation id="2808175374672429053">No se admiten comodines para los Escudos de brave.</translation>
 <translation id="6294662480095808915">Privacidad por defecto.</translation>
-<translation id="4366423156486478559">Benefíciate de la protección de Asil cada vez que hagas clic en algún enlace. Para navegar de forma privada, lo único que tienes que hacer es configurar Asil como navegador predeterminado.</translation>
+<translation id="4366423156486478559">Benefíciate de la protección de brave cada vez que hagas clic en algún enlace. Para navegar de forma privada, lo único que tienes que hacer es configurar brave como navegador predeterminado.</translation>
 <translation id="3830912418080848377">Importar configuración</translation>
 <translation id="6378406588483694938">Importa fácilmente los marcadores, las extensiones e incluso las contraseñas guardadas de tu antiguo navegador.</translation>
 <translation id="2092825239819166928">Selecciona un perfil para importar</translation>
 <translation id="4763127492635705340">El navegador que has elegido tiene varios perfiles. Selecciona cuál(es) quieres importar.</translation>
 <translation id="880174232178865598">Importar perfiles</translation>
 <translation id="2453860139492968684">Finalizar</translation>
-<translation id="2273851479262317744">Configura Asil como navegador predeterminado</translation>
+<translation id="2273851479262317744">Configura brave como navegador predeterminado</translation>
 <translation id="5037676449506322593">Seleccionar todo</translation>
-<translation id="5148943178722443958">Ayuda a mejorar Asil.</translation>
+<translation id="5148943178722443958">Ayuda a mejorar brave.</translation>
 <translation id="1097073572755862978">Envía informes de diagnóstico si sufres algún fallo o bloqueo. <ph name="LINK_BEFORE"/>Más información.<ph name="LINK_AFTER"/></translation>
-<translation id="5099408825243658796">Comparte de forma totalmente privada y anónima tu opinión sobre las funciones que utilizan los usuarios de Asil. <ph name="LINK_BEFORE"/>Más información.<ph name="LINK_AFTER"/></translation>
+<translation id="5099408825243658796">Comparte de forma totalmente privada y anónima tu opinión sobre las funciones que utilizan los usuarios de brave. <ph name="LINK_BEFORE"/>Más información.<ph name="LINK_AFTER"/></translation>
 <translation id="7415454883318062233">Configuración completada</translation>
-<translation id="3141206739023333979">Puedes cambiar estas opciones cuando quieras en la sección <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/> de Asil.</translation>
+<translation id="3141206739023333979">Puedes cambiar estas opciones cuando quieras en la sección <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/> de brave.</translation>
 <translation id="8321985064212130832">Lee nuestra <ph name="LINK_BEFORE"/>Política de privacidad<ph name="LINK_AFTER"/> de principio a fin</translation>
 <translation id="2801098717523961746">Seleccione su tema</translation>
-<translation id="6262510489122516114">Puedes cambiar esto en cualquier momento en los ajustes de Asil.</translation>
+<translation id="6262510489122516114">Puedes cambiar esto en cualquier momento en los ajustes de brave.</translation>
 <translation id="546481172717459539">Adaptarse a los ajustes del sistema</translation>
 <translation id="7799817062559422778">Modo claro</translation>
 <translation id="4117637339509843559">Modo oscuro</translation>
-<translation id="7821773512278295352">Firewall + VPN de Asil: conectado</translation>
-<translation id="6019088868713395120">Firewall + VPN de Asil: desconectado</translation>
-<translation id="3541307549916475335">IU del panel de VPN de Asil</translation>
+<translation id="7821773512278295352">Firewall + VPN de brave: conectado</translation>
+<translation id="6019088868713395120">Firewall + VPN de brave: desconectado</translation>
+<translation id="3541307549916475335">IU del panel de VPN de brave</translation>
 <translation id="1742469581923031760">Conectando…</translation>
 <translation id="1287487756047817908">Desconectando…</translation>
 <translation id="2325196879156848326">Error al establecer la conexión</translation>
@@ -1618,7 +1618,7 @@ Se han bloqueado <ph name="NUMBER"/> rastreadores, anuncios y otros elementos</t
 <translation id="8463313539532697053">Espera a que se cargue…</translation>
 <translation id="4317307602527599178">No se puede comprobar el estado de tu compra, posiblemente debido a un problema con la red.</translation>
 <translation id="4613076894734402086">Editar forma de pago</translation>
-<translation id="8373427068383038263">Parece que el pago más reciente de <ph name="VALUE"/> no se ha procesado. El acceso a esta suscripción se pondrá en pausa hasta que se resuelva el problema con el pago. Intenta editar el método de pago o contacta con el equipo de asistencia de Asil.</translation>
+<translation id="8373427068383038263">Parece que el pago más reciente de <ph name="VALUE"/> no se ha procesado. El acceso a esta suscripción se pondrá en pausa hasta que se resuelva el problema con el pago. Intenta editar el método de pago o contacta con el equipo de asistencia de brave.</translation>
 <translation id="1839021455997460752">Tu dirección de correo electrónico</translation>
 <translation id="8054563304616131773">Introduce una dirección de correo electrónico válida</translation>
 <translation id="5154702632169343078">Asunto</translation>
@@ -1636,12 +1636,12 @@ Se han bloqueado <ph name="NUMBER"/> rastreadores, anuncios y otros elementos</t
 <translation id="6676791921618140305">Versión de SO:</translation>
 <translation id="1156325797949437777">Asistencia proporcionada con la ayuda de Guardian.</translation>
 <translation id="8146777497879160283">Error al redactar la configuración de la VPN. Puede deberse a la falta de permisos o a que no has ejecutado Windows Update recientemente.</translation>
-<translation id="3307461350293459700">Error al conectar con la VPN. Vuelve a intentarlo y procura hacer clic en "Permitir" para habilitar la configuración de VPN de Asil.</translation>
-<translation id="7261518280726313829">Si desactivas la configuración segura del DNS o utilizas los servidores predeterminados de Windows, es posible que tu proveedor de acceso a Internet vea los nombres de los sitios que visitas, y eso es algo que Asil no recomienda. ¿Quieres hacerlo de todos modos?</translation>
-<translation id="888284761945060750">La configuración segura del DNS está desactivada conforme a las políticas de tu organización. Si usas VPN de Asil sin la configuración segura del DNS, es posible que tanto tu proveedor de acceso a Internet como tu organización vean los nombres de los sitios que visitas.</translation>
-<translation id="6593224083874259773">VPN de Asil en Windows</translation>
-<translation id="3153983908111684619">Los ajustes estarán bloqueados mientras esté conectada la VPN de Asil</translation>
-<translation id="6507543978646831931">Windows tiene una función llamada "Resolución inteligente de nombres de hosts múltiples" que puede exponer información sobre tu ubicación y los sitios que visitas. Dado que has habilitado la VPN de Asil, hemos cambiado los ajustes de DNS en el navegador para protegerte de esta exposición. Los ajustes se mantendrán bloqueados mientras esté conectada la VPN. <ph name="LEARN_MORE"/></translation>
+<translation id="3307461350293459700">Error al conectar con la VPN. Vuelve a intentarlo y procura hacer clic en "Permitir" para habilitar la configuración de VPN de brave.</translation>
+<translation id="7261518280726313829">Si desactivas la configuración segura del DNS o utilizas los servidores predeterminados de Windows, es posible que tu proveedor de acceso a Internet vea los nombres de los sitios que visitas, y eso es algo que brave no recomienda. ¿Quieres hacerlo de todos modos?</translation>
+<translation id="888284761945060750">La configuración segura del DNS está desactivada conforme a las políticas de tu organización. Si usas VPN de brave sin la configuración segura del DNS, es posible que tanto tu proveedor de acceso a Internet como tu organización vean los nombres de los sitios que visitas.</translation>
+<translation id="6593224083874259773">VPN de brave en Windows</translation>
+<translation id="3153983908111684619">Los ajustes estarán bloqueados mientras esté conectada la VPN de brave</translation>
+<translation id="6507543978646831931">Windows tiene una función llamada "Resolución inteligente de nombres de hosts múltiples" que puede exponer información sobre tu ubicación y los sitios que visitas. Dado que has habilitado la VPN de brave, hemos cambiado los ajustes de DNS en el navegador para protegerte de esta exposición. Los ajustes se mantendrán bloqueados mientras esté conectada la VPN. <ph name="LEARN_MORE"/></translation>
 <translation id="1657858090675311947">No volver a advertirme acerca de esto.</translation>
 <translation id="2740531572673183784">Ok</translation>
 <translation id="9061845622728745852">Zona horaria:</translation>

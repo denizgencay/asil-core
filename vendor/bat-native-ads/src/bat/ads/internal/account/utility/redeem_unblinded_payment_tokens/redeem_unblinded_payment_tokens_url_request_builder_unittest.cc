@@ -140,7 +140,7 @@ TEST_F(BatAdsRedeemUnblindedPaymentTokensUrlRequestBuilderTest,
             "https://mywallet.ads.bravesoftware.com/v3/confirmation/payment/"
             "27a39b2f-9b2e-4eb0-bbb2-2f84447496e7");
         expected_url_request->headers = {
-            "Via: 1.1 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+            "Via: 1.1 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
             "accept: application/json"};
         expected_url_request->content =
             base::StringPrintf(kExpectedUrlRequestContent, "guest");
@@ -187,7 +187,7 @@ TEST_F(BatAdsRedeemUnblindedPaymentTokensUrlRequestBuilderTest,
             "https://mywallet.ads.bravesoftware.com/v3/confirmation/payment/"
             "27a39b2f-9b2e-4eb0-bbb2-2f84447496e7");
         expected_url_request->headers = {
-            "Via: 1.0 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+            "Via: 1.0 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
             "accept: application/json"};
         expected_url_request->content =
             base::StringPrintf(kExpectedUrlRequestContent, "host");

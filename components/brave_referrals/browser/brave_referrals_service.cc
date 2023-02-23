@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -165,8 +165,8 @@ std::string BuildReferralEndpoint(const std::string& path) {
 
 BraveReferralsHeaders::BraveReferralsHeaders() {
   // NOTE TO READER: This header is for partners to determine the browser is
-  // Asil without creating webcompat issues by creating a new user-agent.
-  // All Asil users send the exact same header and so this cannot be used for
+  // brave without creating webcompat issues by creating a new user-agent.
+  // All brave users send the exact same header and so this cannot be used for
   // tracking individual users. See
   // https://github.com/brave/brave-browser/wiki/Custom-Headers for more
   // information. Custom headers are deprecated and new partners use the
@@ -565,13 +565,13 @@ void BraveReferralsService::InitReferral() {
       net::DefineNetworkTrafficAnnotation("brave_referral_initializer", R"(
         semantics {
           sender:
-            "Asil Referrals Service"
+            "brave Referrals Service"
           description:
-            "Validates the current referral offer with Asil, potentially "
+            "Validates the current referral offer with brave, potentially "
             "unlocking special features and/or services."
           trigger:
-            "On startup, sends the current referral code to Asil."
-          data: "Asil referral metadata."
+            "On startup, sends the current referral code to brave."
+          data: "brave referral metadata."
           destination: WEBSITE
         }
         policy {
@@ -635,12 +635,12 @@ void BraveReferralsService::CheckForReferralFinalization() {
                                           R"(
         semantics {
           sender:
-            "Asil Referrals Service"
+            "brave Referrals Service"
           description:
-            "Fetches referral finalization data from Asil."
+            "Fetches referral finalization data from brave."
           trigger:
             ""
-          data: "Asil referral finalization status."
+          data: "brave referral finalization status."
           destination: WEBSITE
         }
         policy {

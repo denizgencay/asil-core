@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -27,7 +27,7 @@ constexpr char kResourceIdPath[] = "id";
 constexpr char kResourceFilenamePath[] = "filename";
 constexpr char kResourceVersionPath[] = "version";
 
-constexpr char kComponentName[] = "Asil Ads Resources (%s)";
+constexpr char kComponentName[] = "brave Ads Resources (%s)";
 
 constexpr base::FilePath::CharType kManifestFile[] =
     FILE_PATH_LITERAL("resources.json");

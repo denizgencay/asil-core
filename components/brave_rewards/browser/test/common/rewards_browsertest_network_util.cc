@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -130,7 +130,7 @@ std::string GetUpholdCard(
         "balance": "%s",
         "currency": "BAT",
         "id": "%s",
-        "label": "Asil Browser",
+        "label": "brave Browser",
         "lastTransactionAt": null,
         "settings": {
           "position": 31,
@@ -173,7 +173,7 @@ std::string GetOrderCreateResponse(ledger::mojom::SKUOrderPtr sku_order) {
         "currency": "BAT",
         "updatedAt": "2020-04-08T08:22:26.288974Z",
         "totalPrice": "%g",
-        "location": "asil.com",
+        "location": "brave.com",
         "status": "pending",
         "items": [%s]
       })",

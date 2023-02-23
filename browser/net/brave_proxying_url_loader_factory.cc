@@ -1,4 +1,4 @@
-/* Copyright 2019 The Asil Authors. All rights reserved.
+/* Copyright 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -258,7 +258,7 @@ void BraveProxyingURLLoaderFactory::InProgressRequest::OnTransferSizeUpdated(
 
 void BraveProxyingURLLoaderFactory::InProgressRequest::OnComplete(
     const network::URLLoaderCompletionStatus& status) {
-  UMA_HISTOGRAM_TIMES("Asil.ProxyingURLLoader.TotalRequestTime",
+  UMA_HISTOGRAM_TIMES("brave.ProxyingURLLoader.TotalRequestTime",
                       base::TimeTicks::Now() - start_time_);
   if (status.error_code != net::OK) {
     OnRequestError(status);

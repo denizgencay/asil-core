@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -29,7 +29,7 @@ std::string GetHostname() {
       base::CommandLine::ForCurrentProcess()->GetSwitchValueASCII(
           switches::kBraveTodayHost);
   if (from_switch.empty()) {
-    return "brave-today-cdn.asil.com";
+    return "brave-today-cdn.brave.com";
   } else {
     return from_switch;
   }

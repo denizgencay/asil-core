@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -42,11 +42,11 @@ using RequestExpectationsCallback =
 namespace {
 
 const char kEmbeddedTestServerDirectory[] = "brave-search";
-const char kAllowedDomain[] = "search.asil.com";
+const char kAllowedDomain[] = "search.brave.com";
 const char kAllowedDomainDev[] = "search.brave.software";
-const char kNotAllowedDomain[] = "asil.com";
+const char kNotAllowedDomain[] = "brave.com";
 const char kBraveSearchPath[] = "/bravesearch.html";
-const char kAdsStatusHeaderName[] = "X-Asil-Ads-Enabled";
+const char kAdsStatusHeaderName[] = "X-brave-Ads-Enabled";
 const char kAdsStatusHeaderValue[] = "1";
 const char kBackupSearchContent[] = "<html><body>results</body></html>";
 const char kScriptDefaultAPIExists[] =
@@ -106,7 +106,7 @@ class BraveSearchTest : public InProcessBrowserTest {
     brave_search::BraveSearchFallbackHost::SetBackupProviderForTest(url);
 
     // Force default search engine to Google
-    // Some tests will fail if Asil is default
+    // Some tests will fail if brave is default
     auto* template_url_service =
         TemplateURLServiceFactory::GetForProfile(browser()->profile());
     TemplateURL* google = template_url_service->GetTemplateURLForKeyword(u":g");

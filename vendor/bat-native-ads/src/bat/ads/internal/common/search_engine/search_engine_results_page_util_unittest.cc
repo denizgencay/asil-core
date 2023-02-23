@@ -29,7 +29,7 @@ TEST(BatAdsSearchEngineResultsPageUtilTest, IsSearchEngineResultsPage) {
 
 TEST(BatAdsSearchEngineResultsPageUtilTest, IsNotSearchEngineResultsPage) {
   // Arrange
-  const GURL url = GURL("https://asil.com/");
+  const GURL url = GURL("https://brave.com/");
 
   // Act
   const bool is_search_engine_result_page = IsSearchEngineResultsPage(url);

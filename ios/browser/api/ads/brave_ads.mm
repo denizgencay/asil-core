@@ -984,7 +984,7 @@ ads::mojom::DBCommandResponseInfoPtr RunDBTransactionOnTaskRunner(
                    });
   };
 
-  NSString* baseUrl = @"https://brave-user-model-installer-input.s3.asil.com";
+  NSString* baseUrl = @"https://brave-user-model-installer-input.s3.brave.com";
   const auto flags = brave_rewards::RewardsFlags::ForCurrentProcess();
   if (flags.environment) {
     switch (*flags.environment) {

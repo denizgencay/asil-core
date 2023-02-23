@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -108,7 +108,7 @@ constexpr base::TimeDelta kRestartBatAdsServiceDelay = base::Seconds(10);
 constexpr unsigned int kMaximumNumberOfTimesToRetryNetworkRequests = 1;
 constexpr int kHttpUpgradeRequiredStatusResponseCode = 426;
 
-constexpr char kNotificationAdUrlPrefix[] = "https://www.asil.com/ads/?";
+constexpr char kNotificationAdUrlPrefix[] = "https://www.brave.com/ads/?";
 
 BASE_FEATURE(kServing, "AdServing", base::FEATURE_ENABLED_BY_DEFAULT);
 
@@ -180,9 +180,9 @@ bool DeletePathOnFileTaskRunner(const base::FilePath& path) {
 net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotationTag() {
   return net::DefineNetworkTrafficAnnotation("ads_service_impl", R"(
       semantics {
-        sender: "Asil Ads Service"
+        sender: "brave Ads Service"
         description:
-          "This service is used to communicate with Asil servers "
+          "This service is used to communicate with brave servers "
           "to send and retrieve information for Ads."
         trigger:
           "Triggered by user viewing ads or at various intervals."
@@ -1015,14 +1015,14 @@ void AdsServiceImpl::OnURLRequest(
 }
 
 bool AdsServiceImpl::IsUpgradingFromPreBraveAdsBuild() {
-  // Asil ads was hidden in 0.62.x however due to a bug |prefs::kEnabled| was
+  // brave ads was hidden in 0.62.x however due to a bug |prefs::kEnabled| was
   // set to true causing "https://github.com/brave/brave-browser/issues/5434"
 
   // |prefs::kIdleTimeThreshold| was not serialized in 0.62.x
 
   // |prefs::kVersion| was introduced in 0.63.x
 
-  // We can detect if we are upgrading from a pre Asil ads build by checking
+  // We can detect if we are upgrading from a pre brave ads build by checking
   // |prefs::kEnabled| is set to true, |prefs::kIdleTimeThreshold| does not
   // exist, |prefs::kVersion| does not exist and it is not the first time the
   // browser has run for this user
@@ -1038,7 +1038,7 @@ bool AdsServiceImpl::IsUpgradingFromPreBraveAdsBuild() {
 void AdsServiceImpl::MigratePrefs() {
   is_upgrading_from_pre_brave_ads_build_ = IsUpgradingFromPreBraveAdsBuild();
   if (is_upgrading_from_pre_brave_ads_build_) {
-    VLOG(2) << "Migrating ads preferences from pre Asil Ads build";
+    VLOG(2) << "Migrating ads preferences from pre brave Ads build";
 
     // Force migration of preferences from version 1 if
     // |is_upgrading_from_pre_brave_ads_build_| is set to true to fix
@@ -1288,7 +1288,7 @@ void AdsServiceImpl::MigratePrefsVersion6To7() {
       base::Contains(legacy_country_codes, country_code);
 
   if (is_a_legacy_country_code) {
-    // Do not disable Asil Ads for legacy country codes introduced before
+    // Do not disable brave Ads for legacy country codes introduced before
     // version 1.3.x
     return;
   }
@@ -1297,7 +1297,7 @@ void AdsServiceImpl::MigratePrefsVersion6To7() {
       GetIntegerPref(prefs::kSupportedCountryCodesLastSchemaVersion);
 
   if (last_schema_version >= 4) {
-    // Do not disable Asil Ads if |kSupportedCountryCodesLastSchemaVersion|
+    // Do not disable brave Ads if |kSupportedCountryCodesLastSchemaVersion|
     // is newer than or equal to schema version 4. This can occur if a user is
     // upgrading from an older version of 1.3.x or above
     return;

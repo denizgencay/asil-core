@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -50,7 +50,7 @@ TEST_F(NTPBackgroundImagesSourceTest, SponsoredImagesTest) {
           "imageUrl": "logo.png",
           "alt": "Technikke: For music lovers",
           "companyName": "Technikke",
-          "destinationUrl": "https://www.asil.com/?from-super-referreer-demo"
+          "destinationUrl": "https://www.brave.com/?from-super-referreer-demo"
         },
         "wallpapers": [
           {
@@ -106,32 +106,32 @@ TEST_F(NTPBackgroundImagesSourceTest, BackgroundImagesTest) {
           {
             "name": "background-1.jpg",
             "source": "brave-bg-1.webp",
-            "author": "Asil software",
-            "link": "https://www.asil.com/",
+            "author": "brave software",
+            "link": "https://www.brave.com/",
             "originalUrl": "Contributor sent the hi-res version",
             "license": "used with permission"
           },
           {
             "name": "background-2.jpg",
             "source": "brave-bg-2.webp",
-            "author": "Asil software",
-            "link": "https://www.asil.com/",
+            "author": "brave software",
+            "link": "https://www.brave.com/",
             "originalUrl": "Contributor sent the hi-res version",
             "license": "used with permission"
           },
           {
             "name": "background-3.jpg",
             "source": "brave-bg-3.webp",
-            "author": "Asil software",
-            "link": "https://www.asil.com/",
+            "author": "brave software",
+            "link": "https://www.brave.com/",
             "originalUrl": "Contributor sent the hi-res version",
             "license": "used with permission"
           },
           {
             "name": "background-4.jpg",
             "source": "brave-bg-4.webp",
-            "author": "Asil software",
-            "link": "https://www.asil.com/",
+            "author": "brave software",
+            "link": "https://www.brave.com/",
             "originalUrl": "Contributor sent the hi-res version",
             "license": "used with permission"
           }
@@ -157,7 +157,7 @@ TEST_F(NTPBackgroundImagesSourceTest, BasicSuperReferralDataTest) {
           "imageUrl": "logo.png",
           "alt": "Technikke: For music lovers",
           "companyName": "Technikke",
-          "destinationUrl": "https://www.asil.com/?from-super-referreer-demo"
+          "destinationUrl": "https://www.brave.com/?from-super-referreer-demo"
         },
         "wallpapers": [
           {
@@ -174,8 +174,8 @@ TEST_F(NTPBackgroundImagesSourceTest, BasicSuperReferralDataTest) {
         ],
         "topSites": [
           {
-            "name": "Asil",
-            "destinationUrl": "https://asil.com/",
+            "name": "brave",
+            "destinationUrl": "https://brave.com/",
             "iconUrl": "brave.png"
           },
           {

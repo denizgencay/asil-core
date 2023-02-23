@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -17,9 +17,9 @@
 
 namespace settings {
 
-// This class checks whether Asil has full disk access permission to import
+// This class checks whether brave has full disk access permission to import
 // safari data on macOS. ImportDataHandler::StartImport() will be run after
-// checking disk access permission. If Asil doesn't have that permission, this
+// checking disk access permission. If brave doesn't have that permission, this
 // will launch tab modal dialog to notify users about this lack of permission.
 
 // We should display tab modal dialog after import dialog is closed from webui.

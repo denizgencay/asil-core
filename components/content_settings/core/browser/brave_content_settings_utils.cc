@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -110,7 +110,7 @@ absl::optional<ContentSettingsPattern> ConvertPatternToWildcardSchemeAndPort(
   return new_pattern;
 }
 
-// Returns the full path in the user preferences store to the Asil Shields
+// Returns the full path in the user preferences store to the brave Shields
 // setting identified by it's name (i.e. |name|).
 std::string GetShieldsSettingUserPrefsPath(const std::string& name) {
   return std::string("profile.content_settings.exceptions.").append(name);

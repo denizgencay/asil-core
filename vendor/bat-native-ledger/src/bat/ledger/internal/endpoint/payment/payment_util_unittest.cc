@@ -33,7 +33,7 @@ TEST(PaymentUtilTest, GetServerUrlStaging) {
 TEST(PaymentUtilTest, GetServerUrlProduction) {
   ledger::_environment = mojom::Environment::PRODUCTION;
   const std::string url = GetServerUrl("/test");
-  ASSERT_EQ(url, "https://payment.rewards.asil.com/test");
+  ASSERT_EQ(url, "https://payment.rewards.brave.com/test");
 }
 
 }  // namespace payment

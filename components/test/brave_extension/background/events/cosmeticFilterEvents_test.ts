@@ -14,9 +14,9 @@ describe('cosmeticFilterEvents events', () => {
   describe('when runtime.onMessage is received', () => {
     describe('contextMenuOpened', () => {
       it('assigns the base URI', () => {
-        chrome.runtime.sendMessage({ type: 'contextMenuOpened', baseURI: 'asil.com' },
+        chrome.runtime.sendMessage({ type: 'contextMenuOpened', baseURI: 'brave.com' },
         () => {
-          expect(cosmeticFilterEvents.rule.host).toBe('asil.com')
+          expect(cosmeticFilterEvents.rule.host).toBe('brave.com')
         })
       })
     })
@@ -44,7 +44,7 @@ describe('cosmeticFilterEvents events', () => {
 
     describe('addBlockElement', function () {
       it('triggers addBlockElement action (query call)', function () {
-        const info: chrome.contextMenus.OnClickData = { menuItemId: 'elementPickerMode', editable: false, pageUrl: 'asil.com' }
+        const info: chrome.contextMenus.OnClickData = { menuItemId: 'elementPickerMode', editable: false, pageUrl: 'brave.com' }
         // calls query
         const tab: chrome.tabs.Tab = {
           id: 3,
@@ -73,7 +73,7 @@ describe('cosmeticFilterEvents events', () => {
         })
         it('calls `chrome.tabs.insertCSS` with cosmetic filter rule', function () {
           selectorToReturn = '#test_selector'
-          cosmeticFilterEvents.applyCosmeticFilter('asil.com', selectorToReturn)
+          cosmeticFilterEvents.applyCosmeticFilter('brave.com', selectorToReturn)
           let returnObj = {
             'code': '#test_selector {display: none !important;}',
             'cssOrigin': 'user'

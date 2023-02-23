@@ -7,7 +7,7 @@ index c331a7935eb07152c706c7e2bfc20cd29a33dfd2..ac96cd2f13420e73da455728a3f21e9f
  
    static const char kDownloadServerUrl[] =
 -      "https://redirector.gvt1.com/edgedl/chrome/dict/";
-+      "https://dict.asil.com/edgedl/chrome/dict/";
++      "https://dict.brave.com/edgedl/chrome/dict/";
  
    return GURL(std::string(kDownloadServerUrl) +
                base::ToLowerASCII(bdict_file));

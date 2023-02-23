@@ -1,4 +1,4 @@
-// Copyright 2019 The Asil Authors. All rights reserved.
+// Copyright 2019 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -29,13 +29,13 @@ TEST(ProfileUtilTest, BraveAvatarIconChoices) {
       profiles::kBraveDefaultAvatarIconsCount;
   const size_t actual_selectable_avatar_count = avatars.size();
 
-  // Avatars are Asil's, not Chromium's
+  // Avatars are brave's, not Chromium's
   EXPECT_EQ(actual_selectable_avatar_count,
       expected_selectable_avatar_count);
 }
 
 TEST(ProfileUtilTest, RandomIconNeverFirstIcon) {
-  // Test that for Asil, a call to get a random
+  // Test that for brave, a call to get a random
   // avatar icon will *never* get the placeholder icon.
 
   // Unfortunately this uses an implementation detail that may change,

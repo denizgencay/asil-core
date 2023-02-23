@@ -21,14 +21,14 @@
 <translation id="1113597929977215864">Näytä yksinkertaistettu näkymä</translation>
 <translation id="8577410793886633063">Braven käyttösi, valitsemasi asetukset, tiedot Braven kaatumisista</translation>
 <translation id="4470276443668654888">Google Payn maksutapoja ja osoitteita ei salata. Braven selaushistoriaa ei synkronoida.
-Salatun datasi voi lukea vain tunnuslauseen avulla. Tunnuslausetta ei lähetetä Bravelle eikä Asil tallenna sitä. Jos unohdat tunnuslauseesi tai haluat muuttaa asetusta, synkronointi on nollattava. <ph name="BEGIN_LINK"/>Lue lisää<ph name="END_LINK"/></translation>
+Salatun datasi voi lukea vain tunnuslauseen avulla. Tunnuslausetta ei lähetetä Bravelle eikä brave tallenna sitä. Jos unohdat tunnuslauseesi tai haluat muuttaa asetusta, synkronointi on nollattava. <ph name="BEGIN_LINK"/>Lue lisää<ph name="END_LINK"/></translation>
 <translation id="1295971429974142731">Ei suojaa sinua vaarallisilta sivustoilta, latauksilta ja laajennuksilta. Voit silti käyttää Selaussuojaa muissa Braven palveluissa, joissa se on saatavilla, kuten Gmailissa ja Haussa.</translation>
 <translation id="1129510026454351943">Tiedot: <ph name="ERROR_DESCRIPTION"/></translation>
 <translation id="1142732900304639782">Älä ehdota näiden sivustojen kääntämistä</translation>
 <translation id="1145536944570833626">Poistaa olemassa olevat tiedot.</translation>
 <translation id="1146678959555564648">Siirry VR-tilaan</translation>
 <translation id="1149401351239820326">Viimeinen voimassaolokuukausi</translation>
-<translation id="7083341910267693582"><ph name="APP_NAME"/> avautuu Bravessa. Jatkamalla hyväksyt <ph name="BEGIN_LINK1"/>Braven käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Braven ja Asil-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>.</translation>
+<translation id="7083341910267693582"><ph name="APP_NAME"/> avautuu Bravessa. Jatkamalla hyväksyt <ph name="BEGIN_LINK1"/>Braven käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Braven ja brave-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>.</translation>
 <translation id="1154704303112745282">Sivu ei saatavilla offline-tilassa: <ph name="VIOLATED_URL"/></translation>
 <translation id="1173894706177603556">Muuta nimeä</translation>
 <translation id="1177863135347784049">Muokattu</translation>
@@ -38,7 +38,7 @@ Salatun datasi voi lukea vain tunnuslauseen avulla. Tunnuslausetta ei lähetetä
 <translation id="1201402288615127009">Seuraava</translation>
 <translation id="1202892408424955784">Seuratut tuotteet</translation>
 <translation id="1204037785786432551">Lataa linkin kohde</translation>
-<translation id="7196655759099928465">Asil-toimintopainike: <ph name="ACTION"/></translation>
+<translation id="7196655759099928465">brave-toimintopainike: <ph name="ACTION"/></translation>
 <translation id="1206892813135768548">Kopioi linkin teksti</translation>
 <translation id="1208340532756947324">Ota synkronointi käyttöön, niin sisältö synkronoidaan ja yksilöidään eri laitteilla</translation>
 <translation id="1209206284964581585">Piilota toistaiseksi</translation>
@@ -53,7 +53,7 @@ Salatun datasi voi lukea vain tunnuslauseen avulla. Tunnuslausetta ei lähetetä
 <translation id="1242883863226959074">laitteella</translation>
 <translation id="124678866338384709">Sulje nykyinen välilehti</translation>
 <translation id="1246905108078336582">Poistetaanko ehdotus leikepöydältä?</translation>
-<translation id="1996480094660735607">Asil-piirros: <ph name="DOODLE_DESCRIPTION"/></translation>
+<translation id="1996480094660735607">brave-piirros: <ph name="DOODLE_DESCRIPTION"/></translation>
 <translation id="1263231323834454256">Lukulista</translation>
 <translation id="1266864766717917324">Jakaminen epäonnistui: <ph name="CONTENT_TYPE"/></translation>
 <translation id="1283039547216852943">Laajenna napauttamalla.</translation>
@@ -113,9 +113,9 @@ Kun poistat selaushistorian (kokonaan tai vain tietyn sivuston osalta), poistat 
 <translation id="1518421282666914498">Tunne-GIF <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="1521774566618522728">Aktiivinen tänään</translation>
 <translation id="1538801903729528855">Käytä verkkoa sujuvammin äänikomennoilla</translation>
-<translation id="8090895580117672212">Voit ylläpitää Asil-tiliäsi napauttamalla Ylläpidä tiliä ‑painiketta</translation>
+<translation id="8090895580117672212">Voit ylläpitää brave-tiliäsi napauttamalla Ylläpidä tiliä ‑painiketta</translation>
 <translation id="1549000191223877751">Siirrä toiseen ikkunaan</translation>
-<translation id="1705567146636171298">Päivitä Asil</translation>
+<translation id="1705567146636171298">Päivitä brave</translation>
 <translation id="1571304935088121812">Kopioi käyttäjänimi</translation>
 <translation id="1592864538817356322">Perustason suojaus:</translation>
 <translation id="1594635596540195766">Alla olevassa listassa on <ph name="SUGGESTIONS_COUNT"/> suositeltua kohdetta.</translation>
@@ -136,7 +136,7 @@ Kun poistat selaushistorian (kokonaan tai vain tietyn sivuston osalta), poistat 
 <translation id="1710099199314114079">Vaihda tai sulje välilehti</translation>
 <translation id="1718835860248848330">Viimeinen tunti</translation>
 <translation id="1724977129262658800">Avaa lukitus muokataksesi salasanaasi</translation>
-<translation id="6493900814829428590">Voit selata ja hakea nopeammin, kun Asil esilataa sivuja, joita saatat sen mukaan avata</translation>
+<translation id="6493900814829428590">Voit selata ja hakea nopeammin, kun brave esilataa sivuja, joita saatat sen mukaan avata</translation>
 <translation id="173522743738009831">Tietoja Privacy Sandboxista</translation>
 <translation id="1736419249208073774">Tutustu</translation>
 <translation id="1749561566933687563">Synkronoi kirjanmerkit</translation>
@@ -155,24 +155,24 @@ Kun poistat selaushistorian (kokonaan tai vain tietyn sivuston osalta), poistat 
 <translation id="1296423691585024517">Kokeilujen aikana käyttämäsi sivustot voivat pyytää Bravelta mainosten mittaamisen avulla tietoja, jotka auttavat mittaamaan sivustoilla näkyvien mainosten suoriutumista. Mainosten mittaaminen rajoittaa sivustojen välistä seurantaa siirtämällä mahdollisimman vähän tietoja sivustojen välillä.
 
 Kun poistat selaushistorian (kokonaan tai vain tietyn sivuston osalta), poistat myös siihen liittyvät mittaustiedot. Tarkista <ph name="BEGIN_LINK"/>selaushistoriasi<ph name="END_LINK"/>.</translation>
-<translation id="5173820533850252773">Asil on vanhentunut</translation>
+<translation id="5173820533850252773">brave on vanhentunut</translation>
 <translation id="1883903952484604915">Omat tiedostot</translation>
 <translation id="189358972401248634">Muut kielet</translation>
 <translation id="1900260903084164610">Jatkamalla hyväksyt <ph name="BEGIN_TOS_LINK"/>käyttöehdot<ph name="END_TOS_LINK"/>.</translation>
-<translation id="6893464351226208429">Avaamasi URL-osoitteet tallennetaan Asil-tilillesi</translation>
+<translation id="6893464351226208429">Avaamasi URL-osoitteet tallennetaan brave-tilillesi</translation>
 <translation id="1910950723001426294">Jakamisvaihtoehtojen lista on suljettu.</translation>
 <translation id="1918175104945982129">Assistantin puhehaun suostumus-UI avattu puolen näytön kokoisena</translation>
-<translation id="7021823858304886493">Salli Asil-kirjautuminen</translation>
+<translation id="7021823858304886493">Salli brave-kirjautuminen</translation>
 <translation id="1922362554271624559">Kieliehdotukset</translation>
 <translation id="1925021887439448749">Lisää muokattu verkko-osoite</translation>
 <translation id="1928696683969751773">Päivitykset</translation>
-<translation id="1875543012935658554">Avaa Asil uudelleen.</translation>
+<translation id="1875543012935658554">Avaa brave uudelleen.</translation>
 <translation id="1933845786846280168">Valittu välilehti</translation>
 <translation id="193571872656840963">Kiitä sisällöntuottajaa</translation>
 <translation id="1943432128510653496">Salasanojen tallentaminen</translation>
 <translation id="1952172573699511566">Verkkosivustot näyttävät tekstin valitsemallasi kielellä, kun se on mahdollista.</translation>
 <translation id="1959679933317802873">Odotetaan sisältöä</translation>
-<translation id="3968054912784331254">Asil-päivityksiä ei enää tueta tässä Android-versiossa.</translation>
+<translation id="3968054912784331254">brave-päivityksiä ei enää tueta tässä Android-versiossa.</translation>
 <translation id="1963976881984600709">Perustason suojaus</translation>
 <translation id="1966710179511230534">Päivitä kirjautumistietosi.</translation>
 <translation id="197288927597451399">Säilytä</translation>
@@ -182,7 +182,7 @@ Kun poistat selaushistorian (kokonaan tai vain tietyn sivuston osalta), poistat 
 <translation id="1986685561493779662">Nimi on jo käytössä</translation>
 <translation id="1995884366040846621">Jos jatkat, <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> jakaa nimesi, sähköpostiosoitteesi, osoitteesi ja profiilikuvasi tälle sivustolle. Tutustu sivuston <ph name="BEGIN_LINK1"/>tietosuojakäytäntöön<ph name="END_LINK1"/>.</translation>
 <translation id="2000419248597011803">Lähettää joitakin osoitekentän ja hakukentän kautta tehtyjä hakuja sekä joitakin evästeitä oletushakukoneellesi</translation>
-<translation id="6968892567705775281">Sisällytetäänkö ympäröivä teksti Asil-hakuihin?</translation>
+<translation id="6968892567705775281">Sisällytetäänkö ympäröivä teksti brave-hakuihin?</translation>
 <translation id="2013642289801508067">{FILE_COUNT,plural, =1{# tiedosto}other{# tiedostoa}}</translation>
 <translation id="2021896219286479412">Ohjaimet koko näytön tilassa</translation>
 <translation id="2038563949887743358">Ota käyttöön Käytä tietokoneversiota</translation>
@@ -204,13 +204,13 @@ Kun poistat selaushistorian (kokonaan tai vain tietyn sivuston osalta), poistat 
 <translation id="2122601567107267586">Sovelluksen avaaminen epäonnistui</translation>
 <translation id="2132122640199389833">Poista kaikki linkitetyt laitteet</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE"/> suljettiin</translation>
-<translation id="6659395979197839222">Käyttämällä Bravea hyväksyt <ph name="BEGIN_TOS_LINK"/>Braven käyttöehdot<ph name="END_TOS_LINK"/> sekä <ph name="BEGIN_ATOS_LINK"/>Braven ja Asil-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_ATOS_LINK"/>.</translation>
+<translation id="6659395979197839222">Käyttämällä Bravea hyväksyt <ph name="BEGIN_TOS_LINK"/>Braven käyttöehdot<ph name="END_TOS_LINK"/> sekä <ph name="BEGIN_ATOS_LINK"/>Braven ja brave-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_ATOS_LINK"/>.</translation>
 <translation id="2139186145475833000">Lisää aloitusnäyttöön</translation>
 <translation id="2141396931810938595">Perustuu käyttöösi</translation>
 <translation id="6516933364477884970">Valitse, mitä olet valmis jakamaan Bravelle. Jakamasi mittarit auttavat parantamaan Braven ominaisuuksia, toimintaa ja vakautta.</translation>
 <translation id="2149973817440762519">Muokkaa kirjanmerkkiä</translation>
 <translation id="2155214902713132423">Tämä vahvistustapa ei ole saatavilla tälle laitteelle. Valitse muu vaihtoehto toisella laitteellasi.</translation>
-<translation id="4162910516440006395">Asil ei voinut tarkistaa kaikkia salasanoja</translation>
+<translation id="4162910516440006395">brave ei voinut tarkistaa kaikkia salasanoja</translation>
 <translation id="2172688499998841696">Kuvaselitykset ovat poissa päältä</translation>
 <translation id="2172905120685242547">Suljetaanko ikkuna?</translation>
 <translation id="2175927920773552910">QR-koodi</translation>
@@ -225,8 +225,8 @@ Kun poistat selaushistorian (kokonaan tai vain tietyn sivuston osalta), poistat 
 <translation id="2239812875700136898">Muuta juttujesi asetuksia Discover-asetuksissa</translation>
 <translation id="4808014761134300692">Salasanat salataan laitteella ennen niiden tallentamista Braven Salasanojen ylläpitoon</translation>
 <translation id="2259659629660284697">Vie salasanat…</translation>
-<translation id="8820144752830692527">Voit valita synkronoitavan sisällön <ph name="BEGIN_LINK1"/>asetuksista<ph name="END_LINK1"/>. Asil voi personoida Hakua ja muita palveluita historiasi perusteella.</translation>
-<translation id="781982477617612877">Kirjaudu Asil-tilillesi tarkistaaksesi salasanasi</translation>
+<translation id="8820144752830692527">Voit valita synkronoitavan sisällön <ph name="BEGIN_LINK1"/>asetuksista<ph name="END_LINK1"/>. brave voi personoida Hakua ja muita palveluita historiasi perusteella.</translation>
+<translation id="781982477617612877">Kirjaudu brave-tilillesi tarkistaaksesi salasanasi</translation>
 <translation id="2278052315791335171">Vaikka poistat salasanan, tiliäsi (<ph name="SITE"/>) ei poisteta</translation>
 <translation id="2286841657746966508">Laskutusosoite</translation>
 <translation id="228704530595896923">Jakamisvaihtoehtojen lista.</translation>
@@ -243,7 +243,7 @@ Kun poistat selaushistorian (kokonaan tai vain tietyn sivuston osalta), poistat 
 <translation id="2386938421315164605">Piilota ja näytä aiheita</translation>
 <translation id="2390510615457643724">Haluatko, että <ph name="FILE_NAME"/> (<ph name="FILE_SIZE"/>) ladataan uudelleen?</translation>
 <translation id="2394602618534698961">Lataamasi tiedostot näkyvät tässä</translation>
-<translation id="801672626447970525">Tämä ominaisuus otetaan käyttöön, kun kirjaudut Asil-tilillesi</translation>
+<translation id="801672626447970525">Tämä ominaisuus otetaan käyttöön, kun kirjaudut brave-tilillesi</translation>
 <translation id="2410754283952462441">Valitse tili</translation>
 <translation id="2414886740292270097">Tumma</translation>
 <translation id="2426805022920575512">Valitse toinen tili</translation>
@@ -256,12 +256,12 @@ Kun poistat selaushistorian (kokonaan tai vain tietyn sivuston osalta), poistat 
 <translation id="2542068854151299295">Saat eniten irti Bravesta kirjautumalla sisään</translation>
 <translation id="247737702124049222">Kuvaselitykset ovat päällä</translation>
 <translation id="2482878487686419369">Ilmoitukset</translation>
-<translation id="6361779936989026201">Braven Asil Assistant</translation>
+<translation id="6361779936989026201">Braven brave Assistant</translation>
 <translation id="2496180316473517155">Selaushistoria</translation>
 <translation id="2497852260688568942">Järjestelmänvalvoja on poistanut synkronoinnin käytöstä.</translation>
 <translation id="7229462727772664332">Näet kirjautumisen tilan, selausdatan ja sivustodatan (<ph name="SITE_NAME"/>) Bravessa</translation>
 <translation id="2510106555128151389">Asennetaan sovellusta <ph name="WEBAPK_NAME"/>…</translation>
-<translation id="7222718784508482526">Näet lisää yksityisyyteen, tietoturvaan ja datankeruuseen liittyviä asetuksia <ph name="BEGIN_LINK"/>Synkronointi ja Asil-palvelut<ph name="END_LINK"/> ‑kohdassa.</translation>
+<translation id="7222718784508482526">Näet lisää yksityisyyteen, tietoturvaan ja datankeruuseen liittyviä asetuksia <ph name="BEGIN_LINK"/>Synkronointi ja brave-palvelut<ph name="END_LINK"/> ‑kohdassa.</translation>
 <translation id="2517472476991765520">Etsi</translation>
 <translation id="284843628681142937">Lähettää avaamiesi sivujen URL-osoitteet Bravelle</translation>
 <translation id="2527209463677295330">Voit saada parempia tuloksia, jos sisällytät enemmän tekstiä sivulta</translation>
@@ -274,7 +274,7 @@ Kun poistat selaushistorian (kokonaan tai vain tietyn sivuston osalta), poistat 
 <translation id="2561519700418191927">Videon esikatselut</translation>
 <translation id="2567385386134582609">KUVA</translation>
 <translation id="2567545343356994513">Nopeampi, proaktiivinen suojaus vaarallisia sivustoja, latauksia ja laajennuksia vastaan</translation>
-<translation id="5079947353572974060">Tarjoudu lähettämään muunkielisiä sivuja Asil Kääntäjälle</translation>
+<translation id="5079947353572974060">Tarjoudu lähettämään muunkielisiä sivuja brave Kääntäjälle</translation>
 <translation id="6995512410824092085">Katso, miten voit valita Braven oletusselaimeksi</translation>
 <translation id="6453483065572809635">Roskasisällön ja petosten vähentäminen auttaa sivustoja estämään petoksia ja erottamaan botteja ihmisistä yksityisten tilamerkkien avulla.
 
@@ -317,7 +317,7 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="2788468313014644040">Ryhmän numero</translation>
 <translation id="2800066122460699237">Tämä välilehti suljetaan: <ph name="TAB_TITLE"/></translation>
 <translation id="2806840421670364300">FLoC-kohdentaminen</translation>
-<translation id="7068873021383263704">Katso ja ylläpidä <ph name="BEGIN_LINK"/>Asil-tilille<ph name="END_LINK"/> tallennettuja salasanoja</translation>
+<translation id="7068873021383263704">Katso ja ylläpidä <ph name="BEGIN_LINK"/>brave-tilille<ph name="END_LINK"/> tallennettuja salasanoja</translation>
 <translation id="2818669890320396765">Kirjaudu sisään ja ota synkronointi käyttöön, niin voit käyttää kirjanmerkkejäsi kaikilla laitteilla</translation>
 <translation id="2827278682606527653">Fiidikorttien valikko puolivälin korkuinen</translation>
 <translation id="2830783625999891985">Leikepöydän sisältö piilotettu</translation>
@@ -334,7 +334,7 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="2886836735871983413">Sivustoja lisätään tähän sitä mukaa, kun selaat internetiä</translation>
 <translation id="8541922081612557424">Tietoja Bravesta</translation>
 <translation id="2891154217021530873">Pysäytä sivun lataus</translation>
-<translation id="4013614219085422040">Asil voi muokata Hakua ja muita Braven palveluita historiasi perusteella</translation>
+<translation id="4013614219085422040">brave voi muokata Hakua ja muita Braven palveluita historiasi perusteella</translation>
 <translation id="2900528713135656174">Luo tapahtuma</translation>
 <translation id="2901411048554510387">Näytetään ehdotuksia: <ph name="WEBSITE_TITLE"/></translation>
 <translation id="2904414404539560095">Välilehden jakamisen laiteluettelo avataan koko näytön korkeudella.</translation>
@@ -342,25 +342,25 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="7339921667754113786">Braven ilmoitusalusta</translation>
 <translation id="2912296070571964914">Valitse sinua kiinnostavia aiheita</translation>
 <translation id="2923908459366352541">Nimi on virheellinen</translation>
-<translation id="6355102470683871794">Tallennustila: Asil <ph name="APP_NAME"/></translation>
+<translation id="6355102470683871794">Tallennustila: brave <ph name="APP_NAME"/></translation>
 <translation id="2932222164150889403">Tämä ei vaikuta näppäimistöön</translation>
 <translation id="6537665929855787038">Braven ilmoitukset tekevät asioista helpompia</translation>
 <translation id="2940075786175545812">Vaihtoehto hyväksyä tai jättää hyväksymättä verkkosivusto</translation>
 <translation id="2942036813789421260">Esikatseluvälilehti on suljettu</translation>
-<translation id="4700262879698141140">Päivitetään Asil, jotta voit yhdistää muihin laitteisiin</translation>
+<translation id="4700262879698141140">Päivitetään brave, jotta voit yhdistää muihin laitteisiin</translation>
 <translation id="2951071800649516099">Lisää sivuja lukulistalle myöhempää käyttöä varten</translation>
 <translation id="2961208450284224863">{READING_LIST_UNREAD_PAGE_COUNT,plural, =1{<ph name="READING_LIST_UNREAD_PAGE_COUNT_ONE"/> sivu lukematta}other{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY"/> sivua lukematta}}</translation>
 <translation id="2961210776189273067">Titteli</translation>
 <translation id="2979639724566107830">Avaa uudessa ikkunassa</translation>
 <translation id="2981364137500752533">Sinulla voi olla enintään viisi ikkunaa.</translation>
-<translation id="5948666439178419683">Sisällytä ympäröivä teksti Asil-hakuihin</translation>
+<translation id="5948666439178419683">Sisällytä ympäröivä teksti brave-hakuihin</translation>
 <translation id="2987620471460279764">Toiselta laitteelta jaettu teksti</translation>
 <translation id="2989523299700148168">Viimeksi käytetyt</translation>
 <translation id="2992473221983447149">Kuvien kuvaukset</translation>
 <translation id="2994959273484668146">Poista <ph name="DOMAIN"/></translation>
 <translation id="2996291259634659425">Luo tunnuslause</translation>
 <translation id="2996809686854298943">URL-osoite vaaditaan</translation>
-<translation id="2019027298133375428">Kun Braven sivusto pyytää lupaa esiladata sen sivulla olevia linkkejä yksityisesti, Asil salaa ja esilataa sivut Braven palvelimien kautta ilman evästeitä. Henkilöllisyytesi piilotetaan esiladatulta sivustolta.</translation>
+<translation id="2019027298133375428">Kun Braven sivusto pyytää lupaa esiladata sen sivulla olevia linkkejä yksityisesti, brave salaa ja esilataa sivut Braven palvelimien kautta ilman evästeitä. Henkilöllisyytesi piilotetaan esiladatulta sivustolta.</translation>
 <translation id="3006881078666935414">Ei käyttötietoja</translation>
 <translation id="301080557829842765">Tietosuojaopas</translation>
 <translation id="3016635187733453316">Varmista, että laite on yhteydessä internetiin</translation>
@@ -379,7 +379,7 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="6153252609477956632">Artikkeleita kiinnostuksen kohteistasi Bravessa</translation>
 <translation id="3066573403916685335">Siirrä alas</translation>
 <translation id="3070005020161560471">Käännä nämä automaattisesti</translation>
-<translation id="1094255666887095087"><ph name="APP_NAME"/> avautuu Bravessa. Jatkamalla hyväksyt <ph name="BEGIN_LINK1"/>Braven käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Braven ja Asil-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>. Myös <ph name="BEGIN_LINK3"/>tietosuojakäytäntöä<ph name="END_LINK3"/> sovelletaan.</translation>
+<translation id="1094255666887095087"><ph name="APP_NAME"/> avautuu Bravessa. Jatkamalla hyväksyt <ph name="BEGIN_LINK1"/>Braven käyttöehdot<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Braven ja brave-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_LINK2"/>. Myös <ph name="BEGIN_LINK3"/>tietosuojakäytäntöä<ph name="END_LINK3"/> sovelletaan.</translation>
 <translation id="3091010850649238832">Näytä leikepöydän sisältö</translation>
 <translation id="821565628224723530">Jotkin kuvat lähetetään Bravelle, jotta näkemiäsi kuvauksia voidaan parantaa</translation>
 <translation id="3114507951000454849">Lue päivän uutiset <ph name="NEWS_ICON"/></translation>
@@ -390,17 +390,17 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="5063487983358782016">Braven etusivu</translation>
 <translation id="3157931365184549694">Palauta</translation>
 <translation id="3166827708714933426">Välilehti- ja ikkunapikanäppäimet</translation>
-<translation id="7249949543831830993">Asil on jo käynnissä täällä.</translation>
+<translation id="7249949543831830993">brave on jo käynnissä täällä.</translation>
 <translation id="3169472444629675720">Discover</translation>
 <translation id="3187472288455401631">Mainosten mittaus</translation>
 <translation id="3207960819495026254">Kirjanmerkeissä</translation>
 <translation id="3208584281581115441">Tarkista nyt</translation>
 <translation id="3211426585530211793"><ph name="ITEM_TITLE"/> poistettiin.</translation>
-<translation id="1892217432793359605"><ph name="BEGIN_LINK1"/>Hakuhistoriaa<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>muita toimintoja<ph name="END_LINK2"/> voidaan tallentaa Asil-tilillesi, kun olet kirjautuneena sisään. Voit poistaa niitä koska vain.</translation>
+<translation id="1892217432793359605"><ph name="BEGIN_LINK1"/>Hakuhistoriaa<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>muita toimintoja<ph name="END_LINK2"/> voidaan tallentaa brave-tilillesi, kun olet kirjautuneena sisään. Voit poistaa niitä koska vain.</translation>
 <translation id="321773570071367578">Jos unohdat tunnuslauseesi tai haluat muokata tätä asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name="END_LINK"/>.</translation>
 <translation id="3220943972464248773">Synkronoi salasanasi todentamalla henkilöllisyytesi</translation>
 <translation id="3223522355830797639">Pankkisi edellyttää henkilöllisyytesi vahvistamista.</translation>
-<translation id="9047551989591319903">Asil suojausavaimena</translation>
+<translation id="9047551989591319903">brave suojausavaimena</translation>
 <translation id="3232754137068452469">Verkkosovellus</translation>
 <translation id="3234978181857588512">Tallenna laitteelle</translation>
 <translation id="3236059992281584593">1 minuutti jäljellä</translation>
@@ -427,10 +427,10 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="3334729583274622784">Vaihdetaanko tiedostotunniste?</translation>
 <translation id="3341262203274374114">Ei voi seurata. Jotain meni pieleen.</translation>
 <translation id="3359667936385849800">Käytä nykyistä palveluasi</translation>
-<translation id="449001704952013438">Asil voi ottaa tämän kiinnostuksen kohteen huomioon</translation>
+<translation id="449001704952013438">brave voi ottaa tämän kiinnostuksen kohteen huomioon</translation>
 <translation id="3367813778245106622">Aloita synkronointi kirjautumalla uudelleen sisään.</translation>
-<translation id="2746024117903470217">Jos haluat jakaa tämän sivun toiselle laitteelle, ota synkronointi käyttöön toisen laitteen Asil-asetuksista</translation>
-<translation id="8801234437789558906">Kirjanmerkkejä, historiaa, salasanoja tai muuta Asil-dataa ei enää synkronoida Asil-tilille.</translation>
+<translation id="2746024117903470217">Jos haluat jakaa tämän sivun toiselle laitteelle, ota synkronointi käyttöön toisen laitteen brave-asetuksista</translation>
+<translation id="8801234437789558906">Kirjanmerkkejä, historiaa, salasanoja tai muuta brave-dataa ei enää synkronoida brave-tilille.</translation>
 <translation id="3384347053049321195">Jaa kuva</translation>
 <translation id="3387650086002190359">Tiedoston <ph name="FILE_NAME"/> lataus epäonnistui tiedostojärjestelmävirheen vuoksi.</translation>
 <translation id="3389286852084373014">Teksti on liian suuri</translation>
@@ -439,13 +439,13 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="1081508498128395141">Enemmän sivuja esiladataan. Sivuja voidaan esiladata Braven palvelimien kautta, kun muut sivustot pyytävät tätä.</translation>
 <translation id="3414952576877147120">Koko:</translation>
 <translation id="3421726884497337397">Valitse, milloin kolmannen osapuolen evästeet estetään</translation>
-<translation id="5265419033369521352">Pitää sinut turvassa Bravessa ja voi parantaa suojaustasi muissa Asil-sovelluksissa, kun olet sisäänkirjautuneena</translation>
+<translation id="5265419033369521352">Pitää sinut turvassa Bravessa ja voi parantaa suojaustasi muissa brave-sovelluksissa, kun olet sisäänkirjautuneena</translation>
 <translation id="3429160811076349561">Kokeiluominaisuudet ovat poissa käytöstä</translation>
 <translation id="3435465986463792564">Onko monta ikkunaa auki? Voit ylläpitää niitä täältä</translation>
 <translation id="3435738964857648380">Suojaus</translation>
 <translation id="3443221991560634068">Päivitä nykyinen sivu</translation>
 <translation id="3444179773590444986">Haluatko antaa palautetta sivustojen tummasta teemasta?</translation>
-<translation id="7384339501748168186">Yksityisyytesi suojaamiseksi Asil ei täytä salasanaasi automaattisesti tähän kenttään.</translation>
+<translation id="7384339501748168186">Yksityisyytesi suojaamiseksi brave ei täytä salasanaasi automaattisesti tähän kenttään.</translation>
 <translation id="3474624961160222204">Jatka käyttäjänä <ph name="NAME"/></translation>
 <translation id="3478363558367712427">Voit valita hakukoneen</translation>
 <translation id="3479552764303398839">Ei nyt</translation>
@@ -453,7 +453,7 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="3495219333887281978">Kirjautumispaneeli avattu puolelle näytölle.</translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="3507132249039706973">Perustason suojaus on päällä</translation>
-<translation id="8669829441518807650">Offline-tilassa. Asil ei voi tarkistaa päivityksiä.</translation>
+<translation id="8669829441518807650">Offline-tilassa. brave ei voi tarkistaa päivityksiä.</translation>
 <translation id="3513704683820682405">Lisätty todellisuus</translation>
 <translation id="3518985090088779359">Hyväksy ja jatka</translation>
 <translation id="3522247891732774234">Päivitys on saatavilla. Näytä lisäasetukset.</translation>
@@ -466,7 +466,7 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="3560491354538957576">Sivusto voi määrittää kiinnostuksen kohteita</translation>
 <translation id="3563767357928833671">Leikepöydän sisältö näytetään</translation>
 <translation id="3566639033325271639">Päivitä asetukset</translation>
-<translation id="1908301351964700579">Asil valmistelee edelleen VR-selainta. Käynnistä Asil myöhemmin uudelleen.</translation>
+<translation id="1908301351964700579">brave valmistelee edelleen VR-selainta. Käynnistä brave myöhemmin uudelleen.</translation>
 <translation id="3568688522516854065">Kirjaudu sisään ja ota synkronointi käyttöön, niin voit käyttää välilehtiä muilta laitteiltasi</translation>
 <translation id="357465026686164600">Puhelin suojausavaimena</translation>
 <translation id="3577473026931028326">Jotain meni pieleen. Yritä uudelleen.</translation>
@@ -486,8 +486,8 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="3699022356773522638">Ladataanko tiedosto?</translation>
 <translation id="371230970611282515">Ennustaa vaarallisia tapahtumia ja varoittaa niistä etukäteen.</translation>
 <translation id="3714981814255182093">Avaa hakupalkki</translation>
-<translation id="5805364706385912897">Tämä sivu käyttää liikaa muistia, joten Asil keskeytti sen.</translation>
-<translation id="8397843425685839889">Sinä ja Asil</translation>
+<translation id="5805364706385912897">Tämä sivu käyttää liikaa muistia, joten brave keskeytti sen.</translation>
+<translation id="8397843425685839889">Sinä ja brave</translation>
 <translation id="3737319253362202215">Käännösasetukset</translation>
 <translation id="3737402728074743863">Jos haluat käyttää laitetta suojausavaimena, ota näytön lukitus käyttöön</translation>
 <translation id="3738139272394829648">Koskettamalla hakeminen</translation>
@@ -521,17 +521,17 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="3934366560681368531">"</translation>
 <translation id="393697183122708255">Puhehaku ei ole käytössä</translation>
 <translation id="395377504920307820">Käytä ilman tiliä</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{Asil lataa sivusi, kun se on valmis}other{Asil lataa sivusi, kun ne ovat valmiina}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{brave lataa sivusi, kun se on valmis}other{brave lataa sivusi, kun ne ovat valmiina}}</translation>
 <translation id="3962119236270174787">Perustason suojaus vaaralliseksi tiedettyjä sivustoja, latauksia ja laajennuksia vastaan</translation>
-<translation id="4908545308856135643">Google Payn maksutapoja tai osoitteita ei salata tunnuslauseella. Salattua dataa voidaan lukea vain tunnuslauseesi avulla. Tunnuslausetta ei lähetetä Bravelle eikä Asil tallenna sitä. Jos unohdat tunnuslauseesi tai haluat muokata tätä asetusta, synkronointi täytyy nollata. <ph name="BEGIN_LINK"/>Lisätietoja<ph name="END_LINK"/></translation>
-<translation id="1453002554835005700">Asil ei voi tarkistaa salasanojasi</translation>
+<translation id="4908545308856135643">Google Payn maksutapoja tai osoitteita ei salata tunnuslauseella. Salattua dataa voidaan lukea vain tunnuslauseesi avulla. Tunnuslausetta ei lähetetä Bravelle eikä brave tallenna sitä. Jos unohdat tunnuslauseesi tai haluat muokata tätä asetusta, synkronointi täytyy nollata. <ph name="BEGIN_LINK"/>Lisätietoja<ph name="END_LINK"/></translation>
+<translation id="1453002554835005700">brave ei voi tarkistaa salasanojasi</translation>
 <translation id="3969863827134279083">Siirrä ylös</translation>
 <translation id="397583555483684758">Synkronointi on lakannut toimimasta.</translation>
 <translation id="3976396876660209797">Poista tämä pikakuvake ja luo se uudelleen.</translation>
 <translation id="3981902534690264083">Mainostajat saavat paremman kuvan mainosten suoriutumisesta</translation>
 <translation id="3985215325736559418">Haluatko ladata tiedoston <ph name="FILE_NAME"/> uudelleen?</translation>
 <translation id="3987993985790029246">Kopioi linkki</translation>
-<translation id="5846727201643228411">Voit tarkistaa ja poistaa kiinnostuksen kohteita, joita sivustot käyttävät mainosten näyttämiseen. Asil arvioi viimeaikaisen selaushistoriasi perusteella, mikä saattaisi kiinnostaa sinua.</translation>
+<translation id="5846727201643228411">Voit tarkistaa ja poistaa kiinnostuksen kohteita, joita sivustot käyttävät mainosten näyttämiseen. brave arvioi viimeaikaisen selaushistoriasi perusteella, mikä saattaisi kiinnostaa sinua.</translation>
 <translation id="4000212216660919741">Offline-etusivu</translation>
 <translation id="4016425174436051808">Ei voi seurata. Jotain meni pieleen.</translation>
 <translation id="4034817413553209278">{HOURS,plural, =1{# h}other{# h}}</translation>
@@ -551,7 +551,7 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="673197144963363525">Auta parantamaan Bravea lähettämällä käyttötilastoja ja virheraportteja Bravelle.</translation>
 <translation id="4101475238162928417">Synkronoi salasanat, kirjanmerkit ja muuta muilta laitteiltasi</translation>
 <translation id="410351446219883937">Automaattinen toisto</translation>
-<translation id="8112581848375017126">Asil kokeilee uusia ominaisuuksia, joiden avulla sivustot voivat tarjota saman selauskokemuksen vähemmillä tiedoilla.</translation>
+<translation id="8112581848375017126">brave kokeilee uusia ominaisuuksia, joiden avulla sivustot voivat tarjota saman selauskokemuksen vähemmillä tiedoilla.</translation>
 <translation id="4108314971463891922">Seuraa</translation>
 <translation id="4108998448622696017">Havaitsee vaaralliset tapahtumat ja varoittaa niistä etukäteen.</translation>
 <translation id="4116038641877404294">Lataa sivuja offline-käyttöä varten</translation>
@@ -572,7 +572,7 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="4196597275619698563">Luo kortti</translation>
 <translation id="4198423547019359126">Tallennussijainteja ei ole saatavilla</translation>
 <translation id="6003646045106347985">Ota synkronointi käyttöön, niin näet Braven suosittelemaa yksilöllistä sisältöä</translation>
-<translation id="1675646381334855139">Jos sallit evästeet, Asil voi käyttää niitä esilataamiseen.</translation>
+<translation id="1675646381334855139">Jos sallit evästeet, brave voi käyttää niitä esilataamiseen.</translation>
 <translation id="4225895483398857530">Työkalupalkin pikakuvake</translation>
 <translation id="4242533952199664413">Avaa asetukset</translation>
 <translation id="4248098802131000011">Suojaa salasanasi tietosuojaloukkauksilta ja muilta tietoturvaongelmilta</translation>
@@ -585,7 +585,7 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="4269820728363426813">Kopioi linkin osoite</translation>
 <translation id="4283102315569707115">Haluatko oletuksena pyytää tietokonesivustoja?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK"/>Laita näytön lukitus päälle Android-asetuksista<ph name="END_LINK"/></translation>
-<translation id="6299940168852877221">Käyttämällä Bravea hyväksyt <ph name="BEGIN_TOS_LINK"/>Braven käyttöehdot<ph name="END_TOS_LINK"/> sekä <ph name="BEGIN_ATOS_LINK"/>Braven ja Asil-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_ATOS_LINK"/>. Myös <ph name="BEGIN_PRIVACY_LINK"/>tietosuojakäytäntöä<ph name="END_PRIVACY_LINK"/> sovelletaan.</translation>
+<translation id="6299940168852877221">Käyttämällä Bravea hyväksyt <ph name="BEGIN_TOS_LINK"/>Braven käyttöehdot<ph name="END_TOS_LINK"/> sekä <ph name="BEGIN_ATOS_LINK"/>Braven ja brave-käyttöjärjestelmän lisäkäyttöehdot<ph name="END_ATOS_LINK"/>. Myös <ph name="BEGIN_PRIVACY_LINK"/>tietosuojakäytäntöä<ph name="END_PRIVACY_LINK"/> sovelletaan.</translation>
 <translation id="4298388696830689168">Linkitetyt sivustot</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="4307992518367153382">Perustiedot</translation>
@@ -602,7 +602,7 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="4405224443901389797">Siirrä…</translation>
 <translation id="4405636711880428279">Poistetaanko virtuaalinen kortti?</translation>
 <translation id="4409271659088619928">Hakukoneesi on <ph name="DSE"/>. Katso tarvittaessa hakukoneen ohjeet hakuhistorian poistamiselle.</translation>
-<translation id="5749788945734786627">Ylläpidä Asil-tiliäsi</translation>
+<translation id="5749788945734786627">Ylläpidä brave-tiliäsi</translation>
 <translation id="4425140285732600465">Hintaa seurataan. Voit saada ilmoituksen, jos hinta laskee jollakin sivustolla.</translation>
 <translation id="442518031075347249">Et voi tämän jälkeen käyttää virtuaalista korttia Google Payssa. <ph name="BEGIN_LINK1"/>Lue lisää virtuaalisista korteista<ph name="END_LINK1"/></translation>
 <translation id="4428065317363009941">Mainosten personointi</translation>
@@ -614,7 +614,7 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="3133489217401741157">Asennetaan <ph name="MODULE"/> Braveen…</translation>
 <translation id="4484496141267039529">Ei yhteyttä. Yritä myöhemmin uudelleen.</translation>
 <translation id="53119194224775367">Kaikki Braven sovellustiedot, mukaan lukien tiedostot, asetukset, tilit ja tietokannat, poistetaan pysyvästi.</translation>
-<translation id="3966104135245031874">Salaa synkronoidut salasanat Asil-tilisi avulla</translation>
+<translation id="3966104135245031874">Salaa synkronoidut salasanat brave-tilisi avulla</translation>
 <translation id="4504667196171871375">Wi-Fillä ja mobiilidatalla</translation>
 <translation id="4508528996305412043">Fiidikorttien valikko on avattu</translation>
 <translation id="4508642716788467538">Valitse kieli</translation>
@@ -622,7 +622,7 @@ Yksityiset tilamerkit parantavat yksityisyyttä verkossa, eikä sinua voi tunnis
 <translation id="451872707440238414">Hae kirjanmerkeistä</translation>
 <translation id="1664855196866195614">Valitut tiedot on poistettu Bravesta ja synkronoiduilta laitteilta.
 
-Asil-tililläsi voi olla muita selaushistoriatietoja, kuten hakuja ja toimintaa muista Asil-palveluista. Voit katsella tietoja osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+brave-tililläsi voi olla muita selaushistoriatietoja, kuten hakuja ja toimintaa muista brave-palveluista. Voit katsella tietoja osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="452750746583162491">Tarkista synkronoitu datasi</translation>
 <translation id="4532845899244822526">Valitse kansio</translation>
 <translation id="4549903594034243526">chrome_emotion_gif_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
@@ -666,7 +666,7 @@ Asil-tililläsi voi olla muita selaushistoriatietoja, kuten hakuja ja toimintaa 
 <translation id="4758061975920522644">Jaa vain kuva</translation>
 <translation id="4759238208242260848">Lataukset</translation>
 <translation id="4763480195061959176">video</translation>
-<translation id="4766313118839197559">Salasanat tallennetaan Asil Salasanoihin tällä laitteella</translation>
+<translation id="4766313118839197559">Salasanat tallennetaan brave Salasanoihin tällä laitteella</translation>
 <translation id="4766678251456904326">Lisää tili laitteelle</translation>
 <translation id="4769095993849849966">Uusi tiedostonimi</translation>
 <translation id="4778653490315793244">Ei vielä näytettävää</translation>
@@ -701,7 +701,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="488187801263602086">Nimeä tiedosto uudelleen</translation>
 <translation id="1248710015876067820">Braven versioiden määrää ei tueta.</translation>
 <translation id="4905823827770127520">Sisällytä linkki sivulle</translation>
-<translation id="3217997482476578430">Asil Discover</translation>
+<translation id="3217997482476578430">brave Discover</translation>
 <translation id="4909709702739934280">Järjestelmänvalvoja ylläpitää selaintasi</translation>
 <translation id="4910889077668685004">Maksusovellukset</translation>
 <translation id="4912413785358399818">Siirrä välilehti</translation>
@@ -710,10 +710,10 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="492284538114688557">Hinnan lasku havaittu</translation>
 <translation id="4925120120285606924">Kuvakaappaus <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="49268022542405662">Salasanasi viedään ja ladataan tekstitiedostona. Ne näkyvät kaikille käyttäjille ja sovelluksille, joilla on pääsy kohdekansioon.</translation>
-<translation id="1955495299630319741">Koska olet kirjautumassa ulos tililtä, jota <ph name="DOMAIN_NAME"/> ylläpitää, Asil-datasi poistetaan tältä laitteelta. Se pysyy Asil-tililläsi.</translation>
+<translation id="1955495299630319741">Koska olet kirjautumassa ulos tililtä, jota <ph name="DOMAIN_NAME"/> ylläpitää, brave-datasi poistetaan tältä laitteelta. Se pysyy brave-tililläsi.</translation>
 <translation id="4943703118917034429">Virtuaalitodellisuus</translation>
 <translation id="4943872375798546930">Ei tuloksia</translation>
-<translation id="5742837711075932301">Muut laitteet voivat käyttää tätä puhelinta suojausavaimena, kun olet kirjautuneena samalle Asil-tilille.</translation>
+<translation id="5742837711075932301">Muut laitteet voivat käyttää tätä puhelinta suojausavaimena, kun olet kirjautuneena samalle brave-tilille.</translation>
 <translation id="4957722034734105353">Lisätietoja...</translation>
 <translation id="4961107849584082341">Käännä sivu mille tahansa kielelle</translation>
 <translation id="7307583170263691471">Nopeampi, proaktiivinen suojaus vaarallisia sivustoja, latauksia ja laajennuksia vastaan. Varoittaa sinua salasanarikkomuksista. Edellyttää selaustietojen lähettämistä Bravelle.</translation>
@@ -725,7 +725,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="499724277181351974">Siirry: <ph name="WEBSITE_TITLE"/>: <ph name="WEBSITE_URL"/></translation>
 <translation id="5001388021414335527">Seuraa sivustoa valitsemalla tämä</translation>
 <translation id="500351648694011114">Selaa helpommin</translation>
-<translation id="6447211988989208781">Asil-toimintojen hallinta</translation>
+<translation id="6447211988989208781">brave-toimintojen hallinta</translation>
 <translation id="5005141133360250920">Reaktio poistettu</translation>
 <translation id="5005498671520578047">Kopioi salasana</translation>
 <translation id="5011311129201317034"><ph name="SITE"/> haluaa muodostaa yhteyden</translation>
@@ -734,13 +734,13 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="5039804452771397117">Salli</translation>
 <translation id="5040262127954254034">Tietosuoja</translation>
 <translation id="504456571576643789">Huomioitavaa</translation>
-<translation id="4858031288914533863"><ph name="BEGIN_LINK1"/>Muita toimintoja<ph name="END_LINK1"/> voidaan tallentaa Asil-tilillesi, kun olet kirjautuneena sisään. Voit poistaa niitä koska vain.</translation>
+<translation id="4858031288914533863"><ph name="BEGIN_LINK1"/>Muita toimintoja<ph name="END_LINK1"/> voidaan tallentaa brave-tilillesi, kun olet kirjautuneena sisään. Voit poistaa niitä koska vain.</translation>
 <translation id="506254248375231072">Ei välilehtiä</translation>
-<translation id="4744980273298156620">Näet pian tarinoita täältä avatessasi uuden välilehden: <ph name="SITE_NAME"/>. Seuraamasi sivustot tallennetaan Asil-tilillesi. Voit ylläpitää niitä Discoverin asetuksissa.</translation>
+<translation id="4744980273298156620">Näet pian tarinoita täältä avatessasi uuden välilehden: <ph name="SITE_NAME"/>. Seuraamasi sivustot tallennetaan brave-tilillesi. Voit ylläpitää niitä Discoverin asetuksissa.</translation>
 <translation id="5091249083535528968">Laajennettu käyttödata</translation>
 <translation id="509429900233858213">Tapahtui virhe.</translation>
 <translation id="5099845111805573968">Kun valitset tietokonesivuston kerran, asetusta käytetään sivustolla jokaisella käyntikerralla</translation>
-<translation id="225414324447409614">Jos sivusto yrittää varastaa salasanaasi tai jos lataat haitallisen tiedoston, Asil voi lähettää Selaussuojan tarkistettavaksi URL-osoitteita, mukaan lukien osia sivujen sisällöstä</translation>
+<translation id="225414324447409614">Jos sivusto yrittää varastaa salasanaasi tai jos lataat haitallisen tiedoston, brave voi lähettää Selaussuojan tarkistettavaksi URL-osoitteita, mukaan lukien osia sivujen sisällöstä</translation>
 <translation id="510275257476243843">1 tunti jäljellä</translation>
 <translation id="5115811374190515607">kohde: <ph name="PRODUCT_NAME"/></translation>
 <translation id="5118713593561876160">Kiinnostuksen kohteet</translation>
@@ -776,10 +776,10 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="5304593522240415983">Kenttä ei voi olla tyhjä.</translation>
 <translation id="5308380583665731573">Muodosta yhteys</translation>
 <translation id="5317780077021120954">Tallenna</translation>
-<translation id="989239400026154074">Asil suosittelee Bravea</translation>
-<translation id="493321943777183150">Asil etsii uusia tapoja vähentää seurantaa ja pitää sinut entistä paremmin turvassa selatessasi. Asil myös <ph name="BEGIN_LINK"/>arvioi myös kiinnostuksen kohteesi<ph name="END_LINK"/> ja antaa sinun ylläpitää niitä. Avaamasi sivustot voivat sitten kysyä Bravelta kiinnostuksen kohteitasi näyttääkseen sinulle mainoksia.</translation>
+<translation id="989239400026154074">brave suosittelee Bravea</translation>
+<translation id="493321943777183150">brave etsii uusia tapoja vähentää seurantaa ja pitää sinut entistä paremmin turvassa selatessasi. brave myös <ph name="BEGIN_LINK"/>arvioi myös kiinnostuksen kohteesi<ph name="END_LINK"/> ja antaa sinun ylläpitää niitä. Avaamasi sivustot voivat sitten kysyä Bravelta kiinnostuksen kohteitasi näyttääkseen sinulle mainoksia.</translation>
 <translation id="5324858694974489420">Vanhempien asetukset</translation>
-<translation id="1681635711794313507">Braven palvelimet eivät saa uusia tietoja sivujen yksityisen esilataamisen yhteydessä, sillä esiladatut sivut ovat salattuja ja Asil-sivusto linkittää sivuille.</translation>
+<translation id="1681635711794313507">Braven palvelimet eivät saa uusia tietoja sivujen yksityisen esilataamisen yhteydessä, sillä esiladatut sivut ovat salattuja ja brave-sivusto linkittää sivuille.</translation>
 <translation id="5329858041417644019">Selainta ei ylläpidetä</translation>
 <translation id="5339031667684712858">Poistamasi sivustot</translation>
 <translation id="5342314432463739672">Käyttöoikeuspyynnöt</translation>
@@ -811,7 +811,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="5514904542973294328">Laitteen järjestelmänvalvojan estämä</translation>
 <translation id="5515439363601853141">Avaa lukitus nähdäksesi salasanan</translation>
 <translation id="5517095782334947753">Tililläsi <ph name="FROM_ACCOUNT"/> on kirjanmerkkejä, salasanoja ja muita asetuksia.</translation>
-<translation id="300369155175407115">Jos Asil on sijoittanut sinut aktiiviseen kokeiluun satunnaisesti, selaushistoriasi vaikuttaa näkemiisi mainoksiin ja alla kuvatulla tavalla arvioituihin kiinnostuksen kohteisiin kokeilujen aikana. Yksityisyytesi suojaamiseksi Asil poistaa kiinnostuksen kohteesi kuukausittain.</translation>
+<translation id="300369155175407115">Jos brave on sijoittanut sinut aktiiviseen kokeiluun satunnaisesti, selaushistoriasi vaikuttaa näkemiisi mainoksiin ja alla kuvatulla tavalla arvioituihin kiinnostuksen kohteisiin kokeilujen aikana. Yksityisyytesi suojaamiseksi brave poistaa kiinnostuksen kohteesi kuukausittain.</translation>
 <translation id="5524843473235508879">Uudelleenohjaus estetty</translation>
 <translation id="5548606607480005320">Turvatarkistus</translation>
 <translation id="5555525474779371165">Valitse haluamasi Selaussuoja</translation>
@@ -823,7 +823,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="5578795271662203820">Etsi tätä kuvaa palvelusta <ph name="SEARCH_ENGINE"/></translation>
 <translation id="5581519193887989363">Voit valita synkronoitavan sisällön <ph name="BEGIN_LINK1"/>asetuksissa<ph name="END_LINK1"/>.</translation>
 <translation id="5590372121997663538">Muista tämä tietokone</translation>
-<translation id="6157610782452852023">Braven Asil Assistant voi tehdä asioita puolestasi eri sivustoilla</translation>
+<translation id="6157610782452852023">Braven brave Assistant voi tehdä asioita puolestasi eri sivustoilla</translation>
 <translation id="5620163320393916465">Ei tallennettuja salasanoja</translation>
 <translation id="5620928963363755975">Valitse Lisäasetukset ja sitten Lataukset, niin löydät tiedostosi ja sivusi.</translation>
 <translation id="562289928968387744">Ylläpidä reaktioita</translation>
@@ -834,16 +834,16 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="5655963694829536461">Hae omista latauksistasi</translation>
 <translation id="5659593005791499971">Sähköposti</translation>
 <translation id="5665379678064389456">Luo tapahtuma sovelluksessa <ph name="APP_NAME"/></translation>
-<translation id="5668833306439455813">Asil ei voi tarkistaa päivityksiä</translation>
+<translation id="5668833306439455813">brave ei voi tarkistaa päivityksiä</translation>
 <translation id="5686790454216892815">Tiedoston nimi on liian pitkä</translation>
 <translation id="569536719314091526">Käännä sivu mille tahansa kielelle Lisävalinnat-painikkeella</translation>
-<translation id="2320748512701464301">Asil voi auttaa suojaamaan sinua esim. tietosuojaloukkauksilta ja riskialttiilta verkkosivustoilta</translation>
+<translation id="2320748512701464301">brave voi auttaa suojaamaan sinua esim. tietosuojaloukkauksilta ja riskialttiilta verkkosivustoilta</translation>
 <translation id="570347048394355941">Vaihda välilehdelle</translation>
 <translation id="572328651809341494">Hiljattain suljetut välilehdet</translation>
 <translation id="5726692708398506830">Suurenna sivun kaikki sisältö</translation>
-<translation id="3613110494561632737">Jos Asil on sijoittanut sinut aktiiviseen kokeiluun satunnaisesti, selaushistoriasi vaikuttaa näkemiisi mainoksiin ja alla kuvatulla tavalla arvioituihin kiinnostuksen kohteisiin. Yksityisyytesi suojaamiseksi Asil poistaa kiinnostuksen kohteesi kuukausittain. Kiinnostuksen kohteet päivittyvät, ellet poista niitä.</translation>
+<translation id="3613110494561632737">Jos brave on sijoittanut sinut aktiiviseen kokeiluun satunnaisesti, selaushistoriasi vaikuttaa näkemiisi mainoksiin ja alla kuvatulla tavalla arvioituihin kiinnostuksen kohteisiin. Yksityisyytesi suojaamiseksi brave poistaa kiinnostuksen kohteesi kuukausittain. Kiinnostuksen kohteet päivittyvät, ellet poista niitä.</translation>
 <translation id="5748802427693696783">Vaihdettiin näkyviin tavalliset välilehdet.</translation>
-<translation id="3088191967551450609">Asil tarvitsee tallennustilan käyttöoikeuden tiedostojen lataamiseen.</translation>
+<translation id="3088191967551450609">brave tarvitsee tallennustilan käyttöoikeuden tiedostojen lataamiseen.</translation>
 <translation id="5749237766298580851">Pois päältä <ph name="SEPARATOR"/> Ei suositeltu</translation>
 <translation id="5752232708629533680">Jaa vain GIF</translation>
 <translation id="416316836590748269">Voit hakea Bravessa äänikomennoilla</translation>
@@ -857,7 +857,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="5793665092639000975">Käytössä <ph name="SPACE_USED"/> / <ph name="SPACE_AVAILABLE"/></translation>
 <translation id="5795872532621730126">Hae ja selaa</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# tunti sitten}other{# tuntia sitten}}</translation>
-<translation id="5311273890481188673">Copyright © <ph name="YEAR"/> Asil LLC. Kaikki oikeudet pidätetään.</translation>
+<translation id="5311273890481188673">Copyright © <ph name="YEAR"/> brave LLC. Kaikki oikeudet pidätetään.</translation>
 <translation id="5813552293717797987"><ph name="PARENT_NAME_1"/> ja <ph name="PARENT_NAME_2"/> ylläpitävät tätä selainta.</translation>
 <translation id="5814131985548525293">Kirjoita tähän tai aloita napauttamalla puhekuvaketta</translation>
 <translation id="5814749351757353073">Pysy ajan tasalla lempisivustojesi tapahtumista</translation>
@@ -878,9 +878,9 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="6538479075382111079">Lähettää automaattisesti käyttötilastoja ja virheraportteja Bravelle</translation>
 <translation id="5869522115854928033">Tallennetut salasanat</translation>
 <translation id="5869789175361934029">Jatka toisella laitteella</translation>
-<translation id="5604589745019948682">Jos haluat seurata sivustoa, siirry sille, avaa Asil-valikko ja valitse Seuraa.</translation>
+<translation id="5604589745019948682">Jos haluat seurata sivustoa, siirry sille, avaa brave-valikko ja valitse Seuraa.</translation>
 <translation id="5879072387416556377">Parempia ehdotuksia</translation>
-<translation id="1985257319311245640">Sivustojen URL-osoitteiden avulla Asil Assistantia voi auttaa sinua tekemään asioita. Voit poistaa Assistantin käytöstä Braven asetuksissa.</translation>
+<translation id="1985257319311245640">Sivustojen URL-osoitteiden avulla brave Assistantia voi auttaa sinua tekemään asioita. Voit poistaa Assistantin käytöstä Braven asetuksissa.</translation>
 <translation id="5916664084637901428">Päällä</translation>
 <translation id="5919204609460789179">Aloita synkronointi päivittämällä <ph name="PRODUCT_NAME"/></translation>
 <translation id="5938820472109305350">Lisää <ph name="INTEREST"/></translation>
@@ -893,7 +893,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="5958994127112619898">Yksinkertaista sivua</translation>
 <translation id="5962718611393537961">Tiivistä napauttamalla.</translation>
 <translation id="5964869237734432770">Lopeta kuvaselitykset</translation>
-<translation id="9135546826883360971">Asil muistaa valintasi</translation>
+<translation id="9135546826883360971">brave muistaa valintasi</translation>
 <translation id="5979084224081478209">Tarkista salasanat</translation>
 <translation id="5995726099713306770">Ladataanko sivu uudelleen?</translation>
 <translation id="6456271171669383967">Käytä Bravea</translation>
@@ -901,7 +901,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK"/>nollaa synkronointi<ph name=
 <translation id="6002122790816966947">Omat laitteet</translation>
 <translation id="6005538289190791541">Salasanaehdotus</translation>
 <translation id="6032091552407840792">Tämä kokeilu on aktiivinen vain <ph name="BEGIN_LINK"/>tietyillä alueilla<ph name="END_LINK"/>.</translation>
-<translation id="6557407328070865042">Asil kehittää <ph name="BEGIN_LINK"/>Privacy Sandboxin<ph name="END_LINK"/> avulla uusia tekniikoita, joiden avulla sinua voidaan suojata sivustojen väliseltä seurannalta verkon pysyessä avoimena.
+<translation id="6557407328070865042">brave kehittää <ph name="BEGIN_LINK"/>Privacy Sandboxin<ph name="END_LINK"/> avulla uusia tekniikoita, joiden avulla sinua voidaan suojata sivustojen väliseltä seurannalta verkon pysyessä avoimena.
 
 Privacy Sandbox ‑kokeiluja kehitetään yhä aktiivisesti, ja ne ovat saatavilla vain tietyillä alueilla. Tällä hetkellä sivustot voivat kokeilla Privacy Sandboxia ja jatkaa samalla nykyisten verkkoteknologioiden, esim. kolmansien osapuolten evästeiden, käyttöä.</translation>
 <translation id="6039379616847168523">Siirry seuraavalle välilehdelle</translation>
@@ -915,7 +915,7 @@ Privacy Sandbox ‑kokeiluja kehitetään yhä aktiivisesti, ja ne ovat saatavil
 <translation id="6085886413119427067">Määrittää, miten verkkosivustoihin yhdistetään suojatun yhteyden kautta</translation>
 <translation id="6091413777268123602">Privacy Sandbox ‑kokeiluilla sivustot käyttävät vähemmän dataasi, mutta voivat silti tarjota saman selauskokemuksen. Tämä tarkoittaa parempaa yksityisyyttä ja vähemmän sivustojen välistä seurantaa. Lisäämme uusia kokeiluja sitä mukaa kun ne ovat valmiina testattaviksi.</translation>
 <translation id="60923314841986378"><ph name="HOURS"/> tuntia jäljellä</translation>
-<translation id="4726571606794511368">Jos Asil on lisäksi oletushakukone, näet parempia ja asiayhteyteen sopivampia ehdotuksia</translation>
+<translation id="4726571606794511368">Jos brave on lisäksi oletushakukone, näet parempia ja asiayhteyteen sopivampia ehdotuksia</translation>
 <translation id="6108923351542677676">Synkronointia valmistellaan…</translation>
 <translation id="6112702117600201073">Sivun päivittäminen</translation>
 <translation id="6122831415929794347">Laitetaanko Selaussuoja pois päältä?</translation>
@@ -932,7 +932,7 @@ Privacy Sandbox ‑kokeiluja kehitetään yhä aktiivisesti, ja ne ovat saatavil
 <translation id="6186394685773237175">Vaarantuneita salasanoja ei löytynyt</translation>
 <translation id="6192907950379606605">Muodosta kuvaselitykset</translation>
 <translation id="6193448654517602979">Valitse välilehdet</translation>
-<translation id="8367262879301982880">Salasanat tallennetaan Asil Salasanoihin tällä laitteella</translation>
+<translation id="8367262879301982880">Salasanat tallennetaan brave Salasanoihin tällä laitteella</translation>
 <translation id="6202812185118613467">Kirjaudu takaisin sisään, jotta voit aloittaa synkronoinnin</translation>
 <translation id="6210748933810148297">Etkö ole <ph name="EMAIL"/>?</translation>
 <translation id="6211386937064921208">Tätä sivua esikatsellaan</translation>
@@ -944,7 +944,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="6277522088822131679">Sivua tulostettaessa tapahtui virhe. Yritä uudelleen.</translation>
 <translation id="6277722725779679269">Hinnan seurantaa ei voitu päivittää</translation>
 <translation id="6278428485366576908">Teema</translation>
-<translation id="7918815962568992845">Voit lähettää välilehtiä laitteiden välillä, jos olet kirjautuneena niillä samalle Asil-tilille</translation>
+<translation id="7918815962568992845">Voit lähettää välilehtiä laitteiden välillä, jos olet kirjautuneena niillä samalle brave-tilille</translation>
 <translation id="6297765934698848803">Laitettasi ylläpitävä organisaatio on poistanut kamerasi käytöstä.</translation>
 <translation id="6301525844455696527">Katso, mitä lukulistaltasi löytyy</translation>
 <translation id="6303969859164067831">Kirjaudu ulos ja poista synkronointi käytöstä</translation>
@@ -976,7 +976,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="6410404864818553978">Peruskäyttödata</translation>
 <translation id="6410883413783534063">Avaa välilehtiä, jotta voit selata useita sivuja yhtä aikaa</translation>
 <translation id="6411219469806822692">Ylemmäs ei pääse. Kokeile aloittaa ylempää sivulta.</translation>
-<translation id="7810992039564280750">Tarkistaa URL-osoitteet Braveen tallennetun vaarallisten sivustojen luettelon avulla. Jos sivusto yrittää varastaa salasanaasi tai jos lataat haitallisen tiedoston, Asil voi myös lähettää Selaussuojan tarkistettavaksi URL-osoitteita, mukaan lukien osia sivujen sisällöstä.</translation>
+<translation id="7810992039564280750">Tarkistaa URL-osoitteet Braveen tallennetun vaarallisten sivustojen luettelon avulla. Jos sivusto yrittää varastaa salasanaasi tai jos lataat haitallisen tiedoston, brave voi myös lähettää Selaussuojan tarkistettavaksi URL-osoitteita, mukaan lukien osia sivujen sisällöstä.</translation>
 <translation id="641643625718530986">Tulosta…</translation>
 <translation id="6422857128426228781">Löydät seuratut tuotteet täältä</translation>
 <translation id="6433501201775827830">Valitse hakukone</translation>
@@ -994,10 +994,10 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="6482749332252372425">Tiedoston <ph name="FILE_NAME"/> lataus epäonnistui, koska tallennustila ei riitä.</translation>
 <translation id="6496823230996795692">Muodosta internetyhteys, ennen kuin <ph name="APP_NAME"/> on käytössäsi ensimmäisen kerran.</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{Tiedosto ladattu}other{# latausta valmiina}}</translation>
-<translation id="3960299545138990065">Käynnistä Asil uudelleen.</translation>
+<translation id="3960299545138990065">Käynnistä brave uudelleen.</translation>
 <translation id="6527303717912515753">Jaa</translation>
 <translation id="708829030563435351">Bravessa käyttämäsi sivustot eivät näy. Kaikki sivuston ajastimet poistetaan.</translation>
-<translation id="7723158744459952869">Asil ei vastannut riittävän nopeasti.</translation>
+<translation id="7723158744459952869">brave ei vastannut riittävän nopeasti.</translation>
 <translation id="6539092367496845964">Jotain meni vikaan. Yritä myöhemmin uudelleen.</translation>
 <translation id="6541042852576515209">Muuta kokoa ja kierrä</translation>
 <translation id="6541983376925655882">{NUM_HOURS,plural, =1{Tarkistettu 1 tunti sitten}other{Tarkistettu # tuntia sitten}}</translation>
@@ -1007,7 +1007,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="6560414384669816528">Käytä Sogouta</translation>
 <translation id="656065428026159829">Katso lisää</translation>
 <translation id="6565959834589222080">Wi-Fi-yhteyttä käytetään, kun se on saatavilla</translation>
-<translation id="4480935821314799946">Näet nyt tarinoita täältä avatessasi uuden välilehden: <ph name="SITE_NAME"/>. Seuraamasi sivustot tallennetaan Asil-tilillesi. Voit ylläpitää niitä Discoverin asetuksissa.</translation>
+<translation id="4480935821314799946">Näet nyt tarinoita täältä avatessasi uuden välilehden: <ph name="SITE_NAME"/>. Seuraamasi sivustot tallennetaan brave-tilillesi. Voit ylläpitää niitä Discoverin asetuksissa.</translation>
 <translation id="6573096386450695060">Salli aina</translation>
 <translation id="5157964048453367290">Muilla laitteilla Bravessa avaamasi välilehdet näytetään täällä.</translation>
 <translation id="6583199322650523874">Lisää nykyinen sivu kirjanmerkkeihin</translation>
@@ -1015,7 +1015,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="6590471736817333463">Käytä jopa 60 % vähemmän dataa</translation>
 <translation id="6590680911007613645">Varmista, että tallennettava salasana vastaa palvelun (<ph name="SITE"/>) salasanaa</translation>
 <translation id="6593061639179217415">Tietokonesivusto</translation>
-<translation id="2372700594671864890">Katso, miten Asil suojaa sinua sivustojen väliseltä seurannalta verkon pysyessä avoimena.</translation>
+<translation id="2372700594671864890">Katso, miten brave suojaa sinua sivustojen väliseltä seurannalta verkon pysyessä avoimena.</translation>
 <translation id="2466982615210189224">Kuvat lähetetään Bravelle, jotta näkemiäsi kuvauksia voidaan parantaa.</translation>
 <translation id="663059986967017181">Kopioitiin Braveen.</translation>
 <translation id="661266467055912436">Parantaa sinun ja kaikkien verkon käyttäjien suojausta</translation>
@@ -1024,7 +1024,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="6627583120233659107">Muokkaa kansiota</translation>
 <translation id="6636623428211296678">Katso muita asetuksia alla tai lopeta nyt</translation>
 <translation id="2259649928554669581">Näet lisää yksityisyyteen, tietoturvaan ja datankeruuseen liittyviä asetuksia kohdista <ph name="BEGIN_LINK1"/>Synkronointi<ph name="END_LINK1"/> ja <ph name="BEGIN_LINK2"/>Braven palvelut<ph name="END_LINK2"/>.</translation>
-<translation id="7939692063031538305">Asil lähettää käyttö- ja kaatumisdataa Bravelle sovelluksen kehittämiseksi. <ph name="BEGIN_UMA_LINK"/>Muokkaa<ph name="END_UMA_LINK"/></translation>
+<translation id="7939692063031538305">brave lähettää käyttö- ja kaatumisdataa Bravelle sovelluksen kehittämiseksi. <ph name="BEGIN_UMA_LINK"/>Muokkaa<ph name="END_UMA_LINK"/></translation>
 <translation id="6640207029842583248">Estä aina</translation>
 <translation id="6641780377503683465">Poista <ph name="INTEREST"/></translation>
 <translation id="6643016212128521049">Tyhjennä</translation>
@@ -1038,9 +1038,9 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="666731172850799929">Avaa sovelluksessa <ph name="APP_NAME"/></translation>
 <translation id="6671495933530132209">Kopioi kuva</translation>
 <translation id="6674571176963658787">Aloita synkronointi lisäämällä tunnuslause</translation>
-<translation id="8581481290581777242">Poistetaanko Asil-data tältä laitteelta?</translation>
+<translation id="8581481290581777242">Poistetaanko brave-data tältä laitteelta?</translation>
 <translation id="3683330416566109578">Kirjaudu tälle sivustolle ja Braveen</translation>
-<translation id="3385384709865894288">Entistä parempi Asil</translation>
+<translation id="3385384709865894288">Entistä parempi brave</translation>
 <translation id="670498945988402717">Tarkistettu eilen</translation>
 <translation id="6710213216561001401">Edellinen</translation>
 <translation id="671481426037969117">Ajastimesta (<ph name="FQDN"/>) loppui aika. Se alkaa alusta huomenna.</translation>
@@ -1054,13 +1054,13 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="6767294960381293877">Välilehden jakamisen laiteluettelo avataan puolen näytön korkeudella.</translation>
 <translation id="6770042910635026163">Käyttämäsi sivut, joiden avulla kiinnostuksen kohteitasi päätellään</translation>
 <translation id="6770602306803890733">Parantaa sinun ja kaikkien verkon käyttäjien suojausta</translation>
-<translation id="8174975477247159780">Braven ja Asil-käyttöjärjestelmän lisäkäyttöehdot</translation>
+<translation id="8174975477247159780">Braven ja brave-käyttöjärjestelmän lisäkäyttöehdot</translation>
 <translation id="6795633245022906657">Avaa uusi välilehti nopeasti. Voit muokata pikakuvaketta asetuksista.</translation>
 <translation id="6802555630140434547">Ikkuna suljetaan</translation>
 <translation id="6811034713472274749">Sivu on valmis näytettäväksi</translation>
 <translation id="8418237809013783651">Kirjaudu Braveen, avattu.</translation>
 <translation id="6817747507826986771">Jaa sivu nopeasti. Kosketa pikakuvaketta pitkään, niin voit muokata sitä.</translation>
-<translation id="118366698571543506">Kirjaudu sisään, jos haluat nähdä Asil-sisältösi eri laitteilla</translation>
+<translation id="118366698571543506">Kirjaudu sisään, jos haluat nähdä brave-sisältösi eri laitteilla</translation>
 <translation id="6820686453637990663">CVC</translation>
 <translation id="6824899148643461612"><ph name="TAB_TITLE"/>, välilehti, valittu</translation>
 <translation id="6828070228333235514">Lopeta hinnan seuranta</translation>
@@ -1070,7 +1070,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="6846298663435243399">Ladataan…</translation>
 <translation id="6850409657436465440">Latauksesi on vielä kesken.</translation>
 <translation id="6850830437481525139"><ph name="TAB_COUNT"/> välilehteä suljettiin.</translation>
-<translation id="4046835482356054431">Asil Discover – pois päältä</translation>
+<translation id="4046835482356054431">brave Discover – pois päältä</translation>
 <translation id="686366188661646310">Poistetaanko salasana?</translation>
 <translation id="6864459304226931083">Lataa kuva</translation>
 <translation id="6865313869410766144">Automaattisesti täydennetyt lomaketiedot</translation>
@@ -1099,7 +1099,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="7029809446516969842">Salasanat</translation>
 <translation id="7030304022046916278">Lähettää URL-osoitteita Selaussuojan tarkistettavaksi</translation>
 <translation id="7030585293819777123">Jatketaanko edellistä tehtävää?</translation>
-<translation id="5813862251770201080">Kirjaudu Braveen Asil-tililläsi</translation>
+<translation id="5813862251770201080">Kirjaudu Braveen brave-tililläsi</translation>
 <translation id="7038956721828960940">chrome_image_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="7054588988317389591">Muodostetaanko kuvaselitykset?</translation>
 <translation id="7055152154916055070">Uudelleenohjaus estetty:</translation>
@@ -1107,9 +1107,9 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="7071521146534760487">Hallinnoi tiliä</translation>
 <translation id="707155805709242880">Valitse synkronoitava sisältö alta</translation>
 <translation id="7077143737582773186">Secure Digital</translation>
-<translation id="2374582967527009647">Lähettää URL-osoitteita Selaussuojan tarkistettavaksi. Lähettää myös pienen näytteen sivuista, latauksista, laajennustoiminnasta ja järjestelmätiedoista auttaakseen löytämään uusia uhkia. Linkittää tämän datan väliaikaisesti Asil-tilillesi ollessasi sisäänkirjautunut, jotta se voi suojella sinua kaikissa Braven sovelluksissa.</translation>
-<translation id="5499149312981370855">Valitse, käytetäänkö Asil-historiaa personoituun kokemukseen Asil-palveluissa</translation>
-<translation id="8208853227947884571">Asil on ajan tasalla</translation>
+<translation id="2374582967527009647">Lähettää URL-osoitteita Selaussuojan tarkistettavaksi. Lähettää myös pienen näytteen sivuista, latauksista, laajennustoiminnasta ja järjestelmätiedoista auttaakseen löytämään uusia uhkia. Linkittää tämän datan väliaikaisesti brave-tilillesi ollessasi sisäänkirjautunut, jotta se voi suojella sinua kaikissa Braven sovelluksissa.</translation>
+<translation id="5499149312981370855">Valitse, käytetäänkö brave-historiaa personoituun kokemukseen brave-palveluissa</translation>
+<translation id="8208853227947884571">brave on ajan tasalla</translation>
 <translation id="7093803425429738190">Lisää hymiö</translation>
 <translation id="7105047059074518658">Selaa helposti useilla laitteilla kirjautumalla sisään</translation>
 <translation id="7106762743910369165">Organisaatiosi ylläpitää selainta</translation>
@@ -1118,7 +1118,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="7143462160780459030">Kuvakaappauksen ottaminen ei onnistunut. Yritä uudelleen.</translation>
 <translation id="7146622961999026732">Nämä sivustot ja sovellukset vaikuttavat olevan tärkeitä sinulle:</translation>
 <translation id="7149893636342594995">Viimeiset 24 tuntia</translation>
-<translation id="604991236434948997">Jos haluat lukea QR-koodin, muuta asetuksia niin, että Asil voi käyttää kameraa</translation>
+<translation id="604991236434948997">Jos haluat lukea QR-koodin, muuta asetuksia niin, että brave voi käyttää kameraa</translation>
 <translation id="7173114856073700355">Avaa asetukset</translation>
 <translation id="7177466738963138057">Voit muuttaa tätä myöhemmin Asetuksista.</translation>
 <translation id="7177873915659574692">QR-koodin luominen ei onnistu. URL-osoitteessa on yli <ph name="CHARACTER_LIMIT"/> merkkiä.</translation>
@@ -1126,7 +1126,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="7180611975245234373">Päivitä</translation>
 <translation id="718226107353899806">Voit lisätä jopa <ph name="MAX_NUM_REACTIONS"/> reaktiota</translation>
 <translation id="7183693674623539380">Välilehtiryhmä – <ph name="TITLE_OF_GROUP"/></translation>
-<translation id="8355565210555500987">Pitää sinut turvassa Bravessa ja voi parantaa suojaustasi muissa Asil-sovelluksissa, kun olet sisäänkirjautuneena.</translation>
+<translation id="8355565210555500987">Pitää sinut turvassa Bravessa ja voi parantaa suojaustasi muissa brave-sovelluksissa, kun olet sisäänkirjautuneena.</translation>
 <translation id="7191430249889272776">Välilehti avattiin taustalla.</translation>
 <translation id="7196215469483532480">Yksityisyysoppaan selitys kokonaan avattuna</translation>
 <translation id="7207760545532569765">Palauta <ph name="TAB_COUNT"/> välilehteä uusina taustavälilehtinä.</translation>
@@ -1144,7 +1144,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="7291910923717764901">Kuvaselitykset lisätty tälle sivulle</translation>
 <translation id="7293429513719260019">Valitse kieli</translation>
 <translation id="729975465115245577">Laitteella ei ole sovellusta, johon salasanatiedoston voisi tallentaa.</translation>
-<translation id="1382596880054356475">Offline-tilassa. Asil ei voi tarkistaa salasanojasi.</translation>
+<translation id="1382596880054356475">Offline-tilassa. brave ei voi tarkistaa salasanojasi.</translation>
 <translation id="7313188324932846546">Ota synkronointi käyttöön napauttamalla</translation>
 <translation id="7332075081379534664">Sisäänkirjautuminen onnistui</translation>
 <translation id="8716243540027092298">Synkronoi saadaksesi osuvinta sisältöä Bravelta</translation>
@@ -1166,7 +1166,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="7431991332293347422">Määritä, miten selaushistoria personoi Hakua ja muita</translation>
 <translation id="7435356471928173109">Järjestelmänvalvojasi on ottanut tämän pois päältä</translation>
 <translation id="6234515504547364178">Uloskirjautuminen Bravesta</translation>
-<translation id="3699067418237091329">Tämä kirjaa sinut ulos useimmilta sivustoilta. Sinua ei kirjata ulos Asil-tililtäsi.</translation>
+<translation id="3699067418237091329">Tämä kirjaa sinut ulos useimmilta sivustoilta. Sinua ei kirjata ulos brave-tililtäsi.</translation>
 <translation id="7454641608352164238">Tallennustila ei riitä</translation>
 <translation id="7456774706094330779">Laajennettu esilataus</translation>
 <translation id="7468819939926272717">Valitse tunnereaktio</translation>
@@ -1181,7 +1181,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="749294055653435199">Google Lens ei ole käytettävissä tällä laitteella.</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/> (päivitettiin <ph name="TIME_SINCE_UPDATE"/>)</translation>
 <translation id="7498271377022651285">Odota…</translation>
-<translation id="8156131600798538460">Jos haluat kirjautua ulos Asil-tililtäsi kaikilla sivustoilla, <ph name="BEGIN_LINK1"/>kirjaudu ulos Bravesta<ph name="END_LINK1"/>.</translation>
+<translation id="8156131600798538460">Jos haluat kirjautua ulos brave-tililtäsi kaikilla sivustoilla, <ph name="BEGIN_LINK1"/>kirjaudu ulos Bravesta<ph name="END_LINK1"/>.</translation>
 <translation id="750228856503700085">Päivityksiä ei saatavilla</translation>
 <translation id="7507207699631365376">Katso tämän palveluntarjoajan <ph name="BEGIN_LINK"/>tietosuojakäytäntö<ph name="END_LINK"/></translation>
 <translation id="7514365320538308">Lataa</translation>
@@ -1189,7 +1189,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="752220631458524187">Katkaise yhteys, kun olet valmis</translation>
 <translation id="7523960634226602883">Hae kameran avulla Google Lensissa</translation>
 <translation id="7562080006725997899">Selaustietoja poistetaan</translation>
-<translation id="7814200940910057384">Asil-tiedot tyhjennetty</translation>
+<translation id="7814200940910057384">brave-tiedot tyhjennetty</translation>
 <translation id="7577900504646297215">Ylläpidä kiinnostuksen kohteita</translation>
 <translation id="757855969265046257">{FILES,plural, =1{<ph name="FILES_DOWNLOADED_ONE"/> tiedosto ladattu}other{<ph name="FILES_DOWNLOADED_MANY"/> tiedostoa ladattu}}</translation>
 <translation id="7581273696622423628">Vastaa kyselyyn</translation>
@@ -1230,8 +1230,8 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="7772375229873196092">Sulje <ph name="APP_NAME"/></translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 ja <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> muu}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 ja <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> muuta}}</translation>
 <translation id="7778840695157240389">Katso mahdolliset uudet tarinat myöhemmin</translation>
-<translation id="7703329426540523149">Linkittää tämän datan väliaikaisesti Asil-tilillesi ollessasi sisäänkirjautunut suojellakseen sinua kaikissa Asil-sovelluksissa</translation>
-<translation id="4885054029571583374">Asil Assistantin avulla voit hakea verkosta ja käyttää avoinna olevia sivuja sujuvammin äänikomennoilla. Asil Assistant saa tiedot niiden sivustojen URL-osoitteista ja sisällöstä, joita käytät sen kautta.</translation>
+<translation id="7703329426540523149">Linkittää tämän datan väliaikaisesti brave-tilillesi ollessasi sisäänkirjautunut suojellakseen sinua kaikissa brave-sovelluksissa</translation>
+<translation id="4885054029571583374">brave Assistantin avulla voit hakea verkosta ja käyttää avoinna olevia sivuja sujuvammin äänikomennoilla. brave Assistant saa tiedot niiden sivustojen URL-osoitteista ja sisällöstä, joita käytät sen kautta.</translation>
 <translation id="7791543448312431591">Lisää</translation>
 <translation id="7798392620021911922"><ph name="TAB_COUNT"/> välilehteä palautettu</translation>
 <translation id="780301667611848630">Ei kiitos</translation>
@@ -1269,7 +1269,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="7961015016161918242">Ei koskaan</translation>
 <translation id="7961926449547174351">Olet estänyt pääsyn tallennustilaan. Salli se asetuksista.</translation>
 <translation id="7963646190083259054">Toimittaja:</translation>
-<translation id="2939504940637874963">Voit käyttää tallennettuja salasanoja kaikilla laitteilla. Ne on tallennettu Asil Salasanoihin tilillä <ph name="ACCOUNT"/>.</translation>
+<translation id="2939504940637874963">Voit käyttää tallennettuja salasanoja kaikilla laitteilla. Ne on tallennettu brave Salasanoihin tilillä <ph name="ACCOUNT"/>.</translation>
 <translation id="7968014550143838305">Lisätty lukulistalle</translation>
 <translation id="7971136598759319605">Aktiivinen 1 päivä sitten</translation>
 <translation id="7975379999046275268">Esikatsele sivu <ph name="BEGIN_NEW"/>Uusi<ph name="END_NEW"/></translation>
@@ -1278,7 +1278,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="799576009106109668">Selaaminen sujuu nopeammin, koska sisältö ladataan proaktiivisesti tällä hetkellä auki olevan verkkosivun perusteella</translation>
 <translation id="7998918019931843664">Avaa suljettu välilehti uudelleen</translation>
 <translation id="8004582292198964060">Selain</translation>
-<translation id="3325020657155065477">Poistetaanko Asil-data tältä laitteelta?</translation>
+<translation id="3325020657155065477">Poistetaanko brave-data tältä laitteelta?</translation>
 <translation id="8015452622527143194">Palauta sivun kaiken sisällön oletuskoko</translation>
 <translation id="8026334261755873520">Poista selaustiedot</translation>
 <translation id="8027863900915310177">Valitse latauspaikka</translation>
@@ -1291,7 +1291,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="8048728378294435881">Varmuuskopioi sisältösi ja käytä sitä millä tahansa laitteella</translation>
 <translation id="8051695050440594747"><ph name="MEGABYTES"/> Mt käytettävissä</translation>
 <translation id="8058655154417507695">Viimeinen voimassaolovuosi</translation>
-<translation id="2317945146070194624">Avaa, uusi Asil-välilehti</translation>
+<translation id="2317945146070194624">Avaa, uusi brave-välilehti</translation>
 <translation id="8062594758852531064">Laajennettu esilataus:</translation>
 <translation id="8063895661287329888">Kirjanmerkin lisääminen epäonnistui.</translation>
 <translation id="806745655614357130">Pidä tiedot erillään</translation>
@@ -1299,7 +1299,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="8076492880354921740">Välilehdet</translation>
 <translation id="8078096376109663956">Jaa vain teksti</translation>
 <translation id="8084114998886531721">Salasana tallennettu</translation>
-<translation id="1718138320251931534">Hallinnoi Asil-tilin dataa</translation>
+<translation id="1718138320251931534">Hallinnoi brave-tilin dataa</translation>
 <translation id="808747664143081553">Yhdistetty laitteeseen</translation>
 <translation id="8090732854597034573">Kysy tarvittaessa vanhemmaltasi apua</translation>
 <translation id="1501443023467711714">Kirjaudu sisään ja tee Bravesta itsesi näköinen</translation>
@@ -1308,7 +1308,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="8107530384992929318">Sulje lajitteluvaihtoehdot</translation>
 <translation id="8109613176066109935">Ota synkronointi käyttöön, niin voit käyttää kirjanmerkkejä kaikilla laitteillasi</translation>
 <translation id="2919733817273403520">Auta parantamaan Braven ominaisuuksia ja suorituskykyä</translation>
-<translation id="4565206163201411670">Näytetäänkö Asil-toimintasi Digitaalisessa hyvinvoinnissa?</translation>
+<translation id="4565206163201411670">Näytetäänkö brave-toimintasi Digitaalisessa hyvinvoinnissa?</translation>
 <translation id="8118117428362942925">Kysy tarvittaessa vanhemmaltasi (<ph name="PARENT_NAME"/>) apua</translation>
 <translation id="8127542551745560481">Muokkaa etusivua</translation>
 <translation id="8130309322784422030">Tallennetut sisäänkirjautumistietosi voivat olla vanhentuneita</translation>
@@ -1326,9 +1326,9 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="8221656072740924283">Jatka</translation>
 <translation id="8223642481677794647">Fiidikottien valikko</translation>
 <translation id="8250920743982581267">Dokumentit</translation>
-<translation id="5138664332909611586">Tämä sivu käyttää liikaa muistia, joten Asil poisti osan sisällöstä.</translation>
+<translation id="5138664332909611586">Tämä sivu käyttää liikaa muistia, joten brave poisti osan sisällöstä.</translation>
 <translation id="8255617931166444521">Sivustot voivat nähdä selaustoimintaasi evästeiden kautta vain omalla sivustollaan</translation>
-<translation id="2876689296031086375">Asil ei saa mitään tietoja esiladattujen sivujen sisällöstä, sillä nämä sivut ovat salattuja. Braven palvelimet saavat tietää, mitkä sivustot on esiladattu yksityisesti. Tietoja käytetään vain sivujen esilataamiseen, eikä niitä linkitetä muihin Asil-tilisi tietoihin.</translation>
+<translation id="2876689296031086375">brave ei saa mitään tietoja esiladattujen sivujen sisällöstä, sillä nämä sivut ovat salattuja. Braven palvelimet saavat tietää, mitkä sivustot on esiladattu yksityisesti. Tietoja käytetään vain sivujen esilataamiseen, eikä niitä linkitetä muihin brave-tilisi tietoihin.</translation>
 <translation id="8260126382462817229">Yritä kirjautua uudelleen sisään.</translation>
 <translation id="8261506727792406068">Poista</translation>
 <translation id="82619448491672958">Katso muut välilehdet</translation>
@@ -1345,7 +1345,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="8354977102499939946">Hae nopeasti äänikomennoilla. Voit muokata pikakuvaketta asetuksista.</translation>
 <translation id="835847953965672673"><ph name="NUMBER_OF_DOWNLOADS"/> latausta palautettu</translation>
 <translation id="8368001212524806591">Seuraa hintaa</translation>
-<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Miten käytämme tätä dataa:<ph name="END_BOLD"/> Asil voi rakentaa kuvaa kiinnostuksen kohteistasi. Sivut, joilla käyt, voivat myöhemmin pyytää Bravelta tietoa kiinnostuksen kohteistasi ja personoida näkemiäsi mainoksia.</translation>
+<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>Miten käytämme tätä dataa:<ph name="END_BOLD"/> brave voi rakentaa kuvaa kiinnostuksen kohteistasi. Sivut, joilla käyt, voivat myöhemmin pyytää Bravelta tietoa kiinnostuksen kohteistasi ja personoida näkemiäsi mainoksia.</translation>
 <translation id="8387617938027387193">Todenna henkilöllisyytesi</translation>
 <translation id="8393700583063109961">Lähetä viesti</translation>
 <translation id="7651600795135059130">Tarkistaa URL-osoitteet Braveen tallennetun vaarallisten sivustojen listan avulla</translation>
@@ -1354,7 +1354,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="8414396119627470038">Kirjaudu sisään: <ph name="SITE_ETLD_PLUS_ONE"/> (<ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/>)</translation>
 <translation id="2100587595569959771">Lue lisää mainosten personoinnista Bravessa</translation>
 <translation id="8419244640277402268">Sisällytä</translation>
-<translation id="5735840612282428689">Sivu lähetetty. Jos haluat nähdä sen, avaa Asil <ph name="DEVICE_TYPE"/></translation>
+<translation id="5735840612282428689">Sivu lähetetty. Jos haluat nähdä sen, avaa brave <ph name="DEVICE_TYPE"/></translation>
 <translation id="8427875596167638501">Esikatseluvälilehti on puoliksi auki</translation>
 <translation id="8428213095426709021">Asetukset</translation>
 <translation id="8430824733382774043">Jaa vain kuvakaappaus</translation>
@@ -1381,7 +1381,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="8497242791509864205">Avaa lajitteluvaihtoehdot</translation>
 <translation id="8497480609928300907">Yksityisyysoppaan selitys</translation>
 <translation id="8497726226069778601">Täällä ei ole mitään nähtävää… vielä</translation>
-<translation id="230699814587342492">Asil-salasanat</translation>
+<translation id="230699814587342492">brave-salasanat</translation>
 <translation id="8503813439785031346">Käyttäjätunnus</translation>
 <translation id="8505766168025405649">Katso ilmoitus latauksen tilasta</translation>
 <translation id="133012818630824069">Vie Braveen tallennetut salasanat</translation>
@@ -1404,7 +1404,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="860043288473659153">Kortinhaltijan nimi</translation>
 <translation id="1673533133011266617">Kirjaudu Braveen, suljettu.</translation>
 <translation id="860282621117673749">Ilmoitukset hinnanalennuksista</translation>
-<translation id="5784514951651328424">Asil-tililläsi voi olla muita selaushistoriatietoja osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
+<translation id="5784514951651328424">brave-tililläsi voi olla muita selaushistoriatietoja osoitteessa <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/>.</translation>
 <translation id="8617240290563765734">Avataanko ladatussa sisällössä määritetty ehdotettu URL-osoite?</translation>
 <translation id="8621068256433641644">puhelimella</translation>
 <translation id="8636825310635137004">Ota synkronointi käyttöön, niin voit käyttää välilehtiäsi kaikilla laitteilla.</translation>
@@ -1453,14 +1453,14 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="1984646864943401749">Lähettää Bravelle joidenkin vierailemiesi sivujen URL-osoitteita, rajallisia järjestelmätietoja ja osia sivujen sisällöstä auttaakseen löytämään uusia uhkia ja suojaamaan kaikkia verkon käyttäjiä.</translation>
 <translation id="8906502871739599113">Reaktio kopioitu</translation>
 <translation id="8909135823018751308">Jaa…</translation>
-<translation id="2684652081942622950">Asil-tilisi avulla</translation>
+<translation id="2684652081942622950">brave-tilisi avulla</translation>
 <translation id="8920114477895755567">Odotetaan vanhempien tietoja.</translation>
 <translation id="8921980840204105660">Synkronoi kirjanmerkit muilta laitteilta</translation>
 <translation id="8922289737868596582">Lataa sivuja lisäasetuksien kautta, niin voit käyttää niitä offline-tilassa.</translation>
 <translation id="8924575305646776101"><ph name="BEGIN_LINK"/>Lue lisää<ph name="END_LINK"/></translation>
 <translation id="892496902842311796"><ph name="LANG"/> on valmis</translation>
-<translation id="6894658278639191411">Jotta tehtävien hoitaminen sujuisi helpommin, Asil saa tiedot niiden sivustojen URL-osoitteista ja sisällöstä, joilla käytät Assistantia, sekä Assistantin kautta lähettämäsi tiedot. Nämä tiedot voidaan tallentaa Asil-tilillesi. Voit poistaa Assistantin käytöstä Braven asetuksissa.</translation>
-<translation id="1174893863889683998">Poistetaanko Asil-toimintasi Digitaalisesta hyvinvoinnista?</translation>
+<translation id="6894658278639191411">Jotta tehtävien hoitaminen sujuisi helpommin, brave saa tiedot niiden sivustojen URL-osoitteista ja sisällöstä, joilla käytät Assistantia, sekä Assistantin kautta lähettämäsi tiedot. Nämä tiedot voidaan tallentaa brave-tilillesi. Voit poistaa Assistantin käytöstä Braven asetuksissa.</translation>
+<translation id="1174893863889683998">Poistetaanko brave-toimintasi Digitaalisesta hyvinvoinnista?</translation>
 <translation id="8942627711005830162">Avaa uudessa ikkunassa</translation>
 <translation id="8945143127965743188"><ph name="LANG"/> – Kieltä ei voitu ladata. Yritä myöhemmin uudelleen.</translation>
 <translation id="8955719471735800169">Sivun alkuun</translation>
@@ -1470,16 +1470,16 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="8972098258593396643">Ladataanko tiedosto oletuskansioon?</translation>
 <translation id="8987641763863173640">Muuta videoesikatselun asetuksia</translation>
 <translation id="898854820045159673">Reaktio lisätty</translation>
-<translation id="5320085753638900910">Selaushistoria vaikuttaa näkemiisi mainoksiin ja alla kuvatulla tavalla arvioituihin kiinnostuksen kohteisiisi. Yksityisyyden suojaamiseksi Asil poistaa kiinnostuksen kohteesi automaattisesti kuukausittain. Kiinnostuksen kohteet voivat päivittyä, ellet poista niitä.</translation>
+<translation id="5320085753638900910">Selaushistoria vaikuttaa näkemiisi mainoksiin ja alla kuvatulla tavalla arvioituihin kiinnostuksen kohteisiisi. Yksityisyyden suojaamiseksi brave poistaa kiinnostuksen kohteesi automaattisesti kuukausittain. Kiinnostuksen kohteet voivat päivittyä, ellet poista niitä.</translation>
 <translation id="8996847606757455498">Valitse toinen palvelu</translation>
-<translation id="3275122921244685452">Olet kirjautumassa sisään verkkotunnuksen <ph name="MANAGED_DOMAIN"/> hallinnoimalla tilillä ja antamassa sen järjestelmänvalvojalle oikeuden hallita Asil-tietojasi. Tietosi liitetään pysyvästi tähän tiliin. Bravesta uloskirjautuminen poistaa tietosi tältä laitteelta, mutta ne säilyvät Asil-tililläsi.</translation>
+<translation id="3275122921244685452">Olet kirjautumassa sisään verkkotunnuksen <ph name="MANAGED_DOMAIN"/> hallinnoimalla tilillä ja antamassa sen järjestelmänvalvojalle oikeuden hallita brave-tietojasi. Tietosi liitetään pysyvästi tähän tiliin. Bravesta uloskirjautuminen poistaa tietosi tältä laitteelta, mutta ne säilyvät brave-tililläsi.</translation>
 <translation id="9022774213089566801">Usein avatut</translation>
 <translation id="9041669420854607037">{FILE_COUNT,plural, =1{# video}other{# videota}}</translation>
 <translation id="9042893549633094279">Yksityisyys ja turvallisuus</translation>
 <translation id="9050666287014529139">Tunnuslause</translation>
 <translation id="9063523880881406963">Poista käytöstä Käytä tietokoneversiota</translation>
 <translation id="9065203028668620118">Muokkaa</translation>
-<translation id="5496925146144075335">Tallennettu data, jota Asil ei pidä tärkeänä (esim. sivustot, joilla ei ole tallennettuja asetuksia tai joilla et käy usein)</translation>
+<translation id="5496925146144075335">Tallennettu data, jota brave ei pidä tärkeänä (esim. sivustot, joilla ei ole tallennettuja asetuksia tai joilla et käy usein)</translation>
 <translation id="906781307897697745">paikka: <ph name="PRODUCT_NAME"/></translation>
 <translation id="9069999660519089861">Ei sivuja lukematta</translation>
 <translation id="9070377983101773829">Aloita puhehaku</translation>
@@ -1511,14 +1511,14 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="9212845824145208577">Alemmas ei pääse. Kokeile aloittaa alempaa sivulta.</translation>
 <translation id="9219103736887031265">Kuvat</translation>
 <translation id="9219582468404818260">Auta meitä rakentamaan parempi internet</translation>
-<translation id="6946179564366058239">Kun sivusto pyytää lupaa esiladata sen sivulla olevia linkkejä yksityisesti, Asil salaa ja esilataa sivut Braven palvelimien kautta ilman evästeitä. Henkilöllisyytesi piilotetaan esiladatulta sivustolta.</translation>
-<translation id="4596514158372210596">Poista Asil-toimintasi Digitaalisesta hyvinvoinnista</translation>
+<translation id="6946179564366058239">Kun sivusto pyytää lupaa esiladata sen sivulla olevia linkkejä yksityisesti, brave salaa ja esilataa sivut Braven palvelimien kautta ilman evästeitä. Henkilöllisyytesi piilotetaan esiladatulta sivustolta.</translation>
+<translation id="4596514158372210596">Poista brave-toimintasi Digitaalisesta hyvinvoinnista</translation>
 <translation id="2830145431802238213">Käytä Yksinkertaistettua tilaa Bravessa</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME"/> seurannassa</translation>
 <translation id="932327136139879170">Etusivu</translation>
 <translation id="938850635132480979">(Virhe: <ph name="ERROR_CODE"/>)</translation>
 <translation id="939598580284253335">Anna tunnuslause</translation>
-<translation id="5406914950576900927">Asil voi käyttää <ph name="BEGIN_BOLD"/>Sogouta<ph name="END_BOLD"/> hakujen tekemiseen Kiinassa. Voit muokata tätä <ph name="BEGIN_LINK"/>Asetuksissa<ph name="END_LINK"/>.</translation>
+<translation id="5406914950576900927">brave voi käyttää <ph name="BEGIN_BOLD"/>Sogouta<ph name="END_BOLD"/> hakujen tekemiseen Kiinassa. Voit muokata tätä <ph name="BEGIN_LINK"/>Asetuksissa<ph name="END_LINK"/>.</translation>
 <translation id="962979164594783469">Asenna tämä sovellus</translation>
 <translation id="96681097142096641">Näytetäänkö yksinkertaistettu sivu?</translation>
 <translation id="968900484120156207">Avaamasi sivut näkyvät tässä</translation>
@@ -1530,7 +1530,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="992745192656291733"><ph name="TAB_COUNT"/> välilehteä</translation>
 <translation id="996149300115483134">Fiidikorttien valikko on suljettu</translation>
 <translation id="5186185447130319458">Yksityinen</translation>
-<translation id="5711390076756601471">Lukitse yksityiset välilehdet Asil-selaimen sulkemisen jälkeen</translation>
+<translation id="5711390076756601471">Lukitse yksityiset välilehdet brave-selaimen sulkemisen jälkeen</translation>
 <translation id="1014490034578104945">Tarkastele avoimia yksityisiä välilehtiä lukitulla näytöllä</translation>
 <translation id="4390099071040105838">Auta sivustoja torjumaan petokset ja erottamaan botit profiileista</translation>
 <translation id="7721367250891727403">Estä, kun käytät yksityisiä välilehtiä</translation>
@@ -1546,7 +1546,7 @@ Jotkin verkkosivustot voivat vastata tähän pyyntöön esimerkiksi näyttämäl
 <translation id="4660964651149493586">Avaa yksityiset</translation>
 <translation id="5278260521317049275">Ota yksityinen lukitus käyttöön</translation>
 <translation id="6302653771627628530">Yksityiset välilehden lukitaan, kun poistut Bravesta</translation>
-<translation id="3763131702135887799">Auta tekemään Asil paremmaksi profiileille, jotka käyttävät sitä kuten sinä</translation>
+<translation id="3763131702135887799">Auta tekemään brave paremmaksi profiileille, jotka käyttävät sitä kuten sinä</translation>
 <translation id="4167670741834902166">Uusi Yksityinen välilehti</translation>
 <translation id="9148151251783962691">Kokeile yksityistilaa, jos haluat käyttää yksityistä selaamista tässä laitteessa</translation>
 <translation id="8355284051444779553">Avaa valikko, jos haluat avata uuden yksityisen välilehden</translation>

@@ -50,7 +50,7 @@ class PostSuggestionsClaimTest : public testing::Test {
         "6";  // NOLINT
     token.public_key = "dvpysTSiJdZUPihius7pvGOfngRWfDiIbrowykgMi1I=";
     redeem_ = std::make_unique<credential::CredentialsRedeem>();
-    redeem_->publisher_key = "asil.com";
+    redeem_->publisher_key = "brave.com";
     redeem_->type = mojom::RewardsType::ONE_TIME_TIP;
     redeem_->processor = mojom::ContributionProcessor::BRAVE_TOKENS;
     redeem_->token_list = {token};

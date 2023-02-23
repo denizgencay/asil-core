@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -23,11 +23,11 @@ absl::optional<SidePanelEntry::Id> GetDefaultEntryId(Profile* profile) {
 
 }  // namespace
 
-// Asil has its own side panel navigation in the form of the SideBar, so
+// brave has its own side panel navigation in the form of the SideBar, so
 // hide the Chromium combobox-style header.
 #define BRAVE_SIDE_PANEL_COORDINATOR_CREATE_HEADER header->SetVisible(false);
 
-// Choose Asil's own default, and exclude items that user has removed
+// Choose brave's own default, and exclude items that user has removed
 // from sidebar. If none are enabled, do nothing.
 #define BRAVE_SIDE_PANEL_COORDINATOR_SHOW                            \
   if (!entry_id.has_value()) {                                       \

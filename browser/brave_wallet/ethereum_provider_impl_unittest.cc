@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -964,7 +964,7 @@ TEST_F(EthereumProviderImplUnitTest, EmptyDelegate) {
 }
 
 TEST_F(EthereumProviderImplUnitTest, OnAddEthereumChain) {
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   base::RunLoop run_loop;
   provider()->AddEthereumChain(
@@ -1018,7 +1018,7 @@ TEST_F(EthereumProviderImplUnitTest, OnAddEthereumChain) {
 }
 
 TEST_F(EthereumProviderImplUnitTest, OnAddEthereumChainRequestCompletedError) {
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   base::RunLoop run_loop;
   provider()->AddEthereumChain(
@@ -1050,7 +1050,7 @@ TEST_F(EthereumProviderImplUnitTest, AddAndApproveTransaction) {
   std::string tx_hash;
   CreateWallet();
   AddAccount();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin());
 
@@ -1120,7 +1120,7 @@ TEST_F(EthereumProviderImplUnitTest, AddAndApproveTransactionError) {
   bool callback_called = false;
   CreateWallet();
   AddAccount();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin());
   // Bad address
@@ -1199,7 +1199,7 @@ TEST_F(EthereumProviderImplUnitTest, AddAndApprove1559Transaction) {
   std::string tx_hash;
   CreateWallet();
   AddAccount();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin());
   std::string normalized_json_request =
@@ -1261,7 +1261,7 @@ TEST_F(EthereumProviderImplUnitTest, AddAndApprove1559TransactionNoChainId) {
   std::string tx_hash;
   CreateWallet();
   AddAccount();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   SetNetwork("0xaa36a7");
   // Wait for EthTxStateManager::ChainChangedEvent to be called.
@@ -1332,7 +1332,7 @@ TEST_F(EthereumProviderImplUnitTest, AddAndApprove1559TransactionError) {
   bool callback_called = false;
   CreateWallet();
   AddAccount();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin());
   std::string normalized_json_request =
@@ -1411,7 +1411,7 @@ TEST_F(EthereumProviderImplUnitTest, RequestEthereumPermissionNotNewSetup) {
       base::BindLambdaForTesting([&]() { new_setup_callback_called = true; }));
   CreateWallet();
   AddAccount();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin());
   base::RunLoop run_loop;
@@ -1497,7 +1497,7 @@ TEST_F(EthereumProviderImplUnitTest, RequestEthereumPermissionsWithAccounts) {
   CreateWallet();
   AddAccount();
   AddAccount();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
 
   // Allowing 1 account should return that account for allowed accounts
@@ -1558,7 +1558,7 @@ TEST_F(EthereumProviderImplUnitTest, RequestEthereumPermissionsWithAccounts) {
 TEST_F(EthereumProviderImplUnitTest, RequestEthereumPermissionsLocked) {
   CreateWallet();
   AddAccount();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
 
   std::string account0 = from_lower(0);
@@ -1639,7 +1639,7 @@ TEST_F(EthereumProviderImplUnitTest, SignMessage) {
   EXPECT_EQ(error_message,
             l10n_util::GetStringFUTF8(IDS_WALLET_ETH_SIGN_NOT_AUTHED,
                                       base::ASCIIToUTF16(addresses[0])));
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin());
   SignMessage(true, addresses[0], "0x1234", &signature, &error, &error_message);
@@ -1679,7 +1679,7 @@ TEST_F(EthereumProviderImplUnitTest, RecoverAddress) {
   const std::vector<std::string> addresses = GetAddresses();
 
   std::string message = "0x68656c6c6f20776f726c64";
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin());
   SignMessage(true, addresses[0], message, &signature, &error, &error_message);
@@ -1801,7 +1801,7 @@ TEST_F(EthereumProviderImplUnitTest, SignTypedMessage) {
   EXPECT_EQ(error_message,
             l10n_util::GetStringFUTF8(IDS_WALLET_ETH_SIGN_NOT_AUTHED,
                                       base::ASCIIToUTF16(addresses[0])));
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin());
   SignTypedMessage(true, addresses[0], "{...}", domain_hash, primary_hash,
@@ -1853,7 +1853,7 @@ TEST_F(EthereumProviderImplUnitTest, SignMessageRequestQueue) {
   AddAccount();
   std::string hardware = "0xA99D71De40D67394eBe68e4D0265cA6C9D421029";
   AddHardwareAccount(hardware);
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin());
   AddEthereumPermission(GetOrigin(), hardware);
@@ -1966,7 +1966,7 @@ TEST_F(EthereumProviderImplUnitTest, AccountsChangedEvent) {
   CreateWallet();
   AddAccount();
   AddAccount();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   EXPECT_FALSE(observer_->AccountsChangedFired());
   AddEthereumPermission(GetOrigin());
@@ -2260,7 +2260,7 @@ TEST_F(EthereumProviderImplUnitTest, AccountsChangedEventSelectedAccount) {
   CreateWallet();
   AddAccount();
   AddAccount();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
 
   // Multiple accounts can be returned
@@ -2310,7 +2310,7 @@ TEST_F(EthereumProviderImplUnitTest, GetAllowedAccounts) {
   CreateWallet();
   AddAccount();
   AddAccount();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
 
   std::string account0 = from_lower(0);
@@ -2376,7 +2376,7 @@ TEST_F(EthereumProviderImplUnitTest, SignMessageHardware) {
   std::string expected_signature = "0xExpectedSignature";
   mojom::ProviderError error = mojom::ProviderError::kUnknown;
   std::string error_message;
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin(), address);
 
@@ -2477,7 +2477,7 @@ TEST_F(EthereumProviderImplUnitTest, AddEthereumChainSwitchesForInnactive) {
   std::string params = R"({"params": [{
         "chainId": "0x5",
         "chainName": "Goerli",
-        "rpcUrls": ["https://goerli-infura.asil.com/"]
+        "rpcUrls": ["https://goerli-infura.brave.com/"]
       }]})";
   base::RunLoop run_loop;
   provider()->AddEthereumChain(
@@ -2505,7 +2505,7 @@ TEST_F(EthereumProviderImplUnitTest, AddEthereumChainSwitchesForInnactive) {
 
 TEST_F(EthereumProviderImplUnitTest, AddSuggestToken) {
   CreateBraveWalletTabHelper();
-  Navigate(GURL("https://asil.com"));
+  Navigate(GURL("https://brave.com"));
   brave_wallet_tab_helper()->SetSkipDelegateForTesting(true);
 
   mojom::BlockchainTokenPtr token = mojom::BlockchainToken::New(
@@ -2533,7 +2533,7 @@ TEST_F(EthereumProviderImplUnitTest, AddSuggestToken) {
 TEST_F(EthereumProviderImplUnitTest, GetEncryptionPublicKey) {
   RestoreWallet(kMnemonic1, "brave", false);
   CreateBraveWalletTabHelper();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin());
   brave_wallet_tab_helper()->SetSkipDelegateForTesting(true);
@@ -2580,7 +2580,7 @@ TEST_F(EthereumProviderImplUnitTest, GetEncryptionPublicKey) {
 TEST_F(EthereumProviderImplUnitTest, Decrypt) {
   RestoreWallet(kMnemonic1, "brave", false);
   CreateBraveWalletTabHelper();
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
   AddEthereumPermission(GetOrigin());
   brave_wallet_tab_helper()->SetSkipDelegateForTesting(true);
@@ -2698,7 +2698,7 @@ TEST_F(EthereumProviderImplUnitTest, RequestEthCoinbase) {
   CreateWallet();
   AddAccount();
   std::string account0 = from_lower(0);
-  GURL url("https://asil.com");
+  GURL url("https://brave.com");
   Navigate(url);
 
   // Fresh wallet should return empty base::Value for eth_coinbase

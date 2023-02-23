@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -23,7 +23,7 @@ OVERRIDE_FEATURE_DEFAULT_STATES({{
     {kSamePartyAttributeEnabled, base::FEATURE_DISABLED_BY_DEFAULT},
     {kSplitHostCacheByNetworkIsolationKey, base::FEATURE_ENABLED_BY_DEFAULT},
     // It is necessary yet to make chromium storage partitioning compatible with
-    // Asil ephemeral storage. For reference:
+    // brave ephemeral storage. For reference:
     // https://github.com/brave/brave-browser/issues/26165
     {kSupportPartitionedBlobUrl, base::FEATURE_DISABLED_BY_DEFAULT},
 }});

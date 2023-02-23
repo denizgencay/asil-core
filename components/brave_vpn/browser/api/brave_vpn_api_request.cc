@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -23,14 +23,14 @@ namespace {
 net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotationTag() {
   return net::DefineNetworkTrafficAnnotation("brave_vpn_service", R"(
       semantics {
-        sender: "Asil VPN Service"
+        sender: "brave VPN Service"
         description:
           "This service is used to communicate with Guardian VPN apis"
-          "on behalf of the user interacting with the Asil VPN."
+          "on behalf of the user interacting with the brave VPN."
         trigger:
-          "Triggered by user connecting the Asil VPN."
+          "Triggered by user connecting the brave VPN."
         data:
-          "Servers, hosts and credentials for Asil VPN"
+          "Servers, hosts and credentials for brave VPN"
         destination: WEBSITE
       }
       policy {
@@ -218,7 +218,7 @@ void BraveVpnAPIRequest::GetSubscriberCredentialV12(
   dict.Set("brave-vpn-premium-monthly-pass", skus_credential);
   std::string request_body = CreateJSONRequestBody(dict);
   OAuthRequest(base_url, "POST", request_body, std::move(internal_callback),
-               {{"Asil-Payments-Environment", environment}});
+               {{"brave-Payments-Environment", environment}});
 }
 
 void BraveVpnAPIRequest::CreateSupportTicket(

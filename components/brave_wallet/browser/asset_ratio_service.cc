@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -28,9 +28,9 @@ net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotationTag() {
       semantics {
         sender: "Asset Ratio Service"
         description:
-          "This service is used to obtain asset prices for the Asil wallet."
+          "This service is used to obtain asset prices for the brave wallet."
         trigger:
-          "Triggered by uses of the native Asil wallet."
+          "Triggered by uses of the native brave wallet."
         data:
           "Ethereum JSON RPC response bodies."
         destination: WEBSITE

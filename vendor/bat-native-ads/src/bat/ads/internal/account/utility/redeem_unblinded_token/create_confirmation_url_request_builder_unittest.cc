@@ -57,7 +57,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.1 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.1 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";
@@ -91,7 +91,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.1 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.1 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";
@@ -125,7 +125,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.1 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.1 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";
@@ -157,7 +157,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.1 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.1 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";
@@ -191,7 +191,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.1 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.1 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";
@@ -225,7 +225,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.1 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.1 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";
@@ -257,7 +257,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.0 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.0 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";
@@ -291,7 +291,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.0 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.0 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";
@@ -325,7 +325,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.0 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.0 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";
@@ -357,7 +357,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.0 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.0 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";
@@ -391,7 +391,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.0 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.0 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";
@@ -425,7 +425,7 @@ TEST_F(BatAdsCreateConfirmationUrlRequestBuilderTest,
   mojom::UrlRequestInfoPtr expected_url_request = mojom::UrlRequestInfo::New();
   expected_url_request->url = GURL(kExpectedUrl);
   expected_url_request->headers = {
-      "Via: 1.0 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.0 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content = kExpectedContent;
   expected_url_request->content_type = "application/json";

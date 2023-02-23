@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="fi">
-<translation id="2524310205387880526">Arvostele Asil</translation>
+<translation id="2524310205387880526">Arvostele brave</translation>
 <translation id="915758461293673891">Tipin summa:</translation>
 <translation id="1420756770787071946">Tue tätä tuottajaa</translation>
 <translation id="4147995007712611681">Olet asettanut käsittelyssä olevan tipin!</translation>
-<translation id="8966035543003363155">Asil-ilmoitukset tekevät sen helpommaksi</translation>
+<translation id="8966035543003363155">brave-ilmoitukset tekevät sen helpommaksi</translation>
 <translation id="7662771815233894695">Hallitse latauksia, ansaitse tokeneita, katso viikottaisia käyttötilastoja ja paljon muuta.</translation>
 <translation id="4265429476391459783">Et ole ansaitsemassa palkintoja tai vastaanottamassa yksityisyysraportteja</translation>
-<translation id="1305714751384738456">Et ansaitse Asil-palkintoja</translation>
+<translation id="1305714751384738456">Et ansaitse brave-palkintoja</translation>
 <translation id="1483391942610220726">Et saa yksityisyysraportteja</translation>
 <translation id="4683790942451502796">Ota ilmoitukset uudelleen käyttöön, jos haluat edelleen ansaita BATeja ja saada viikottaisia yksityisyysraportteja.</translation>
 <translation id="8618359751943259593">Ota ilmoitukset uudelleen käyttöön, jos haluat edelleen ansaita BATeja</translation>
 <translation id="760355165169399836">Ota ilmoitukset uudelleen käyttöön, jos haluat edelleen saada viikottaisia yksityisyysraportteja.</translation>
 <translation id="6268959058971634697">Et ansaitse palkintoja</translation>
-<translation id="1088637159642753509">Ota laitteen ilmoitukset käyttöön, jotta voit ansaita Asil-palkintoja ja nähdä yksityisyysraportteja.</translation>
-<translation id="312404770066229090">Ota laitteen ilmoitukset käyttöön, jotta voit ansaita Asil-palkintoja.</translation>
+<translation id="1088637159642753509">Ota laitteen ilmoitukset käyttöön, jotta voit ansaita brave-palkintoja ja nähdä yksityisyysraportteja.</translation>
+<translation id="312404770066229090">Ota laitteen ilmoitukset käyttöön, jotta voit ansaita brave-palkintoja.</translation>
 <translation id="2241529840361230499">Ota laitteen ilmoitukset käyttöön, jotta voit ansaita Braven yksityisyysraportteja.</translation>
-<translation id="4930155581888391118">Ota Braven ilmoitukset käyttöön, jotta voit ansaita Asil-palkintoja.</translation>
-<translation id="325187916104529570">Avaa asetukset ja ota laitteen ilmoitukset käyttöön Asil-mainoksille.</translation>
-<translation id="5744802588121897886">Ota Asil-ilmoitukset käyttöön</translation>
-<translation id="7307834434086582547">Ota Asil Shields käyttöön tai poista se käytöstä</translation>
+<translation id="4930155581888391118">Ota Braven ilmoitukset käyttöön, jotta voit ansaita brave-palkintoja.</translation>
+<translation id="325187916104529570">Avaa asetukset ja ota laitteen ilmoitukset käyttöön brave-mainoksille.</translation>
+<translation id="5744802588121897886">Ota brave-ilmoitukset käyttöön</translation>
+<translation id="7307834434086582547">Ota brave Shields käyttöön tai poista se käytöstä</translation>
 <translation id="6945863270524203017">Hanki viikoittaisia tietosuojapäivityksiä seurantavälineiden ja mainosten estämiseen liittyen.</translation>
 <translation id="4324735664183300693">Ota ilmoitukset käyttöön</translation>
 <translation id="3570081523466826008">Nosta yhteystasoksi HTTPS</translation>
@@ -37,7 +37,7 @@
 <translation id="2978223787436054634">Twiittaa tuestasi</translation>
 <translation id="1166682575529520472">Kuukausittainen</translation>
 <translation id="5906820630265272615">BAT-varat</translation>
-<translation id="3586352807094428968">Asil veloittaa 5 % tipin määrästä käsittelykuluina.</translation>
+<translation id="3586352807094428968">brave veloittaa 5 % tipin määrästä käsittelykuluina.</translation>
 <translation id="7723816962634734185">Mukautettu summa</translation>
 <translation id="1986030365413628297">esim. 12,75 BAT</translation>
 <translation id="5087864757604726239">takaisin</translation>
@@ -47,8 +47,8 @@
 <translation id="8195146845495346281">Tipin vähimmäissumma on 0,25 BAT:tä</translation>
 <translation id="4647657427328119430">Ei riittävästi tokeneita.</translation>
 <translation id="2359808026110333948">Jatka</translation>
-<translation id="4227681408214010862">Hienoa, että #Asil mahdollistaa sisällöntuottajien tukemisen! Annoin juuri käyttäjälle <ph name="NAME"/> #BAT tipin. Jos vahvistat osoitteessa https://creators.asil.com ennen <ph name="DATE"/>, BAT on hänen!</translation>
-<translation id="6231182869178328516">Annoin juuri tipin käyttäjälle <ph name="NAME"/> Asil-selaimella. Tutustu siihen osoitteessa https://asil.com/tips.</translation>
+<translation id="4227681408214010862">Hienoa, että #brave mahdollistaa sisällöntuottajien tukemisen! Annoin juuri käyttäjälle <ph name="NAME"/> #BAT tipin. Jos vahvistat osoitteessa https://creators.brave.com ennen <ph name="DATE"/>, BAT on hänen!</translation>
+<translation id="6231182869178328516">Annoin juuri tipin käyttäjälle <ph name="NAME"/> brave-selaimella. Tutustu siihen osoitteessa https://brave.com/tips.</translation>
 <translation id="7172012963002631836">Tipin lähettämisessä oli ongelmia.</translation>
 <translation id="8994556588732085585">Sulje tippausbanneri ja avaa se toistamiseen yrittääksesi uudelleen.</translation>
 <translation id="2278950434998763147">Avaa joitakin sivustoja käyttämällä suojattua HTTPS-yhteyttä pelkän HTTP:n sijaan.</translation>
@@ -61,11 +61,11 @@
 <translation id="863171915776379000">Salli Facebookin sisäänkirjautumiset ja upotetut julkaisut</translation>
 <translation id="5165042248369837294">Salli Twitterin upotetut tviitit</translation>
 <translation id="958971637207126733">Salli LinkedIn-upotuksen sisältävät julkaisut</translation>
-<translation id="6302422639282249274">Hallitse Asil Rewards -ohjelmaa</translation>
+<translation id="6302422639282249274">Hallitse brave Rewards -ohjelmaa</translation>
 <translation id="8877432762827303535">Verkkokassa</translation>
 <translation id="6583902294974160967">Tuki</translation>
 <translation id="1799030480311994998">Ominaisuudet</translation>
-<translation id="2005732746077850308">Asil-suojaukset ja yksityisyys</translation>
+<translation id="2005732746077850308">brave-suojaukset ja yksityisyys</translation>
 <translation id="4692623383562244444">Hakukoneet</translation>
 <translation id="1468415711258933398">Normaali välilehti</translation>
 <translation id="3377025655491224618">Yksityinen välilehti</translation>
@@ -83,10 +83,10 @@
 <translation id="4176463684765177261">Pois käytöstä</translation>
 <translation id="59174027418879706">Sallittu</translation>
 <translation id="6252490671914511928">Tämän päivän suosituimmat tarinat täysin yksityisessä syötteessä, juuri sinulle.</translation>
-<translation id="8300751939969131609">Ota Asil-uutiset käyttöön, niin yksikään tarina ei mene ohi</translation>
-<translation id="7266075701303521777">Asil-uutiset on mainostuettu. Mainokset ovat täysin yksityisiä ja anonymisoituja laitteeseesi perustuen.</translation>
+<translation id="8300751939969131609">Ota brave-uutiset käyttöön, niin yksikään tarina ei mene ohi</translation>
+<translation id="7266075701303521777">brave-uutiset on mainostuettu. Mainokset ovat täysin yksityisiä ja anonymisoituja laitteeseesi perustuen.</translation>
 <translation id="7699565323725789472">Seuraa suosikkilähteitäsi, yhdessä syötteessä. Avaa välilehti Bravessa, vieritä alas ja… voila!\nBrave-uutiset on mainoksilla tuettu palvelu, jossa on yksityisiä ja anonymisoituja mainoksia.</translation>
-<translation id="1765217911817124376">Ota Asil News käyttöön</translation>
+<translation id="1765217911817124376">Ota brave News käyttöön</translation>
 <translation id="8981973962043893066">Hae sivustoja, aiheita tai RSS-syötteitä</translation>
 <translation id="3225021799163709119">Suositut</translation>
 <translation id="4750394297954878236">Ehdotukset</translation>
@@ -95,7 +95,7 @@
 <translation id="4108314971463891922">Seuraa</translation>
 <translation id="3861486700625780712">Lopeta seuraaminen</translation>
 <translation id="4541978218358617681">Mainos</translation>
-<translation id="7823038307453615214">Näytä Asil News</translation>
+<translation id="7823038307453615214">Näytä brave News</translation>
 <translation id="6527303717912515753">Jaa</translation>
 <translation id="1654539412343893324">Lue lisää tiedoistasi</translation>
 <translation id="2989805286512600854">Avaa uudessa välilehdessä</translation>
@@ -104,8 +104,8 @@
 <translation id="6332791358521956870"><ph name="PUBLISHER"/> poistettu käytöstä</translation>
 <translation id="1276592121036104130">Lataa uutta sisältöä</translation>
 <translation id="3189348785087463371">Promootio</translation>
-<translation id="7554145152551782675">Lisää Asil-tarjouksia</translation>
-<translation id="1717242776111689224">Ota Asil-uutiset käyttöön</translation>
+<translation id="7554145152551782675">Lisää brave-tarjouksia</translation>
+<translation id="1717242776111689224">Ota brave-uutiset käyttöön</translation>
 <translation id="4732255422524275223">Lähteesi</translation>
 <translation id="152579389256498990">Syötteen tai sivuston URL-osoite</translation>
 <translation id="4975944254857623648">Oletusarvoiset lähteet</translation>
@@ -118,7 +118,7 @@
 <translation id="7142548388914389999">Salli yksityisyyden säilyttävä tuoteanalytiikka (P3A)</translation>
 <translation id="5254037869598726291">Anonymisoidut P3A-tiedot auttavat Bravea arvioimaan kokonaiskäyttöä ja varmistamaan, että parannamme suosittuja ominaisuuksia.</translation>
 <translation id="933652931229970927">Lähetä diagnostiikkaraportit automaattisesti</translation>
-<translation id="5987838417172370108">Auta parantamaan Braven tuotteen stabiilisuutta lähettämällä diagnostiikkaraportit automaattisesti, kun Asil-selain kaatuu tai jäätyy.</translation>
+<translation id="5987838417172370108">Auta parantamaan Braven tuotteen stabiilisuutta lähettämällä diagnostiikkaraportit automaattisesti, kun brave-selain kaatuu tai jäätyy.</translation>
 <translation id="7977176350719484850">Tallennettuja\ntietoja keskimäärin</translation>
 <translation id="9008534313521214777">Arvioitu säästetty aika</translation>
 <translation id="1842747674580016420">Videoiden toisto Bravessa</translation>
@@ -126,31 +126,31 @@
 <translation id="410351446219883937">Automaattinen toisto</translation>
 <translation id="7445411102860286510">Salli sivustoille mykistettyjen videoiden automaattinen toisto (suositus)</translation>
 <translation id="7837721118676387834">Sallii tietylle sivustolle mykistettyjen videoiden automaattisen toiston.</translation>
-<translation id="181905442828471321">Asil-suojausten yleiset oletukset</translation>
+<translation id="181905442828471321">brave-suojausten yleiset oletukset</translation>
 <translation id="2675679258824361492">Muut tietosuoja-asetukset</translation>
 <translation id="8026334261755873520">Poista selaustiedot</translation>
 <translation id="5965081608816406060">Videoiden toisto taustalla</translation>
-<translation id="6332924730165919598">Kun kaikki välilehdet suljetaan, myös Asil sulkeutuu</translation>
+<translation id="6332924730165919598">Kun kaikki välilehdet suljetaan, myös brave sulkeutuu</translation>
 <translation id="3872768973878059926">Sallii äänen jatkaa toistoa, kun vaihdat toiseen välilehteen Bravessa, vaihdat toiseen sovellukseen tai laitteen näyttö ei ole päällä.</translation>
 <translation id="4150201353443180367">Näyttö</translation>
 <translation id="2433507940547922241">Ulkonäkö</translation>
-<translation id="6333347122924254968">Näytä Asil-palkinnot-kuvake osoiterivillä</translation>
+<translation id="6333347122924254968">Näytä brave-palkinnot-kuvake osoiterivillä</translation>
 <translation id="8495235435594442882">Ota alalaidan työkalupalkki käyttöön</translation>
 <translation id="6587448235155023666">Muutokset tulevat voimaan, kun käynnistät Braven uudelleen seuraavan kerran</translation>
 <translation id="8701563696941209024">KÄYNNISTÄ UUDELLEEN NYT</translation>
 <translation id="834487290629916192">MYÖHEMMIN</translation>
 <translation id="7207456302801184289">Tervetuloa Braveiin</translation>
 <translation id="4117451092682672487">Yksinkertainen tietosuoja.</translation>
-<translation id="7909375417585209817">Kun Asil on käytössä oletuksena, jokainen napsauttamasi linkki avautuu Braven tietosuoja-asetusten suojaamana.</translation>
+<translation id="7909375417585209817">Kun brave on käytössä oletuksena, jokainen napsauttamasi linkki avautuu Braven tietosuoja-asetusten suojaamana.</translation>
 <translation id="7370959926683925817">Estä mainokset. Tallenna tiedot. Joka ikinen päivä.</translation>
-<translation id="7281027579943912834">Kun Asil on oletusselain, jokaisen napsauttamasi linkin kohdalla käytetään Asil-mainosestosuojausta. Jokaisen sivun, videon ja suoratoistoistunton kohdalla.</translation>
+<translation id="7281027579943912834">Kun brave on oletusselain, jokaisen napsauttamasi linkin kohdalla käytetään brave-mainosestosuojausta. Jokaisen sivun, videon ja suoratoistoistunton kohdalla.</translation>
 <translation id="5148943178722443958">Auta parantamaan Bravea.</translation>
 <translation id="6718362830686703942">Lähetä diagnostiikkaraportteja, jos selain kaatuu tai jäätyy.</translation>
 <translation id="1929905278861178845">Jaa täysin yksityisiä ja nimettömiä tuotetietoja siitä, mitä ominaisuuksia Braven käyttäjät käyttävät.</translation>
 <translation id="2877653791257935258">Kirjoita verkkosivuston nimi tai URL</translation>
 <translation id="5329830149661250028">Koe Braven takaama ero: Ei mainoksia. Ei seurantavälineitä. Nopeampi sivujen lataus.</translation>
 <translation id="3941792073703079607">Tutustu Braven tarjoamaan eroon: Estä mainokset. Tallenna tiedot. Suoratoista nopeammin.</translation>
-<translation id="3545804467215833536">Tarkastele Asil Shieldisiä napauttamalla</translation>
+<translation id="3545804467215833536">Tarkastele brave Shieldisiä napauttamalla</translation>
 <translation id="1724327820822194498">Näet kaikki Braven jokaisella sivulla estämät huonot asiat Shieldsillä.</translation>
 <translation id="5386259141409498372"><ph name="BIG_TECH"/> ja <ph name="TRACKER"/> muuta mainosta ja seurantavälinettä estetty</translation>
 <translation id="7256200875155794202"><ph name="BIG_TECH"/> ja muita mainoksia ja seurantavälineitä estetty</translation>
@@ -161,23 +161,23 @@
 <translation id="986879628471635371">Perehdytysprosessin vianetsintä</translation>
 <translation id="5808759341041733958">Valitse oletusarvoinen hakukone</translation>
 <translation id="1331593888918588693">Voit aina vaihtaa mieltymyksiäsi sovelluksen asetuksissa.</translation>
-<translation id="5806601733251372221">Asil Shields</translation>
+<translation id="5806601733251372221">brave Shields</translation>
 <translation id="8537217141725709400">Ansaitse <ph name="TOKEN"/>s</translation>
-<translation id="3333887201479867589">Asil Rewards</translation>
+<translation id="3333887201479867589">brave Rewards</translation>
 <translation id="5870330605209713397">katsomalla tietosuojaa kunnioittavia mainokaisa sekä tukemalla suosikkisivujasi ja kehittäjiäsi oletusarvoisesti.</translation>
-<translation id="5302488867897327287">Aloita Asil-palkintojen käyttäminen -painiketta napauttamalla ilmaiset hyväksyväsi</translation>
+<translation id="5302488867897327287">Aloita brave-palkintojen käyttäminen -painiketta napauttamalla ilmaiset hyväksyväsi</translation>
 <translation id="4281844954008187215">Palveluehdot</translation>
 <translation id="6871397658902960384">Aloita selaaminen</translation>
 <translation id="454386012157232640">En nähnyt mainosta</translation>
-<translation id="1448877943847791441">Asil näyttää ensimmäisen mainoksesi</translation>
+<translation id="1448877943847791441">brave näyttää ensimmäisen mainoksesi</translation>
 <translation id="4410793187232041318">Voit nyt ansaita tunnuksia Braven mainoksista.</translation>
-<translation id="6511854390690723657">Tämä on ensimmäinen Asil-mainoksesi. Napauta tätä saadaksesi lisätietoja.</translation>
-<translation id="2070991379950719711">Aloita Asil-palkintojen käyttö</translation>
+<translation id="6511854390690723657">Tämä on ensimmäinen brave-mainoksesi. Napauta tätä saadaksesi lisätietoja.</translation>
+<translation id="2070991379950719711">Aloita brave-palkintojen käyttö</translation>
 <translation id="48520986898237073">Jatka lompakkoon</translation>
 <translation id="3570367516044491911">Aseta oletusselaimeksi</translation>
 <translation id="6800338374677644736">Aseta oletusselaimeksi</translation>
-<translation id="19715420010996093">Valitse Asil Browser ja paina 'Aina'</translation>
-<translation id="3546439402724649282">Asil on jo asetettu oletusselaimeksi.</translation>
+<translation id="19715420010996093">Valitse brave Browser ja paina 'Aina'</translation>
+<translation id="3546439402724649282">brave on jo asetettu oletusselaimeksi.</translation>
 <translation id="8389661903259423907">Olet jo asettanut oletusselaimen. Voit vaihtaa oletusselainta sovelluksen asetuksista.</translation>
 <translation id="1545749641540134597">Lue QR-koodi</translation>
 <translation id="5317781812114905957">Ohjeet</translation>
@@ -186,18 +186,18 @@
 <translation id="6665366815203065060">Olet juuri lähettänyt vinkin kohteelle:</translation>
 <translation id="5441565662498481293">Lähetät automaattisesti vinkin kohteelle:</translation>
 <translation id="1628742278973105368">Ensimmäinen kuukausittainen vinkkisi lähetetään ajankohtana:</translation>
-<translation id="1642952941091001113">Tämä sisällöntuottaja ei ole vielä rekisteröitynyt vastaanottamaan lahjoituksia Asil-käyttäjiltä. Yritämme antaa lahjoituksen, kunnes hän vahvistaa tai kunnes 90 päivää on kulunut.</translation>
+<translation id="1642952941091001113">Tämä sisällöntuottaja ei ole vielä rekisteröitynyt vastaanottamaan lahjoituksia brave-käyttäjiltä. Yritämme antaa lahjoituksen, kunnes hän vahvistaa tai kunnes 90 päivää on kulunut.</translation>
 <translation id="635752162765375187">HUOMIO: Tätä tekijää ei ole tällä hetkellä määritetty saamaan tippejä palkintojesi lompakon säilytyspalvelusta. Kaikki antamasi tipit jäävät odottamaan, ja niitä yritetään antaa automaattisesti 90 päivän ajan.</translation>
 <translation id="1910721550319506122">Tervetuloa!</translation>
 <translation id="5830114181292529917">Voit tukea tätä sivustoa lähettämällä tipin. Se on tapa kiittää hienosta sisällöstä.</translation>
 <translation id="7658239707568436148">Peruuta</translation>
 <translation id="1201402288615127009">Seuraava</translation>
-<translation id="8481779960444041069">Aseta Asil oletusselaimeksi parantaaksesi tietosuojaa</translation>
-<translation id="1938402585819943124">Valitse Asil seuraavalta näytöltä.</translation>
+<translation id="8481779960444041069">Aseta brave oletusselaimeksi parantaaksesi tietosuojaa</translation>
+<translation id="1938402585819943124">Valitse brave seuraavalta näytöltä.</translation>
 <translation id="8926389886865778422">Älä kysy uudestaan</translation>
 <translation id="745974920645827035">Riippumaton haku paremmalla yksityisyydellä</translation>
-<translation id="4717018805430015801">Asil-haku ei seuraa sinua, hakujasi tai napsautuksiasi.</translation>
-<translation id="5240031343741051161">Kokeile Asil-hakua</translation>
+<translation id="4717018805430015801">brave-haku ei seuraa sinua, hakujasi tai napsautuksiasi.</translation>
+<translation id="5240031343741051161">Kokeile brave-hakua</translation>
 <translation id="5234764350956374838">Piilota</translation>
 <translation id="6639570430554986719">TAMMIKUU</translation>
 <translation id="1807352595146144483">HELMIKUU</translation>
@@ -211,8 +211,8 @@
 <translation id="8220228041552340594">LOKAKUU</translation>
 <translation id="8280223431922155812">MARRASKUU</translation>
 <translation id="4254029385847607686">JOULUKUU</translation>
-<translation id="3960619311638643872">Asil VPN</translation>
-<translation id="1772301834467143364">Asil-uutiset</translation>
+<translation id="3960619311638643872">brave VPN</translation>
+<translation id="1772301834467143364">brave-uutiset</translation>
 <translation id="7760215798627399379"><ph name="VALUE"/> USD</translation>
 <translation id="8428213095426709021">Asetukset</translation>
 <translation id="6020176662032623904">Vahvistettu luoja</translation>
@@ -224,11 +224,11 @@
 <translation id="2429828319207652823">Osallistumisesi käsittelyssä tapahtui virhe</translation>
 <translation id="2221902203895354376">Tokenilahjoitus on saatavilla!</translation>
 <translation id="2323069945529668668">Voi ei!</translation>
-<translation id="7510166204621526816">Asil Rewards -palvelin ei vastaa. Korjaamme ongelman mahdollisimman pian.</translation>
+<translation id="7510166204621526816">brave Rewards -palvelin ei vastaa. Korjaamme ongelman mahdollisimman pian.</translation>
 <translation id="683765328936486920">YouTubessa</translation>
 <translation id="8969049974285901797">Twitchissä</translation>
 <translation id="3101693828171454453">ei tarpeeksi <ph name="TOKEN"/>s</translation>
-<translation id="8038539967102225446">Asil-mainokset ovat täällä!</translation>
+<translation id="8038539967102225446">brave-mainokset ovat täällä!</translation>
 <translation id="222883304157347087">(tämä laite)</translation>
 <translation id="4157741509680155021">LAITTEET SYNKRONOINTIKETJUSSA</translation>
 <translation id="279635009973773843">LAITTEITA LADATAAN…</translation>
@@ -239,10 +239,10 @@
 <translation id="859506441384380749">Tämän koodin on luonut Braven vanhentunut versio. Päivitä ensin toinen laitteesi.</translation>
 <translation id="3132642509209154999">Tämä koodi on vanhentunut. Luo uusi toisella laitteellasi ja yritä uudelleen.</translation>
 <translation id="2859229680945501779">Tämä koodi on virheellinen. Tarkista, että aika ja aikavyöhyke on määritetty oikein laitteessasi.</translation>
-<translation id="3149880132460839085">Asil-synkronointi</translation>
-<translation id="3680755684186855422">Asil-synkronosointi mahdollistaa kirjanmerkkien synkronointidatan yksityisesti Asil-selaintesi eri laitteiden välillä.</translation>
+<translation id="3149880132460839085">brave-synkronointi</translation>
+<translation id="3680755684186855422">brave-synkronosointi mahdollistaa kirjanmerkkien synkronointidatan yksityisesti brave-selaintesi eri laitteiden välillä.</translation>
 <translation id="3735228155296883311">Skannaa koodi synkronointiketjustasi, jonka loit toisella laitteella. Voit myös aloittaa uuden synkronointiketjun.</translation>
-<translation id="2614069607859982576">Avaa Asil-asetukset käyttämällä olemassa olevaa synkronoitua laitetta ja siirry asetuksiin &gt; Valitse "Lisää uusi laite" ja skanna näytöllä näkyvä QR-koodi.</translation>
+<translation id="2614069607859982576">Avaa brave-asetukset käyttämällä olemassa olevaa synkronoitua laitetta ja siirry asetuksiin &gt; Valitse "Lisää uusi laite" ja skanna näytöllä näkyvä QR-koodi.</translation>
 <translation id="5241263629636958324">Kopioitu leikepöydälle</translation>
 <translation id="5817918615728894473">Muodosta laitepari</translation>
 <translation id="7090325819305486658">Data-asetukset</translation>
@@ -253,11 +253,11 @@
 <translation id="1475223680121592371">Lisää mobiililaite</translation>
 <translation id="2965377893636908578">Lisää tietokone</translation>
 <translation id="6604289897677913048">Siirry toista puhelinta tai tablettia käyttäen kohtaan Asetukset &gt; Synkronoi &gt; Lue.</translation>
-<translation id="8508856434435157945">Siirry mobiililaitettasi käyttäen kohtaan Asetukset &gt; Asil-synkronointi ja napsauta "Lue synkronointikoodi" -painiketta. Lue alla oleva QR-koodi laitteen kameran avulla.</translation>
-<translation id="2590683710114839102">Siirry tietokoneellasi Asil-asetuksiin &gt; Synkronointi. Valitse "Kirjoita synkronointiketjukoodi".</translation>
+<translation id="8508856434435157945">Siirry mobiililaitettasi käyttäen kohtaan Asetukset &gt; brave-synkronointi ja napsauta "Lue synkronointikoodi" -painiketta. Lue alla oleva QR-koodi laitteen kameran avulla.</translation>
+<translation id="2590683710114839102">Siirry tietokoneellasi brave-asetuksiin &gt; Synkronointi. Valitse "Kirjoita synkronointiketjukoodi".</translation>
 <translation id="65315202420929965">Lue tämä synkronointikoodi</translation>
 <translation id="6764016175302339802">Kohtele tätä koodia kuin salasanaa. Jos joku saa sen tietoonsa, hän voi lukea ja muokata synkronoituja tietojasi.</translation>
-<translation id="6707003343517029414">Siirry kohdetietokonetta käyttäen kohtaan Asetukset &gt; Asil-synkronointi ja napsauta "Minulla on synkronointikoodi" -painiketta.\nSyötä synkronointiketjun koodisanat, jotka näkyvät alla.</translation>
+<translation id="6707003343517029414">Siirry kohdetietokonetta käyttäen kohtaan Asetukset &gt; brave-synkronointi ja napsauta "Minulla on synkronointikoodi" -painiketta.\nSyötä synkronointiketjun koodisanat, jotka näkyvät alla.</translation>
 <translation id="2731921493694251495">Syötä synkronointiketjun koodi</translation>
 <translation id="2175927920773552910">Viivakoodi</translation>
 <translation id="8653433343015102968">Koodisanat</translation>
@@ -267,44 +267,44 @@
 <translation id="6776430845975754238">Asetusten muuttaminen vaikuttaa vain tietoihin, joita tämä laite jakaa muiden laitteiden kanssa.</translation>
 <translation id="1061533051865606843">Lisää uusi laite</translation>
 <translation id="7539985410310934287">Syötä koodisanat</translation>
-<translation id="2886391679017857869">Avaa Asil-asetukset käyttämällä olemassa olevaa synkronoitua laitetta ja siirry asetuksiin &gt; Sync. Valitse "lisää uusi laite", sitten "näytä koodisanat".</translation>
+<translation id="2886391679017857869">Avaa brave-asetukset käyttämällä olemassa olevaa synkronoitua laitetta ja siirry asetuksiin &gt; Sync. Valitse "lisää uusi laite", sitten "näytä koodisanat".</translation>
 <translation id="8131740175452115882">Vahvista</translation>
 <translation id="4973653569293835178">Käytän kameraa…</translation>
 <translation id="326454632686131209">Synkronoi laite</translation>
 <translation id="327726072512457161">Poistu asetuksista</translation>
-<translation id="8050847734948770789">Salli Asil -palkinnot</translation>
+<translation id="8050847734948770789">Salli brave -palkinnot</translation>
 <translation id="9187185473011056079">Olen mukana!</translation>
-<translation id="8185825081026121627">Ansaitse perustason huomiopoletti yksityisyyttä suojelevien Asil Rewards -mainosten katselulla.</translation>
+<translation id="8185825081026121627">Ansaitse perustason huomiopoletti yksityisyyttä suojelevien brave Rewards -mainosten katselulla.</translation>
 <translation id="5321518976657560663">Palautusvirhe</translation>
-<translation id="4114170343590425996">Asil Rewards -ohjelmaa nollattaessa ilmeni virhe. Käynnistä Asil uudelleen ja yritä uudestaan.</translation>
-<translation id="6393502589311632553">Näytä mainoksia, kun Asil ei ole käytössä</translation>
-<translation id="3349204812119681938">Nollaa Asil Rewards</translation>
-<translation id="6606319453795180219">Tämä poistaa Asil Rewards -palkintosi ja nollaa kaikki Asil Rewards -tietosi</translation>
+<translation id="4114170343590425996">brave Rewards -ohjelmaa nollattaessa ilmeni virhe. Käynnistä brave uudelleen ja yritä uudestaan.</translation>
+<translation id="6393502589311632553">Näytä mainoksia, kun brave ei ole käytössä</translation>
+<translation id="3349204812119681938">Nollaa brave Rewards</translation>
+<translation id="6606319453795180219">Tämä poistaa brave Rewards -palkintosi ja nollaa kaikki brave Rewards -tietosi</translation>
 <translation id="6810078320346589989">Luo kirjanmerkki</translation>
-<translation id="3396347744975515056">Asil Sync on päivitetty ja vaatii määrityksen</translation>
+<translation id="3396347744975515056">brave Sync on päivitetty ja vaatii määrityksen</translation>
 <translation id="7473245612074035141">Aloita määrittäminen</translation>
 <translation id="8985635554450124959">Synkronoinnin valmisteleminen epäonnistui</translation>
-<translation id="2514300153301737214">Havaitsimme, että Asil Sync on käytössäsi. Järjestelmän synkronointi on kuitenkin pois päältä, eikä salli Braven synkronointia. Paina avataksesi asetukset</translation>
+<translation id="2514300153301737214">Havaitsimme, että brave Sync on käytössäsi. Järjestelmän synkronointi on kuitenkin pois päältä, eikä salli Braven synkronointia. Paina avataksesi asetukset</translation>
 <translation id="7173114856073700355">Avaa asetukset</translation>
 <translation id="6965382102122355670">OK</translation>
 <translation id="4450893287417543264">Älä näytä uudelleen</translation>
 <translation id="1056898198331236512">Varoitus</translation>
 <translation id="1426410128494586442">Kyllä</translation>
-<translation id="7811264919113243207">Tämä jakaa Asil-tietosi, mukaan lukien mahdollisesti salasanasi, tämän QR-koodin luoneen laitteen kanssa.
+<translation id="7811264919113243207">Tämä jakaa brave-tietosi, mukaan lukien mahdollisesti salasanasi, tämän QR-koodin luoneen laitteen kanssa.
 Tarkista uudelleen, että tämä QR-koodi on luotu omistamallasi laitteella.
 Haluatko varmasti tehdä tämän?</translation>
-<translation id="3097089005389027085">Tämä jakaa Asil-tietosi, mukaan lukien mahdollisesti salasanasi, nämä koodisanat luoneen laitteen kanssa.
+<translation id="3097089005389027085">Tämä jakaa brave-tietosi, mukaan lukien mahdollisesti salasanasi, nämä koodisanat luoneen laitteen kanssa.
 Tarkista uudelleen, että nämä koodisanat on luotu omistamallasi laitteella.
 Haluatko varmasti tehdä tämän?</translation>
 <translation id="4550208292810542331">Kameran käyttöoikeutta ei myönnetty</translation>
-<translation id="597993392929850353">Asil License</translation>
+<translation id="597993392929850353">brave License</translation>
 <translation id="6336451774241870485">Uusi yksityinen välilehti</translation>
 <translation id="6199596294742117349">Tämä on yksityinen välilehti</translation>
 <translation id="5858455511731621847">Vaikka yksityisillä välilehdillä vierailemasi sivustot eivät tallennu paikallisesti, ne eivät tee sinusta anonyymia tai näkymätöntä Internet-palveluntarjoajallesi, työnantajallesi tai vierailemillesi sivustoille.</translation>
-<translation id="5789441016350810005">Asil Ads lähetetty selaimen ollessa taustalla</translation>
+<translation id="5789441016350810005">brave Ads lähetetty selaimen ollessa taustalla</translation>
 <translation id="2892744985635833293">Kuukausittaiset tippisi on käsitelty.</translation>
 <translation id="3124090095880236567">Ota Ads käyttöön</translation>
-<translation id="2975780980638932742">Asil Ads on nyt täällä!</translation>
+<translation id="2975780980638932742">brave Ads on nyt täällä!</translation>
 <translation id="7541582550122501404">Odottaa avustusta</translation>
 <translation id="8520059774736886747">Tekijä <ph name="PUBLISHER_NAME"/> vahvistettu hiljattain</translation>
 <translation id="1486343603936278248">poletti</translation>
@@ -312,9 +312,9 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="8522669544471808198">Näytä taustakuvat</translation>
 <translation id="3870475560794762985">Näytä sponsoroidut kuvat</translation>
 <translation id="8643377320501056697">Näytä kärkisivustot</translation>
-<translation id="7275773481201277457">Näytä Asil-tilastot</translation>
+<translation id="7275773481201277457">Näytä brave-tilastot</translation>
 <translation id="8297488609722895137">Valokuvan ottanut <ph name="PHOTO_BY"/></translation>
-<translation id="4761229094276239865">Aloita Asil-palkintojen käyttäminen -painiketta napauttamalla ilmaiset hyväksyväsi <ph name="TERMS_OF_SERVICE"/>.</translation>
+<translation id="4761229094276239865">Aloita brave-palkintojen käyttäminen -painiketta napauttamalla ilmaiset hyväksyväsi <ph name="TERMS_OF_SERVICE"/>.</translation>
 <translation id="3794079107601824147">Vastaanota maksu tämän taustakuvan näkemisestä.</translation>
 <translation id="7136586167396205364">Piilota sponsoroidut kuvat</translation>
 <translation id="2927095357213611519">Voit tukea verkkotekijöitä poleteilla.\nAnsaitse poletteja katsomalla yksityisyyttä kunnioittavia mainoksia.</translation>
@@ -326,28 +326,28 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="8558636200953226885">Mutta jos vahvistat, voit...</translation>
 <translation id="8697510149346635496">Nosta BATit, jotka ansaitset yksityisyyttä kunnioittavia mainoksia katsomalla</translation>
 <translation id="1481480653609649134">Osta lisää BATeja luottokorteilla ja muilla lähteillä</translation>
-<translation id="9096003370755878766">Nosta BATit, jotka olet saattanut lisätä Asil Rewards -lompakkoosi</translation>
+<translation id="9096003370755878766">Nosta BATit, jotka olet saattanut lisätä brave Rewards -lompakkoosi</translation>
 <translation id="1554282356558968486">Verkkokukkaropalvelumme tarjoaa</translation>
 <translation id="6569877533335686968">Uphold</translation>
 <translation id="734105583050813665">Bitflyer</translation>
 <translation id="8533411848724153701">Gemini</translation>
 <translation id="8465442795593991224">Ylläpito saattaa vaatia sinua vahvistamaan henkilöllisyytesi pyydetyistä palveluista riippuen.</translation>
-<translation id="3200197118442451932">Asil Software Inc. ei käsittele, tallenna tai käytä henkilökohtaisia tietoja, joita annat palveluntarjoajalle <ph name="WALLET_PROVIDER"/> luodessasi tilin heidän palveluunsa.</translation>
+<translation id="3200197118442451932">brave Software Inc. ei käsittele, tallenna tai käytä henkilökohtaisia tietoja, joita annat palveluntarjoajalle <ph name="WALLET_PROVIDER"/> luodessasi tilin heidän palveluunsa.</translation>
 <translation id="1665118090708049096">Siirry <ph name="WALLET_PROVIDER"/> -tililleni</translation>
 <translation id="8874184842967597500">Ei yhdistetty</translation>
 <translation id="2495032782748793764">Braven oletusasetukset</translation>
-<translation id="9132378787893584761">Jaa Asil ystävillesi!</translation>
+<translation id="9132378787893584761">Jaa brave ystävillesi!</translation>
 <translation id="717952606991220586">Oho, jokin meni vikaan. Yritä myöhemmin uudelleen.</translation>
 <translation id="987264212798334818">Yleistä</translation>
 <translation id="1116694919640316211">Tietoja asetuksista</translation>
 <translation id="7961015016161918242">Ei koskaan</translation>
 <translation id="1275213816424141989">Ehkä myöhemmin</translation>
 <translation id="4406937629441301400">Ansaitse käyttötunnuksia tämän kuvan katsomisesta ja lähetä ne kehittäjille. <ph name="LEARN_MORE"/></translation>
-<translation id="1992363542751124282">Ansaitse maksutunnuksia katsomalla tämä kuva. Napauta Aloita Asil palkintojen käyttö -painiketta lunastaaksesi osuutesi.</translation>
+<translation id="1992363542751124282">Ansaitse maksutunnuksia katsomalla tämä kuva. Napauta Aloita brave palkintojen käyttö -painiketta lunastaaksesi osuutesi.</translation>
 <translation id="6632345639591919543">Saat käyttötunnuksia tämän kuvan katsomisesta.\n<ph name="LEARN_MORE"/></translation>
 <translation id="1465733111003593696">Ansaitset käyttötunnuksia tämän sivun katsomisesta.</translation>
 <translation id="7877201489035217175">Lue lisää sponsoroiduista kuvista</translation>
-<translation id="828092975561478703">Saa 70 % tulot käyttötunnuksina jokaisen sponsoroidun kuvan katsomisesta. Asil Ads antaa sinun itse päättää, mitä mainoksia näet.</translation>
+<translation id="828092975561478703">Saa 70 % tulot käyttötunnuksina jokaisen sponsoroidun kuvan katsomisesta. brave Ads antaa sinun itse päättää, mitä mainoksia näet.</translation>
 <translation id="3624048886326677117">Estä seuraimet ja mainokset (Aggressiivinen)</translation>
 <translation id="7151914815476509258">Estä seuraimet ja mainokset (Standardi)</translation>
 <translation id="7384778069178817075">Salli kaikki seuraimet &amp; mainokset</translation>
@@ -366,7 +366,7 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="769702552748212954">Salli kaikki sormenjälkitunnistaminen</translation>
 <translation id="876424292214881779">Estetyt mainokset ja muut epäilyttävät kohteet</translation>
 <translation id="6930134873084561197">Sivustoilla on usein evästeitä ja merkkijonoja, joita käytetään sinun ja laitteesi tunnistamiseen. Ne tahtovat selvittää henkilöllisyytesi sekä seurata sinua verkossa, tarkkaillen jokaisen sivuston käyttöä.\n\nBrave estää kyseiset seuraimet, joten voit rauhassa selata nettiä ilman tarkkailijoita.</translation>
-<translation id="8553998445606452168">Tietoja Asil Shieldsistä</translation>
+<translation id="8553998445606452168">Tietoja brave Shieldsistä</translation>
 <translation id="8912304686498704084">YLÖS</translation>
 <translation id="4963218453264888510">ALAS</translation>
 <translation id="7474113515179313724">Selaat tätä sivustoa ilman Braven tietosuojaa. Eikö se toimi kunnolla, kun Shields on käytössä?</translation>
@@ -381,16 +381,16 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="5370478469168390143">Tallenna tiedot verkossa</translation>
 <translation id="1118508688433541158">Selaa nopeammin ja estä mainoksia Braven avulla</translation>
 <translation id="7427391215172269363">Säästän kaistanleveyttä joka päivä selaamalla Bravella.</translation>
-<translation id="4776948189086901857">Asil toimii kaikkialla</translation>
-<translation id="1606322780901645965">Lataa Asil läppärillä tai tabletilla tomi.comista ja teet selailustasi nopeampaa ja yksityisempää</translation>
+<translation id="4776948189086901857">brave toimii kaikkialla</translation>
+<translation id="1606322780901645965">Lataa brave läppärillä tai tabletilla tomi.comista ja teet selailustasi nopeampaa ja yksityisempää</translation>
 <translation id="8374242949413616101">Yksityisyyden suojaus</translation>
-<translation id="4955406228638026265">Asil estää mainoksia &amp; seuraimia keräämästä tietoa sinusta ilman lupaasi.</translation>
+<translation id="4955406228638026265">brave estää mainoksia &amp; seuraimia keräämästä tietoa sinusta ilman lupaasi.</translation>
 <translation id="752842701893882688">Säästä dataa ja akkua</translation>
 <translation id="1685837926613452362">Verkkosivustot kuluttavat vähemmän tietoja ja akkua ilman &amp; mainostajien seurantaa. Saatat jopa säästää rahaa operaattorien maksuissa.</translation>
 <translation id="5440744330377972191">Verkkosivut latautuvat nopeammin</translation>
 <translation id="3000738865641747653">Koska dataa ladataan vähemmän, verkkosivut latautuvat Bravessa nopeammin – jopa kahdeksan kertaa muita selaimia nopeammin.</translation>
 <translation id="8903462729414407077">Viikoittaiset päivitykset</translation>
-<translation id="7450323860390658083">Ole tietoinen niistä vierailemistasi sivustoista, jotka eniten loukkaavat yksityisyyttä.\n\nVain sinä näet nämä yksityisyyden suojaan liittyvät tilastot. Henkilötietosi ja selaushistojasi eivät koskaan siirry pois laitteesi Asil-selaimesta.</translation>
+<translation id="7450323860390658083">Ole tietoinen niistä vierailemistasi sivustoista, jotka eniten loukkaavat yksityisyyttä.\n\nVain sinä näet nämä yksityisyyden suojaan liittyvät tilastot. Henkilötietosi ja selaushistojasi eivät koskaan siirry pois laitteesi brave-selaimesta.</translation>
 <translation id="6170159749517116894">Kytke yksityisyysraportit päälle</translation>
 <translation id="5966707198760109579">Viikko</translation>
 <translation id="8987927404178983737">Kuukausi</translation>
@@ -406,13 +406,13 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="3694122362646626770">Verkkosivut</translation>
 <translation id="2225863440766607138">Seuraimet</translation>
 <translation id="2993367530362078067"><ph name="COUNT"/><ph name="COUNT_TEXT"/></translation>
-<translation id="6737820963776538947">Olet estänyt Asil-selaimella <ph name="COUNT"/> seurainta &amp; mainosta viimeisen kolmen tunnin aikana.</translation>
+<translation id="6737820963776538947">Olet estänyt brave-selaimella <ph name="COUNT"/> seurainta &amp; mainosta viimeisen kolmen tunnin aikana.</translation>
 <translation id="3621193901658023971">Selaa tunnettuja uutissivustoja jopa kuusi kertaa nopeammin estämällä seuraimet &amp; mainokset.</translation>
 <translation id="7427567994475794038">Kytke yksityisyysraportit päälle, niin näet miten monta seurainta &amp; mainosta on estetty viimeisen kolmen tunnin aikana.</translation>
-<translation id="2053891538879944400">Säästit Asil-selaimella <ph name="DATA"/> <ph name="DATA_TEXT"/> dataa.</translation>
+<translation id="2053891538879944400">Säästit brave-selaimella <ph name="DATA"/> <ph name="DATA_TEXT"/> dataa.</translation>
 <translation id="8640064498452534195">Kytke yksityisyysraportit päälle, niin näet miten paljon dataa olet säästänyt.</translation>
-<translation id="2252497442547961651">Asil-selain käyttää keskimäärin 40 % vähemmän akkua.🔋</translation>
-<translation id="1945330434665345785">Estit Asil-selaimella viime viikolla <ph name="COUNT"/> seurainta &amp; mainosta.</translation>
+<translation id="2252497442547961651">brave-selain käyttää keskimäärin 40 % vähemmän akkua.🔋</translation>
+<translation id="1945330434665345785">Estit brave-selaimella viime viikolla <ph name="COUNT"/> seurainta &amp; mainosta.</translation>
 <translation id="2883868922264431515">Tienaa poletteja katselemalla yksityisyyttä kunnioittavia mainoksia ja tue suosikkisivustojasi.</translation>
 <translation id="7408493389591475748">Aloita selailu yksityisyysraporttien näkemiseksi</translation>
 <translation id="9080777565335515917">Tee Bravesta oletusselaimesi ja nauti yksityisestä ja turvallisesta selaamisesta.</translation>
@@ -435,7 +435,7 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="631124996535890460">Jatkamalla ilmaiset hyväksyväsi <ph name="TERMS_OF_SERVICE"/> sekä <ph name="PRIVACY_POLICY"/>.</translation>
 <translation id="8804164990146287819">Tietosuojakäytäntö</translation>
 <translation id="185034574799484512">Käydäänpä pikakierroksella</translation>
-<translation id="7930505144430343145">Tervetuloa Asil-palkintoihin!</translation>
+<translation id="7930505144430343145">Tervetuloa brave-palkintoihin!</translation>
 <translation id="3477340970981564961">Braven yksityismainokset palkitsevat sinut maksutunnuksilla, joiden avulla voit tukea sisällönkehittäjiä perinteisistä mainoksista poiketen, sillä henkilökohtaiset tietosi pidetään yksityisenä.</translation>
 <translation id="6973095375773523904">Missä mainokset näkyvät?</translation>
 <translation id="4328028439561659455">Braven yksityiset mainokset näkyvät ilmoituksina näytölläsi. Sinä hallitset, miten usein näet näitä mainoksia.</translation>
@@ -445,7 +445,7 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="3494356595346329740">Voit muuttaa tämän myöhemmin.</translation>
 <translation id="3115702351969988294">Kuinka usein tahdot nähdä mainoksia?</translation>
 <translation id="827315274423079662">Jee, valmista tuli!</translation>
-<translation id="3895246934788932488">Asil-palkintoja käyttämällä suojaat yksityisyyttäsi sekä autat tekemään verkosta paremman paikan. Se vasta onkin upeaa!</translation>
+<translation id="3895246934788932488">brave-palkintoja käyttämällä suojaat yksityisyyttäsi sekä autat tekemään verkosta paremman paikan. Se vasta onkin upeaa!</translation>
 <translation id="5705882733397021510">Palaa takaisin</translation>
 <translation id="3985567919248057638">Lyhyt esittely</translation>
 <translation id="7889432931837317731">Avaa automaattisesti aina kun mahdollista</translation>
@@ -469,8 +469,8 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="1689062823386843231">Estä yhteydetön UDP</translation>
 <translation id="1483493594462132177">Lähetä</translation>
 <translation id="538450413584738399">Swap</translation>
-<translation id="1420318137760245955">Tervetuloa uuteen Asil-lompakkoon</translation>
-<translation id="8339846196588658366">Pidä kryptovaroja mukanasi ja seuraa portfolion kehitystä. Kaikki tämä suoraan yksityisestä Asil-selaimesta.</translation>
+<translation id="1420318137760245955">Tervetuloa uuteen brave-lompakkoon</translation>
+<translation id="8339846196588658366">Pidä kryptovaroja mukanasi ja seuraa portfolion kehitystä. Kaikki tämä suoraan yksityisestä brave-selaimesta.</translation>
 <translation id="4472575034687746823">Aloita</translation>
 <translation id="2759836790106646094">Varmuuskopioi lompakkosi nyt!</translation>
 <translation id="1078873179929044999">Seuraavassa vaiheessa näet 12 sanan palautuslauseen, jonka avulla voit palauttaa ensisijaiset kryptotilisi. Säilytä sitä turvallisessa paikassa. Palautuslause on ainoa tapa saada tilisi takaisin, jos salasana unohtuu, laite katoaa tai varastetaan tai jos haluat vaihtaa lompakkoa.</translation>
@@ -508,13 +508,13 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="8030647312184163932">Lukituksen avaaminen sormenjäljellä</translation>
 <translation id="4090490645603511157">Avaa lompakkosi ilman salasanaa käyttämällä biometrisia tietoja.</translation>
 <translation id="1544192797660353713">Lompakko</translation>
-<translation id="6901810042765869341">Anna palautuslauseesi, jotta voit palauttaa Asil Walletin kryptotilin.</translation>
+<translation id="6901810042765869341">Anna palautuslauseesi, jotta voit palauttaa brave Walletin kryptotilin.</translation>
 <translation id="9120654436199628567">Kryptotilin palauttaminen</translation>
 <translation id="4811736040444856406">Näytä palautuslause</translation>
 <translation id="283071225285270357">Anna palautuslauseesi</translation>
 <translation id="3943857333388298514">Liitä</translation>
 <translation id="3331452756822160641">Uusi salasana</translation>
-<translation id="4359319875297001084">Tuo vanhasta Asil-kryptolomlakoista?</translation>
+<translation id="4359319875297001084">Tuo vanhasta brave-kryptolomlakoista?</translation>
 <translation id="2339124864228588937">Vahvista palautuslauseesi</translation>
 <translation id="3747079125031086337">Valitse palautuslauseen sanat oikeassa järjestyksessä.</translation>
 <translation id="6518133107902771759">Vahvista</translation>
@@ -562,15 +562,15 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="5050890334032852465">Tallenna tilin seurantalista</translation>
 <translation id="7755766175599167100">Hae tokeneista</translation>
 <translation id="3835223348537121988">Saldo:</translation>
-<translation id="8488282162676695335">Asil-lompakko</translation>
+<translation id="8488282162676695335">brave-lompakko</translation>
 <translation id="3784455785234192852">Lukitse</translation>
 <translation id="3866249974567520381">Kuvaus</translation>
 <translation id="4378475168089649292">Lohkoketju</translation>
 <translation id="9033453977881595182">Tokenin tunnus</translation>
-<translation id="8239147115686034860">Lukitse Asil Wallet -lompakko automaattisesti</translation>
-<translation id="414639769490080648">Odottavien minuuttien määrä, kunnes Asil Wallet -lompakko lukitaan automaattisesti</translation>
-<translation id="4993345308607970390">Nollaa Asil Wallet</translation>
-<translation id="4322846864135539519">Haluatko varmasti nollata Asil-palkintosi? Jos lompakkoasi ei ole varmuuskopioitu, nollaus johtaa kaikkien tilitietojen menetykseen (mukaan lukien kaikki siihen liittyvät varat). Vahvista kirjoittamalla "<ph name="CONFIRMATION_PHRASE"/>".</translation>
+<translation id="8239147115686034860">Lukitse brave Wallet -lompakko automaattisesti</translation>
+<translation id="414639769490080648">Odottavien minuuttien määrä, kunnes brave Wallet -lompakko lukitaan automaattisesti</translation>
+<translation id="4993345308607970390">Nollaa brave Wallet</translation>
+<translation id="4322846864135539519">Haluatko varmasti nollata brave-palkintosi? Jos lompakkoasi ei ole varmuuskopioitu, nollaus johtaa kaikkien tilitietojen menetykseen (mukaan lukien kaikki siihen liittyvät varat). Vahvista kirjoittamalla "<ph name="CONFIRMATION_PHRASE"/>".</translation>
 <translation id="4862812525895306758">Tyhjennä maksutapahtuma- ja nonce-tiedot</translation>
 <translation id="5693968582510626466">Maksutapahtumien tyhjennys voi olla hyödyllinen kehittäjille tai, kun tyhjennetään tilaa paikallisella palvelimella</translation>
 <translation id="5421107279168565467">Haluatko varmasti nollata maksutapahtuma- ja nonce-tiedot? Tätä vaihtoehtoa käyttävät lähinnä kehittäjät, jotka käyttävät paikallista testipalvelinta. Kirjoita "<ph name="CONFIRMATION_PHRASE"/>" vahvistaaksesi.</translation>
@@ -581,7 +581,7 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="1721710839767183848">Ei mainoksia sivulla</translation>
 <translation id="4647035642622555398">Ei keskeytyksiä</translation>
 <translation id="4122515759479497554">Hae videoita</translation>
-<translation id="4449475351935531438">Asil-palomuuri ja -VPN</translation>
+<translation id="4449475351935531438">brave-palomuuri ja -VPN</translation>
 <translation id="719977489961414786">Päivitä VPN:ksi, jotta voit suojata yhteytesi ja estää invasiivisen seurannan kaikkialla.</translation>
 <translation id="3435896845095436175">Ota käyttöön</translation>
 <translation id="8814357473522731680">Palvelun tarjoaa</translation>
@@ -608,7 +608,7 @@ Haluatko varmasti tehdä tämän?</translation>
 <translation id="6053992191006521518">Kokeile ILMAISEKSI</translation>
 <translation id="721747358270435486">Asenna VPN</translation>
 <translation id="836074276610740314">Asenna VPN-profiili</translation>
-<translation id="8021842065465097929">Asil asentaa nyt VPN-profiilin.</translation>
+<translation id="8021842065465097929">brave asentaa nyt VPN-profiilin.</translation>
 <translation id="229286271464650057">Tämän profiilin avulla VPN voi automaattisesti muodostaa yhteyden ja suojata liikennettä laitteellasi kaikissa sovelluksissa ja koko ajan. Tämä VPN-yhteys salataan ja reititetään Guardianin älykkään palomuurin kautta mainosten ja seurannan estämiseksi.</translation>
 <translation id="9073255657908892407">Ota yhteyttä tekniseen tukeen</translation>
 <translation id="1139934321138152517">VPN on nyt käytössä</translation>
@@ -703,14 +703,14 @@ Jos et hyväksy tätä pyyntöä, yhteyttä VPN:ään ei muodosta uudelleen ja I
 <translation id="1165039591588034296">Virhe</translation>
 <translation id="8364362220156372884">Maksu: <ph name="VALUE"/> <ph name="CHAIN_ASSET"/> ($<ph name="FIAT_VALUE"/>)</translation>
 <translation id="2561824823738097741">Käytätkö nopeinta verkkoselainta?</translation>
-<translation id="2065971949051836200">Kolme kertaa nopeampi Internet on jo puhelimessasi. Käytä Asil-selainta kaikkeen verkkoselailuun.</translation>
-<translation id="2888278614497184977">Asil = kolme kertaa nopeampaa verkkoselailua</translation>
+<translation id="2065971949051836200">Kolme kertaa nopeampi Internet on jo puhelimessasi. Käytä brave-selainta kaikkeen verkkoselailuun.</translation>
+<translation id="2888278614497184977">brave = kolme kertaa nopeampaa verkkoselailua</translation>
 <translation id="6887232551109532144">Pidempi akun käyttöikä jokaisen latauksen jälkeen</translation>
-<translation id="5388885352353494741">Akun säästö on vain askeleen päässä. Käytä Asil-selainta kaikkeen verkkoselailuun.</translation>
-<translation id="3164151360474408351">Asil = enemmän akun käyttöikää jokaisen latauksen jälkeen</translation>
+<translation id="5388885352353494741">Akun säästö on vain askeleen päässä. Käytä brave-selainta kaikkeen verkkoselailuun.</translation>
+<translation id="3164151360474408351">brave = enemmän akun käyttöikää jokaisen latauksen jälkeen</translation>
 <translation id="3211051910418903298">Lisää mobiilidataa harvemmin</translation>
-<translation id="1092355580602106002">Vähemmän mainoksia = vähemmän dataa jokaisella lataamallasi sivulla. Käytä Asil-selainta kaikkeen verkkoselailuun.</translation>
-<translation id="623962032102267945">Asil = vähemmän mobiilidataa jokaisella sivulla</translation>
+<translation id="1092355580602106002">Vähemmän mainoksia = vähemmän dataa jokaisella lataamallasi sivulla. Käytä brave-selainta kaikkeen verkkoselailuun.</translation>
+<translation id="623962032102267945">brave = vähemmän mobiilidataa jokaisella sivulla</translation>
 <translation id="4355217341028673744">• Parempi yksityisyydensuoja</translation>
 <translation id="3679020972083025535">• Ei ärsyttäviä mainoksia</translation>
 <translation id="8047527352810290817">Muokkaa Gas-tokenia</translation>
@@ -726,9 +726,9 @@ Jos et hyväksy tätä pyyntöä, yhteyttä VPN:ään ei muodosta uudelleen ja I
 <translation id="1254969878422524947">Gas-kohtainen tippiraja (Gwei)</translation>
 <translation id="7373308452149471621">Gas-kohtainen hintaraja (Gwei)</translation>
 <translation id="5891811606602061966">Tilin tuonti epäonnistui. Yritä uudelleen.</translation>
-<translation id="1822506443689803572">Asil käyttää <ph name="DEX_PROVIDER"/>:ää DEX-aggregaattorina.</translation>
+<translation id="1822506443689803572">brave käyttää <ph name="DEX_PROVIDER"/>:ää DEX-aggregaattorina.</translation>
 <translation id="5061574358754621254">Hintatiedot tarjoaa CoinGecko</translation>
-<translation id="4626407663177532837">Hintatarjous sisältää 0,875 %:n Asil-maksun.</translation>
+<translation id="4626407663177532837">Hintatarjous sisältää 0,875 %:n brave-maksun.</translation>
 <translation id="8574289650879708853">Lisää mukautettuja varoja</translation>
 <translation id="1974060860693918893">Lisäasetukset</translation>
 <translation id="7791543448312431591">Lisää</translation>
@@ -783,7 +783,7 @@ Jos et hyväksy tätä pyyntöä, yhteyttä VPN:ään ei muodosta uudelleen ja I
 <translation id="4945690646623486292">Valitse verkko</translation>
 <translation id="8853725596990766789">Muuta summa</translation>
 <translation id="5233638681132016545">Uusi välilehti</translation>
-<translation id="8006088103295786154">Käytä Asil-lompakkoa</translation>
+<translation id="8006088103295786154">Käytä brave-lompakkoa</translation>
 <translation id="8030169304546394654">Yhteys katkaistu</translation>
 <translation id="3423275441470187644">Luota</translation>
 <translation id="2391762656119864333">Peruuta</translation>
@@ -792,7 +792,7 @@ Jos et hyväksy tätä pyyntöä, yhteyttä VPN:ään ei muodosta uudelleen ja I
 <translation id="3897092660631435901">Valikko</translation>
 <translation id="42981349822642051">Laajenna</translation>
 <translation id="3586752056660754651">Allekirjoita</translation>
-<translation id="6592721981110586529">Muodosta yhteys Asil-lompakkoon</translation>
+<translation id="6592721981110586529">Muodosta yhteys brave-lompakkoon</translation>
 <translation id="329813193938846695">Valitse tili(t)</translation>
 <translation id="291375746846291973">Muodosta yhteys vain luotettaviin sivustoihin.</translation>
 <translation id="385051799172605136">Edellinen</translation>
@@ -803,10 +803,10 @@ Jos et hyväksy tätä pyyntöä, yhteyttä VPN:ään ei muodosta uudelleen ja I
 <translation id="5242300593039211344">Lukitse lompakko</translation>
 <translation id="1108298724135935307">Yhdistetyt sivustot</translation>
 <translation id="4255623233927788178">Näytä lohkoketjuohjelmassa</translation>
-<translation id="8274201358637112807">Tämä sivu haluaa käyttää Asil-lompakkoa</translation>
+<translation id="8274201358637112807">Tämä sivu haluaa käyttää brave-lompakkoa</translation>
 <translation id="3355936511340229503">Yhteysvirhe</translation>
 <translation id="4891604214809245310">Verkkoa ei voitu määrittää verkoksi <ph name="NETWORK_NAME"/></translation>
-<translation id="685345388423515592">Näyttää siltä, että tässä laitteessa on muita VPN:iä, jotka on asetettu “Aina päällä” -tilaan. Ottaaksesi Asil-palomuurin + VPN:n käyttöön poista ensin “Aina päällä” -asetus käytöstä muissa VPN:ssä, ennen kuin muodostat yhteyden uudelleen. Jos ongelma jatkuu, yritä poistaa muiden VPN:ien asennukset.</translation>
+<translation id="685345388423515592">Näyttää siltä, että tässä laitteessa on muita VPN:iä, jotka on asetettu “Aina päällä” -tilaan. Ottaaksesi brave-palomuurin + VPN:n käyttöön poista ensin “Aina päällä” -asetus käytöstä muissa VPN:ssä, ennen kuin muodostat yhteyden uudelleen. Jos ongelma jatkuu, yritä poistaa muiden VPN:ien asennukset.</translation>
 <translation id="85136472535634474">Avaa VPN-asetukset</translation>
 <translation id="8352805003811526272">Määritystä nollataan ...</translation>
 <translation id="6809312301323611382">Olet jo valinnut saman palvelimen.</translation>
@@ -826,21 +826,21 @@ Jos et hyväksy tätä pyyntöä, yhteyttä VPN:ään ei muodosta uudelleen ja I
 <translation id="4822132585477111396">Ketjun tunnus</translation>
 <translation id="7131971375297699539">Valuutan symboli</translation>
 <translation id="7982789257301363584">Verkko</translation>
-<translation id="6936860995365507185">Tämä sallii tämän verkon käytön Asil-lompakossa. <ph name="CLICK_START"/>Lue lisää<ph name="CLICK_END"/>.</translation>
+<translation id="6936860995365507185">Tämä sallii tämän verkon käytön brave-lompakossa. <ph name="CLICK_START"/>Lue lisää<ph name="CLICK_END"/>.</translation>
 <translation id="4717431746210146708">Anna tälle sivustolle lupa lisätä verkko?</translation>
 <translation id="4857321293515555666">Tämä DApp haluaa lukea tämän viestin voidakseen täyttää pyyntösi.</translation>
 <translation id="714506544401754321">Pura viestin salaus</translation>
 <translation id="5039804452771397117">Salli</translation>
 <translation id="3378339846292573874">Lisää ehdotettu token</translation>
 <translation id="2322227405137827074">Haluatko tuoda tämän tokenin?</translation>
-<translation id="1324417023773393937">Asil-selain</translation>
-<translation id="6044189892950611565">Asil-selaimen ilmoituskanava</translation>
+<translation id="1324417023773393937">brave-selain</translation>
+<translation id="6044189892950611565">brave-selaimen ilmoituskanava</translation>
 <translation id="1173919438868967364">Valitse tili</translation>
 <translation id="8922793255489232731">Vastaavaa aikavyöhykettä ei löytynyt kohteelle: <ph name="VALUE"/></translation>
 <translation id="6471216025161697462">Yhteys muodostettu kohteeseen <ph name="VALUE"/></translation>
 <translation id="1968852757206592413">Kokeilujakso</translation>
 <translation id="7733890291091968191">Näytä Web3-ilmoitukset</translation>
-<translation id="1371627247679035769">\n\n\n\n#### Asil ei seuraa sinua eikä tiedä, kuinka käytät sovellustamme, joten emme tiedä VPN-asetuksiasi. Jaa tietoja kohtaamastasi ongelmasta, niin teemme parhaamme ratkaistaksemme sen mahdollisimman pian. ####\n\n</translation>
+<translation id="1371627247679035769">\n\n\n\n#### brave ei seuraa sinua eikä tiedä, kuinka käytät sovellustamme, joten emme tiedä VPN-asetuksiasi. Jaa tietoja kohtaamastasi ongelmasta, niin teemme parhaamme ratkaistaksemme sen mahdollisimman pian. ####\n\n</translation>
 <translation id="3367162038532116157">\n\nVPN-isäntänimi\n <ph name="VALUE"/></translation>
 <translation id="6173438324126027458">\n\nTilaustyyppi\n <ph name="VALUE"/></translation>
 <translation id="1478875290576741766">\n\nPlay Kaupan token\n <ph name="VALUE"/></translation>
@@ -869,11 +869,11 @@ Jos et hyväksy tätä pyyntöä, yhteyttä VPN:ään ei muodosta uudelleen ja I
 <translation id="1065082006518490444"><ph name="APP_NAME"/> on riippumaton palvelu, joka auttaa sinua yhdistämään varoja eri verkoissa ja käyttämään kryptovaluuttaa muissa verkoissa ja DApp-ekosysteemeissä. Varojen yhdistämisessä muihin verkkoihin on riskejä.</translation>
 <translation id="8423380132356660250">Avaa <ph name="APP_NAME"/> -sovellus</translation>
 <translation id="168154537623654021">Päivitetään VPN-profiilia...</translation>
-<translation id="7457027586454688423">Anna Asil-lompakkosi salasanasi</translation>
+<translation id="7457027586454688423">Anna brave-lompakkosi salasanasi</translation>
 <translation id="6588595775439619209">Estä evästeilmoitukset</translation>
 <translation id="264682546981571963">Oletko kyllästynyt evästeiden suostumusilmoituksiin?</translation>
-<translation id="4986297793092101884">Asil estää jo kolmannen osapuolen evästeet. Voimme myös estää evästeiden suostumusilmoitukset.</translation>
-<translation id="4784306439879850873">Huomaa, että Asil ei voi tarkistaa, mitä tapahtuu, jos allekirjoitat. Allekirjoitus voi valtuuttaa melkein minkä tahansa toiminnon tililläsi tai puolestasi, mukaan lukien (mutta ei rajoittuen) tilin ja kryptovarojen täydellisen hallinnan antaminen pyynnön esittäneelle sivustolle. Allekirjoita vain, jos olet varma, että haluat suorittaa tämän toiminnon ja että pystyt luottamaan pyytävään sivustoon.</translation>
+<translation id="4986297793092101884">brave estää jo kolmannen osapuolen evästeet. Voimme myös estää evästeiden suostumusilmoitukset.</translation>
+<translation id="4784306439879850873">Huomaa, että brave ei voi tarkistaa, mitä tapahtuu, jos allekirjoitat. Allekirjoitus voi valtuuttaa melkein minkä tahansa toiminnon tililläsi tai puolestasi, mukaan lukien (mutta ei rajoittuen) tilin ja kryptovarojen täydellisen hallinnan antaminen pyynnön esittäneelle sivustolle. Allekirjoita vain, jos olet varma, että haluat suorittaa tämän toiminnon ja että pystyt luottamaan pyytävään sivustoon.</translation>
 <translation id="3474375934783434676">Allekirjoita omalla vastuullasi</translation>
 <translation id="7134370164002095282"><ph name="CURRENT"/>/<ph name="SIZE"/></translation>
 <translation id="756701799684433105">Hyväksy tapahtuma</translation>
@@ -921,8 +921,8 @@ Jos et hyväksy tätä pyyntöä, yhteyttä VPN:ään ei muodosta uudelleen ja I
 <translation id="583281660410589416">Tuntematon</translation>
 <translation id="2862978891748913252">Valitse maa</translation>
 <translation id="3832588024105436400">Valitse maa, jotta voimme näyttää alueesi mukaisia vaihtoehtoja ja mainoksia. <ph name="PRIVACY_POLICY"/></translation>
-<translation id="5666264859501108700">Asil-palkintojen alueeksi on asetettu <ph name="COUNTRY_NAME"/>.</translation>
-<translation id="909076461795862330">Asil-palkintojen määrittämisen aikana tapahtui valitettavasti virhe. Yritä uudelleen.</translation>
+<translation id="5666264859501108700">brave-palkintojen alueeksi on asetettu <ph name="COUNTRY_NAME"/>.</translation>
+<translation id="909076461795862330">brave-palkintojen määrittämisen aikana tapahtui valitettavasti virhe. Yritä uudelleen.</translation>
 <translation id="7352651011704765696">Jotakin meni vikaan</translation>
 <translation id="7144878232160441200">Yritä uudestaan</translation>
 <translation id="6040143037577758943">Sulje</translation>
@@ -939,19 +939,19 @@ Jos et hyväksy tätä pyyntöä, yhteyttä VPN:ään ei muodosta uudelleen ja I
 <translation id="4809681171446727314">Saat käyttöösi yksityisen ja riippumattoman haun suoraan kotinäytöltäsi.</translation>
 <translation id="7751715172931488388">Lisää pienoisohjelma</translation>
 <translation id="7285167584112910782">Braven nopea toimintohaku</translation>
-<translation id="2326703104633309781">Use Asil-kääntäjää</translation>
+<translation id="2326703104633309781">Use brave-kääntäjää</translation>
 <translation id="5802752138057422257">Muita kuin ASCII-merkkejä havaittu!</translation>
 <translation id="442709594176931966">Näytä alkuperäinen viesti</translation>
 <translation id="2239252396088484499">Näytä viestit ASCII-koodattuina</translation>
 <translation id="4220693114674044366">Tokenin osoite</translation>
-<translation id="5658257029899993935">Linkitä ostos Asil-tiliisi</translation>
-<translation id="1187061015547219282">Linkitä Play Storen ostos Asil-tiliisi käyttääksesi Asil VPN:ää muissa laitteissa.</translation>
+<translation id="5658257029899993935">Linkitä ostos brave-tiliisi</translation>
+<translation id="1187061015547219282">Linkitä Play Storen ostos brave-tiliisi käyttääksesi brave VPN:ää muissa laitteissa.</translation>
 <translation id="6662142137695589205">Linkitä VPN-tilauksesi</translation>
-<translation id="2674077112509133024">Laajenna Asil-palomuuria + VPN-suojaa</translation>
-<translation id="6365389672683343144">Asil VPN -tilauksesi voi suojata enintään 5 laitetta Androidissa, iOSissa ja työpöydällä. Linkitä Google Play -tilauksesi Asil-tiliisi.</translation>
+<translation id="2674077112509133024">Laajenna brave-palomuuria + VPN-suojaa</translation>
+<translation id="6365389672683343144">brave VPN -tilauksesi voi suojata enintään 5 laitetta Androidissa, iOSissa ja työpöydällä. Linkitä Google Play -tilauksesi brave-tiliisi.</translation>
 <translation id="6605147707233193230">Laita päälle tukeaksesi sisällönluojia</translation>
 <translation id="1609556006143307897">Tuet sisällönluojia</translation>
-<translation id="6067959437127691361">Kun käytät Asil-palkintoja, tuet sisällönluojia ja voit ansaita BATeja.</translation>
+<translation id="6067959437127691361">Kun käytät brave-palkintoja, tuet sisällönluojia ja voit ansaita BATeja.</translation>
 <translation id="121894865378699201">Oletko valmis ansaitsemaan BATeja?</translation>
 <translation id="5430495762768325224">Lue lisää BATeista</translation>
 <translation id="6278643716658443228">Palkintoasetukset</translation>
@@ -964,9 +964,9 @@ Jos et hyväksy tätä pyyntöä, yhteyttä VPN:ään ei muodosta uudelleen ja I
 <translation id="9074594632540931067">Virhe: BAT ei ole saatavilla</translation>
 <translation id="5382684862562314222">BATtia ei vielä tueta alueellasi Uphold-palvelussa.</translation>
 <translation id="6996157559236886133">Virhe: Rajoitettu Uphold-tilin toiminnallisuus</translation>
-<translation id="6417420737057016607">Asil-mainokset</translation>
-<translation id="5425006356459378415">Asil-palkinnot eivät ole käytettävissä</translation>
-<translation id="833643743158564518">Uudet rekisteröitymiset Asil-palkintoihin on poistettu käytöstä alueellasi. Voit kuitenkin aina yrittää myöhemmin uudelleen. <ph name="LEARN_MORE"/></translation>
+<translation id="6417420737057016607">brave-mainokset</translation>
+<translation id="5425006356459378415">brave-palkinnot eivät ole käytettävissä</translation>
+<translation id="833643743158564518">Uudet rekisteröitymiset brave-palkintoihin on poistettu käytöstä alueellasi. Voit kuitenkin aina yrittää myöhemmin uudelleen. <ph name="LEARN_MORE"/></translation>
 <translation id="8528916244724490964">Kaikki verkot</translation>
 <translation id="2781668117338732220">Toissijaiset verkot</translation>
 <translation id="6309721369749814582">Verkkotunnusta <ph name="DOMAIN"/> ei ole rekisteröity</translation>

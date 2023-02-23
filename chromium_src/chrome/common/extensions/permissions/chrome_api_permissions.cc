@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -16,7 +16,7 @@ constexpr APIPermissionInfo::InitInfo brave_permissions_to_register[] = {
     {APIPermissionID::kIpfs, "ipfs",
      APIPermissionInfo::kFlagImpliesFullURLAccess}};
 
-// Merges Asil and Chrormium constant arrays to final list of permissions.
+// Merges brave and Chrormium constant arrays to final list of permissions.
 template <typename T, size_t N>
 class PermissionsContainer {
  public:

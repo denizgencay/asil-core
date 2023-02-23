@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -78,13 +78,13 @@ const PrefsUtil::TypedPrefMap& BravePrefsUtil::GetAllowlistedKeys() {
   // Start with parent class allowlist
   const auto chromium_prefs = PrefsUtil::GetAllowlistedKeys();
   s_brave_allowlist->insert(chromium_prefs.begin(), chromium_prefs.end());
-  // Add Asil values to the allowlist
+  // Add brave values to the allowlist
   // import data
   (*s_brave_allowlist)[kImportDialogExtensions] =
       settings_api::PrefType::PREF_TYPE_BOOLEAN;
   (*s_brave_allowlist)[kImportDialogPayments] =
       settings_api::PrefType::PREF_TYPE_BOOLEAN;
-  // Default Asil shields
+  // Default brave shields
   (*s_brave_allowlist)[kShieldsAdvancedViewEnabled] =
       settings_api::PrefType::PREF_TYPE_BOOLEAN;
   (*s_brave_allowlist)[kShieldsStatsBadgeVisible] =
@@ -246,7 +246,7 @@ const PrefsUtil::TypedPrefMap& BravePrefsUtil::GetAllowlistedKeys() {
   (*s_brave_allowlist)[kIPFSCompanionEnabled] =
       settings_api::PrefType::PREF_TYPE_BOOLEAN;
 
-  // Asil Wallet pref
+  // brave Wallet pref
   (*s_brave_allowlist)[kBraveWalletSelectedNetworks] =
       settings_api::PrefType::PREF_TYPE_DICTIONARY;
   (*s_brave_allowlist)[kDefaultEthereumWallet] =

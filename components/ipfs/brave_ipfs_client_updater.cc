@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -142,7 +142,7 @@ void BraveIpfsClientUpdater::SetComponentIdAndBase64PublicKeyForTest(
 
 ///////////////////////////////////////////////////////////////////////////////
 
-// The Asil Ipfs client extension factory.
+// The brave Ipfs client extension factory.
 std::unique_ptr<BraveIpfsClientUpdater> BraveIpfsClientUpdaterFactory(
     BraveComponent::Delegate* delegate,
     const base::FilePath& user_data_dir) {

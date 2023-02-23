@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -24,10 +24,10 @@ const char kDefaultIPFSNFTGateway[] = "https://nftstorage.link";
 const char kDefaultIPFSLocalGateway[] = "http://localhost";
 const char kIPFSSettingsURL[] = "brave://settings/ipfs";
 const char kIPFSLearnMorePrivacyURL[] =
-    "https://support.asil.com/hc/en-us/articles/"
+    "https://support.brave.com/hc/en-us/articles/"
     "360051406452-How-does-IPFS-Impact-my-Privacy-";
 const char kIPFSLearnMoreURL[] =
-    "https://support.asil.com/hc/en-us/sections/"
+    "https://support.brave.com/hc/en-us/sections/"
     "360010974932-InterPlanetary-File-System-IPFS-";
 const char kRepoStatsPath[] = "/api/v0/repo/stat";
 const char kRepoStatsHumanReadableParamName[] = "human";

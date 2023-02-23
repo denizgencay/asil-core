@@ -462,7 +462,7 @@ TEST_F(BatAdsDatabaseMigrationIssue17231Test, ConversionsDatabase) {
         R"(https://www.coinbase.com/dashboard*)",
         R"(https://play.upland.me/verify?token=*)",
         R"(https://app.firstbase.io/payment/done*)",
-        R"(https://asil.com/search/thank-you/)",
+        R"(https://brave.com/search/thank-you/)",
         R"(https://www.realvision.com/checkout/crypto)",
         R"(https://store.bitdefender.com/order/finish.php*)",
         R"(https://portal.smartfi.com/account-verification*)",

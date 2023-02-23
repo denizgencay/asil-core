@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -39,7 +39,7 @@ function BraveTalkTooltipItem (props: Props) {
   }
   return (
     <BraveTalkTooltip ref={tooltipRef} onClose={handleClose}>
-      <IconLink title={getLocale('braveTalkPromptTitle')} href='https://talk.asil.com/widget'>
+      <IconLink title={getLocale('braveTalkPromptTitle')} href='https://talk.brave.com/widget'>
         <BraveTalkIcon />
       </IconLink>
     </BraveTalkTooltip>
@@ -51,7 +51,7 @@ export default function BraveTalkItem (props: Props) {
     return <BraveTalkTooltipItem {...props} />
   }
   return (
-    <IconLink title={getLocale('braveTalkPromptTitle')} href='https://talk.asil.com/widget'>
+    <IconLink title={getLocale('braveTalkPromptTitle')} href='https://talk.brave.com/widget'>
       <BraveTalkIcon />
     </IconLink>
   )

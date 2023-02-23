@@ -53,7 +53,7 @@
 <translation id="1123753900084781868">Automatski titlovi trenutno nisu dostupni</translation>
 <translation id="1125573121925420732">Upozorenja mogu biti uobičajena kada web lokacije ažuriraju sigurnost. To bi se uskoro moglo poboljšati.</translation>
 <translation id="112840717907525620">Keš memorija pravila UREDU</translation>
-<translation id="3186248837008742887">Dugme Prevedi stranicu, pritisnite Enter da prevedete ovu stranicu pomoću Asil Prevodioca</translation>
+<translation id="3186248837008742887">Dugme Prevedi stranicu, pritisnite Enter da prevedete ovu stranicu pomoću brave Prevodioca</translation>
 <translation id="1131264053432022307">Slika koju ste kopirali</translation>
 <translation id="1147769322402934017">Online galerije slika</translation>
 <translation id="1150979032973867961">Ovaj server nije mogao potvrditi da je ovo domena <ph name="DOMAIN"/>. Operativni sistem vašeg računara ne smatra njenu potvrdu sigurnosti pouzdanom. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu.</translation>
@@ -84,13 +84,13 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="1204602502194308272">Ribe i akvarijumi</translation>
 <translation id="1206967143813997005">Neispravan potpis inicijalima</translation>
 <translation id="1209206284964581585">Sakrij za sada</translation>
-<translation id="8250355499536962710">Dugme Kreiraj obrazac, pritisnite Enter da brzo kreirate novi obrazac na usluzi Asil Forms</translation>
+<translation id="8250355499536962710">Dugme Kreiraj obrazac, pritisnite Enter da brzo kreirate novi obrazac na usluzi brave Forms</translation>
 <translation id="121201262018556460">Pokušali ste otvoriti domenu <ph name="DOMAIN"/>, ali je server prikazao potvrdu koja sadrži slab ključ. Možda je napadač otkrio privatni ključ, a server nije onaj kojeg očekujete (možda komunicirate s napadačem).</translation>
 <translation id="1219129156119358924">Sigurnost sistema</translation>
 <translation id="1222060260947439312">Desna ladica</translation>
 <translation id="1224330468394120478">A3x6</translation>
 <translation id="1225570101506606926">Bilijar</translation>
-<translation id="2735968720006267833">Asil će pronaći popuste za vas</translation>
+<translation id="2735968720006267833">brave će pronaći popuste za vas</translation>
 <translation id="1227224963052638717">Nepoznato pravilo.</translation>
 <translation id="1228893227497259893">Pogrešan identifikator entiteta</translation>
 <translation id="1232569758102978740">Bez naslova</translation>
@@ -100,8 +100,8 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="124116460088058876">Više jezika</translation>
 <translation id="1243027604378859286">Autor:</translation>
 <translation id="1246424317317450637">Podebljano</translation>
-<translation id="1052005765108026699">Da sljedeći put brže platite, sačuvajte karticu, ime i adresu za naplatu na svoj Asil račun.</translation>
-<translation id="2900208483223661703">Dugme Kreiraj tabelu, pritisnite Enter da brzo kreirate novu Asil tabelu</translation>
+<translation id="1052005765108026699">Da sljedeći put brže platite, sačuvajte karticu, ime i adresu za naplatu na svoj brave račun.</translation>
+<translation id="2900208483223661703">Dugme Kreiraj tabelu, pritisnite Enter da brzo kreirate novu brave tabelu</translation>
 <translation id="1253921432148366685"><ph name="TYPE_1"/>, <ph name="TYPE_2"/> (sinhronizirano)</translation>
 <translation id="1256368399071562588">&lt;p&gt;Ako pokušate posjetiti web lokaciju i ona se ne otvori, najprije pokušajte riješiti grešku ovim koracima za rješavanje problema:&lt;/p&gt;
     &lt;ol&gt;
@@ -117,14 +117,14 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="1264974993859112054">Sportovi</translation>
 <translation id="1266469291454105242">Otključavanje uređaja</translation>
 <translation id="1268480293435976622">Koverta Chinese #7</translation>
-<translation id="53564677632020212">Brzo kreirajte novu web lokaciju na usluzi Asil Web lokacije</translation>
+<translation id="53564677632020212">Brzo kreirajte novu web lokaciju na usluzi brave Web lokacije</translation>
 <translation id="1270502636509132238">Način preuzimanja</translation>
 <translation id="1273592791152866347">Praćenje cijene je isključeno</translation>
 <translation id="1281476433249504884">Slagač 1</translation>
 <translation id="1285320974508926690">Nikada ne prevodi ovu web lokaciju</translation>
 <translation id="1288548991597756084">Bezbjedno sačuvajte karticu</translation>
 <translation id="1292571435393770077">Ladica 16</translation>
-<translation id="1209478311331937175">"Softver na računaru sprečava Asil da se sigurno poveže na web lokaciju" (samo na Windows računarima)</translation>
+<translation id="1209478311331937175">"Softver na računaru sprečava brave da se sigurno poveže na web lokaciju" (samo na Windows računarima)</translation>
 <translation id="1293797321964802402">Koverta 9 x 11 in</translation>
 <translation id="1294154142200295408">Varijacije komandne linije</translation>
 <translation id="129553762522093515">Nedavno zatvoreno</translation>
@@ -199,7 +199,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="1442987760062738829">Bušenje</translation>
 <translation id="1446396933673057385">Provjera tačnosti</translation>
 <translation id="1447067628680007684">(x86_64)</translation>
-<translation id="1453974140256777690">Tekst koji zalijepite ili priložite se šalje u Asil oblak ili trećim stranama na analizu. Naprimjer, može se skenirati radi otkrivanja postojanja osjetljivih podataka.</translation>
+<translation id="1453974140256777690">Tekst koji zalijepite ili priložite se šalje u brave oblak ili trećim stranama na analizu. Naprimjer, može se skenirati radi otkrivanja postojanja osjetljivih podataka.</translation>
 <translation id="1455413310270022028">Gumica</translation>
 <translation id="1459693405370120464">Vrijeme</translation>
 <translation id="1462245070427461050">JIS B9</translation>
@@ -217,7 +217,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="1492194039220927094">Slanje pravila:</translation>
 <translation id="14938948731065592">Računarski periferni uređaji</translation>
 <translation id="1495677929897281669">Nazad na karticu</translation>
-<translation id="1812569385220097122">Prikažite kartice s Asil računa</translation>
+<translation id="1812569385220097122">Prikažite kartice s brave računa</translation>
 <translation id="150536342253161096">Lokalne vijesti</translation>
 <translation id="1507202001669085618">&lt;p&gt;Ova greška će se prikazati ako koristite WiFi portal na koji se morate prijaviti za povezivanje na internet.&lt;/p&gt;
     &lt;p&gt;Za ispravljanje greške, kliknite na &lt;strong&gt;Poveži se&lt;/strong&gt; na stranici koju pokušavate otvoriti.&lt;/p&gt;</translation>
@@ -227,7 +227,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="1517433312004943670">Broj telefona je obavezan</translation>
 <translation id="1519264250979466059">Datum verzije</translation>
 <translation id="1521159554480556801">Umjetnost rada s vlaknima i tekstilom</translation>
-<translation id="5524011986660000129">Asil Tabele</translation>
+<translation id="5524011986660000129">brave Tabele</translation>
 <translation id="1527263332363067270">Čekanje na uspostavu veze…</translation>
 <translation id="1529789484829130889">Ladica 8</translation>
 <translation id="1530707389502320859">Izgleda da je web lokacija koju ste upravo htjeli posjetiti lažna. Napadači ponekad oponašaju web lokacije tako što naprave male, teško primjetne izmjene URL-a.</translation>
@@ -238,7 +238,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="154408704832528245">Odaberite adresu za isporuku</translation>
 <translation id="1549470594296187301">Za korištenje ove funkcije trebate omogućiti JavaScript.</translation>
 <translation id="1551884710160394169">Freeware i shareware</translation>
-<translation id="1705567146636171298">Ažuriraj Asil</translation>
+<translation id="1705567146636171298">Ažuriraj brave</translation>
 <translation id="1555130319947370107">Plava</translation>
 <translation id="1559447966090556585">Primati obavještenja?</translation>
 <translation id="1559486004335285648">Automatsko popunjavanje podataka o plaćanju</translation>
@@ -250,7 +250,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="156703335097561114">Informacije o umrežavanju, naprimjer adrese, konfiguracija interfejsa i kvalitet veze</translation>
 <translation id="1567040042588613346">Ovo pravilo radi kako je predviđeno, ali je ista vrijednost postavljena negdje drugo i ovo pravilo ju je zaobišlo.</translation>
 <translation id="1569487616857761740">Unesite datum isteka</translation>
-<translation id="1385693425784118652">Asil pokušava uključiti Windows Hello za popunjavanje lozinki.</translation>
+<translation id="1385693425784118652">brave pokušava uključiti Windows Hello za popunjavanje lozinki.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH"/> x <ph name="HEIGHT"/> in</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Došlo je do problema prilikom prikazivanja ove web stranice.</translation>
@@ -279,12 +279,12 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="1640244768702815859">Probajte <ph name="BEGIN_LINK"/>posjetiti početnu stranicu web lokacije<ph name="END_LINK"/></translation>
 <translation id="1641976391427233992">Odloži izlaz do</translation>
 <translation id="164212631332220697">Platite karticom <ph name="CARD_DETAIL"/>.</translation>
-<translation id="9108890623444393630">Dugme Promijeni Asil lozinku, pritisnite Enter da promijenite lozinku za Asil račun</translation>
+<translation id="9108890623444393630">Dugme Promijeni brave lozinku, pritisnite Enter da promijenite lozinku za brave račun</translation>
 <translation id="1644574205037202324">Historija</translation>
 <translation id="1645368109819982629">Protokol nije podržan</translation>
 <translation id="1995056549836388472">Upravljajte postavkama Bravea</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="3848846802033604519">Asil je pojednostavio ovu stranicu za lakše čitanje. Asil je preuzeo originalnu stranicu putem sigurne veze.</translation>
+<translation id="3848846802033604519">brave je pojednostavio ovu stranicu za lakše čitanje. brave je preuzeo originalnu stranicu putem sigurne veze.</translation>
 <translation id="1656489000284462475">Preuzmi</translation>
 <translation id="1658918301167915956">Bluetooth uređaji</translation>
 <translation id="1662550410081243962">Sačuvajte i popunite načine plaćanja</translation>
@@ -337,8 +337,8 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Probajte pokrenuti Windows mrežnu dijagnostiku<ph name="END_LINK"/>.</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1787142507584202372">Vaše otvorene kartice se prikazuju ovdje</translation>
-<translation id="3480410886581896628">Asil Smart Lock</translation>
-<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da upravljate informacijama, privatnošću i sigurnošću na Asil računu</translation>
+<translation id="3480410886581896628">brave Smart Lock</translation>
+<translation id="8114214752558951503"><ph name="MANAGE_GOOGLE_ACCOUNT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da upravljate informacijama, privatnošću i sigurnošću na brave računu</translation>
 <translation id="1798447301915465742"><ph name="MULTIPLE_ACTIONS_FOCUSED_FRIENDLY_MATCH_TEXT"/>. Dostupno je više radnji. Pritisnite Tab da ih prelistate</translation>
 <translation id="1800473098294731951">B9</translation>
 <translation id="1801812870656502108">Detalji virtuelne kartice</translation>
@@ -369,7 +369,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="1873899211667975540">Rock muzika</translation>
 <translation id="1874224422119691492">U meniju <ph name="SETTINGS"/> možete promijeniti hoćete li koristiti zaključavanje ekrana za popunjavanje lozinku</translation>
 <translation id="1875025161375567525">Ladica za fotografije</translation>
-<translation id="85321348617848915">Asil Forms</translation>
+<translation id="85321348617848915">brave Forms</translation>
 <translation id="187918866476621466">Otvorite stranice za pokretanje</translation>
 <translation id="1883255238294161206">Suzi spisak</translation>
 <translation id="1884843295353628214">Jazz</translation>
@@ -377,7 +377,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="1898423065542865115">Filtriranje</translation>
 <translation id="1901443836186977402">{1,plural, =1{Ovaj server ne može dokazati da pripada domeni <ph name="DOMAIN"/>; njegova potvrda sigurnosti je istekla jučer. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu. Sat na vašem računaru je trenutno postavljen na <ph name="CURRENT_DATE"/>. Je li to uredu? Ako nije, trebate podesiti sistemski sat i zatim osvježiti stranicu.}one{Ovaj server ne može dokazati da pripada domeni <ph name="DOMAIN"/>; njegova potvrda sigurnosti je istekla prije # dan. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu. Sat na vašem računaru je trenutno postavljen na <ph name="CURRENT_DATE"/>. Je li to uredu? Ako nije, trebate podesiti sistemski sat i zatim osvježiti stranicu.}few{Ovaj server ne može dokazati da pripada domeni <ph name="DOMAIN"/>; njegova potvrda sigurnosti je istekla prije # dana. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu. Sat na vašem računaru je trenutno postavljen na <ph name="CURRENT_DATE"/>. Je li to uredu? Ako nije, trebate podesiti sistemski sat i zatim osvježiti stranicu.}other{Ovaj server ne može dokazati da pripada domeni <ph name="DOMAIN"/>; njegova potvrda sigurnosti je istekla prije # dana. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu. Sat na vašem računaru je trenutno postavljen na <ph name="CURRENT_DATE"/>. Je li to uredu? Ako nije, trebate podesiti sistemski sat i zatim osvježiti stranicu.}}</translation>
 <translation id="1902576642799138955">Period važenja</translation>
-<translation id="6932104141210291380">Dugme Kreiraj bilješku, pritisnite Enter da brzo kreirate novu bilješku u Asil Keepu</translation>
+<translation id="6932104141210291380">Dugme Kreiraj bilješku, pritisnite Enter da brzo kreirate novu bilješku u brave Keepu</translation>
 <translation id="1908217026282415406">Korištenje kamere i pomjeranje</translation>
 <translation id="191374271204266022">Kopiraj kao JSON fajl</translation>
 <translation id="1914326953223720820">Usluga za otvaranje zip fajlova</translation>
@@ -425,7 +425,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="2040463897538655645">Uklonjiva pohrana</translation>
 <translation id="2040894699575719559">Lokacija je blokirana</translation>
 <translation id="2042213636306070719">Ladica 7</translation>
-<translation id="3163988908275223348">Prijavite se da koristite lozinke sačuvane na Asil računu</translation>
+<translation id="3163988908275223348">Prijavite se da koristite lozinke sačuvane na brave računu</translation>
 <translation id="2045871135676061132">Koverta Personal</translation>
 <translation id="2048261947532620704">Stranica se prevodi</translation>
 <translation id="205212645995975601">Roštilj i grilovanje</translation>
@@ -444,7 +444,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="2085876078937250610">Sačuvaj…</translation>
 <translation id="7333248841044450790">Dugme Upravljajte sinhronizacijom, pritisnite Enter da upravljate time koje će se informacije sinhronizirati u postavkama Bravea</translation>
 <translation id="2091887806945687916">Zvuk</translation>
-<translation id="4871965986998315786">Asil pokušava isključiti Windows Hello za popunjavanje lozinki.</translation>
+<translation id="4871965986998315786">brave pokušava isključiti Windows Hello za popunjavanje lozinki.</translation>
 <translation id="2094505752054353250">Nepodudaranje domene</translation>
 <translation id="2099652385553570808">Trostruko spajanje na lijevoj strani</translation>
 <translation id="2101225219012730419">Verzija:</translation>
@@ -557,7 +557,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="2380886658946992094">Pravo</translation>
 <translation id="5475992123321966556">Prilagodite alate za pristupačnost u postavkama Bravea</translation>
 <translation id="2384307209577226199">Zadano pravilo preduzeća</translation>
-<translation id="5244533701344680487">Ažurirajte Asil u postavkama Bravea</translation>
+<translation id="5244533701344680487">Ažurirajte brave u postavkama Bravea</translation>
 <translation id="2386255080630008482">Potvrda servera je opozvana.</translation>
 <translation id="239293030466334554">Kabrioleti</translation>
 <translation id="2392959068659972793">Prikaži pravila bez postavljene vrijednosti</translation>
@@ -568,7 +568,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="2413155254802890957">Staro</translation>
 <translation id="2413528052993050574">Ovaj server nije uspio dokazati da je <ph name="DOMAIN"/>; možda je njegova potvrda sigurnosti opozvana. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu.</translation>
 <translation id="2414886740292270097">Tamno</translation>
-<translation id="2089192652156377984">Upravljajte Asil računom, pritisnite Enter da upravljate informacijama, privatnošću i sigurnošću na Asil računu</translation>
+<translation id="2089192652156377984">Upravljajte brave računom, pritisnite Enter da upravljate informacijama, privatnošću i sigurnošću na brave računu</translation>
 <translation id="2436186046335138073">Dozvoliti da <ph name="HANDLER_HOSTNAME"/> otvori sve linkove za protokol <ph name="PROTOCOL"/>?</translation>
 <translation id="2438874542388153331">Četverostruko bušenje na desnoj strani</translation>
 <translation id="2448295565072560657">Periferni uređaji priključeni na ovaj uređaj dok ste prijavljeni</translation>
@@ -593,7 +593,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="2505268675989099013">Zaštitite račun</translation>
 <translation id="2509167091171468975">Maloprodaja hrane i prehrambenih proizvoda</translation>
 <translation id="2512101340618156538">Nije dozvoljeno (zadano)</translation>
-<translation id="3233967599412104589">Dugme za postavljanje Bravea kao zadanog preglednika, pritisnite Enter da postavite Asil kao zadani preglednik sistema u postavkama iOS-a</translation>
+<translation id="3233967599412104589">Dugme za postavljanje Bravea kao zadanog preglednika, pritisnite Enter da postavite brave kao zadani preglednik sistema u postavkama iOS-a</translation>
 <translation id="2515629240566999685">Provjeriti signal u svojoj oblasti</translation>
 <translation id="2515761554693942801">Možete odabrati potvrdu pomoću Touch ID-a na web lokacijama koje koriste pružatelja usluga <ph name="PROVIDER_ORIGIN"/>. Ovaj pružalac usluga je možda pohranio informacije o vašem načinu plaćanja, za koji možete <ph name="LINK_TEXT"/>.</translation>
 <translation id="2521385132275182522">Spajanje u donjem desnom uglu</translation>
@@ -608,7 +608,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="2542106216580219892">Surfanje</translation>
 <translation id="2544546346215446551">Vaš administrator je ponovo pokrenuo uređaj</translation>
 <translation id="2544644783021658368">Jedan dokument</translation>
-<translation id="5342827302598046226">Postavite Asil kao zadani preglednik</translation>
+<translation id="5342827302598046226">Postavite brave kao zadani preglednik</translation>
 <translation id="2546283357679194313">Kolačići i podaci web lokacije</translation>
 <translation id="2547466893236767989">Web dizajn i razvoj web stranica</translation>
 <translation id="254947805923345898">Vrijednost pravila nije važeća.</translation>
@@ -743,7 +743,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="2943895734390379394">Vrijeme otpremanja:</translation>
 <translation id="2945026002409061480">Online zajednice</translation>
 <translation id="2948083400971632585">U Postavkama možete onemogućiti bilo koji proksi server koji je konfiguriran za povezivanje.</translation>
-<translation id="3955566820843143766">Zanemareno jer uređaj nije prijavljen pomoću Upravljanja u oblaku putem Asil preglednika.</translation>
+<translation id="3955566820843143766">Zanemareno jer uređaj nije prijavljen pomoću Upravljanja u oblaku putem brave preglednika.</translation>
 <translation id="2951588413176968965">Moje poštansko sanduče</translation>
 <translation id="2952904171810469095">A2x5</translation>
 <translation id="295526156371527179">Upozorenje: Ovo pravilo nije objedinjeno kao rječnik kao što je navedeno pravilom jer ne predstavlja rječnik.</translation>
@@ -776,7 +776,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="3037177537145227281">Praćenje cijene</translation>
 <translation id="3037605927509011580">Oh, ne!</translation>
 <translation id="3041612393474885105">Informacije o potvrdi</translation>
-<translation id="8418829431154568330">Historija Asil udaljenog računara, uključujući vremenske oznake, host računare i ID-ove sesija klijenta</translation>
+<translation id="8418829431154568330">Historija brave udaljenog računara, uključujući vremenske oznake, host računare i ID-ove sesija klijenta</translation>
 <translation id="3052964831964880138">Pad cijene od <ph name="PRICE_DROP"/> za proizvod <ph name="PRODUCT_NAME"/></translation>
 <translation id="3061707000357573562">Usluga za zakrpe</translation>
 <translation id="306573536155379004">Igra je počela.</translation>
@@ -857,7 +857,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="3252266817569339921">Francuska</translation>
 <translation id="3254301855501243548">18 x 22 in</translation>
 <translation id="3256863843508922226">Umirovljenje i penzija</translation>
-<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novi događaj u Asil Kalendaru</translation>
+<translation id="6900454207575412115"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novi događaj u brave Kalendaru</translation>
 <translation id="3261488570342242926">Saznajte više o virtuelnim karticama</translation>
 <translation id="3893393287627341086">Dugme za upravljanje postavkama Bravea, pritisnite Enter da posjetite postavke Bravea</translation>
 <translation id="3266793032086590337">Vrijednost (konflikt)</translation>
@@ -904,7 +904,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="3366477098757335611">Prikaži kartice</translation>
 <translation id="3369192424181595722">Greška sa satom</translation>
 <translation id="3369459162151165748">Dijelovi i oprema za vozila</translation>
-<translation id="2273851479262317744">Postavi Asil kao zadani preglednik</translation>
+<translation id="2273851479262317744">Postavi brave kao zadani preglednik</translation>
 <translation id="337363190475750230">Poništeno dodjeljivanje</translation>
 <translation id="7740652748540081864">Pokrenite sigurnosnu provjeru Bravea</translation>
 <translation id="3377144306166885718">Server je koristio zastarjelu verziju TLS-a.</translation>
@@ -935,7 +935,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="3431636764301398940">Sačuvaj ovu karticu na ovaj uređaj</translation>
 <translation id="3432601291244612633">Zatvori stranicu</translation>
 <translation id="3435738964857648380">Sigurnost</translation>
-<translation id="4527130811319726464">Koristite lozinke sačuvane na Asil računu</translation>
+<translation id="4527130811319726464">Koristite lozinke sačuvane na brave računu</translation>
 <translation id="3440783957068352691">kvadrat</translation>
 <translation id="3447661539832366887">Vlasnik ovog uređaja je isključio igru s dinosaurusom.</translation>
 <translation id="3447884698081792621">Prikaži potvrdu (izdavač: <ph name="ISSUER"/>)</translation>
@@ -986,7 +986,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="3576616784287504635">Na ugrađenoj stranici na web lokaciji <ph name="SITE"/> se navodi</translation>
 <translation id="3577473026931028326">Nešto nije uredu. Pokušajte ponovo.</translation>
 <translation id="3577902790357386792">Gimnastika</translation>
-<translation id="230476913390177517">Asil će vas obavijestiti kada ova stranica bude spremna. &lt;a&gt;Otkaži&lt;/a&gt;</translation>
+<translation id="230476913390177517">brave će vas obavijestiti kada ova stranica bude spremna. &lt;a&gt;Otkaži&lt;/a&gt;</translation>
 <translation id="3582930987043644930">Dodaj ime</translation>
 <translation id="3583757800736429874">&amp;Ponovi premještanje</translation>
 <translation id="3584299510153766161">Dvostruko bušenje na dnu</translation>
@@ -1011,7 +1011,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="3631244953324577188">Biometrija</translation>
 <translation id="3632503704576938756">Dijeljenje ekrana je nastavljeno</translation>
 <translation id="3632892046558972264">Dijeljenje ekrana je pauzirano</translation>
-<translation id="1367445511302842209">Dugme Ažuriraj Asil, pritisnite Enter da ažurirate Asil iz postavki Bravea</translation>
+<translation id="1367445511302842209">Dugme Ažuriraj brave, pritisnite Enter da ažurirate brave iz postavki Bravea</translation>
 <translation id="3634530185120165534">Ladica 5</translation>
 <translation id="3642638418806704195">Aplikacija:</translation>
 <translation id="3647286794400715637">Svaki uneseni niz URL-a mora sadržavati između 1 i 2 URL-a.</translation>
@@ -1047,14 +1047,14 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="3715597595485130451">Povežite se s WiFi-jem</translation>
 <translation id="3717027428350673159"><ph name="BEGIN_LINK"/>Provjeravanje konfiguracije proksi servera, zaštitnog zida i DNS-a<ph name="END_LINK"/></translation>
 <translation id="372429172604983730">Aplikacije koje mogu uzrokovati grešku uključuju antivirus, zaštitni zid i softver filtriranje weba ili proksi softver.</translation>
-<translation id="3838210050876514022"><ph name="CREATE_GOOGLE_SLIDE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novu Asil prezentaciju u Prezentacijama</translation>
+<translation id="3838210050876514022"><ph name="CREATE_GOOGLE_SLIDE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novu brave prezentaciju u Prezentacijama</translation>
 <translation id="3733139489341305600">Autonomna vozila</translation>
 <translation id="3736520371357197498">Ako razumijete koliki su rizici po vašu sigurnost, možete <ph name="BEGIN_LINK"/>posjetiti ovu nesigurnu web lokaciju<ph name="END_LINK"/> prije uklanjanja štetnih programa.</translation>
 <translation id="3738166223076830879">Vašim preglednikom upravlja vaš administrator.</translation>
 <translation id="3740319564441798148">Autobus i željeznica za velike udaljenosti</translation>
 <translation id="3744111561329211289">Sinhronizacija u pozadini</translation>
-<translation id="3744286742364977428">Fajlovi koje preuzmete se šalju u Asil oblak ili trećim stranama na analizu. Naprimjer, mogu se skenirati radi otkrivanja postojanja osjetljivih podataka ili zlonamjernog softvera i mogu se pohranjivati na osnovu pravila kompanije.</translation>
-<translation id="4098534208927606680">Nakon što potvrdite, detalji o kartici s vašeg Asil računa će se dijeliti s ovom lokacijom.</translation>
+<translation id="3744286742364977428">Fajlovi koje preuzmete se šalju u brave oblak ili trećim stranama na analizu. Naprimjer, mogu se skenirati radi otkrivanja postojanja osjetljivih podataka ili zlonamjernog softvera i mogu se pohranjivati na osnovu pravila kompanije.</translation>
+<translation id="4098534208927606680">Nakon što potvrdite, detalji o kartici s vašeg brave računa će se dijeliti s ovom lokacijom.</translation>
 <translation id="3748148204939282805">Napadači na web lokaciju <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> mogu vas prevarom navesti da uradite nešto opasno kao što je instaliranje softvera ili otkrivanje ličnih informacija (naprimjer lozinki, brojeva telefona ili kreditnih kartica). <ph name="BEGIN_LEARN_MORE_LINK"/>Saznajte više<ph name="END_LEARN_MORE_LINK"/></translation>
 <translation id="3748912308089554501">Vazduhoplovna industrija</translation>
 <translation id="3752543821772132562">Zanemareno jer pravilo <ph name="POLICY_NAME"/> nije postavljeno.</translation>
@@ -1066,8 +1066,8 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="3761718714832595332">Sakrij status</translation>
 <translation id="3765588406864124894">Poštansko sanduče 9</translation>
 <translation id="3767485424735936570">U administratorskim pravilima se ne preporučuje kopiranje i lijepljenje ovog sadržaja na operativni sistem <ph name="VM_NAME"/></translation>
-<translation id="8247912309816231326"><ph name="CREATE_GOOGLE_KEEP_NOTE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novu bilješku u Asil Keepu</translation>
-<translation id="5141491707451394486">Želite li sačuvati ovu karticu na svoj Asil račun i na ovaj uređaj?</translation>
+<translation id="8247912309816231326"><ph name="CREATE_GOOGLE_KEEP_NOTE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novu bilješku u brave Keepu</translation>
+<translation id="5141491707451394486">Želite li sačuvati ovu karticu na svoj brave račun i na ovaj uređaj?</translation>
 <translation id="3780694243617746492">Spremnik izlaza</translation>
 <translation id="3781428340399460090">Vatreno ružičasta</translation>
 <translation id="3783418713923659662">MasterCard</translation>
@@ -1097,7 +1097,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="3832522519263485449">Višestruko bušenje na lijevoj strani</translation>
 <translation id="3835233591525155343">Korištenje vašeg uređaja</translation>
 <translation id="3844725157150297127">RA1</translation>
-<translation id="5749930378398424146"><ph name="CREATE_GOOGLE_DOC_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novi Asil dokument</translation>
+<translation id="5749930378398424146"><ph name="CREATE_GOOGLE_DOC_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novi brave dokument</translation>
 <translation id="385051799172605136">Nazad</translation>
 <translation id="3853684360927654006">Kalkulator snage lozinke</translation>
 <translation id="3858027520442213535">Ažuriraj datum i vrijeme</translation>
@@ -1145,7 +1145,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="401170183602135785">Koverta C6</translation>
 <translation id="4014128326099193693">{COUNT,plural, =1{PDF dokument sadrži {COUNT} stranicu}one{PDF dokument sadrži {COUNT} stranicu}few{PDF dokument sadrži {COUNT} stranice}other{PDF dokument sadrži {COUNT} stranica}}</translation>
 <translation id="4023431997072828269">Pošto se ovaj obrazac šalje vezom koja nije sigurna, vaši će podaci biti vidljivi drugima.</translation>
-<translation id="3356024105713905662">Dugme za upravljanje postavkama privatnosti na Braveu, pritisnite Enter da posjetite postavke privatnosti Asil računa</translation>
+<translation id="3356024105713905662">Dugme za upravljanje postavkama privatnosti na Braveu, pritisnite Enter da posjetite postavke privatnosti brave računa</translation>
 <translation id="4030383055268325496">&amp;Opozovi dodavanje</translation>
 <translation id="4031179711345676612">Mikrofon je dozvoljen</translation>
 <translation id="4040350669425716613">Fakulteti i univerziteti</translation>
@@ -1164,7 +1164,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4079302484614802869">Konfiguracija proksi servera je postavljena za korištenje URL-a .pac skripte, a ne fiksnih proksi servera.</translation>
 <translation id="4082393374666368382">Postavke – Upravljanje</translation>
 <translation id="4084219288110917128">Koverta C1</translation>
-<translation id="8049340108547416244">Dugme Kreiraj događaj, pritisnite Enter da brzo kreirate novi događaj u Asil Kalendaru</translation>
+<translation id="8049340108547416244">Dugme Kreiraj događaj, pritisnite Enter da brzo kreirate novi događaj u brave Kalendaru</translation>
 <translation id="4088981014127559358">Pomak slike Y sa strane 1</translation>
 <translation id="4089152113577680600">Ladica 14</translation>
 <translation id="4096237801206588987">11 x 15 in</translation>
@@ -1175,7 +1175,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4101413244023615925">Tekst i grafika</translation>
 <translation id="410148943680000050">Stolno izdavaštvo</translation>
 <translation id="4103249731201008433">Serijski broj uređaja je nevažeći</translation>
-<translation id="1823668038006695695">Dugme Kreiraj web lokaciju, pritisnite Enter da brzo kreirate novu web lokaciju na usluzi Asil Web lokacije</translation>
+<translation id="1823668038006695695">Dugme Kreiraj web lokaciju, pritisnite Enter da brzo kreirate novu web lokaciju na usluzi brave Web lokacije</translation>
 <translation id="4110652170750985508">Pregledajte svoje plaćanje</translation>
 <translation id="4111546256784973544">Paintball</translation>
 <translation id="4112140312785995938">Pomakni unazad</translation>
@@ -1245,7 +1245,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4281998142035485137">{0,plural, =1{Otvoriti povjerljivi fajl?}one{Otvoriti povjerljive fajlove?}few{Otvoriti povjerljive fajlove?}other{Otvoriti povjerljive fajlove?}}</translation>
 <translation id="4282346679996504092">Obavještenja za ovaj proizvod su isključena, a oznaka uklonjena</translation>
 <translation id="4285498937028063278">Otkači</translation>
-<translation id="8314946990939758167">{NUM_CARDS,plural, =1{Ova kartica je sačuvana na vašem Asil računu}one{Ove kartice su sačuvane na vašem Asil računu}few{Ove kartice su sačuvane na vašem Asil računu}other{Ove kartice su sačuvane na vašem Asil računu}}</translation>
+<translation id="8314946990939758167">{NUM_CARDS,plural, =1{Ova kartica je sačuvana na vašem brave računu}one{Ove kartice su sačuvane na vašem brave računu}few{Ove kartice su sačuvane na vašem brave računu}other{Ove kartice su sačuvane na vašem brave računu}}</translation>
 <translation id="4287885627794386150">Ispunjava uslove za probni period, ali nije aktivno</translation>
 <translation id="4297502707443874121">Sličica za stranicu <ph name="THUMBNAIL_PAGE"/></translation>
 <translation id="4298000214066716287">Investicije</translation>
@@ -1256,7 +1256,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4305666528087210886">Pristupanje vašem fajlu nije uspjelo</translation>
 <translation id="4306529830550717874">Sačuvati adresu?</translation>
 <translation id="4306812610847412719">međumemorija</translation>
-<translation id="4270648948919210881">Оvo pravilo се zanemaruje jer korisnik nije pridružen. Da bi se ovo pravilo primijenilo, preglednikom Asil i profilom mora upravljati ista organizacija putem Admin console.</translation>
+<translation id="4270648948919210881">Оvo pravilo се zanemaruje jer korisnik nije pridružen. Da bi se ovo pravilo primijenilo, preglednikom brave i profilom mora upravljati ista organizacija putem Admin console.</translation>
 <translation id="4310070645992025887">Pretražite Putovanja</translation>
 <translation id="4310496734563057511">Ako dijelite ovaj uređaj s drugima, možete uključiti Windows Hello da potvrdite svoj identitet kad god koristite sačuvanu lozinku</translation>
 <translation id="4312613361423056926">B2</translation>
@@ -1272,8 +1272,8 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4331519897422864041">Slagač 5</translation>
 <translation id="4331708818696583467">Nije sigurno</translation>
 <translation id="4333561522337981382">Upravljati prozorima na svim vašim ekranima</translation>
-<translation id="5792122559159836842">Ovaj oglas je koristio previše resursa za vaš uređaj, pa ga je Asil uklonio.</translation>
-<translation id="6116812392674177288">Ovaj računar nije prepoznat kao računar kojim upravlja preduzeće stoga pravilo može automatski instalirati ekstenzije koje su hostirane na Asil web trgovini. URL za ažuriranje Asil web trgovine je "<ph name="CWS_UPDATE_URL"/>".</translation>
+<translation id="5792122559159836842">Ovaj oglas je koristio previše resursa za vaš uređaj, pa ga je brave uklonio.</translation>
+<translation id="6116812392674177288">Ovaj računar nije prepoznat kao računar kojim upravlja preduzeće stoga pravilo može automatski instalirati ekstenzije koje su hostirane na brave web trgovini. URL za ažuriranje brave web trgovine je "<ph name="CWS_UPDATE_URL"/>".</translation>
 <translation id="4346197816712207223">Prihvaćene kreditne kartice</translation>
 <translation id="4348834659292907206">Veza s web lokacijom <ph name="SITE"/> nije sigurna</translation>
 <translation id="4349365535725594680">Nije moguće dijeliti povjerljiv sadržaj</translation>
@@ -1320,16 +1320,16 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4482953324121162758">Ova web lokacija neće biti prevedena.</translation>
 <translation id="4489023393592172404">Koverta Kaku 4</translation>
 <translation id="4490717597759821841">A7</translation>
-<translation id="3966104135245031874">Šifriraj sinhronizirane lozinke s Asil računom</translation>
+<translation id="3966104135245031874">Šifriraj sinhronizirane lozinke s brave računom</translation>
 <translation id="3614771894046523359">Ove funkcije su onemogućene u zadanim postavkama. Neće biti dostupne u budućim verzijama Bravea.</translation>
 <translation id="4493480324863638523">Nevažeći URL. Mora biti URL sa standardnom šemom, npr. http://example.com ili https://example.com.</translation>
 <translation id="4500587658229086076">nesiguran sadržaj</translation>
 <translation id="4506176782989081258">Greška pri provjeri valjanosti: <ph name="VALIDATION_ERROR"/></translation>
 <translation id="4506599922270137252">Kontaktirati administratora sistema</translation>
 <translation id="450710068430902550">Dijeljenje s administratorom</translation>
-<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>. Pritisnite Tab, a zatim Enter da prevedete ovu stranicu pomoću Asil Prevodioca</translation>
+<translation id="7581711177899574338"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT"/>. Pritisnite Tab, a zatim Enter da prevedete ovu stranicu pomoću brave Prevodioca</translation>
 <translation id="4514308731478712184">Isključi iskustva pregledanja</translation>
-<translation id="4892470328555495647">Kartice i adrese su iz Bravea i vašeg Asil računa (<ph name="ACCOUNT_EMAIL"/>). Njima možete upravljati u meniju <ph name="BEGIN_LINK"/>Postavke<ph name="END_LINK"/>.</translation>
+<translation id="4892470328555495647">Kartice i adrese su iz Bravea i vašeg brave računa (<ph name="ACCOUNT_EMAIL"/>). Njima možete upravljati u meniju <ph name="BEGIN_LINK"/>Postavke<ph name="END_LINK"/>.</translation>
 <translation id="4520048001084013693">Administratorska pravila blokiraju preuzimanje ovog fajla</translation>
 <translation id="4521157617044179198"><ph name="WIDTH"/> × <ph name="HEIGHT"/> mm (<ph name="ORIENTATION"/>)</translation>
 <translation id="4521280267704259211">Koverta Monarch</translation>
@@ -1357,13 +1357,13 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4600084978141515058">Veganska kuhinja</translation>
 <translation id="4602465984861132303">Kuglanje</translation>
 <translation id="4606870351894164739">Privlačno</translation>
-<translation id="7265018635737406618">Dugme Prikaži savjete za Asil, pritisnite Enter da saznate više o funkcijama Bravea</translation>
-<translation id="8338928872956435647">Prikaži savjete za Asil</translation>
+<translation id="7265018635737406618">Dugme Prikaži savjete za brave, pritisnite Enter da saznate više o funkcijama Bravea</translation>
+<translation id="8338928872956435647">Prikaži savjete za brave</translation>
 <translation id="460848736049414407">Blokirao administrator</translation>
 <translation id="4610279718074907952">Ova web lokacija je u grupi koju definira <ph name="SET_OWNER"/> koji može vidjeti vašu aktivnost</translation>
 <translation id="4617273035598175554">Softver za grafiku i animaciju</translation>
 <translation id="4622292761762557753">Ipak prenesi</translation>
-<translation id="6398431831028858802">Nije moguće postaviti ovo pravilo na nivou Asil profila i bit će zanemareno.</translation>
+<translation id="6398431831028858802">Nije moguće postaviti ovo pravilo na nivou brave profila i bit će zanemareno.</translation>
 <translation id="4628948037717959914">Fotografija</translation>
 <translation id="4629370161347991046">A4x6</translation>
 <translation id="4631649115723685955">Usluga povrata novca je povezana</translation>
@@ -1385,7 +1385,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4673460618347856347">Igra s dinosaurom, igrajte</translation>
 <translation id="467662567472608290">Ovaj server nije uspio dokazati da je <ph name="DOMAIN"/>; njegova potvrda sigurnosti sadrži greške. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu.</translation>
 <translation id="4677585247300749148"><ph name="URL"/> želi odgovoriti na događaje pristupačnosti</translation>
-<translation id="8197094463444457125">Asil Slides</translation>
+<translation id="8197094463444457125">brave Slides</translation>
 <translation id="4682496302933121474">Prevesti stranicu?</translation>
 <translation id="468314109939257734">Pogledajte broj virtuelne kartice</translation>
 <translation id="4692623383562244444">Pretraživači</translation>
@@ -1417,7 +1417,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4754461935447132332">Nije dozvoljeno za nesigurne web lokacije</translation>
 <translation id="4756388243121344051">&amp;Historija</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
-<translation id="1015173303159845845">Upravo ste unijeli lozinku na obmanjujućoj web lokaciji. Da zaštitite račune, Asil preporučuje da provjerite sačuvane lozinke.</translation>
+<translation id="1015173303159845845">Upravo ste unijeli lozinku na obmanjujućoj web lokaciji. Da zaštitite račune, brave preporučuje da provjerite sačuvane lozinke.</translation>
 <translation id="4758311279753947758">Dodaj informacije o kontaktu</translation>
 <translation id="4761104368405085019">Korištenje vašeg mikrofona</translation>
 <translation id="1980929286541331105">Pokrenite Sigurnosnu provjeru Bravea</translation>
@@ -1426,7 +1426,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4771973620359291008">Došlo je do nepoznate greške.</translation>
 <translation id="477945296921629067">{NUM_POPUPS,plural, =1{Skočni prozor blokiran}one{# skočni prozor blokiran}few{# skočna prozora blokirana}other{# skočnih prozora blokirano}}</translation>
 <translation id="4780366598804516005">Poštansko sanduče 1</translation>
-<translation id="752757955979594126">Upravljajte Asil računom</translation>
+<translation id="752757955979594126">Upravljajte brave računom</translation>
 <translation id="4785689107224900852">Prebaci na ovu karticu</translation>
 <translation id="4786804728079074733">Odbojka</translation>
 <translation id="4789704664580239421">Obavještenja o padu cijene će se prikazivati na otvorenim karticama</translation>
@@ -1434,7 +1434,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4792686369684665359">Informacije koje ćete poslati nisu sigurne</translation>
 <translation id="4793219378458250238">11 x 12 in</translation>
 <translation id="4796594887379589189">ID računa za posao</translation>
-<translation id="7110430050177876111">Unesite datum isteka i CVC za <ph name="CREDIT_CARD"/> da ažurirate detalje kreditne kartice. Nakon vaše potvrde, detalji o kartici s vašeg Asil računa će se dijeliti s ovom web lokacijom.</translation>
+<translation id="7110430050177876111">Unesite datum isteka i CVC za <ph name="CREDIT_CARD"/> da ažurirate detalje kreditne kartice. Nakon vaše potvrde, detalji o kartici s vašeg brave računa će se dijeliti s ovom web lokacijom.</translation>
 <translation id="4798269756263412078">Primajte obavještenja ako cijena padne na bilo kojoj web lokaciji. Obavještenja će se slati na vašu adresu e-pošte.</translation>
 <translation id="4800132727771399293">Provjerite datum isteka i CVC pa pokušajte ponovo</translation>
 <translation id="4803924862070940586"><ph name="FORMATTED_TOTAL_AMOUNT"/> <ph name="CURRENCY_CODE"/></translation>
@@ -1444,7 +1444,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4813512666221746211">Greška na mreži</translation>
 <translation id="4816492930507672669">Prilagodi stranici</translation>
 <translation id="4819347708020428563">Urediti bilješke u zadanom prikazu?</translation>
-<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novu Asil tabelu</translation>
+<translation id="551961240839010112"><ph name="CREATE_GOOGLE_SHEET_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novu brave tabelu</translation>
 <translation id="4825507807291741242">Snažno</translation>
 <translation id="483241715238664915">Uključi upozorenja</translation>
 <translation id="4834250788637067901">Načini plaćanja, ponude i adrese iz Google Paya</translation>
@@ -1459,7 +1459,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="485316830061041779">Njemačka</translation>
 <translation id="4853901935952445031">Ova web lokacija neće moći koristiti U2F API nakon februara 2022. Ako ste vlasnik ove web lokacije, trebate umjesto toga koristiti Web Authentication API.</translation>
 <translation id="4854362297993841467">Ovaj način isporuke nije dostupan. Probajte drugu metodu.</translation>
-<translation id="3418609161696289726">Brzo kreirajte novu bilješku u Asil Keepu</translation>
+<translation id="3418609161696289726">Brzo kreirajte novu bilješku u brave Keepu</translation>
 <translation id="485902285759009870">Potvrda koda...</translation>
 <translation id="4866506163384898554">Pritisnite |<ph name="ACCELERATOR1"/>| + |<ph name="ACCELERATOR2"/>| da prikažete kursor</translation>
 <translation id="4876188919622883022">Pojednostavljeni prikaz</translation>
@@ -1512,7 +1512,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4995216769782533993">Potvrdite sigurnosni kôd da dijelite detalje o svojoj kartici s ovom web lokacijom</translation>
 <translation id="4995474875135717171">Izmijenjeno:</translation>
 <translation id="4995749490935861684"><ph name="CUSTOMIZE_SEARCH_ENGINES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da upravljate pretraživanjem web lokacija i zadanim pretraživačem</translation>
-<translation id="3676215163710610678">Ako je omogućeno, Asil će pohraniti kopiju vaše kartice na ovom uređaju radi bržeg popunjavanja obrazaca.</translation>
+<translation id="3676215163710610678">Ako je omogućeno, brave će pohraniti kopiju vaše kartice na ovom uređaju radi bržeg popunjavanja obrazaca.</translation>
 <translation id="5011561501798487822">Otkriveni jezik</translation>
 <translation id="5015510746216210676">Naziv mašine:</translation>
 <translation id="5017554619425969104">Kopirani tekst</translation>
@@ -1521,12 +1521,12 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5018802455907704660">16 x 20 in</translation>
 <translation id="5019198164206649151">Pohrana za sigurnosnu kopiju je u lošem stanju</translation>
 <translation id="5020776957610079374">Svjetska muzika</translation>
-<translation id="6516968977334148048">Pratite cijene uz Asil</translation>
+<translation id="6516968977334148048">Pratite cijene uz brave</translation>
 <translation id="5023310440958281426">Provjerite pravila administratora</translation>
 <translation id="5029568752722684782">Obriši kopiju</translation>
 <translation id="5030338702439866405">Izdavač:</translation>
 <translation id="503069730517007720">Temeljni certifikat za softver "<ph name="SOFTWARE_NAME"/>" je obavezan ali nije instaliran. Vaš IT administrator treba pregledati uputstva za konfiguraciju za softver "<ph name="SOFTWARE_NAME"/>" radi ispravke ovog problema. <ph name="FURTHER_EXPLANATION"/></translation>
-<translation id="6425384654920630035">O Asil Prevodiocu</translation>
+<translation id="6425384654920630035">O brave Prevodiocu</translation>
 <translation id="503498442187459473"><ph name="HOST"/> želi koristiti vašu kameru i mikrofon</translation>
 <translation id="5035135400558156732">Baštovanstvo</translation>
 <translation id="503574301575803523">SRA3</translation>
@@ -1553,7 +1553,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5087580092889165836">Dodaj karticu</translation>
 <translation id="5088142053160410913">Poruka operateru</translation>
 <translation id="5093232627742069661">Z-presavijanje</translation>
-<translation id="4906192414477726331">Ovaj server ne može dokazati da pripada domeni <ph name="DOMAIN"/>; Asil ne vjeruje njegovoj sigurnosnoj potvrdi. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu.</translation>
+<translation id="4906192414477726331">Ovaj server ne može dokazati da pripada domeni <ph name="DOMAIN"/>; brave ne vjeruje njegovoj sigurnosnoj potvrdi. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu.</translation>
 <translation id="5097099694988056070">Statistika uređaja kao što je iskorištenost CPU-a/RAM-a</translation>
 <translation id="5097468150760963273">27 x 39 in</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -1585,8 +1585,8 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5161334686036120870">Naslov:</translation>
 <translation id="5161506081086828129">Slagač 9</translation>
 <translation id="5164798890604758545">Tekst je unesen</translation>
-<translation id="2996889577833788807">Unesite CVC za karticu <ph name="CREDIT_CARD"/>. Nakon što potvrdite, detalji s vašeg Asil računa će se podijeliti s ovom web lokacijom.</translation>
-<translation id="8515152881111950319">Možete izgubiti pristup računu svoje organizacije ili doživjeti krađu identiteta. Asil preporučuje da odmah promijenite lozinku.</translation>
+<translation id="2996889577833788807">Unesite CVC za karticu <ph name="CREDIT_CARD"/>. Nakon što potvrdite, detalji s vašeg brave računa će se podijeliti s ovom web lokacijom.</translation>
+<translation id="8515152881111950319">Možete izgubiti pristup računu svoje organizacije ili doživjeti krađu identiteta. brave preporučuje da odmah promijenite lozinku.</translation>
 <translation id="5171045022955879922">Pretražite ili upišite URL</translation>
 <translation id="5172758083709347301">Mašina</translation>
 <translation id="5177076414499237632">Saznajte više o izvoru i temi ove stranice</translation>
@@ -1634,7 +1634,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5287456746628258573">Ova web lokacija koristi zastarjelu konfiguraciju sigurnosti, zbog čega može doći do otkrivanja vaših informacija (naprimjer, lozinki ili brojeva kreditnih kartica) kada se šalju na ovu web lokaciju.</translation>
 <translation id="5288108484102287882">Potvrdom vrijednosti pravila aktivirana su upozorenja</translation>
 <translation id="5288393065350884210">Računovodstvo i revizija</translation>
-<translation id="782502454152246205">Veza web lokacije je sigurna osim ako vas Asil ne obavijesti o suprotnom.</translation>
+<translation id="782502454152246205">Veza web lokacije je sigurna osim ako vas brave ne obavijesti o suprotnom.</translation>
 <translation id="5289384342738547352">Obrada više dokumenata</translation>
 <translation id="5293919335876685914">Kupei</translation>
 <translation id="5296589789433599000">Kuvanje i recepti</translation>
@@ -1653,11 +1653,11 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5324080437450482387">Odaberi kontakt informacije</translation>
 <translation id="5329858041417644019">Vašim preglednikom se ne upravlja</translation>
 <translation id="5332219387342487447">Način dostave</translation>
-<translation id="5038014878861342914">Asil je u narušavanju podataka pronašao lozinku koju ste upravo koristili. Da zaštitite račune, preporučujemo da provjerite sačuvane lozinke.</translation>
+<translation id="5038014878861342914">brave je u narušavanju podataka pronašao lozinku koju ste upravo koristili. Da zaštitite račune, preporučujemo da provjerite sačuvane lozinke.</translation>
 <translation id="5334013548165032829">Detaljni zapisnici sistema</translation>
 <translation id="5334145288572353250">Sačuvati adresu?</translation>
 <translation id="5335920952954443287">Srce koje kuca</translation>
-<translation id="4632358739585490563">Postavite Asil kao zadano dugme preglednika, pritisnite Enter da postavite Asil kao zadani preglednik sistema</translation>
+<translation id="4632358739585490563">Postavite brave kao zadano dugme preglednika, pritisnite Enter da postavite brave kao zadani preglednik sistema</translation>
 <translation id="5340250774223869109">Aplikacija je blokirana</translation>
 <translation id="534295439873310000">NFC uređaji</translation>
 <translation id="5344579389779391559">Ova stranica vam može pokušati nešto naplatiti</translation>
@@ -1671,7 +1671,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5371425731340848620">Ažuriraj karticu</translation>
 <translation id="5375686690914744327">SRA1</translation>
 <translation id="5377026284221673050">"Sat kasni" ili "Sat brza" ili "&lt;span class="error-code"&gt;NET::ERR_CERT_DATE_INVALID&lt;/span&gt;"</translation>
-<translation id="6943284267010400133">Dugme Kreiraj prezentaciju, pritisnite Enter da brzo kreirate novu Asil prezentaciju u Prezentacijama</translation>
+<translation id="6943284267010400133">Dugme Kreiraj prezentaciju, pritisnite Enter da brzo kreirate novu brave prezentaciju u Prezentacijama</translation>
 <translation id="5385857628869214740">Humor</translation>
 <translation id="5386426401304769735">Lanac potvrda za ovu web lokaciju sadrži potvrdu koja je izdata koristeći SHA-1.</translation>
 <translation id="5396631636586785122">Uvez desnog ruba</translation>
@@ -1733,7 +1733,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5543722831081909240">180 stepeni</translation>
 <translation id="5545756402275714221">Članci za vas</translation>
 <translation id="5551890439174915351">100 x 200 mm</translation>
-<translation id="6084314943327785510">Asil povremeno provjerava nalaze li se vaše lozinke na listama koje su objavljene na mreži. Prilikom toga, vaše lozinke i korisnička imena su šifrirana i niko, uključujući Asil, ih ne može pročitati.</translation>
+<translation id="6084314943327785510">brave povremeno provjerava nalaze li se vaše lozinke na listama koje su objavljene na mreži. Prilikom toga, vaše lozinke i korisnička imena su šifrirana i niko, uključujući brave, ih ne može pročitati.</translation>
 <translation id="5556459405103347317">Učitaj ponovo</translation>
 <translation id="5560088892362098740">Rok trajanja</translation>
 <translation id="55635442646131152">Pregled dokumenta</translation>
@@ -1756,7 +1756,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5605670050355397069">Ledger</translation>
 <translation id="5610142619324316209">Provjeriti vezu</translation>
 <translation id="5610807607761827392">Karticama i adresama možete upravljati u <ph name="BEGIN_LINK"/>Postavkama<ph name="END_LINK"/>.</translation>
-<translation id="2012723355262040739">Prevedite ovu stranicu pomoću Asil Prevodioca</translation>
+<translation id="2012723355262040739">Prevedite ovu stranicu pomoću brave Prevodioca</translation>
 <translation id="5612720917913232150"><ph name="URL"/> želi koristiti lokaciju vašeg računara</translation>
 <translation id="561669346091975195">Naučno-fantastične i fantasy TV emisije</translation>
 <translation id="5617949217645503996">Host računar <ph name="HOST_NAME"/> vas je preusmjerio previše puta</translation>
@@ -1795,9 +1795,9 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5720705177508910913">Trenutni korisnik</translation>
 <translation id="5723287205918986743">Odbrambena industrija</translation>
 <translation id="5725567311035061582">Upravljajte kolačićima i podacima web lokacije</translation>
-<translation id="3006790309890592320">Asil preporučuje da ponovo postavite lozinku ako ste je koristili više puta na drugim web lokacijama.</translation>
+<translation id="3006790309890592320">brave preporučuje da ponovo postavite lozinku ako ste je koristili više puta na drugim web lokacijama.</translation>
 <translation id="5736165827969430182">Metali i rudarstvo</translation>
-<translation id="5576538372759072019">{NUM_CARDS,plural, =1{Sačuvajte karticu na Asil računu}one{Sačuvajte kartice na Asil računu}few{Sačuvajte kartice na Asil računu}other{Sačuvajte kartice na Asil računu}}</translation>
+<translation id="5576538372759072019">{NUM_CARDS,plural, =1{Sačuvajte karticu na brave računu}one{Sačuvajte kartice na brave računu}few{Sačuvajte kartice na brave računu}other{Sačuvajte kartice na brave računu}}</translation>
 <translation id="5738385766833540397">Upravljajte načinom na koji primate obavještenja o padu cijene za proizvode koje pratite</translation>
 <translation id="5740911612628596808">Koverta C9</translation>
 <translation id="5743638595296120378">Kupovina vozila</translation>
@@ -1821,14 +1821,14 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5784606427469807560">Došlo je do problema prilikom potvrđivanja vaše kartice. Provjerite internetsku vezu i pokušajte ponovo.</translation>
 <translation id="5785756445106461925">Dalje, ova stranica obuhvata druge resurse koji nisu sigurni. Te resurse mogu vidjeti drugi dok su u tranzitu, a može ih promijeniti napadač kako bi promijenio izgled stranice.</translation>
 <translation id="5786044859038896871">Želite li popuniti informacije o svojoj kartici?</translation>
-<translation id="3985758120980526872">Asil je u narušavanju podataka pronašao lozinku koju ste upravo koristili. Preporučujemo da odmah promijenite tu lozinku.</translation>
+<translation id="3985758120980526872">brave je u narušavanju podataka pronašao lozinku koju ste upravo koristili. Preporučujemo da odmah promijenite tu lozinku.</translation>
 <translation id="5789643057113097023">,</translation>
 <translation id="5803412860119678065">Želite li popuniti svoju karticu <ph name="CARD_DETAIL"/>?</translation>
 <translation id="5804241973901381774">Odobrenja</translation>
 <translation id="5937482014241669139">Pregledajte historiju Bravea</translation>
 <translation id="5808542072418270309">Igre simulacije</translation>
 <translation id="5810442152076338065">Veza s domenom <ph name="DOMAIN"/> je šifrirana pomoću zastarjelog paketa šifriranja.</translation>
-<translation id="7295730649911402188">Kada Asil označi sigurnosne događaje, relevantni podaci o događajima se šalju vašem administratoru. To može obuhvatati URL-ove stranica koje posjetite u Braveu, nazive fajlova ili metapodatke te korisničko ime koje koristite da se prijavite u aplikacije zasnovane na webu, na uređaj i Asil.</translation>
+<translation id="7295730649911402188">Kada brave označi sigurnosne događaje, relevantni podaci o događajima se šalju vašem administratoru. To može obuhvatati URL-ove stranica koje posjetite u Braveu, nazive fajlova ili metapodatke te korisničko ime koje koristite da se prijavite u aplikacije zasnovane na webu, na uređaj i brave.</translation>
 <translation id="5813119285467412249">&amp;Ponovi dodavanje</translation>
 <translation id="5813309815819933152">TV reality programi</translation>
 <translation id="5813753398265398978">Fizika</translation>
@@ -1864,7 +1864,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5920262536204764679">{NUM_COOKIES,plural, =1{1 se koristi}one{# se koristi}few{# se koriste}other{# se koristi}}</translation>
 <translation id="592031860219554105">Klizanje na ledu</translation>
 <translation id="5921185718311485855">Uključeno</translation>
-<translation id="2687595201721621314">Sačuvati karticu na Asil računu?</translation>
+<translation id="2687595201721621314">Sačuvati karticu na brave računu?</translation>
 <translation id="5922853866070715753">Skoro je gotovo</translation>
 <translation id="5923492272538889093">Koristiti otključavanje uređaja umjesto CVC-a?</translation>
 <translation id="5928444777041341328">Dom i vrt</translation>
@@ -1872,7 +1872,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5937560539988385583">Stranica je prevedena</translation>
 <translation id="5938153366081463283">Dodajte virtuelnu karticu</translation>
 <translation id="5938793338444039872">Troy</translation>
-<translation id="5947508410139465809">Fajlovi koje otpremite ili priložite se šalju u Asil oblak ili trećim stranama na analizu. Naprimjer, mogu se skenirati radi otkrivanja postojanja osjetljivih podataka ili zlonamjernog softvera i mogu se pohranjivati na osnovu pravila kompanije.</translation>
+<translation id="5947508410139465809">Fajlovi koje otpremite ili priložite se šalju u brave oblak ili trećim stranama na analizu. Naprimjer, mogu se skenirati radi otkrivanja postojanja osjetljivih podataka ili zlonamjernog softvera i mogu se pohranjivati na osnovu pravila kompanije.</translation>
 <translation id="5951495562196540101">Nije moguća prijava s potrošačkim računom (dostupna je paketna licenca).</translation>
 <translation id="5953516610448771166">Automatski titlovi nisu dostupni za ovaj medijski sadržaj. Da preuzmete titlove, blokirajte postavku <ph name="CONTENT_SETTINGS"/> za ovu web lokaciju.</translation>
 <translation id="5955063559762970069">Hoteli i smještaj</translation>
@@ -1890,7 +1890,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="598637245381783098">Nije moguće otvoriti aplikaciju za plaćanje</translation>
 <translation id="5989320800837274978">Nije naveden fiksni proksi server niti URL pac skripte.</translation>
 <translation id="5992691462791905444">Inženjersko Z-presavijanje</translation>
-<translation id="7409510288691071929">Upravljajte podacima, privatnošću i sigurnošću na Asil računu</translation>
+<translation id="7409510288691071929">Upravljajte podacima, privatnošću i sigurnošću na brave računu</translation>
 <translation id="3494641719937626561">Lozinka koju ste upravo koristili pronađena je prilikom narušavanja podataka. Da osigura vaše račune, Braveov Upravitelj lozinki preporučuje da odmah promijenite lozinku i provjerite sačuvane lozinke.</translation>
 <translation id="6000758707621254961">Broj rezultata <ph name="RESULT_COUNT"/> za "<ph name="SEARCH_TEXT"/>"</translation>
 <translation id="6005765687956866568">Automatski popunjene informacije su obrisane iz obrasca</translation>
@@ -1941,7 +1941,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6105460996796456817">Kreiraj web lokaciju</translation>
 <translation id="6106989379647458772">Web stranica na <ph name="PAGE"/> je možda privremeno ugašena ili je trajno prebačena na novu web adresu.</translation>
 <translation id="6107012941649240045">Izdato za</translation>
-<translation id="8233947174119245051">Asil račun može imati druge oblike historije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/></translation>
+<translation id="8233947174119245051">brave račun može imati druge oblike historije pregledanja na <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/></translation>
 <translation id="6116338172782435947">Pogledajte tekst i slike kopirane u međumemoriju</translation>
 <translation id="6118782133429281336">Historija polazišta je prazna.</translation>
 <translation id="6120179357481664955">Zapamtiti vaš UPI ID?</translation>
@@ -1993,9 +1993,9 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6265794661083428563">Kopirajte vrijednost pravila <ph name="POLICY_NAME"/></translation>
 <translation id="6266934640124581640">Svijetlotirkizna</translation>
 <translation id="1300170712564922349">Nastavite iskustvo pregledanja da vidite relevantne aktivnosti u historiji Bravea</translation>
-<translation id="9136010393039243713">Asil Ažuriranje</translation>
+<translation id="9136010393039243713">brave Ažuriranje</translation>
 <translation id="6276112860590028508">Stranice s vašeg spiska za čitanje će se pojaviti ovdje</translation>
-<translation id="7954557091400543500">Da sljedeći put brže izvršite plaćanje, sačuvajte adresu kartice i adresu za naplatu na svoj Asil račun.</translation>
+<translation id="7954557091400543500">Da sljedeći put brže izvršite plaćanje, sačuvajte adresu kartice i adresu za naplatu na svoj brave račun.</translation>
 <translation id="6279183038361895380">Pritisnite |<ph name="ACCELERATOR"/>| da prikažete kursor</translation>
 <translation id="6280223929691119688">Isporuka na ovu adresu nije moguća. Odaberite drugu adresu.</translation>
 <translation id="6284292079994426700">26 x 38 in</translation>
@@ -2014,7 +2014,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6319249456820053699">Kamere i kamkorderi</translation>
 <translation id="6321917430147971392">Provjerite postavke DNS-a</translation>
 <translation id="6322182122604171028">Upotreba funkcije Windows Hello nije uspjela</translation>
-<translation id="7962450223988560278">Postavite Asil kao zadani preglednik sistema u postavkama iOS-a</translation>
+<translation id="7962450223988560278">Postavite brave kao zadani preglednik sistema u postavkama iOS-a</translation>
 <translation id="6328639280570009161">Pokušajte onemogućiti predviđanje mreže</translation>
 <translation id="6328784461820205019">"Vaša veza nije privatna" ili "&lt;span class="error-code"&gt;NET::ERR_CERT_AUTHORITY_INVALID&lt;/span&gt;" ili "&lt;span class="error-code"&gt;ERR_CERT_COMMON_NAME_INVALID&lt;/span&gt;" ili "&lt;span class="error-code"&gt;NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM&lt;/span&gt;" ili "&lt;span class="error-code"&gt;ERR_CERT_SYMANTEC_LEGACY&lt;/span&gt;" ili "SSL certificate error"</translation>
 <translation id="6328786501058569169">Ova web lokacija vas obmanjuje</translation>
@@ -2055,7 +2055,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6427730057873428458">Presavijanje</translation>
 <translation id="6428450836711225518">Potvrdite broj telefona</translation>
 <translation id="6429267199680088961">A4 Tab</translation>
-<translation id="7772223497488184427">Promijeni Asil lozinku</translation>
+<translation id="7772223497488184427">Promijeni brave lozinku</translation>
 <translation id="6431119592588449664">Izvještaj je otpremljen</translation>
 <translation id="6433490469411711332">Uredite kontakt podatke</translation>
 <translation id="6433595998831338502">Host računar <ph name="HOST_NAME"/> je odbio povezivanje.</translation>
@@ -2087,7 +2087,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6502626736864595182">Pružaoci usluga foruma i chata</translation>
 <translation id="6502991525169604759">Bez vaših promjena</translation>
 <translation id="6506959208958864820">Koverta</translation>
-<translation id="3960299545138990065">Ponovo pokrenite Asil</translation>
+<translation id="3960299545138990065">Ponovo pokrenite brave</translation>
 <translation id="6513005815064132016">Može tražiti da prati položaj kamere</translation>
 <translation id="6517596291481585650">Upozorenje: Ovo pravilo nije objedinjeno kao lista kao što je navedeno pravilom jer ne predstavlja listu.</translation>
 <translation id="6518133107902771759">Potvrdi</translation>
@@ -2108,7 +2108,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="657902945730878902">Crtanje i bojenje</translation>
 <translation id="6579630537141957243">Povezati MIDI uređaj?</translation>
 <translation id="6579990219486187401">Svijetlo ružičasta</translation>
-<translation id="5302585261530504168">Asil je u narušavanju podataka pronašao lozinku koju ste upravo koristili. Da zaštitite račune, preporučujemo da je odmah promijenite i da provjerite sačuvane lozinke.</translation>
+<translation id="5302585261530504168">brave je u narušavanju podataka pronašao lozinku koju ste upravo koristili. Da zaštitite račune, preporučujemo da je odmah promijenite i da provjerite sačuvane lozinke.</translation>
 <translation id="6587893660316489419">Koverta B5</translation>
 <translation id="6587923378399804057">Link koji ste kopirali</translation>
 <translation id="6591833882275308647">Vašim uređajem <ph name="DEVICE_TYPE"/> se ne upravlja</translation>
@@ -2129,7 +2129,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6643016212128521049">Obriši</translation>
 <translation id="6645291930348198241">Pristupiti kolačićima i podacima web lokacije.</translation>
 <translation id="6645478838938543427">Obavještenja o padu cijene će se slati na <ph name="EMAIL_ADDRESS"/></translation>
-<translation id="1375868315964791309">{COUNT,plural, =0{Ništa}=1{S jedne web lokacije (nećete se odjaviti sa svog Asil računa)}one{S # web lokacije (nećete se odjaviti sa svog Asil računa)}few{S # web lokacije (nećete se odjaviti sa svog Asil računa)}other{S # web lokacija (nećete se odjaviti sa svog Asil računa)}}</translation>
+<translation id="1375868315964791309">{COUNT,plural, =0{Ništa}=1{S jedne web lokacije (nećete se odjaviti sa svog brave računa)}one{S # web lokacije (nećete se odjaviti sa svog brave računa)}few{S # web lokacije (nećete se odjaviti sa svog brave računa)}other{S # web lokacija (nećete se odjaviti sa svog brave računa)}}</translation>
 <translation id="6678472970290886941">Vaš administrator može promijeniti postavke preglednika daljinskim putem. Aktivnostima na ovom uređaju se može upravljati i van Bravea.</translation>
 <translation id="6648524591329069940">Serifni font</translation>
 <translation id="6649510485211003056">195 x 270 mm</translation>
@@ -2148,8 +2148,8 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6688743156324860098">Ažuriranje…</translation>
 <translation id="6688775486821967877">Virtuelna kartica trenutno nije dostupna. Pokušajte ponovo kasnije</translation>
 <translation id="6689249931105087298">Relativno s kompresijom crne tačke</translation>
-<translation id="5406652219015697259">Asil vam nudi pohranjivanje kartica na Asil računu zato što ste prijavljeni. Ovo ponašanje možete promjeniti u postavkama. Ime vlasnika kartice je ime s vašeg računa.</translation>
-<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da pronađete svoj uređaj na Asil računu</translation>
+<translation id="5406652219015697259">brave vam nudi pohranjivanje kartica na brave računu zato što ste prijavljeni. Ovo ponašanje možete promjeniti u postavkama. Ime vlasnika kartice je ime s vašeg računa.</translation>
+<translation id="6522914004575214087"><ph name="FIND_MY_PHONE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da pronađete svoj uređaj na brave računu</translation>
 <translation id="6696588630955820014">Dugme za dijeljenje ove kartice, pritisnite Enter da dijelite ovu karticu dijeljenjem linka, kreiranjem QR koda, emitiranjem i drugo</translation>
 <translation id="6698381487523150993">Kreirano:</translation>
 <translation id="6702919718839027939">Prezentacija</translation>
@@ -2210,11 +2210,11 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6869334554832814367">Lični zajmovi</translation>
 <translation id="6873456682041376666">Gornja ladica</translation>
 <translation id="6874604403660855544">&amp;Ponovi dodavanje</translation>
-<translation id="5856252669085142737">Brzo kreirajte novi Asil dokument</translation>
+<translation id="5856252669085142737">Brzo kreirajte novi brave dokument</translation>
 <translation id="6883221904761970440">Tabela za autentifikaciju akreditiva sigurnog plaćanja je zatvorena</translation>
 <translation id="6884662655240309489">Veličina 1</translation>
 <translation id="6886577214605505410"><ph name="LOCATION_TITLE"/> <ph name="SHORT_URL"/></translation>
-<translation id="7265969755975834932">Asil je pojednostavio ovu stranicu za lakše čitanje. Asil je preuzeo originalnu stranicu putem nesigurne veze.</translation>
+<translation id="7265969755975834932">brave je pojednostavio ovu stranicu za lakše čitanje. brave je preuzeo originalnu stranicu putem nesigurne veze.</translation>
 <translation id="6890443033788248019">Dozvoliti lokaciju?</translation>
 <translation id="6890531741535756070">Odabrali ste potvrdu putem <ph name="DEVICE_LABEL"/> na web lokacijama koje koriste <ph name="PROVIDER_ORIGIN"/>. Ovaj pružalac usluga je možda pohranio informacije o vašem načinu plaćanja, za koji možete <ph name="BEGIN_LINK"/>zatražiti da se izbriše<ph name="END_LINK"/>.</translation>
 <translation id="6891596781022320156">Nije podržan nivo pravila.</translation>
@@ -2230,7 +2230,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6916954549222464607">Finansijsko planiranje i upravljanje</translation>
 <translation id="6917795328362592458">Lozinka koju ste upravo koristili pronađena je prilikom narušavanja podataka. Da osigura vaše račune, Upravitelj lozinki preporučuje da provjerite sačuvane lozinke.</translation>
 <translation id="6925267999184670015">North American B+</translation>
-<translation id="6722453239914327220">Ovaj naziv je s vašeg Asil računa</translation>
+<translation id="6722453239914327220">Ovaj naziv je s vašeg brave računa</translation>
 <translation id="6936976777388162184">Ovo je uređaj u paketu i nije se moguće prijaviti pomoću Kioska i Nadogradnje potpisivanja.</translation>
 <translation id="6939469646605424232">TV drame</translation>
 <translation id="6944692733090228304">Unijeli ste lozinku na web lokaciji kojom ne upravlja organizacija <ph name="BEGIN_BOLD"/><ph name="ORG_NAME"/><ph name="END_BOLD"/>. Da zaštitite račun, lozinku nemojte ponovo koristiti u drugim aplikacijama i na drugim web lokacijama.</translation>
@@ -2244,7 +2244,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="695140971690006676">Vrati sve na zadano</translation>
 <translation id="6954049078461159956">Hokej</translation>
 <translation id="6957887021205513506">Izgleda da je potvrda servera lažna.</translation>
-<translation id="774679539085757206">Upravljajte postavkama privatnosti na Braveu na svom Asil računu</translation>
+<translation id="774679539085757206">Upravljajte postavkama privatnosti na Braveu na svom brave računu</translation>
 <translation id="695864015080711809">Poslovi i obrazovanje</translation>
 <translation id="6961733224437895943">Osiguranje doma</translation>
 <translation id="6961844873822989059">Može tražiti da koristi fontove instalirane na vašem uređaju</translation>
@@ -2256,12 +2256,12 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6965978654500191972">Uređaj</translation>
 <translation id="696703987787944103">Perceptivno</translation>
 <translation id="6968269510885595029">Koristite sigurnosni ključ</translation>
-<translation id="8485851762575764192">Brzo kreirate novu Asil prezentaciju u Prezentacijama</translation>
+<translation id="8485851762575764192">Brzo kreirate novu brave prezentaciju u Prezentacijama</translation>
 <translation id="6972629891077993081">HID uređaji</translation>
 <translation id="6973656660372572881">Navedeni su i fiksni proksi serveri i URL .pac skripte.</translation>
 <translation id="6973988895180423160">3,5 x 5 in</translation>
 <translation id="6978236010531171013">Svejedno dijeli</translation>
-<translation id="6979158407327259162">Asil Disk</translation>
+<translation id="6979158407327259162">brave Disk</translation>
 <translation id="6979440798594660689">Isključi zvuk (zadano)</translation>
 <translation id="6989763994942163495">Prikaži napredne postavke...</translation>
 <translation id="6992499368826755835">Automobilska industrija</translation>
@@ -2277,7 +2277,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="7029809446516969842">Lozinke</translation>
 <translation id="7030436163253143341">Certifikat nije važeći</translation>
 <translation id="7031646650991750659">Koje Google Play aplikacije ste instalirali</translation>
-<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da upravljate postavkama privatnosti Asil računa</translation>
+<translation id="8918349693525256593"><ph name="MANAGE_GOOGLE_PRIVACY_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da upravljate postavkama privatnosti brave računa</translation>
 <translation id="7048095965575426564">European Fanfold</translation>
 <translation id="7050187094878475250">Pokušali ste pristupiti domeni <ph name="DOMAIN"/>, ali je server prikazao potvrdu čiji period važenja je predugačak da bi bio vjerodostojan.</translation>
 <translation id="705310974202322020">{NUM_CARDS,plural, =1{Trenutno nije moguće sačuvati ovu karticu}one{Trenutno nije moguće sačuvati ove kartice}few{Trenutno nije moguće sačuvati ove kartice}other{Trenutno nije moguće sačuvati ove kartice}}</translation>
@@ -2338,7 +2338,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="719464814642662924">Visa</translation>
 <translation id="7199278868241956094">Oficio</translation>
 <translation id="7201591969684833065">Administrator može vidjeti:</translation>
-<translation id="2540471381262404386">Postavite Asil kao zadani preglednik sistema</translation>
+<translation id="2540471381262404386">Postavite brave kao zadani preglednik sistema</translation>
 <translation id="7210863904660874423"><ph name="HOST_NAME"/> se ne pridržava sigurnosnih standarda.</translation>
 <translation id="7210993021468939304">Aktivnost Linuxa se nalazi u spremniku i moguće je instalirati i pokrenuti Linux aplikacije unutar spremnika</translation>
 <translation id="721197778055552897"><ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/> o ovom problemu.</translation>
@@ -2364,13 +2364,13 @@ Dodatni detalji:
 <translation id="7260504762447901703">Opozovi pristup</translation>
 <translation id="7275334191706090484">Upravljane oznake</translation>
 <translation id="7277998515889183784">Šminka i kozmetika</translation>
-<translation id="2837210582972105306"><ph name="CHANGE_GOOGLE_PASSWORD_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da promijenite lozinku za Asil račun</translation>
+<translation id="2837210582972105306"><ph name="CHANGE_GOOGLE_PASSWORD_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da promijenite lozinku za brave račun</translation>
 <translation id="7292031607255951991">Ime primaoca</translation>
 <translation id="7298195798382681320">Preporučeno</translation>
 <translation id="7299471494012161875">Priključeni periferni uređaji za prikaz</translation>
 <translation id="7300012071106347854">Kobaltno plava</translation>
 <translation id="7304030187361489308">Visoko</translation>
-<translation id="244157907932852817">Upravljajte postavkama privatnosti Asil računa</translation>
+<translation id="244157907932852817">Upravljajte postavkama privatnosti brave računa</translation>
 <translation id="7305756307268530424">Počni sporije</translation>
 <translation id="7308436126008021607">sinhronizacija u pozadini</translation>
 <translation id="7310392214323165548">Uređaj će se veoma brzo ponovo pokrenuti</translation>
@@ -2391,14 +2391,14 @@ Dodatni detalji:
 <translation id="7353601530677266744">Komandna linija</translation>
 <translation id="7354880545102894991">Niskobudžetna i last minute putovanja</translation>
 <translation id="7359588939039777303">Oglasi su blokirani.</translation>
-<translation id="7308957539693927108">Kada Asil pronađe dostupne popuste, prikazat će ih kada nastavite na plaćanje</translation>
+<translation id="7308957539693927108">Kada brave pronađe dostupne popuste, prikazat će ih kada nastavite na plaćanje</translation>
 <translation id="5417725730200908216"><ph name="MANAGE_ADDRESSES_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da dodate adrese i upravljate njima u postavkama Bravea</translation>
 <translation id="7365849542400970216">Može li web lokacija znati kada koristite uređaj?</translation>
 <translation id="7366117520888504990">198 x 275 mm</translation>
 <translation id="7366362069757178916">Obrađivači plaćanja</translation>
 <translation id="7372973238305370288">rezultat pretraživanja</translation>
 <translation id="7374461526650987610">Obrađivači protokola</translation>
-<translation id="3898257577441589237">Ovaj problem nastaje zbog potvrde koju ste vi ili neko drugi instalirali na uređaj. Poznato je da se ta potvrda koristi za nadzor i presretanje mreža te je Asil ne smatra pouzdanom. Iako postoje opravdani slučajevi za nadzor, naprimjer na mrežama u školama ili preduzećima, Asil želi potvrditi da ste toga svjesni čak i ako taj proces ne možete zaustaviti. Nadzor se može vršiti u bilo kojem pregledniku ili bilo kojoj aplikaciji koja pristupa webu.</translation>
+<translation id="3898257577441589237">Ovaj problem nastaje zbog potvrde koju ste vi ili neko drugi instalirali na uređaj. Poznato je da se ta potvrda koristi za nadzor i presretanje mreža te je brave ne smatra pouzdanom. Iako postoje opravdani slučajevi za nadzor, naprimjer na mrežama u školama ili preduzećima, brave želi potvrditi da ste toga svjesni čak i ako taj proces ne možete zaustaviti. Nadzor se može vršiti u bilo kojem pregledniku ili bilo kojoj aplikaciji koja pristupa webu.</translation>
 <translation id="7375532151824574023">{NUM_COOKIES,plural, =0{Nije dozvoljeno ni za jednu web lokaciju}=1{Dozvoljeno je za 1 web lokaciju}one{Dozvoljeno je za # web lokaciju}few{Dozvoljeno je za # web lokacije}other{Dozvoljeno je za # web lokacija}}</translation>
 <translation id="7375818412732305729">Fajl je priložen</translation>
 <translation id="7377249249140280793"><ph name="RELATIVE_DATE"/>, <ph name="FULL_DATE"/></translation>
@@ -2424,7 +2424,7 @@ Dodatni detalji:
       &lt;li&gt;Ispod &lt;strong&gt;Startup type&lt;/strong&gt;, odaberite &lt;strong&gt;Disabled&lt;/strong&gt;
       &lt;li&gt;Ispod &lt;strong&gt;Service status&lt;/strong&gt;, kliknite na &lt;strong&gt;Stop&lt;/strong&gt;
       &lt;li&gt;Kliknite na &lt;strong&gt;Apply&lt;/strong&gt;, a zatim kliknite na &lt;strong&gt;OK&lt;/strong&gt;
-      &lt;li&gt;Posjetite &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;Asil Centar za pomoć&lt;/a&gt; da saznate kako trajno ukloniti softver s računara
+      &lt;li&gt;Posjetite &lt;a href="https://support.google.com/chrome/answer/6098869"&gt;brave Centar za pomoć&lt;/a&gt; da saznate kako trajno ukloniti softver s računara
       &lt;/ol&gt;</translation>
 <translation id="7410471291937727359">Divno</translation>
 <translation id="741204030948306876">Da, želim</translation>
@@ -2456,10 +2456,10 @@ Dodatni detalji:
 <translation id="748745328507845862">Koncerti i muzički festivali</translation>
 <translation id="7489473601138133813">Savjetovanje i planiranje u vezi s karijerom</translation>
 <translation id="7495528107193238112">Ovaj sadržaj je blokiran. Kontaktirajte vlasnika web lokacije da riješite problem.</translation>
-<translation id="7812541223399526596">Dugme Kreiraj dokument, pritisnite Enter da brzo kreirate novi Asil dokument</translation>
+<translation id="7812541223399526596">Dugme Kreiraj dokument, pritisnite Enter da brzo kreirate novi brave dokument</translation>
 <translation id="7501663406926337752">Vaša organizacija je prijavila web lokaciju koja slijedi</translation>
 <translation id="7501853161948120656">Obrazovni izvori</translation>
-<translation id="2957285558977211818">Asil <ph name="BEGIN_EMPHASIS"/>neće sačuvati<ph name="END_EMPHASIS"/> sljedeće informacije:
+<translation id="2957285558977211818">brave <ph name="BEGIN_EMPHASIS"/>neće sačuvati<ph name="END_EMPHASIS"/> sljedeće informacije:
         <ph name="BEGIN_LIST"/>
           <ph name="LIST_ITEM"/>historiju pregledanja
           <ph name="LIST_ITEM"/>kolačiće i podatke web lokacije
@@ -2497,7 +2497,7 @@ Dodatni detalji:
 <translation id="7559278538486662777">Nije moguće promijeniti veličinu ove aplikacije.</translation>
 <translation id="7564680668369175887">Karavani</translation>
 <translation id="7567204685887185387">Ovaj server nije uspio dokazati da je <ph name="DOMAIN"/>; njegova potvrda sigurnosti je možda izdana lažno. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu.</translation>
-<translation id="8661288256654172117">Asil pokušava popuniti vašu lozinku u aplikaciji <ph name="APP_NAME"/>.</translation>
+<translation id="8661288256654172117">brave pokušava popuniti vašu lozinku u aplikaciji <ph name="APP_NAME"/>.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Dugme za upravljanje pretraživačima, pritisnite Enter da upravljate zadanim pretraživačem i pretraživanjem web lokacija</translation>
 <translation id="7569983096843329377">Crna</translation>
@@ -2506,7 +2506,7 @@ Dodatni detalji:
 <translation id="405970181812690156">Plaćajte brzo na web lokacijama i aplikacijama sa svih uređaja pomoću kartica koje sačuvate na Braveu.</translation>
 <translation id="7579442726219254162">Nepoznata varijabla "<ph name="VARIABLE"/>" u upravljanoj konfiguraciji za "<ph name="APPLICATION_ID"/>".</translation>
 <translation id="7581199239021537589">Pomak slike Y sa strane 2</translation>
-<translation id="4790068920551988473">Brzo kreirajte novi događaj u Asil kalendaru</translation>
+<translation id="4790068920551988473">Brzo kreirajte novi događaj u brave kalendaru</translation>
 <translation id="7583969447617676942">Pravna služba</translation>
 <translation id="7586676035079382730">Obavještenja nisu dozvoljena</translation>
 <translation id="7591288787774558753">Dijeliti povjerljiv sadržaj?</translation>
@@ -2530,7 +2530,7 @@ Dodatni detalji:
 <translation id="7637586430889951925">{COUNT,plural, =0{Nijedna}=1{1 lozinka na vašem računu (za domene <ph name="DOMAIN_LIST"/>)}one{# lozinka na vašem računu (za domene <ph name="DOMAIN_LIST"/>)}few{# lozinke na vašem računu (za domene <ph name="DOMAIN_LIST"/>)}other{# lozinki na vašem računu (za domene <ph name="DOMAIN_LIST"/>)}}</translation>
 <translation id="7638605456503525968">Serijski priključci</translation>
 <translation id="7639968568612851608">Tamnosiva</translation>
-<translation id="8275603180424408640">Lozinka koju ste upravo upotrijebili je pronađena u narušavanju podataka. Asil upravitelj lozinki preporučuje da odmah promijenite lozinku.</translation>
+<translation id="8275603180424408640">Lozinka koju ste upravo upotrijebili je pronađena u narušavanju podataka. brave upravitelj lozinki preporučuje da odmah promijenite lozinku.</translation>
 <translation id="7647206758853451655">Kvalitet štampanja</translation>
 <translation id="7648992873808071793">pohraniti fajlove na ovom uređaju</translation>
 <translation id="7653957176542370971">Stranica obrađivača uplate je zatvorena</translation>
@@ -2571,7 +2571,7 @@ Dodatni detalji:
 <translation id="7716375162095500223">Još uvijek nije otpremljeno ili je zanemareno</translation>
 <translation id="7716424297397655342">Ova web lokacija se ne može učitati iz keš memorije</translation>
 <translation id="7723047071702270851">Uredite karticu</translation>
-<translation id="1296098648902562076">Brzo kreirajte novi obrazac na usluzi Asil Forms</translation>
+<translation id="1296098648902562076">Brzo kreirajte novi obrazac na usluzi brave Forms</translation>
 <translation id="773466115871691567">Uvijek prevedi stranice na <ph name="SOURCE_LANGUAGE"/> jezik</translation>
 <translation id="7736959720849233795">Kopiraj adresu linka</translation>
 <translation id="7740996059027112821">Standardno</translation>
@@ -2610,7 +2610,7 @@ Dodatni detalji:
 <translation id="7855695075675558090"><ph name="TOTAL_LABEL"/> <ph name="CURRENCY_CODE"/> <ph name="FORMATTED_TOTAL_AMOUNT"/></translation>
 <translation id="7862185352068345852">Napustiti web lokaciju?</translation>
 <translation id="7865448901209910068">Najbolja brzina</translation>
-<translation id="7971990257511863579">Promijenite lozinku za Asil račun</translation>
+<translation id="7971990257511863579">Promijenite lozinku za brave račun</translation>
 <translation id="7877007680666472091">ID-ovi zaštićenog sadržaja</translation>
 <translation id="7878562273885520351">Moguće je da je vaša lozinka ugrožena</translation>
 <translation id="7880146494886811634">Sačuvajte adresu</translation>
@@ -2625,7 +2625,7 @@ Dodatni detalji:
 <translation id="793209273132572360">Ažurirati adresu?</translation>
 <translation id="7932579305932748336">Premaz</translation>
 <translation id="79338296614623784">Unesite važeći broj telefona</translation>
-<translation id="8329449853370113380">URL <ph name="URL"/> želi reproducirati zaštićeni sadržaj. Asil će potvrditi identitet vašeg uređaja.</translation>
+<translation id="8329449853370113380">URL <ph name="URL"/> želi reproducirati zaštićeni sadržaj. brave će potvrditi identitet vašeg uređaja.</translation>
 <translation id="7935318582918952113">DOM Distiller</translation>
 <translation id="7937554595067888181">Ističe <ph name="EXPIRATION_DATE_ABBR"/></translation>
 <translation id="7938958445268990899">Potvrda sa servera još uvijek nije ispravna.</translation>
@@ -2654,7 +2654,7 @@ Dodatni detalji:
 <translation id="7981129096182302364">Plesna i elektronska muzika</translation>
 <translation id="798134797138789862">Može tražiti da koristi uređaje i podatke virtuelne realnosti</translation>
 <translation id="7983008347525536475">SUV vozila</translation>
-<translation id="8896585555528145662">Trenutno ne možete posjetiti web lokaciju <ph name="SITE"/> zato što je web lokacija poslala kodirane akreditive koje Asil ne može obraditi. Greške i napadi na mreži su obično privremenog karaktera, tako da će ova stranica vjerovatno funkcionirati kasnije.</translation>
+<translation id="8896585555528145662">Trenutno ne možete posjetiti web lokaciju <ph name="SITE"/> zato što je web lokacija poslala kodirane akreditive koje brave ne može obraditi. Greške i napadi na mreži su obično privremenog karaktera, tako da će ova stranica vjerovatno funkcionirati kasnije.</translation>
 <translation id="7986319120639858961"><ph name="CARD_TITLE"/> <ph name="TIME"/> <ph name="BOOKMARKED"/> <ph name="TITLE"/> <ph name="DOMAIN"/></translation>
 <translation id="799149739215780103">Povezivanje</translation>
 <translation id="7992044431894087211">Dijeljenje ekrana s aplikacijom <ph name="APPLICATION_TITLE"/> je nastavljeno</translation>
@@ -2667,11 +2667,11 @@ Dodatni detalji:
 <translation id="8009843239480947060">10 x 11 in</translation>
 <translation id="8012116502927253373">{NUM_CARDS,plural, =1{Ova kartica će se sačuvati kao i njena povezana adresa za naplatu. Moći ćete je koristiti kada se prijavite na račun <ph name="USER_EMAIL"/>.}one{Ove kartice će se sačuvati kao i njihove povezane adrese za naplatu. Moći ćete ih koristiti kada se prijavite na račun <ph name="USER_EMAIL"/>.}few{Ove kartice će se sačuvati kao i njihove povezane adrese za naplatu. Moći ćete ih koristiti kada se prijavite na račun <ph name="USER_EMAIL"/>.}other{Ove kartice će se sačuvati kao i njihove povezane adrese za naplatu. Moći ćete ih koristiti kada se prijavite na račun <ph name="USER_EMAIL"/>.}}</translation>
 <translation id="8019861005170389898"><ph name="TRADITIONAL_TEXT"/> (<ph name="ADDITIONAL_TEXT"/>)</translation>
-<translation id="1625114571336329891"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite karticu a zatim Enter da postavite Asil kao zadani preglednik sistema</translation>
+<translation id="1625114571336329891"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite karticu a zatim Enter da postavite brave kao zadani preglednik sistema</translation>
 <translation id="8025119109950072390">Napadači na ovoj web lokaciji vas mogu prevarom navesti da uradite nešto opasno kao što je instaliranje softvera ili otkrivanje ličnih informacija (naprimjer lozinki, brojeva telefona ili kreditnih kartica).</translation>
 <translation id="8026334261755873520">Obrišite podatke pregledanja</translation>
 <translation id="8027077570865220386">Ladica 15</translation>
-<translation id="814401020562419411"><ph name="CREATE_GOOGLE_FORM_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novi obrazac na usluzi Asil Forms</translation>
+<translation id="814401020562419411"><ph name="CREATE_GOOGLE_FORM_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novi obrazac na usluzi brave Forms</translation>
 <translation id="8028960012888758725">Skraćivanje nakon završetka posla</translation>
 <translation id="8034522405403831421">Jezik na ovoj stranici je <ph name="SOURCE_LANGUAGE"/>. Prevesti je na <ph name="TARGET_LANGUAGE"/>?</translation>
 <translation id="8035152190676905274">Pero</translation>
@@ -2687,9 +2687,9 @@ Dodatni detalji:
 <translation id="8057711352706143257">"<ph name="SOFTWARE_NAME"/>" nije ispravno konfiguriran. Problem se obično riješi deinstalacijom softvera "<ph name="SOFTWARE_NAME"/>". <ph name="FURTHER_EXPLANATION"/></translation>
 <translation id="8058009102480785916">Proizvodnja hrane</translation>
 <translation id="8066225060526005217">Ovim upravljaju postavke kolačića</translation>
-<translation id="5442778523450464826">Upravo ste unijeli lozinku na obmanjujućoj web lokaciji. Asil vam može pomoći. Da promijenite lozinku i obavijestite Asil da vam je račun možda ugrožen, kliknite Zaštiti račun.</translation>
+<translation id="5442778523450464826">Upravo ste unijeli lozinku na obmanjujućoj web lokaciji. brave vam može pomoći. Da promijenite lozinku i obavijestite brave da vam je račun možda ugrožen, kliknite Zaštiti račun.</translation>
 <translation id="8070439594494267500">Ikona aplikacije</translation>
-<translation id="7738019368151747786">Brzo kreirajte novu Asil tabelu</translation>
+<translation id="7738019368151747786">Brzo kreirajte novu brave tabelu</translation>
 <translation id="8075898834294118863">Upravljajte postavkama web lokacije</translation>
 <translation id="8076492880354921740">Kartice</translation>
 <translation id="8077669823243888800">Koverta Chinese #8</translation>
@@ -2728,7 +2728,7 @@ Dodatni detalji:
 <translation id="8157295877370077682">Napusti web lokaciju</translation>
 <translation id="8163866351304776260">Četverostruko bušenje na lijevoj strani</translation>
 <translation id="8175330382720204696">Government Letter</translation>
-<translation id="4351627595884993315">Asil vam nudi pohranjivanje vaših kartica na Asil računu zato što ste prijavljeni. Ovo ponašanje možete promjeniti u postavkama</translation>
+<translation id="4351627595884993315">brave vam nudi pohranjivanje vaših kartica na brave računu zato što ste prijavljeni. Ovo ponašanje možete promjeniti u postavkama</translation>
 <translation id="8176440868214972690">Administrator ovog uređaja je poslao određene informacije web lokacijama u nastavku, naprimjer postavke ili pravila.</translation>
 <translation id="8184538546369750125">Koristi opću zadanu postavku (dozvoli)</translation>
 <translation id="8186706823560132848">Softver</translation>
@@ -2849,12 +2849,12 @@ Dodatni detalji:
 <translation id="8473863474539038330">Adrese i još mnogo toga</translation>
 <translation id="8474910779563686872">Prikaži detalje o programeru</translation>
 <translation id="8479754468255770962">Bušenje u donjem lijevom uglu</translation>
-<translation id="5142582872611298328">Da koristite kartice sa svog Asil računa, prijavite se na Asil</translation>
+<translation id="5142582872611298328">Da koristite kartice sa svog brave računa, prijavite se na brave</translation>
 <translation id="8488350697529856933">Odnosi se na</translation>
 <translation id="8490137692873530638">Slagač 10</translation>
 <translation id="8493948351860045254">Oslobodi prostor</translation>
 <translation id="8498891568109133222">Host računaru <ph name="HOST_NAME"/> treba previše vremena da odgovori.</translation>
-<translation id="230699814587342492">Asil lozinke</translation>
+<translation id="230699814587342492">brave lozinke</translation>
 <translation id="8503813439785031346">Korisničko ime</translation>
 <translation id="8507227106804027148">Komandna linija</translation>
 <translation id="8508648098325802031">Ikona pretraživanja</translation>
@@ -2862,7 +2862,7 @@ Dodatni detalji:
 <translation id="851353418319061866">Provjera tačnosti</translation>
 <translation id="8513580896341796021">Preuzimanje je započeto Da ga vidite, pritisnite |<ph name="ACCELERATOR"/>|.</translation>
 <translation id="8519753333133776369">HID uređaj koji je dozvolio vaš administrator</translation>
-<translation id="1426902392270366682">Asil vam može pomoći da zaštitite svoj Asil račun i promijenite lozinku.</translation>
+<translation id="1426902392270366682">brave vam može pomoći da zaštitite svoj brave račun i promijenite lozinku.</translation>
 <translation id="1215802963054007211">Izbrišite historiju pregledanja, kolačiće, keš memoriju i drugo u postavkama Bravea</translation>
 <translation id="853332391023689529">Kamioneti</translation>
 <translation id="8533619373899488139">Posjetite &lt;strong&gt;chrome://policy&lt;/strong&gt; da vidite listu blokiranih URL-ova i druga pravila koja je nametnuo vaš administrator sistema.</translation>
@@ -2933,7 +2933,7 @@ Dodatni detalji:
 <translation id="8734529307927223492">Uređajem <ph name="DEVICE_TYPE"/> upravlja <ph name="MANAGER"/></translation>
 <translation id="8736059027199600831">30 x 40 in</translation>
 <translation id="8737685506611670901">Otvaranje linkova protokola <ph name="PROTOCOL"/> umjesto obrađivača <ph name="REPLACED_HANDLER_TITLE"/></translation>
-<translation id="6326805297893828864">Ispravno podesite sat da uspostavite sigurnu vezu. Razlog tome je taj što su certifikati koji web lokacije koriste da se identificiraju valjane samo na određeni period. Kako sat na vašem uređaju nije ispravan, Asil ne može provjeriti ove certifikate.</translation>
+<translation id="6326805297893828864">Ispravno podesite sat da uspostavite sigurnu vezu. Razlog tome je taj što su certifikati koji web lokacije koriste da se identificiraju valjane samo na određeni period. Kako sat na vašem uređaju nije ispravan, brave ne može provjeriti ove certifikate.</translation>
 <translation id="8740359287975076522">Nije moguće pronaći &lt;abbr id="dnsDefinition"&gt;DNS adresu&lt;/abbr&gt; host računara <ph name="HOST_NAME"/>. Dijagnosticiranje problema.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE"/> je vaš kôd za <ph name="ORIGIN"/></translation>
 <translation id="874918643257405732">Označite ovu karticu</translation>
@@ -2951,7 +2951,7 @@ Dodatni detalji:
 <translation id="877985182522063539">A4</translation>
 <translation id="8785658048882205566">Motocikli</translation>
 <translation id="8790007591277257123">Poništite b&amp;risanje</translation>
-<translation id="5304100303568917877">Možete izgubiti pristup svom <ph name="ORG_NAME"/> računu ili doživjeti krađu identiteta. Asil preporučuje da odmah promijenite lozinku.</translation>
+<translation id="5304100303568917877">Možete izgubiti pristup svom <ph name="ORG_NAME"/> računu ili doživjeti krađu identiteta. brave preporučuje da odmah promijenite lozinku.</translation>
 <translation id="8792626944327216835">mikrofon</translation>
 <translation id="9156291179464624174">Domena <ph name="ENROLLMENT_DOMAIN"/> je uključila Konektore Bravea za preduzeća u vašem pregledniku. Pomoću tih konektora je moguće pristupiti nekim vašim podacima.</translation>
 <translation id="8798099450830957504">Zadano</translation>
@@ -2961,7 +2961,7 @@ Dodatni detalji:
 <translation id="8807160976559152894">Skraćivanje nakon svake stranice</translation>
 <translation id="8813277370772331957">Podsjeti me kasnije</translation>
 <translation id="8814707942599948500">Koverta C8</translation>
-<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>. Pritisnite Tab, a zatim Enter da ažurirate Asil iz postavki Bravea</translation>
+<translation id="7674607358106534914"><ph name="UPDATE_CHROME_FOCUSED_FRIENDLY_MATCH_TEXT"/>. Pritisnite Tab, a zatim Enter da ažurirate brave iz postavki Bravea</translation>
 <translation id="882338992931677877">Ručni utor</translation>
 <translation id="8830320733681313421">Hagaki razglednica</translation>
 <translation id="883848425547221593">Ostale oznake</translation>
@@ -2973,7 +2973,7 @@ Dodatni detalji:
 <translation id="885306012106043620">Tenis</translation>
 <translation id="8855742650226305367">Ples</translation>
 <translation id="7487066225574140895">Dijeljenje s Braveom</translation>
-<translation id="4764754838347156633">Asil preporučuje ponovno postavljanje lozinke za <ph name="BEGIN_BOLD"/><ph name="ORG_NAME"/><ph name="END_BOLD"/> ako sto je ponovo koristili na drugim web lokacijama.</translation>
+<translation id="4764754838347156633">brave preporučuje ponovno postavljanje lozinke za <ph name="BEGIN_BOLD"/><ph name="ORG_NAME"/><ph name="END_BOLD"/> ako sto je ponovo koristili na drugim web lokacijama.</translation>
 <translation id="885906927438988819">Ako nema greške u pravopisu, <ph name="BEGIN_LINK"/>pokušajte pokrenuti Windows dijagnostiku mreže<ph name="END_LINK"/>.</translation>
 <translation id="8866132857352163524">Muzika iz filmova</translation>
 <translation id="8866481888320382733">Greška prilikom raščlanjivanja postavki pravila</translation>
@@ -2992,13 +2992,13 @@ Dodatni detalji:
 <translation id="8897428486789851669">Plivanje</translation>
 <translation id="8903921497873541725">Uvećaj</translation>
 <translation id="890493561996401738">Dugme za uklanjanje prijedloga. Pritisnite Enter da uklonite, <ph name="REMOVE_BUTTON_FOCUSED_FRIENDLY_MATCH_TEXT"/></translation>
-<translation id="2684652081942622950">Asil račun</translation>
+<translation id="2684652081942622950">brave račun</translation>
 <translation id="4102271590580840789">Dugme Upravljaj načinima plaćanja, pritisnite Enter da upravljate plaćanjima i informacijama o kreditnim karticama u postavkama Bravea</translation>
 <translation id="8922013791253848639">Uvijek omogući oglase na ovoj web lokaciji</translation>
 <translation id="892588693504540538">Bušenje u gornjem desnom uglu</translation>
 <translation id="8930098617363288380">Vrijednost <ph name="SECURE_DNS_SALT"/> nije relevantna i neće se koristiti, osim ako je postavljeno praviolo <ph name="SECURE_DNS_TEMPLATES_WITH_IDENTIFIERS"/>.</translation>
 <translation id="8930330541574156305">Nekretnine</translation>
-<translation id="7757992844965332255">Želite li sačuvati ovu karticu na svoj Asil račun?</translation>
+<translation id="7757992844965332255">Želite li sačuvati ovu karticu na svoj brave račun?</translation>
 <translation id="8932102934695377596">Vaš sat kasni</translation>
 <translation id="893332455753468063">Dodaj ime</translation>
 <translation id="8942355029279167844">Vaš administrator je dozvolio aplikaciji <ph name="APP_NAME"/> da prikuplja dijagnostičke podatke radi poboljšanja iskustva s proizvodom. Pogledajte <ph name="BEGIN_LINK"/>https://www.parallels.com/pcep<ph name="END_LINK"/> za više informacija.</translation>
@@ -3043,7 +3043,7 @@ Dodatni detalji:
 <translation id="9036306139374661733">Dozvoliti mikrofon?</translation>
 <translation id="9038649477754266430">Koristi uslugu predviđanja za brže učitavanje stranica</translation>
 <translation id="9039213469156557790">Dalje, ova stranica obuhvata druge resurse koji nisu sigurni. Te resurse mogu vidjeti drugi dok su u tranzitu, a može ih izmijeniti napadač kako bi promijenio ponašanje stranice.</translation>
-<translation id="6093455506390049122">Dugme Pronađi moj uređaj, pritisnite Enter da otvorite uslugu Pronađi moj uređaj na Asil računu</translation>
+<translation id="6093455506390049122">Dugme Pronađi moj uređaj, pritisnite Enter da otvorite uslugu Pronađi moj uređaj na brave računu</translation>
 <translation id="9042617223719777575">Veliki kapacitet</translation>
 <translation id="9044359186343685026">Koristi Touch ID</translation>
 <translation id="9045525010788763347"><ph name="RESULT_MODIFIED_DATE"/> – <ph name="RESULT_PRODUCT_SOURCE"/></translation>
@@ -3063,12 +3063,12 @@ Dodatni detalji:
 <translation id="908796725011587895">Fakultetski sportovi</translation>
 <translation id="9089260154716455634">Pravilo za period van radnog vremena:</translation>
 <translation id="9095388113577226029">Više jezika…</translation>
-<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da postavite Asil kao zadani preglednik sistema u postavkama iOS-a</translation>
+<translation id="7650489975492745604"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da postavite brave kao zadani preglednik sistema u postavkama iOS-a</translation>
 <translation id="9096679202588811390">TV emisije i programi</translation>
 <translation id="9101630580131696064">Ladica 1</translation>
 <translation id="9102081333385212048">Fajlovi koje kopirate ili premjestite se šalju na Google Cloud ili trećim stranama na analizu. Naprimjer, mogu se skenirati radi otkrivanja postojanja osjetljivih podataka ili zlonamjernog softvera.</translation>
 <translation id="9103537084693478942">Video softver</translation>
-<translation id="6373940988468425649"><ph name="SITE"/> obično koristi šifriranje za zaštitu vaših informacija. Kada se Asil ovaj put pokušao povezati s web lokacijom <ph name="SITE"/>, web lokacija je vratila neobične i netačne akreditive. To se može dogoditi kada se napadač pokušava predstaviti kao web lokacija <ph name="SITE"/> ili kada vezu prekine ekran za prijavu na WiFi. Vaše informacije su i dalje sigurne jer je Asil prekinuo vezu prije bilo kakve razmjene podataka.</translation>
+<translation id="6373940988468425649"><ph name="SITE"/> obično koristi šifriranje za zaštitu vaših informacija. Kada se brave ovaj put pokušao povezati s web lokacijom <ph name="SITE"/>, web lokacija je vratila neobične i netačne akreditive. To se može dogoditi kada se napadač pokušava predstaviti kao web lokacija <ph name="SITE"/> ili kada vezu prekine ekran za prijavu na WiFi. Vaše informacije su i dalje sigurne jer je brave prekinuo vezu prije bilo kakve razmjene podataka.</translation>
 <translation id="9106062320799175032">Dodaj adresu za naplatu</translation>
 <translation id="9107467864910557787">Vašim preglednikom upravlja <ph name="MANAGER"/></translation>
 <translation id="91108059142052966">Pravilo administratora onemogućava dijeljenje ekrana s aplikacijom <ph name="APPLICATION_TITLE"/> kada je vidljiv povjerljivi sadržaj</translation>
@@ -3108,7 +3108,7 @@ Dodatni detalji:
 <translation id="9174917557437862841">Dugme za promjenu kartice. Pritisnite Enter da se prebacite na ovu karticu</translation>
 <translation id="5129795253416930127">Upravljajte plaćanjima i informacijama o kreditnim karticama u postavkama Bravea</translation>
 <translation id="9179907736442194268">Primajte obavještenja putem e-pošte ako cijena padne na bilo kojoj web lokaciji</translation>
-<translation id="9183302530794969518">Asil Dokumenti</translation>
+<translation id="9183302530794969518">brave Dokumenti</translation>
 <translation id="9183425211371246419">Host računar <ph name="HOST_NAME"/> koristi protokol koji nije podržan.</translation>
 <translation id="918454845714257218">Provjerite kôd na kartici <ph name="SIDE_OF_CARD"/> i pokušajte ponovo</translation>
 <translation id="9187461866967718678">Ekstremni sportovi</translation>
@@ -3120,15 +3120,15 @@ Dodatni detalji:
 <translation id="9213433120051936369">Prilagodite izgled</translation>
 <translation id="2206050430829841793">Jedna aplikacija sprečava sigurno povezivanje Bravea na ovu web lokaciju</translation>
 <translation id="9219103736887031265">Slike</translation>
-<translation id="142389341645668510">Prilagodite Asil</translation>
+<translation id="142389341645668510">Prilagodite brave</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="935608979562296692">OBRIŠI POLJA OBRASCA</translation>
-<translation id="7486559383537872796">Možete izgubiti pristup svom Asil računu. Asil preporučuje da odmah promijenite lozinku. Od vas će se tražiti da se prijavite.</translation>
+<translation id="7486559383537872796">Možete izgubiti pristup svom brave računu. brave preporučuje da odmah promijenite lozinku. Od vas će se tražiti da se prijavite.</translation>
 <translation id="937457230470581909">Zoološki vrtovi, akvarijumi i rezervati</translation>
 <translation id="939736085109172342">Novi folder</translation>
 <translation id="940053046584497293">Putovanja i transport</translation>
 <translation id="945855313015696284">Provjerite informacije u nastavku i izbrišite nevažeće kartice</translation>
-<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novu web lokaciju na usluzi Asil Web lokacije</translation>
+<translation id="1283739678317676574"><ph name="CREATE_GOOGLE_SITE_FOCUSED_FRIENDLY_MATCH_TEXT"/>, pritisnite Tab, a zatim Enter da brzo kreirate novu web lokaciju na usluzi brave Web lokacije</translation>
 <translation id="950736567201356821">Trostruko bušenje na gornjoj strani</translation>
 <translation id="961663415146723894">Povezivanje donje strane</translation>
 <translation id="962484866189421427">Sadržaj može pokušati instalirati obmanjujuće aplikacije koje se pretvaraju da predstavljaju nešto drugo ili koje prikupljaju podatke koji se mogu iskoristiti za vaše praćenje. <ph name="BEGIN_LINK"/>Ipak prikaži<ph name="END_LINK"/></translation>
@@ -3201,7 +3201,7 @@ Dodatni detalji:
 <translation id="1536541482996273580">Otvori anonimnu karticu</translation>
 <translation id="1090109565956608696">Nije dozvoljeno u anonimnom načinu rada</translation>
 <translation id="6934396344327597525">Napuštate anonimni način rada radi plaćanja putem vanjske aplikacije. Nastaviti?</translation>
-<translation id="7948746210201997548">{NUM_DAYS,plural, =0{Kada je ova kontrola uključena i status aktivan, Asil određuje kojoj je velikoj grupi ljudi, ili "kohorti", vaša nedavna aktivnost pregledanja najsličnija. Oglašivači mogu odabrati oglase za tu grupu, a vaša aktivnost pregledanja ostaje privatna na vašem uređaju. Vaša grupa se ažurira svaki dan.}=1{Kada je ova kontrola uključena i status aktivan, Asil određuje kojoj je velikoj grupi ljudi, ili "kohorti", vaša nedavna aktivnost pregledanja najsličnija. Oglašivači mogu odabrati oglase za tu grupu, a vaša aktivnost pregledanja ostaje privatna na vašem uređaju. Vaša grupa se ažurira svaki dan.}one{Kada je ova kontrola uključena i status aktivan, Asil određuje kojoj je velikoj grupi ljudi, ili "kohorti", vaša nedavna aktivnost pregledanja najsličnija. Oglašivači mogu odabrati oglase za tu grupu, a vaša aktivnost pregledanja ostaje privatna na vašem uređaju. Vaša grupa se ažurira svakih {NUM_DAYS} dan.}few{Kada je ova kontrola uključena i status aktivan, Asil određuje kojoj je velikoj grupi ljudi, ili "kohorti", vaša nedavna aktivnost pregledanja najsličnija. Oglašivači mogu odabrati oglase za tu grupu, a vaša aktivnost pregledanja ostaje privatna na vašem uređaju. Vaša grupa se ažurira svaka {NUM_DAYS} dana.}other{Kada je ova kontrola uključena i status aktivan, Asil određuje kojoj je velikoj grupi ljudi, ili "kohorti", vaša nedavna aktivnost pregledanja najsličnija. Oglašivači mogu odabrati oglase za tu grupu, a vaša aktivnost pregledanja ostaje privatna na vašem uređaju. Vaša grupa se ažurira svakih {NUM_DAYS} dana.}}</translation>
+<translation id="7948746210201997548">{NUM_DAYS,plural, =0{Kada je ova kontrola uključena i status aktivan, brave određuje kojoj je velikoj grupi ljudi, ili "kohorti", vaša nedavna aktivnost pregledanja najsličnija. Oglašivači mogu odabrati oglase za tu grupu, a vaša aktivnost pregledanja ostaje privatna na vašem uređaju. Vaša grupa se ažurira svaki dan.}=1{Kada je ova kontrola uključena i status aktivan, brave određuje kojoj je velikoj grupi ljudi, ili "kohorti", vaša nedavna aktivnost pregledanja najsličnija. Oglašivači mogu odabrati oglase za tu grupu, a vaša aktivnost pregledanja ostaje privatna na vašem uređaju. Vaša grupa se ažurira svaki dan.}one{Kada je ova kontrola uključena i status aktivan, brave određuje kojoj je velikoj grupi ljudi, ili "kohorti", vaša nedavna aktivnost pregledanja najsličnija. Oglašivači mogu odabrati oglase za tu grupu, a vaša aktivnost pregledanja ostaje privatna na vašem uređaju. Vaša grupa se ažurira svakih {NUM_DAYS} dan.}few{Kada je ova kontrola uključena i status aktivan, brave određuje kojoj je velikoj grupi ljudi, ili "kohorti", vaša nedavna aktivnost pregledanja najsličnija. Oglašivači mogu odabrati oglase za tu grupu, a vaša aktivnost pregledanja ostaje privatna na vašem uređaju. Vaša grupa se ažurira svaka {NUM_DAYS} dana.}other{Kada je ova kontrola uključena i status aktivan, brave određuje kojoj je velikoj grupi ljudi, ili "kohorti", vaša nedavna aktivnost pregledanja najsličnija. Oglašivači mogu odabrati oglase za tu grupu, a vaša aktivnost pregledanja ostaje privatna na vašem uređaju. Vaša grupa se ažurira svakih {NUM_DAYS} dana.}}</translation>
 <translation id="2446780203663220049">Ljudi i društvo</translation>
 <translation id="1426112902089905810">&lt;h4&gt;1. korak: Prijavite se na portal&lt;/h4&gt;
     &lt;p&gt;WiFi mreže na mjestima kao što su kafići ili aerodromi traže da se prijavite. Da vidite stranicu za prijavljivanje, posjetite stranicu koja koristi &lt;code&gt;http://&lt;/code&gt;.&lt;/p&gt;
@@ -3211,11 +3211,11 @@ Dodatni detalji:
     &lt;/ol&gt;
     &lt;h4&gt;2. korak: Otvorite stranicu u anonimnom načinu rada (samo na računaru)&lt;/h4&gt;
     &lt;p&gt;Otvorite stranicu koju ste posjetili u anonimnom načinu rada.&lt;/p&gt;
-    &lt;p&gt;Ako se stranica otvori, ekstenzija za Asil ne radi ispravno. Da ispravite grešku, isključite ekstenziju.&lt;/p&gt;
+    &lt;p&gt;Ako se stranica otvori, ekstenzija za brave ne radi ispravno. Da ispravite grešku, isključite ekstenziju.&lt;/p&gt;
     &lt;h4&gt;3. korak: Ažurirajte operativni sistem&lt;/h4&gt;
     &lt;p&gt;Vodite računa da vam uređaj bude ažuriran.&lt;/p&gt;
     &lt;h4&gt;4. korak: Privremeno isključite antivirsu&lt;/h4&gt;
-    &lt;p&gt;Ovu grešku ćete vidjeti ukoliko imate antivirusni softver koji pruža "HTTPS zaštitu" ili "HTTPS skeniranje." Antivirus sprečava Asil da pruža sigurnost.&lt;/p&gt;
+    &lt;p&gt;Ovu grešku ćete vidjeti ukoliko imate antivirusni softver koji pruža "HTTPS zaštitu" ili "HTTPS skeniranje." Antivirus sprečava brave da pruža sigurnost.&lt;/p&gt;
     &lt;p&gt;Da riješite problem, isključite antivirusni softver. Ako stranica radi nakon isključivanja softvera, isključite taj softver kada koristite sigurne wb lokacije.&lt;/p&gt;
     &lt;p&gt;Nemojte zaboraviti ponovo uključiti antivirusni program kada završite.&lt;/p&gt;
     &lt;h4&gt;5. korak: Potražite dodatnu pomoć&lt;/h4&gt;

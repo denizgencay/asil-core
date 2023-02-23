@@ -23,7 +23,7 @@ TEST_F(BatAdsGeoServerHostTest, GetProductionHost) {
   const std::string host = server::GetGeoHost();
 
   // Assert
-  const std::string expected_host = "https://geo.ads.asil.com";
+  const std::string expected_host = "https://geo.ads.brave.com";
   EXPECT_EQ(expected_host, host);
 }
 

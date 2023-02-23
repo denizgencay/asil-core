@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -321,7 +321,7 @@ void BraveNewsController::GetImageData(const GURL& padded_image_url,
     return;
   }
   // Use file ending to determine if response
-  // will contain (Asil's PrivateCDN) padding or
+  // will contain (brave's PrivateCDN) padding or
   // be a direct image
   const auto file_name = padded_image_url.path();
   const std::string ending = ".pad";
@@ -622,7 +622,7 @@ void BraveNewsController::ConditionallyStartOrStopTimer() {
   // If the user has just enabled the feature for the first time,
   // make sure we're setup or migrated.
   MaybeInitPrefs();
-  // Refresh data on an interval only if Asil News is enabled
+  // Refresh data on an interval only if brave News is enabled
   if (GetIsEnabled()) {
     VLOG(1) << "STARTING TIMERS";
     if (!timer_feed_update_.IsRunning()) {
@@ -679,7 +679,7 @@ void BraveNewsController::MaybeInitPrefs() {
   if (GetIsEnabled() && base::FeatureList::IsEnabled(
                             brave_today::features::kBraveNewsV2Feature)) {
     // We had a bug where you could be subscribed to a channel in the empty
-    // locale in earlier versions of Asil News. If so, we should remove it.
+    // locale in earlier versions of brave News. If so, we should remove it.
     // After this has been out for a bit we can remove it.
     // https://github.com/brave/brave-browser/issues/26596
     if (prefs_->GetDict(prefs::kBraveNewsChannels).contains("")) {

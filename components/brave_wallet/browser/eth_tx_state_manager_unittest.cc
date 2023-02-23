@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -100,7 +100,7 @@ TEST_F(EthTxStateManagerUnitTest, TxMetaAndValue) {
   meta.set_tx_receipt(tx_receipt);
   meta.set_tx_hash(
       "0xb903239f8543d04b5dc1ba6579132b143087c68db1b2168786408fcbce568238");
-  meta.set_origin(url::Origin::Create(GURL("https://test.asil.com")));
+  meta.set_origin(url::Origin::Create(GURL("https://test.brave.com")));
 
   base::Value::Dict meta_value = meta.ToValue();
   const std::string* from = meta_value.FindString("from");

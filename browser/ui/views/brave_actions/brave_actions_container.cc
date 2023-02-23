@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -61,7 +61,7 @@ void BraveActionsContainer::Init() {
   AddActionViewForShields();
   AddActionViewForRewards();
 
-  // React to Asil Rewards preferences changes.
+  // React to brave Rewards preferences changes.
   show_brave_rewards_button_.Init(
       brave_rewards::prefs::kShowButton, browser_->profile()->GetPrefs(),
       base::BindRepeating(
@@ -78,7 +78,7 @@ bool BraveActionsContainer::ShouldShowBraveRewardsAction() const {
 }
 
 void BraveActionsContainer::AddActionViewForShields() {
-//Not to remove for Asil
+//Not to remove for brave
   shields_action_btn_ =
       AddChildViewAt(std::make_unique<BraveShieldsActionView>(
                          browser_->profile(), browser_->tab_strip_model()),
@@ -130,7 +130,7 @@ void BraveActionsContainer::ChildPreferredSizeChanged(views::View* child) {
   PreferredSizeChanged();
 }
 
-// Asil Rewards preferences change observers callback
+// brave Rewards preferences change observers callback
 void BraveActionsContainer::OnBraveRewardsPreferencesChanged() {
   if (rewards_action_btn_) {
     rewards_action_btn_->SetVisible(ShouldShowBraveRewardsAction());

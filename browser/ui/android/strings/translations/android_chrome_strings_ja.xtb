@@ -13,22 +13,22 @@
 <translation id="1089606299949659462">確認が終わりました</translation>
 <translation id="1095761715416917775">同期データに常にアクセスできるようにしてください</translation>
 <translation id="1100066534610197918">新しいタブをグループで開く</translation>
-<translation id="4660777881054855091">Asil の改善にご協力ください</translation>
+<translation id="4660777881054855091">brave の改善にご協力ください</translation>
 <translation id="1105960400813249514">スクリーン キャプチャ</translation>
 <translation id="1108938384783527433">履歴の同期</translation>
 <translation id="1110914759170138831">ハイライト表示のテキストは一部省略されています</translation>
 <translation id="1111673857033749125">他のデバイスに保存されているブックマークがここに表示されます。</translation>
 <translation id="1113597929977215864">簡易表示する</translation>
-<translation id="8577410793886633063">Asil の操作履歴、選択した設定、Asil のクラッシュの詳細</translation>
-<translation id="4470276443668654888">Google Pay のお支払い方法と住所は暗号化されません。また、Asil の閲覧履歴は同期されません。
-パスフレーズを知っているユーザーだけが暗号化されたデータを見ることができます。パスフレーズは Asil には送信されず、保存されることもありません。パスフレーズを忘れた場合や、この設定を変更する場合は、同期をリセットする必要があります。<ph name="BEGIN_LINK"/>詳細<ph name="END_LINK"/></translation>
-<translation id="1295971429974142731">危険なウェブサイト、ダウンロード、拡張機能から保護されていません。セーフ ブラウジングによる保護は、Gmail や Asil 検索など他の Asil サービスで利用可能な場合は、引き続き有効です。</translation>
+<translation id="8577410793886633063">brave の操作履歴、選択した設定、brave のクラッシュの詳細</translation>
+<translation id="4470276443668654888">Google Pay のお支払い方法と住所は暗号化されません。また、brave の閲覧履歴は同期されません。
+パスフレーズを知っているユーザーだけが暗号化されたデータを見ることができます。パスフレーズは brave には送信されず、保存されることもありません。パスフレーズを忘れた場合や、この設定を変更する場合は、同期をリセットする必要があります。<ph name="BEGIN_LINK"/>詳細<ph name="END_LINK"/></translation>
+<translation id="1295971429974142731">危険なウェブサイト、ダウンロード、拡張機能から保護されていません。セーフ ブラウジングによる保護は、Gmail や brave 検索など他の brave サービスで利用可能な場合は、引き続き有効です。</translation>
 <translation id="1129510026454351943">詳細: <ph name="ERROR_DESCRIPTION"/></translation>
 <translation id="1142732900304639782">これらのサイトを翻訳するか尋ねない</translation>
 <translation id="1145536944570833626">既存のデータを削除します。</translation>
 <translation id="1146678959555564648">VR を入力</translation>
 <translation id="1149401351239820326">有効期限（月）</translation>
-<translation id="7083341910267693582">Asil で <ph name="APP_NAME"/> を開きます。続行すると、<ph name="BEGIN_LINK1"/>Asil 利用規約<ph name="END_LINK1"/>と <ph name="BEGIN_LINK2"/>Asil および Chrome OS 追加利用規約<ph name="END_LINK2"/>に同意したものと見なされます。</translation>
+<translation id="7083341910267693582">brave で <ph name="APP_NAME"/> を開きます。続行すると、<ph name="BEGIN_LINK1"/>brave 利用規約<ph name="END_LINK1"/>と <ph name="BEGIN_LINK2"/>brave および Chrome OS 追加利用規約<ph name="END_LINK2"/>に同意したものと見なされます。</translation>
 <translation id="1154704303112745282">オフラインで使用できないページ: <ph name="VIOLATED_URL"/></translation>
 <translation id="1173894706177603556">名前を変更</translation>
 <translation id="1177863135347784049">カスタム</translation>
@@ -38,7 +38,7 @@
 <translation id="1201402288615127009">次へ</translation>
 <translation id="1202892408424955784">トラッキングしている商品</translation>
 <translation id="1204037785786432551">リンクをダウンロード</translation>
-<translation id="7196655759099928465">Asil アクション ボタン: <ph name="ACTION"/></translation>
+<translation id="7196655759099928465">brave アクション ボタン: <ph name="ACTION"/></translation>
 <translation id="1206892813135768548">リンクテキストをコピー</translation>
 <translation id="1208340532756947324">複数のデバイスで独自の設定を同期して共有するには、同期を有効にします</translation>
 <translation id="1209206284964581585">今は表示しない</translation>
@@ -46,14 +46,14 @@
 <translation id="1231733316453485619">同期を有効にしますか？</translation>
 <translation id="123724288017357924">キャッシュ コンテンツを無視して現在のページを再読み込みする</translation>
 <translation id="1239792311949352652">このページをすばやく共有します。このショートカットは [設定] で編集できます。</translation>
-<translation id="3251315496493761426">Asil を使いこなすヒント</translation>
+<translation id="3251315496493761426">brave を使いこなすヒント</translation>
 <translation id="1240288207750131269"><ph name="LANG"/> を読み込んでいます</translation>
 <translation id="1240903469550363138">続行すると、<ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> からこのサイトに名前、メールアドレス、プロフィール画像が共有されます。このサイトの<ph name="BEGIN_LINK1"/>プライバシー ポリシー<ph name="END_LINK1"/>と<ph name="BEGIN_LINK2"/>利用規約<ph name="END_LINK2"/>をご確認ください。</translation>
 <translation id="124116460088058876">その他の言語</translation>
 <translation id="1242883863226959074">デバイス</translation>
 <translation id="124678866338384709">現在のタブを閉じる</translation>
 <translation id="1246905108078336582">クリップボードから候補を削除してもよろしいですか？</translation>
-<translation id="1996480094660735607">Asil Doodle: <ph name="DOODLE_DESCRIPTION"/></translation>
+<translation id="1996480094660735607">brave Doodle: <ph name="DOODLE_DESCRIPTION"/></translation>
 <translation id="1263231323834454256">リーディング リスト</translation>
 <translation id="1266864766717917324"><ph name="CONTENT_TYPE"/> を共有できませんでした</translation>
 <translation id="1283039547216852943">タップして展開</translation>
@@ -68,11 +68,11 @@
 <translation id="1316212908214730110">chrome_stylized_highlight_</translation>
 <translation id="1320912611264252795">ブックマーク保存フロー フォルダが画面全体に表示されています</translation>
 <translation id="1327257854815634930">ナビゲーション履歴が開いています</translation>
-<translation id="6773423637732432200">Asil を更新できません。その他のオプション</translation>
-<translation id="7673009277700083027">広告の測定により、アクセスしたサイトは、サイトが広告のパフォーマンスを測定する際に役立つ Asil の情報をリクエストできます。広告の測定は、サイト間で転送する情報をできるだけ少なくすることで、クロスサイト トラッキングを制限します。
+<translation id="6773423637732432200">brave を更新できません。その他のオプション</translation>
+<translation id="7673009277700083027">広告の測定により、アクセスしたサイトは、サイトが広告のパフォーマンスを測定する際に役立つ brave の情報をリクエストできます。広告の測定は、サイト間で転送する情報をできるだけ少なくすることで、クロスサイト トラッキングを制限します。
 
 全サイトまたは特定のサイトの閲覧履歴を削除すると、関連する測定情報も削除されます。<ph name="BEGIN_LINK"/>閲覧履歴<ph name="END_LINK"/>をご覧ください。</translation>
-<translation id="3169981355900570544">Asil 機能のショートカット</translation>
+<translation id="3169981355900570544">brave 機能のショートカット</translation>
 <translation id="1344653310988386453">選択箇所へのリンクを含める</translation>
 <translation id="1347468774581902829">アクティビティを管理</translation>
 <translation id="1360432990279830238">ログアウトして同期をオフにしますか？</translation>
@@ -81,16 +81,16 @@
 <translation id="1376578503827013741">計算中...</translation>
 <translation id="1382912999714108023">現在の情報が表示されていない場合は、カード発行会社に連絡して更新してください。</translation>
 <translation id="1383876407941801731">検索</translation>
-<translation id="1384704387250346179">Asil レンズで画像を翻訳 <ph name="BEGIN_NEW"/>New<ph name="END_NEW"/></translation>
+<translation id="1384704387250346179">brave レンズで画像を翻訳 <ph name="BEGIN_NEW"/>New<ph name="END_NEW"/></translation>
 <translation id="1386674309198842382">最終同期: <ph name="LAST_UPDATED"/> 日前</translation>
 <translation id="13931502444227376">続行すると、<ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> からこのサイトに名前、メールアドレス、プロフィール画像が共有されます。このサイトの<ph name="BEGIN_LINK1"/>利用規約<ph name="END_LINK1"/>を確認してください。</translation>
 <translation id="1397811292916898096"><ph name="PRODUCT_NAME"/> で検索</translation>
-<translation id="5857638389580847844">この設定は Asil の設定でいつでも変更できます。テストは、現在の方法での広告配信と並行して実施されるため、すぐに変更が行われるわけではありません。</translation>
+<translation id="5857638389580847844">この設定は brave の設定でいつでも変更できます。テストは、現在の方法での広告配信と並行して実施されるため、すぐに変更が行われるわけではありません。</translation>
 <translation id="1406000523432664303">「Do Not Track」</translation>
 <translation id="1407069428457324124">ダークモード</translation>
 <translation id="1407135791313364759">すべて開く</translation>
 <translation id="1409879593029778104"><ph name="FILE_NAME"/> は既に存在しているためダウンロードできませんでした。</translation>
-<translation id="1853026300647876496">Asil に問い合わせています。これには 1 分ほどかかる場合があります…</translation>
+<translation id="1853026300647876496">brave に問い合わせています。これには 1 分ほどかかる場合があります…</translation>
 <translation id="1416550906796893042">アプリケーションのバージョン</translation>
 <translation id="1428770807407000502">同期を OFF にしますか？</translation>
 <translation id="1430915738399379752">印刷</translation>
@@ -98,7 +98,7 @@
 <translation id="1437543266176261764"><ph name="APP_NAME"/> で実行中</translation>
 <translation id="1448440926884431741">ブックマークでトラッキングしている商品を整理できます</translation>
 <translation id="1450753235335490080"><ph name="CONTENT_TYPE"/> を共有できません</translation>
-<translation id="5598889255595678761">Asil の言語を選択</translation>
+<translation id="5598889255595678761">brave の言語を選択</translation>
 <translation id="1474893630593443211">表示される広告の詳細な管理</translation>
 <translation id="1477626028522505441">サーバーで問題が発生したため、<ph name="FILE_NAME"/> をダウンロードできませんでした。</translation>
 <translation id="148482509007564431">ブックマーク保存フロー</translation>
@@ -113,30 +113,30 @@
 <translation id="1518421282666914498">感情 GIF <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="1521774566618522728">最終同期: 今日</translation>
 <translation id="1538801903729528855">ウェブにおける音声操作の利便性を向上</translation>
-<translation id="8090895580117672212">Asil アカウントを管理するには、[アカウントを管理] をタップします。</translation>
+<translation id="8090895580117672212">brave アカウントを管理するには、[アカウントを管理] をタップします。</translation>
 <translation id="1549000191223877751">他のウィンドウに移動</translation>
-<translation id="1705567146636171298">Asil を更新</translation>
+<translation id="1705567146636171298">brave を更新</translation>
 <translation id="1571304935088121812">ユーザー名をコピー</translation>
 <translation id="1592864538817356322">標準保護機能:</translation>
 <translation id="1594635596540195766">下のリストに <ph name="SUGGESTIONS_COUNT"/> 件の候補があります。</translation>
-<translation id="1977195831772110829"><ph name="BEGIN_BOLD"/>データを管理する方法:<ph name="END_BOLD"/> ユーザーのプライバシーを保護するために、4 週間以上経過したユーザーの興味 / 関心は自動削除されます。ブラウジングを続けていると、興味 / 関心がリストに再度表示される場合もあります。Asil に認識してほしくない興味 / 関心は削除できます。</translation>
+<translation id="1977195831772110829"><ph name="BEGIN_BOLD"/>データを管理する方法:<ph name="END_BOLD"/> ユーザーのプライバシーを保護するために、4 週間以上経過したユーザーの興味 / 関心は自動削除されます。ブラウジングを続けていると、興味 / 関心がリストに再度表示される場合もあります。brave に認識してほしくない興味 / 関心は削除できます。</translation>
 <translation id="1628019612362412531">{NUM_SELECTED,plural, =1{選択された 1 件のアイテムを削除します}other{選択された # 件のアイテムを削除します}}</translation>
-<translation id="3122582044404611732">Asil のホームページで新しいコンテンツにアクセスできます</translation>
+<translation id="3122582044404611732">brave のホームページで新しいコンテンツにアクセスできます</translation>
 <translation id="1641113438599504367">セーフ ブラウジング</translation>
 <translation id="164269334534774161">このページの <ph name="CREATION_TIME"/> のオフライン コピーを表示しています</translation>
 <translation id="1644574205037202324">履歴</translation>
-<translation id="160450840812032879">動画プレビューを Asil ホームページで自動的に再生する方法を選択します。</translation>
+<translation id="160450840812032879">動画プレビューを brave ホームページで自動的に再生する方法を選択します。</translation>
 <translation id="1670399744444387456">基本設定</translation>
 <translation id="1671236975893690980">ダウンロードを待機しています...</translation>
 <translation id="1672586136351118594">次回から表示しない</translation>
-<translation id="1680919990519905526">Asil レンズで画像を購入 <ph name="BEGIN_NEW"/>New<ph name="END_NEW"/></translation>
+<translation id="1680919990519905526">brave レンズで画像を購入 <ph name="BEGIN_NEW"/>New<ph name="END_NEW"/></translation>
 <translation id="1682195225331129001">今すぐ試す</translation>
 <translation id="1702543251015153180">ダークモードの設定を変更しますか？</translation>
 <translation id="1702907158640575240">管理対象ブラウザ</translation>
 <translation id="1710099199314114079">タブを切り替える、または閉じる</translation>
 <translation id="1718835860248848330">1 時間以内</translation>
 <translation id="1724977129262658800">パスワードを編集するにはロックを解除してください</translation>
-<translation id="6493900814829428590">アクセスが想定されるページを Asil がプリロードすると、より高速に閲覧と検索を行えます</translation>
+<translation id="6493900814829428590">アクセスが想定されるページを brave がプリロードすると、より高速に閲覧と検索を行えます</translation>
 <translation id="173522743738009831">プライバシー サンドボックスについて</translation>
 <translation id="1736419249208073774">詳しく見る</translation>
 <translation id="1749561566933687563">ブックマークの同期</translation>
@@ -152,27 +152,27 @@
 <translation id="1829244130665387512">ページ内検索</translation>
 <translation id="1832459821645506983">同意する</translation>
 <translation id="1849863543394887018">通知は設定で無効にできます</translation>
-<translation id="1296423691585024517">試用期間中の広告の測定により、アクセスしたサイトは、サイトが広告のパフォーマンスを測定する際に役立つ Asil の情報をリクエストできます。広告の測定は、サイト間で転送する情報をできるだけ少なくすることで、クロスサイト トラッキングを制限します。
+<translation id="1296423691585024517">試用期間中の広告の測定により、アクセスしたサイトは、サイトが広告のパフォーマンスを測定する際に役立つ brave の情報をリクエストできます。広告の測定は、サイト間で転送する情報をできるだけ少なくすることで、クロスサイト トラッキングを制限します。
 
 全サイトまたは特定のサイトの閲覧履歴を削除すると、関連する測定情報も削除されます。<ph name="BEGIN_LINK"/>閲覧履歴<ph name="END_LINK"/>をご覧ください。</translation>
-<translation id="5173820533850252773">Asil は古いバージョンです</translation>
+<translation id="5173820533850252773">brave は古いバージョンです</translation>
 <translation id="1883903952484604915">マイファイル</translation>
 <translation id="189358972401248634">その他の言語</translation>
 <translation id="1900260903084164610">続行すると、<ph name="BEGIN_TOS_LINK"/>利用規約<ph name="END_TOS_LINK"/>に同意したことになります。</translation>
-<translation id="6893464351226208429">アクセスした URL は Asil アカウントに保存されます</translation>
+<translation id="6893464351226208429">アクセスした URL は brave アカウントに保存されます</translation>
 <translation id="1910950723001426294">共有オプションのリストが閉じられました。</translation>
 <translation id="1918175104945982129">アシスタントの音声検索の同意ダイアログが画面の下半分に表示されています</translation>
-<translation id="7021823858304886493">Asil へのログインを許可する</translation>
+<translation id="7021823858304886493">brave へのログインを許可する</translation>
 <translation id="1922362554271624559">言語の候補</translation>
 <translation id="1925021887439448749">カスタムのウェブアドレスを入力</translation>
 <translation id="1928696683969751773">更新</translation>
-<translation id="1875543012935658554">Asil を再度開きます。</translation>
+<translation id="1875543012935658554">brave を再度開きます。</translation>
 <translation id="1933845786846280168">選択したタブ</translation>
 <translation id="193571872656840963">作成者への謝意を示します</translation>
 <translation id="1943432128510653496">パスワードの保存</translation>
 <translation id="1952172573699511566">可能な場合、設定した言語でウェブサイトのテキストを表示します。</translation>
 <translation id="1959679933317802873">コンテンツの待機中</translation>
-<translation id="3968054912784331254">このバージョンの Android では Asil の更新はサポートされなくなりました</translation>
+<translation id="3968054912784331254">このバージョンの Android では brave の更新はサポートされなくなりました</translation>
 <translation id="1963976881984600709">標準保護機能</translation>
 <translation id="1966710179511230534">ログイン情報を更新してください。</translation>
 <translation id="197288927597451399">保存</translation>
@@ -182,15 +182,15 @@
 <translation id="1986685561493779662">この名前はすでに存在しています</translation>
 <translation id="1995884366040846621">続行すると、<ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> からこのサイトに名前、メールアドレス、プロフィール画像が共有されます。このサイトの<ph name="BEGIN_LINK1"/>プライバシー ポリシー<ph name="END_LINK1"/>をご確認ください。</translation>
 <translation id="2000419248597011803">Cookie と、アドレスバーや検索ボックスに入力した検索語句を既定の検索エンジンに送信します</translation>
-<translation id="6968892567705775281">Asil 検索に周辺のテキストを含めますか？</translation>
+<translation id="6968892567705775281">brave 検索に周辺のテキストを含めますか？</translation>
 <translation id="2013642289801508067">{FILE_COUNT,plural, =1{# 件のファイル}other{# 件のファイル}}</translation>
 <translation id="2021896219286479412">全画面表示時のサイトの操作項目</translation>
 <translation id="2038563949887743358">[PC 版サイトを見る] をオンにします</translation>
-<translation id="7675869148432102528">Asil にも <ph name="APP_NAME"/> のデータがあります</translation>
+<translation id="7675869148432102528">brave にも <ph name="APP_NAME"/> のデータがあります</translation>
 <translation id="2046634576464120978">登録できませんでした</translation>
 <translation id="2049574241039454490"><ph name="FILE_SIZE_OF_TOTAL"/> <ph name="SEPARATOR"/> <ph name="DESCRIPTION"/></translation>
 <translation id="2052422354554967744">インターネットを検索する</translation>
-<translation id="2053105195397337973">Asil では、サイトが広告のスパムと不正行為を防止できるようにしながら、トラッキングを制限する方法を模索しています。</translation>
+<translation id="2053105195397337973">brave では、サイトが広告のスパムと不正行為を防止できるようにしながら、トラッキングを制限する方法を模索しています。</translation>
 <translation id="2056878612599315956">サイト一時停止中</translation>
 <translation id="2065944887543506430">{FILE_COUNT,plural, =1{1 件のダウンロードが失敗しました}other{# 件のダウンロードが失敗しました}}</translation>
 <translation id="2067805253194386918">テキスト</translation>
@@ -204,13 +204,13 @@
 <translation id="2122601567107267586">アプリを開けませんでした</translation>
 <translation id="2132122640199389833">リンクしたすべてのデバイスを削除</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE"/> を閉じました</translation>
-<translation id="6659395979197839222">Asil を使用すると、<ph name="BEGIN_TOS_LINK"/>Asil 利用規約<ph name="END_TOS_LINK"/>と <ph name="BEGIN_ATOS_LINK"/>Asil および Chrome OS 追加利用規約<ph name="END_ATOS_LINK"/>に同意したものと見なされます。</translation>
+<translation id="6659395979197839222">brave を使用すると、<ph name="BEGIN_TOS_LINK"/>brave 利用規約<ph name="END_TOS_LINK"/>と <ph name="BEGIN_ATOS_LINK"/>brave および Chrome OS 追加利用規約<ph name="END_ATOS_LINK"/>に同意したものと見なされます。</translation>
 <translation id="2139186145475833000">ホーム画面に追加</translation>
 <translation id="2141396931810938595">使用状況を基に決定</translation>
-<translation id="6516933364477884970">Asil と共有してもよいものを選択してください。ご提供いただいた指標は、Asil の機能、パフォーマンス、安定性の向上に利用させていただきます。</translation>
+<translation id="6516933364477884970">brave と共有してもよいものを選択してください。ご提供いただいた指標は、brave の機能、パフォーマンス、安定性の向上に利用させていただきます。</translation>
 <translation id="2149973817440762519">ブックマークを編集</translation>
 <translation id="2155214902713132423">この認証方法は、このデバイスでは使用できません。他のデバイスで別の方法を選択してください。</translation>
-<translation id="4162910516440006395">Asil ですべてのパスワードを確認できませんでした</translation>
+<translation id="4162910516440006395">brave ですべてのパスワードを確認できませんでした</translation>
 <translation id="2172688499998841696">画像の説明をオフにしました</translation>
 <translation id="2172905120685242547">ウィンドウを閉じますか？</translation>
 <translation id="2175927920773552910">QR コード</translation>
@@ -223,10 +223,10 @@
 <translation id="2230777942707397948">空のウィンドウ</translation>
 <translation id="223356358902285214">ウェブとアプリのアクティビティ</translation>
 <translation id="2239812875700136898">Discover ボタンのオプションから記事を管理できます</translation>
-<translation id="4808014761134300692">Asil パスワード マネージャーに保存する前にデバイス上でパスワードを暗号化します</translation>
+<translation id="4808014761134300692">brave パスワード マネージャーに保存する前にデバイス上でパスワードを暗号化します</translation>
 <translation id="2259659629660284697">パスワードをエクスポート…</translation>
-<translation id="8820144752830692527">同期する項目はいつでも [<ph name="BEGIN_LINK1"/>設定<ph name="END_LINK1"/>] で選択できます。Asil では、履歴に基づいて検索やその他のサービスをカスタマイズすることがあります。</translation>
-<translation id="781982477617612877">パスワードを確認するには、Asil アカウントにログインしてください</translation>
+<translation id="8820144752830692527">同期する項目はいつでも [<ph name="BEGIN_LINK1"/>設定<ph name="END_LINK1"/>] で選択できます。brave では、履歴に基づいて検索やその他のサービスをカスタマイズすることがあります。</translation>
+<translation id="781982477617612877">パスワードを確認するには、brave アカウントにログインしてください</translation>
 <translation id="2278052315791335171">このパスワードを削除しても、<ph name="SITE"/> のアカウントは削除されません</translation>
 <translation id="2286841657746966508">請求先住所</translation>
 <translation id="228704530595896923">共有オプションのリストです。</translation>
@@ -236,14 +236,14 @@
 <translation id="2323763861024343754">サイトのストレージ</translation>
 <translation id="2328985652426384049">ログインできません</translation>
 <translation id="234265804618409743">カメラを開けません。エラーが発生しました。</translation>
-<translation id="3587672679800759167">Asil が使用するデータ全体（アカウント、ブックマーク、保存済みの設定など）</translation>
+<translation id="3587672679800759167">brave が使用するデータ全体（アカウント、ブックマーク、保存済みの設定など）</translation>
 <translation id="2353636109065292463">インターネット接続を確認しています</translation>
-<translation id="2767094839186957509">Asil プライバシー ポリシー</translation>
+<translation id="2767094839186957509">brave プライバシー ポリシー</translation>
 <translation id="2359808026110333948">続行</translation>
 <translation id="2386938421315164605">トピックの表示と非表示を切り替えます</translation>
 <translation id="2390510615457643724"><ph name="FILE_NAME"/><ph name="FILE_SIZE"/>を再ダウンロードしますか？</translation>
 <translation id="2394602618534698961">ダウンロードしたファイルがここに表示されます</translation>
-<translation id="801672626447970525">この機能は Asil アカウントにログインすると有効になります</translation>
+<translation id="801672626447970525">この機能は brave アカウントにログインすると有効になります</translation>
 <translation id="2410754283952462441">アカウントの選択</translation>
 <translation id="2414886740292270097">暗</translation>
 <translation id="2426805022920575512">別のアカウントを選択</translation>
@@ -253,17 +253,17 @@
 <translation id="2453860139492968684">終了</translation>
 <translation id="2459390580524506445">拡張音声検索</translation>
 <translation id="2461822463642141190">現在</translation>
-<translation id="2542068854151299295">Asil を最大限に活用するにはログインしてください</translation>
+<translation id="2542068854151299295">brave を最大限に活用するにはログインしてください</translation>
 <translation id="247737702124049222">画像の説明をオンにしました</translation>
 <translation id="2482878487686419369">通知</translation>
-<translation id="6361779936989026201">Asil の Asil アシスタント</translation>
+<translation id="6361779936989026201">brave の brave アシスタント</translation>
 <translation id="2496180316473517155">閲覧履歴</translation>
 <translation id="2497852260688568942">同期は管理者により無効にされています</translation>
-<translation id="7229462727772664332">Asil での <ph name="SITE_NAME"/> のログイン ステータス、閲覧データ、サイトデータが表示されます。</translation>
+<translation id="7229462727772664332">brave での <ph name="SITE_NAME"/> のログイン ステータス、閲覧データ、サイトデータが表示されます。</translation>
 <translation id="2510106555128151389">「<ph name="WEBAPK_NAME"/>」をインストールしています...</translation>
-<translation id="7222718784508482526">プライバシー、セキュリティ、データ収集に関連するその他の設定については、<ph name="BEGIN_LINK"/>同期と Asil サービス<ph name="END_LINK"/>をご覧ください</translation>
+<translation id="7222718784508482526">プライバシー、セキュリティ、データ収集に関連するその他の設定については、<ph name="BEGIN_LINK"/>同期と brave サービス<ph name="END_LINK"/>をご覧ください</translation>
 <translation id="2517472476991765520">スキャン</translation>
-<translation id="284843628681142937">アクセスしたページの URL を Asil に送信します</translation>
+<translation id="284843628681142937">アクセスしたページの URL を brave に送信します</translation>
 <translation id="2527209463677295330">検索に含めるページのテキストを増やすと、より正確な結果が得られる可能性があります</translation>
 <translation id="2527779675047087889">クリップボードの内容を非表示</translation>
 <translation id="2532336938189706096">ウェブ表示</translation>
@@ -274,14 +274,14 @@
 <translation id="2561519700418191927">動画プレビュー</translation>
 <translation id="2567385386134582609">画像</translation>
 <translation id="2567545343356994513">危険なウェブサイト、ダウンロード、拡張機能から予防的な方法で迅速に保護します</translation>
-<translation id="5079947353572974060">他の言語のページを Asil で翻訳するか尋ねる</translation>
-<translation id="6995512410824092085">Asil を既定のブラウザに設定する方法</translation>
+<translation id="5079947353572974060">他の言語のページを brave で翻訳するか尋ねる</translation>
+<translation id="6995512410824092085">brave を既定のブラウザに設定する方法</translation>
 <translation id="6453483065572809635">スパムと不正行為の削減はプライベート ステート トークンに依拠して行われ、サイトが不正行為に対処し、bot と人間を区別できるようにします。
 
 アカウントへの定期的なログインなどのやり取りに基づき、サイトはブラウザにプライベート ステート トークンを発行できます。その後、アクセスした他のサイトが有効なプライベート ステート トークンを確認して検出した場合、そのサイトはユーザーを bot ではなく人間として扱う可能性が高くなります。
 
 プライベート ステート トークンはウェブ上のプライバシー保護を強化するもので、ユーザーの特定に使用することはできません。</translation>
-<translation id="2324920234469020158">Asil で重要度が低いと判断されるサイトの Cookie やキャッシュなどのデータを削除します。</translation>
+<translation id="2324920234469020158">brave で重要度が低いと判断されるサイトの Cookie やキャッシュなどのデータを削除します。</translation>
 <translation id="2587052924345400782">新しいバージョンをご利用いただけます</translation>
 <translation id="2593272815202181319">等幅</translation>
 <translation id="2604446170045642109">このサイトのダークモードを設定でオフにできます。</translation>
@@ -310,14 +310,14 @@
 <translation id="2760989362628427051">デバイスのダークモードまたはバッテリー セーバーがオンのときにダークモードをオンにする</translation>
 <translation id="2762000892062317888">たった今</translation>
 <translation id="276969039800130567"><ph name="USER_EMAIL_ADDRESS"/> としてログインしています。</translation>
-<translation id="8312774691909088652">プライバシー、セキュリティ、データ収集に関連するその他の設定については、<ph name="BEGIN_LINK"/>Asil サービス<ph name="END_LINK"/>をご覧ください</translation>
+<translation id="8312774691909088652">プライバシー、セキュリティ、データ収集に関連するその他の設定については、<ph name="BEGIN_LINK"/>brave サービス<ph name="END_LINK"/>をご覧ください</translation>
 <translation id="2777555524387840389">残り <ph name="SECONDS"/> 秒</translation>
 <translation id="2779651927720337254">失敗</translation>
 <translation id="2781151931089541271">残り 1 秒</translation>
 <translation id="2788468313014644040">グループ番号</translation>
 <translation id="2800066122460699237">「<ph name="TAB_TITLE"/>」タブが閉じられます</translation>
 <translation id="2806840421670364300">FLoC</translation>
-<translation id="7068873021383263704"><ph name="BEGIN_LINK"/>Asil アカウント<ph name="END_LINK"/>での保存パスワードの表示と管理</translation>
+<translation id="7068873021383263704"><ph name="BEGIN_LINK"/>brave アカウント<ph name="END_LINK"/>での保存パスワードの表示と管理</translation>
 <translation id="2818669890320396765">お使いのどのデバイスでも同じブックマークを使用するには、ログインして同期を有効にします</translation>
 <translation id="2827278682606527653">フィードカード メニューが画面の下半分に開いています</translation>
 <translation id="2830783625999891985">クリップボードの内容は非表示になっています</translation>
@@ -327,40 +327,40 @@
 <translation id="2842985007712546952">親フォルダ</translation>
 <translation id="2856503607207334158">ログインできませんでした</translation>
 <translation id="2860954141821109167">このデバイスで通話アプリが有効になっていることを確認してください</translation>
-<translation id="6518254564747115579">Asil の一部の機能は使用できなくなります</translation>
+<translation id="6518254564747115579">brave の一部の機能は使用できなくなります</translation>
 <translation id="2870560284913253234">サイト</translation>
 <translation id="2871733351037274014">ページをプリロードする</translation>
 <translation id="2876136027428473467"><ph name="CHILD_NAME"/> さんが次のウェブサイトの承認を求めています。</translation>
 <translation id="2886836735871983413">ウェブを閲覧すると、こちらにサイトのリストが表示されます</translation>
-<translation id="8541922081612557424">Asil について</translation>
+<translation id="8541922081612557424">brave について</translation>
 <translation id="2891154217021530873">ページの読み込みを停止</translation>
-<translation id="4013614219085422040">検索やその他の Asil サービスをカスタマイズするために、Asil で履歴が使用されることがあります</translation>
+<translation id="4013614219085422040">検索やその他の brave サービスをカスタマイズするために、brave で履歴が使用されることがあります</translation>
 <translation id="2900528713135656174">予定を作成</translation>
 <translation id="2901411048554510387"><ph name="WEBSITE_TITLE"/> の候補を表示しています</translation>
 <translation id="2904414404539560095">タブを共有するデバイスのリストが画面全体に表示されました。</translation>
 <translation id="2908243544703713905">未読の記事があります</translation>
-<translation id="7339921667754113786">Asil 通知プラットフォーム</translation>
+<translation id="7339921667754113786">brave 通知プラットフォーム</translation>
 <translation id="2912296070571964914">興味のあるトピックを管理します</translation>
 <translation id="2923908459366352541">名前が無効です</translation>
-<translation id="6355102470683871794">Asil <ph name="APP_NAME"/> ストレージ</translation>
+<translation id="6355102470683871794">brave <ph name="APP_NAME"/> ストレージ</translation>
 <translation id="2932222164150889403">キーボードは変更されません</translation>
-<translation id="6537665929855787038">Asil の通知で状況を簡単に把握できます</translation>
+<translation id="6537665929855787038">brave の通知で状況を簡単に把握できます</translation>
 <translation id="2940075786175545812">ウェブサイトを承認するかどうかを決定するオプション</translation>
 <translation id="2942036813789421260">[プレビュー] タブは閉じられています</translation>
-<translation id="4700262879698141140">他のデバイスに接続するよう Asil を更新しています</translation>
+<translation id="4700262879698141140">他のデバイスに接続するよう brave を更新しています</translation>
 <translation id="2951071800649516099">後で読めるようにページをリーディング リストに追加します</translation>
 <translation id="2961208450284224863">{READING_LIST_UNREAD_PAGE_COUNT,plural, =1{<ph name="READING_LIST_UNREAD_PAGE_COUNT_ONE"/> 件の未読ページ}other{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY"/> 件の未読ページ}}</translation>
 <translation id="2961210776189273067">敬称</translation>
 <translation id="2979639724566107830">新しいウィンドウで開く</translation>
 <translation id="2981364137500752533">同時に開くことができるウィンドウは最大 5 つです。</translation>
-<translation id="5948666439178419683">Asil 検索に周辺のテキストを含める</translation>
+<translation id="5948666439178419683">brave 検索に周辺のテキストを含める</translation>
 <translation id="2987620471460279764">他のデバイスからテキストが共有されました</translation>
 <translation id="2989523299700148168">最近のアクセス</translation>
 <translation id="2992473221983447149">画像の説明</translation>
 <translation id="2994959273484668146"><ph name="DOMAIN"/> を削除</translation>
 <translation id="2996291259634659425">パスフレーズの作成</translation>
 <translation id="2996809686854298943">URLが必要です</translation>
-<translation id="2019027298133375428">ページのリンクを非公開でプリロードするように求めるメッセージが Asil サイトに表示された場合、Asil は Cookie を使用せずに Asil サーバーを経由してページを暗号化し、プリロードします。その結果、プリロードされたサイトでユーザーの ID が非表示になります。</translation>
+<translation id="2019027298133375428">ページのリンクを非公開でプリロードするように求めるメッセージが brave サイトに表示された場合、brave は Cookie を使用せずに brave サーバーを経由してページを暗号化し、プリロードします。その結果、プリロードされたサイトでユーザーの ID が非表示になります。</translation>
 <translation id="3006881078666935414">使用状況データはありません</translation>
 <translation id="301080557829842765">プライバシー ガイド</translation>
 <translation id="3016635187733453316">このデバイスがインターネットに接続していることを確認してください</translation>
@@ -370,44 +370,44 @@
 <translation id="3031225630520268969">アシスタントの音声検索の同意ダイアログ</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK"/>ヘルプ<ph name="END_LINK"/></translation>
 <translation id="3037177537145227281">価格をトラッキングします</translation>
-<translation id="3251012123600267109">Asil へのログインを促すメッセージが表示されます</translation>
+<translation id="3251012123600267109">brave へのログインを促すメッセージが表示されます</translation>
 <translation id="3046945242843292318">次回からこのサイトにすばやくアクセスできます</translation>
 <translation id="3055113921564083271">削除した興味 / 関心</translation>
 <translation id="3055259925215945098">ブックマークを移動しました</translation>
-<translation id="4163313568284712797">Asil の使用状況に関する情報が Asil に送信されますが、ユーザーとは関連付けられません\n\nBrave がクラッシュした場合、クラッシュに関する情報として一部の個人情報が送信される場合があります\n\n同期を有効にした場合、アクセスした URL に関する情報も送信される場合があります</translation>
+<translation id="4163313568284712797">brave の使用状況に関する情報が brave に送信されますが、ユーザーとは関連付けられません\n\nBrave がクラッシュした場合、クラッシュに関する情報として一部の個人情報が送信される場合があります\n\n同期を有効にした場合、アクセスした URL に関する情報も送信される場合があります</translation>
 <translation id="3060635849835183725">{BOOKMARKS_COUNT,plural, =1{<ph name="BOOKMARKS_COUNT_ONE"/> 個のブックマーク}other{<ph name="BOOKMARKS_COUNT_MANY"/> 個のブックマーク}}</translation>
-<translation id="6153252609477956632">Asil の履歴に基づくおすすめの記事を表示します</translation>
+<translation id="6153252609477956632">brave の履歴に基づくおすすめの記事を表示します</translation>
 <translation id="3066573403916685335">下に移動</translation>
 <translation id="3070005020161560471">自動的に翻訳する</translation>
-<translation id="1094255666887095087">Asil で <ph name="APP_NAME"/> を開きます。続行すると、<ph name="BEGIN_LINK1"/>Asil 利用規約<ph name="END_LINK1"/>と <ph name="BEGIN_LINK2"/>Asil および Chrome OS 追加利用規約<ph name="END_LINK2"/>に同意したものと見なされます。また、<ph name="BEGIN_LINK3"/>プライバシー ポリシー<ph name="END_LINK3"/>も適用されます。</translation>
+<translation id="1094255666887095087">brave で <ph name="APP_NAME"/> を開きます。続行すると、<ph name="BEGIN_LINK1"/>brave 利用規約<ph name="END_LINK1"/>と <ph name="BEGIN_LINK2"/>brave および Chrome OS 追加利用規約<ph name="END_LINK2"/>に同意したものと見なされます。また、<ph name="BEGIN_LINK3"/>プライバシー ポリシー<ph name="END_LINK3"/>も適用されます。</translation>
 <translation id="3091010850649238832">クリップボードの内容を表示</translation>
-<translation id="821565628224723530">正確な説明を生成するため、画像が Asil に送信される場合があります</translation>
+<translation id="821565628224723530">正確な説明を生成するため、画像が brave に送信される場合があります</translation>
 <translation id="3114507951000454849">今日のニュースをチェック <ph name="NEWS_ICON"/></translation>
 <translation id="311958134571892113">リンクされました:</translation>
 <translation id="3123734510202723619">お知らせ</translation>
 <translation id="3130863904455712965">履歴、その他</translation>
 <translation id="3134784203083076891">」</translation>
-<translation id="5063487983358782016">Asil のホームページ</translation>
+<translation id="5063487983358782016">brave のホームページ</translation>
 <translation id="3157931365184549694">復元</translation>
 <translation id="3166827708714933426">タブとウィンドウのショートカット</translation>
-<translation id="7249949543831830993">Asil はここですでに実行中です。</translation>
+<translation id="7249949543831830993">brave はここですでに実行中です。</translation>
 <translation id="3169472444629675720">Discover</translation>
 <translation id="3187472288455401631">広告の測定</translation>
 <translation id="3207960819495026254">ブックマークしました</translation>
 <translation id="3208584281581115441">今すぐ確認</translation>
 <translation id="3211426585530211793"><ph name="ITEM_TITLE"/> を削除しました</translation>
-<translation id="1892217432793359605">ログイン中は Asil アカウントに<ph name="BEGIN_LINK1"/>検索履歴<ph name="END_LINK1"/>や<ph name="BEGIN_LINK2"/>その他のアクティビティ<ph name="END_LINK2"/>が保存される可能性があります。これらのデータはいつでも削除できます。</translation>
+<translation id="1892217432793359605">ログイン中は brave アカウントに<ph name="BEGIN_LINK1"/>検索履歴<ph name="END_LINK1"/>や<ph name="BEGIN_LINK2"/>その他のアクティビティ<ph name="END_LINK2"/>が保存される可能性があります。これらのデータはいつでも削除できます。</translation>
 <translation id="321773570071367578">パスフレーズを忘れた場合や、この設定を変更する場合は、<ph name="BEGIN_LINK"/>同期をリセット<ph name="END_LINK"/>します</translation>
 <translation id="3220943972464248773">パスワードを同期するには、本人確認を行ってください</translation>
 <translation id="3223522355830797639">ご利用の銀行またはカード発行会社が本人確認をもとめています。</translation>
-<translation id="9047551989591319903">Asil をセキュリティ キーとして使用</translation>
+<translation id="9047551989591319903">brave をセキュリティ キーとして使用</translation>
 <translation id="3232754137068452469">ウェブアプリ</translation>
 <translation id="3234978181857588512">デバイスに保存</translation>
 <translation id="3236059992281584593">残り 1 分</translation>
 <translation id="3237087289225714896">標準プリロード:</translation>
 <translation id="3237433641417325993">おすすめの記事を見るには、下にスクロールします</translation>
 <translation id="3244271242291266297">MM</translation>
-<translation id="7402642357351265733">Asil の使用状況レポートを送信する場合は、アクセスした URL がこのレポートに含められます</translation>
+<translation id="7402642357351265733">brave の使用状況レポートを送信する場合は、アクセスした URL がこのレポートに含められます</translation>
 <translation id="3250563604907490871">画像の説明は Wi-Fi に接続すると再開します</translation>
 <translation id="3254409185687681395">このページをブックマークに追加します</translation>
 <translation id="3259831549858767975">ページ上のすべての要素を縮小する</translation>
@@ -417,8 +417,8 @@
 <translation id="3265534588625245297">フォローするサイトを管理</translation>
 <translation id="3269093882174072735">画像を読み込む</translation>
 <translation id="3280562213547448728">音声検索</translation>
-<translation id="82609232232243542">Asil にログイン</translation>
-<translation id="1793814306828610181">Asil の使い方に関する動画</translation>
+<translation id="82609232232243542">brave にログイン</translation>
+<translation id="1793814306828610181">brave の使い方に関する動画</translation>
 <translation id="3288003805934695103">ページを再読み込みする</translation>
 <translation id="3290249595466894471">また、新たな脅威を発見するため、ページ、ダウンロード、拡張機能のアクティビティ、システム情報の一部のサンプルも送信します</translation>
 <translation id="3297344142967351106">音声アシスタント</translation>
@@ -427,25 +427,25 @@
 <translation id="3334729583274622784">ファイル拡張子を変更しますか？</translation>
 <translation id="3341262203274374114">フォローを解除できません。エラーが発生しました。</translation>
 <translation id="3359667936385849800">現在のサービス プロバイダを使用</translation>
-<translation id="449001704952013438">Asil では上記の興味 / 関心が考慮されます</translation>
+<translation id="449001704952013438">brave では上記の興味 / 関心が考慮されます</translation>
 <translation id="3367813778245106622">同期を開始するにはもう一度ログインします</translation>
-<translation id="2746024117903470217">このページを別のデバイスと共有するには、別のデバイスの Asil 設定で同期をオンにしてください</translation>
-<translation id="8801234437789558906">ブックマーク、履歴、パスワード、その他の Asil データは、Asil アカウントに同期されなくなります</translation>
+<translation id="2746024117903470217">このページを別のデバイスと共有するには、別のデバイスの brave 設定で同期をオンにしてください</translation>
+<translation id="8801234437789558906">ブックマーク、履歴、パスワード、その他の brave データは、brave アカウントに同期されなくなります</translation>
 <translation id="3384347053049321195">画像を共有</translation>
 <translation id="3387650086002190359">ファイル システムでエラーが発生したため、<ph name="FILE_NAME"/> をダウンロードできませんでした。</translation>
 <translation id="3389286852084373014">テキストが大きすぎます</translation>
 <translation id="3391512812407811893">プライバシー サンドボックス（試用版）</translation>
 <translation id="3398320232533725830">ブックマーク マネージャを開く</translation>
-<translation id="1081508498128395141">プリロードされるページ数が増加します。ページが他のサイトからリクエストされた場合は、Asil サーバーを経由してプリロードされる可能性があります。</translation>
+<translation id="1081508498128395141">プリロードされるページ数が増加します。ページが他のサイトからリクエストされた場合は、brave サーバーを経由してプリロードされる可能性があります。</translation>
 <translation id="3414952576877147120">サイズ:</translation>
 <translation id="3421726884497337397">サードパーティの Cookie をどのようなときにブロックするかを選択する</translation>
-<translation id="5265419033369521352">ログイン時に、Asil を安全に利用できるようにするほか、他の Asil アプリのセキュリティ強化に使用されることがあります</translation>
+<translation id="5265419033369521352">ログイン時に、brave を安全に利用できるようにするほか、他の brave アプリのセキュリティ強化に使用されることがあります</translation>
 <translation id="3429160811076349561">試用版機能はオフになっています</translation>
 <translation id="3435465986463792564">ウィンドウの数が多くてお困りの場合も、ここで管理できます</translation>
 <translation id="3435738964857648380">セキュリティ</translation>
 <translation id="3443221991560634068">現在のページを再読み込みする</translation>
 <translation id="3444179773590444986">サイトのダークモードに関するフィードバックを共有しますか？</translation>
-<translation id="7384339501748168186">プライバシー保護のため、Asil ではこの欄のパスワードの自動入力は行われません。</translation>
+<translation id="7384339501748168186">プライバシー保護のため、brave ではこの欄のパスワードの自動入力は行われません。</translation>
 <translation id="3474624961160222204"><ph name="NAME"/> として続行</translation>
 <translation id="3478363558367712427">検索エンジンを選択できます</translation>
 <translation id="3479552764303398839">後で</translation>
@@ -453,7 +453,7 @@
 <translation id="3495219333887281978">ログインのボトムシートが画面の下半分に表示されています。</translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="3507132249039706973">標準保護機能がオンになっています</translation>
-<translation id="8669829441518807650">オフラインです。Asil でアップデートを確認できません。</translation>
+<translation id="8669829441518807650">オフラインです。brave でアップデートを確認できません。</translation>
 <translation id="3513704683820682405">拡張現実（AR）</translation>
 <translation id="3518985090088779359">同意して続行</translation>
 <translation id="3522247891732774234">アップデートが見つかりました。その他のオプション</translation>
@@ -466,7 +466,7 @@
 <translation id="3560491354538957576">サイトに基づいて興味 / 関心が定義されます</translation>
 <translation id="3563767357928833671">クリップボードの内容が表示されています</translation>
 <translation id="3566639033325271639">設定を更新</translation>
-<translation id="1908301351964700579">Asil はまだ VR の準備中です。しばらく待ってから Asil を再起動してください。</translation>
+<translation id="1908301351964700579">brave はまだ VR の準備中です。しばらく待ってから brave を再起動してください。</translation>
 <translation id="3568688522516854065">他のデバイスと同じタブを使用するには、ログインして同期を有効にします</translation>
 <translation id="357465026686164600">スマートフォンをセキュリティ キーとして使用する</translation>
 <translation id="3577473026931028326">エラーが発生しました。もう一度お試しください。</translation>
@@ -486,8 +486,8 @@
 <translation id="3699022356773522638">ファイルをダウンロードしますか？</translation>
 <translation id="371230970611282515">危険なイベントの発生を予測して警告します。</translation>
 <translation id="3714981814255182093">検索バーを開く</translation>
-<translation id="5805364706385912897">このページは大量のメモリを使用しているため、Asil により一時停止されました。</translation>
-<translation id="8397843425685839889">Asil の設定</translation>
+<translation id="5805364706385912897">このページは大量のメモリを使用しているため、brave により一時停止されました。</translation>
+<translation id="8397843425685839889">brave の設定</translation>
 <translation id="3737319253362202215">翻訳設定</translation>
 <translation id="3737402728074743863">このデバイスをセキュリティ キーとして使用するには、画面ロックを設定してください</translation>
 <translation id="3738139272394829648">タップして検索</translation>
@@ -495,7 +495,7 @@
 <translation id="3740525748616366977">音声検索はこのデバイスではご利用いただけません</translation>
 <translation id="377124182565324804"><ph name="SITE"/> を追加</translation>
 <translation id="3771290962915251154">保護者による使用制限が有効なため、この設定は無効になっています</translation>
-<translation id="1138681184697033370">Asil 利用規約</translation>
+<translation id="1138681184697033370">brave 利用規約</translation>
 <translation id="3773856050682458546">基本データに加えて、アクセスしたウェブサイト、使用したアプリに関する情報</translation>
 <translation id="3775705724665058594">お使いのデバイスに送信</translation>
 <translation id="3791957072666773229">{TAB_COUNT,plural, =1{1 個のタブ}other{# 個のタブ}}</translation>
@@ -521,17 +521,17 @@
 <translation id="3934366560681368531">「</translation>
 <translation id="393697183122708255">有効な音声検索がありません</translation>
 <translation id="395377504920307820">アカウントなしで使用</translation>
-<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{準備ができると Asil でページが読み込まれます}other{準備ができると Asil でページが読み込まれます}}</translation>
+<translation id="6945986954012067786">{NUM_IN_PROGRESS,plural, =1{準備ができると brave でページが読み込まれます}other{準備ができると brave でページが読み込まれます}}</translation>
 <translation id="3962119236270174787">危険だと認識されているウェブサイト、ダウンロード、拡張機能から標準的な方法で保護します</translation>
-<translation id="4908545308856135643">パスフレーズ暗号化の対象に Google Pay のお支払い方法と住所は含まれません。パスフレーズを知っているユーザーだけが暗号化データを読み取ることができます。パスフレーズが Asil に送信されたり Asil で保存されたりすることはありません。パスフレーズを忘れた場合や、この設定を変更する場合は、同期をリセットする必要があります。<ph name="BEGIN_LINK"/>詳細<ph name="END_LINK"/></translation>
-<translation id="1453002554835005700">Asil でパスワードを確認できません</translation>
+<translation id="4908545308856135643">パスフレーズ暗号化の対象に Google Pay のお支払い方法と住所は含まれません。パスフレーズを知っているユーザーだけが暗号化データを読み取ることができます。パスフレーズが brave に送信されたり brave で保存されたりすることはありません。パスフレーズを忘れた場合や、この設定を変更する場合は、同期をリセットする必要があります。<ph name="BEGIN_LINK"/>詳細<ph name="END_LINK"/></translation>
+<translation id="1453002554835005700">brave でパスワードを確認できません</translation>
 <translation id="3969863827134279083">上に移動</translation>
 <translation id="397583555483684758">同期は停止されました</translation>
 <translation id="3976396876660209797">このショートカットを削除して再度作成します</translation>
 <translation id="3981902534690264083">広告主は広告のパフォーマンスを把握できます</translation>
 <translation id="3985215325736559418"><ph name="FILE_NAME"/> をもう一度ダウンロードしますか？</translation>
 <translation id="3987993985790029246">リンクのコピー</translation>
-<translation id="5846727201643228411">サイトでの広告表示に使用される興味 / 関心のトピックを表示、削除できます。Asil では最近の閲覧履歴に基づいてユーザーの興味 / 関心を推定します。</translation>
+<translation id="5846727201643228411">サイトでの広告表示に使用される興味 / 関心のトピックを表示、削除できます。brave では最近の閲覧履歴に基づいてユーザーの興味 / 関心を推定します。</translation>
 <translation id="4000212216660919741">オフライン ホーム</translation>
 <translation id="4016425174436051808">フォローできません。エラーが発生しました。</translation>
 <translation id="4034817413553209278">{HOURS,plural, =1{# 時間}other{# 時間}}</translation>
@@ -544,21 +544,21 @@
 <translation id="4062305924942672200">法的情報</translation>
 <translation id="4072805772816336153">しばらくしてからもう一度お試しください</translation>
 <translation id="4084682180776658562">ブックマーク</translation>
-<translation id="4521874409998847950"><ph name="PUBLISHER_ORIGIN"/> のコンテンツ - <ph name="BEGIN_DEEMPHASIZED"/>Asil により配信<ph name="END_DEEMPHASIZED"/></translation>
+<translation id="4521874409998847950"><ph name="PUBLISHER_ORIGIN"/> のコンテンツ - <ph name="BEGIN_DEEMPHASIZED"/>brave により配信<ph name="END_DEEMPHASIZED"/></translation>
 <translation id="409109920254068737">この QR コードが表示されているデバイスに、このタブレットを使用してログインできます。</translation>
 <translation id="4095146165863963773">アプリデータを削除しますか？</translation>
 <translation id="4096227151372679484">ブックマーク保存フローが画面の下半分に表示されています</translation>
-<translation id="673197144963363525">使用統計情報と障害レポートを Asil に送信して、Asil の品質向上にご協力ください。</translation>
+<translation id="673197144963363525">使用統計情報と障害レポートを brave に送信して、brave の品質向上にご協力ください。</translation>
 <translation id="4101475238162928417">同期すると、他のデバイスのパスワードやブックマークなどを使用できます。</translation>
 <translation id="410351446219883937">自動再生</translation>
-<translation id="8112581848375017126">Asil では、使用されるユーザーの情報の量を抑えつつ、同じようにサイトをブラウジングできる新機能をテストしています</translation>
+<translation id="8112581848375017126">brave では、使用されるユーザーの情報の量を抑えつつ、同じようにサイトをブラウジングできる新機能をテストしています</translation>
 <translation id="4108314971463891922">フォロー</translation>
 <translation id="4108998448622696017">危険なイベントの発生を検出して警告します。</translation>
 <translation id="4116038641877404294">ページをダウンロードするとオフラインで使用できるようになります</translation>
 <translation id="4135200667068010335">タブを共有するデバイスのリストが閉じられました。</translation>
 <translation id="4137746084635924146">現在のデバイスの言語</translation>
 <translation id="414128724510021958">PC 版サイトをデフォルトでリクエスト</translation>
-<translation id="4159350418181625094">Asil について学ぶ</translation>
+<translation id="4159350418181625094">brave について学ぶ</translation>
 <translation id="1453456663856716353">試用期間中、スパムと不正行為の削減はプライベート ステート トークンに依拠して行われ、サイトが不正行為に対処し、bot と人間を区別できるようにします。
 
 アカウントへの定期的なログインなどのやり取りに基づき、サイトはブラウザにプライベート ステート トークンを発行できます。その後、アクセスした他のサイトが有効なプライベート ステート トークンを確認して検出した場合、そのサイトはユーザーを bot ではなく人間として扱う可能性が高くなります。
@@ -571,21 +571,21 @@
 <translation id="4195643157523330669">新しいタブで開く</translation>
 <translation id="4196597275619698563">カードを作成</translation>
 <translation id="4198423547019359126">ダウンロードの保存先はありません</translation>
-<translation id="6003646045106347985">ユーザーに合わせた Asil からのおすすめコンテンツを表示するには、同期を有効にします</translation>
-<translation id="1675646381334855139">Cookie を許可すると、Asil がプリロードの際に Cookie を使用します。</translation>
+<translation id="6003646045106347985">ユーザーに合わせた brave からのおすすめコンテンツを表示するには、同期を有効にします</translation>
+<translation id="1675646381334855139">Cookie を許可すると、brave がプリロードの際に Cookie を使用します。</translation>
 <translation id="4225895483398857530">ツールバー ショートカット</translation>
 <translation id="4242533952199664413">設定を開く</translation>
 <translation id="4248098802131000011">データ侵害などのセキュリティの問題からパスワードを保護します</translation>
-<translation id="7445061995866044926">Asil からログアウトしますか？</translation>
+<translation id="7445061995866044926">brave からログアウトしますか？</translation>
 <translation id="4249955472157341256">最新で並べ替え</translation>
 <translation id="4250229828105606438">スクリーンショット</translation>
 <translation id="4256782883801055595">オープンソース ライセンス</translation>
-<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>使用されるデータ:<ph name="END_BOLD"/> 閲覧履歴（このデバイスで Asil を使用してアクセスしたサイトの記録）。</translation>
+<translation id="4105986395895210872"><ph name="BEGIN_BOLD"/>使用されるデータ:<ph name="END_BOLD"/> 閲覧履歴（このデバイスで brave を使用してアクセスしたサイトの記録）。</translation>
 <translation id="4263656433980196874">アシスタントの音声検索の同意ダイアログが画面全体に表示されています</translation>
 <translation id="4269820728363426813">リンクアドレスをコピー</translation>
 <translation id="4283102315569707115">デフォルトで PC 版サイトをリクエストしますか？</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK"/>Android の設定で画面ロックをオンにする<ph name="END_LINK"/></translation>
-<translation id="6299940168852877221">Asil を使用すると、<ph name="BEGIN_TOS_LINK"/>Asil 利用規約<ph name="END_TOS_LINK"/>と <ph name="BEGIN_ATOS_LINK"/>Asil および Chrome OS 追加利用規約<ph name="END_ATOS_LINK"/>に同意したものと見なされます。また、<ph name="BEGIN_PRIVACY_LINK"/>プライバシー ポリシー<ph name="END_PRIVACY_LINK"/>も適用されます。</translation>
+<translation id="6299940168852877221">brave を使用すると、<ph name="BEGIN_TOS_LINK"/>brave 利用規約<ph name="END_TOS_LINK"/>と <ph name="BEGIN_ATOS_LINK"/>brave および Chrome OS 追加利用規約<ph name="END_ATOS_LINK"/>に同意したものと見なされます。また、<ph name="BEGIN_PRIVACY_LINK"/>プライバシー ポリシー<ph name="END_PRIVACY_LINK"/>も適用されます。</translation>
 <translation id="4298388696830689168">リンク済みのサイト</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="4307992518367153382">基本設定</translation>
@@ -602,7 +602,7 @@
 <translation id="4405224443901389797">移動…</translation>
 <translation id="4405636711880428279">仮想カードを削除しますか？</translation>
 <translation id="4409271659088619928">検索エンジンは <ph name="DSE"/> に設定されています。検索履歴を削除する場合は、検索エンジンの手順をご確認ください（該当する場合）。</translation>
-<translation id="5749788945734786627">Asil アカウントの管理</translation>
+<translation id="5749788945734786627">brave アカウントの管理</translation>
 <translation id="4425140285732600465">価格をトラッキングします。値下げしたサイトがある場合に通知します。</translation>
 <translation id="442518031075347249">Google Pay で仮想カードを使用できなくなります。<ph name="BEGIN_LINK1"/>仮想カードの詳細<ph name="END_LINK1"/></translation>
 <translation id="4428065317363009941">広告のカスタマイズ</translation>
@@ -611,18 +611,18 @@
 <translation id="4461614516424362539">QR コードを使用してリンクした他のデバイスで、このスマートフォンをセキュリティ キーとして使用できます。デバイスを削除した場合は、QR コードをスキャンしてもう一度リンクする必要があります。</translation>
 <translation id="4472118726404937099">複数のデバイスで独自の設定を同期して共有するには、ログインして同期を有効にします</translation>
 <translation id="4479839115899251637">リーディング リストから削除</translation>
-<translation id="3133489217401741157">Asil 用の <ph name="MODULE"/> をインストールしています…</translation>
+<translation id="3133489217401741157">brave 用の <ph name="MODULE"/> をインストールしています…</translation>
 <translation id="4484496141267039529">ネットワークに接続されていないため、しばらくしてからもう一度お試しください。</translation>
-<translation id="53119194224775367">Asil のすべてのアプリデータを完全に削除します。削除されるデータには、すべてのファイル、設定、アカウント、データベースなどが含まれます。</translation>
-<translation id="3966104135245031874">Asil アカウントで同期パスワードを暗号化する</translation>
+<translation id="53119194224775367">brave のすべてのアプリデータを完全に削除します。削除されるデータには、すべてのファイル、設定、アカウント、データベースなどが含まれます。</translation>
+<translation id="3966104135245031874">brave アカウントで同期パスワードを暗号化する</translation>
 <translation id="4504667196171871375">Wi-Fi、モバイルデータ接続時</translation>
 <translation id="4508528996305412043">フィードカード メニューが開いています</translation>
 <translation id="4508642716788467538">言語を選択してください</translation>
 <translation id="4513387527876475750">{DAYS,plural, =1{# 日前}other{# 日前}}</translation>
 <translation id="451872707440238414">ブックマークを検索</translation>
-<translation id="1664855196866195614">選択したデータが Asil から削除され、同期デバイスからも削除されました。
+<translation id="1664855196866195614">選択したデータが brave から削除され、同期デバイスからも削除されました。
 
-他の Asil サービスでの検索や操作など、Asil アカウントの他の形式の閲覧履歴が <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> に残ることがあります。</translation>
+他の brave サービスでの検索や操作など、brave アカウントの他の形式の閲覧履歴が <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> に残ることがあります。</translation>
 <translation id="452750746583162491">同期したデータを確認する</translation>
 <translation id="4532845899244822526">フォルダの選択</translation>
 <translation id="4549903594034243526">chrome_emotion_gif_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
@@ -647,14 +647,14 @@
 <translation id="4663499661119906179">よく使用するサイトや記事を表示します</translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS"/> 件のブックマークを削除しました</translation>
 <translation id="4668347365065281350">サイトによって保存されたすべてのデータ（Cookie やローカルに保存された他のデータを含む）</translation>
-<translation id="6904731820418823295">Asil でサイトのダークモードがオンになっています</translation>
+<translation id="6904731820418823295">brave でサイトのダークモードがオンになっています</translation>
 <translation id="4684427112815847243">すべてを同期する</translation>
 <translation id="4685741273709472646">プルダウン リストから選択します</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 他 <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> 件}other{<ph name="SHIPPING_OPTION_PREVIEW"/>\u2026 他 <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS"/> 件}}</translation>
 <translation id="4699172675775169585">キャッシュされた画像とファイル</translation>
 <translation id="4719927025381752090">翻訳するか尋ねる</translation>
 <translation id="4720023427747327413"><ph name="PRODUCT_NAME"/> で開く</translation>
-<translation id="4939482511480190003">Asil の品質向上にご協力ください。<ph name="BEGIN_LINK"/>アンケートに回答する<ph name="END_LINK"/></translation>
+<translation id="4939482511480190003">brave の品質向上にご協力ください。<ph name="BEGIN_LINK"/>アンケートに回答する<ph name="END_LINK"/></translation>
 <translation id="47217992755561375">よく使用するサイトを表示します</translation>
 <translation id="4732120983431207637">スタック アンワインダー</translation>
 <translation id="4736934858538408121">仮想カード</translation>
@@ -683,25 +683,25 @@
 <translation id="4831037795716408498">コンテンツをダウンロードする</translation>
 <translation id="4834007576107377210">検索履歴を削除する場合は、お使いの検索エンジンの手順をご確認ください（該当する場合）</translation>
 <translation id="4834250788637067901">Google Pay を使用したお支払方法、クーポン、住所</translation>
-<translation id="2593289874938379417">Asil はリクエストされたリソースにアクセスできません。</translation>
+<translation id="2593289874938379417">brave はリクエストされたリソースにアクセスできません。</translation>
 <translation id="4837753911714442426">ページの印刷オプションを開く</translation>
 <translation id="4842092870884894799">パスワード作成のポップアップを表示しています</translation>
 <translation id="4842515939542199281">声を使って検索するには、マイクをタップします</translation>
-<translation id="6195403640086187022">セキュリティ強化のため、Asil パスワード マネージャーに保存する前にデバイス上でパスワードを暗号化します</translation>
+<translation id="6195403640086187022">セキュリティ強化のため、brave パスワード マネージャーに保存する前にデバイス上でパスワードを暗号化します</translation>
 <translation id="4850886885716139402">表示</translation>
 <translation id="4852014461738377247">ログインしています…</translation>
 <translation id="4860895144060829044">通話</translation>
 <translation id="4864369630010738180">ログインしています...</translation>
-<translation id="5131234170665854056">Asil 用の <ph name="MODULE"/> をインストールできません</translation>
+<translation id="5131234170665854056">brave 用の <ph name="MODULE"/> をインストールできません</translation>
 <translation id="4871568871368204250">同期の無効化</translation>
 <translation id="4875775213178255010">おすすめのコンテンツ</translation>
 <translation id="4878404682131129617">プロキシ サーバー経由のトンネルを確立できませんでした</translation>
 <translation id="4880127995492972015">翻訳…</translation>
 <translation id="4881695831933465202">開く</translation>
 <translation id="488187801263602086">ファイル名を変更してください</translation>
-<translation id="1248710015876067820">Asil のインスタンス数の上限を超えています。</translation>
+<translation id="1248710015876067820">brave のインスタンス数の上限を超えています。</translation>
 <translation id="4905823827770127520">このページへのリンクを含める</translation>
-<translation id="3217997482476578430">Discover by Asil</translation>
+<translation id="3217997482476578430">Discover by brave</translation>
 <translation id="4909709702739934280">お使いのブラウザは管理者によって管理されています</translation>
 <translation id="4910889077668685004">お支払いアプリ</translation>
 <translation id="4912413785358399818">タブを移動</translation>
@@ -710,13 +710,13 @@
 <translation id="492284538114688557">値下げ情報が見つかりました</translation>
 <translation id="4925120120285606924">スクリーンショット <ph name="CURRENT_DATE_ISO"/></translation>
 <translation id="49268022542405662">パスワードはエクスポートされ、テキスト ファイルとしてダウンロードされます。このファイルは、ダウンロード先のフォルダにアクセス可能なすべてのユーザーおよびアプリが閲覧できます。</translation>
-<translation id="1955495299630319741"><ph name="DOMAIN_NAME"/> で管理されているアカウントからログアウトするにあたり、Asil データはこのデバイスから削除されます。Asil アカウントからはデータは削除されません。</translation>
+<translation id="1955495299630319741"><ph name="DOMAIN_NAME"/> で管理されているアカウントからログアウトするにあたり、brave データはこのデバイスから削除されます。brave アカウントからはデータは削除されません。</translation>
 <translation id="4943703118917034429">バーチャル リアリティ</translation>
 <translation id="4943872375798546930">結果はありません</translation>
-<translation id="5742837711075932301">同じ Asil アカウントにログインしている他のデバイスで、このスマートフォンをセキュリティ キーとして使用できます。</translation>
+<translation id="5742837711075932301">同じ brave アカウントにログインしている他のデバイスで、このスマートフォンをセキュリティ キーとして使用できます。</translation>
 <translation id="4957722034734105353">詳細...</translation>
 <translation id="4961107849584082341">このページを任意の言語に翻訳できます</translation>
-<translation id="7307583170263691471">危険なウェブサイト、ダウンロード、拡張機能から予防的な方法で迅速に保護します。パスワードの侵害があった場合は警告します。Asil に閲覧データを送信する必要があります。</translation>
+<translation id="7307583170263691471">危険なウェブサイト、ダウンロード、拡張機能から予防的な方法で迅速に保護します。パスワードの侵害があった場合は警告します。brave に閲覧データを送信する必要があります。</translation>
 <translation id="497421865427891073">次に進む</translation>
 <translation id="4985248278475639481">広告のカスタマイズについて</translation>
 <translation id="4987271110129728827">該当のページは見つかりません。つづりを確認するか、ウェブ検索をお試しください。</translation>
@@ -725,7 +725,7 @@
 <translation id="499724277181351974">移動: <ph name="WEBSITE_TITLE"/>: <ph name="WEBSITE_URL"/></translation>
 <translation id="5001388021414335527">このサイトをフォローするにはこちら</translation>
 <translation id="500351648694011114">より簡単にブラウジング</translation>
-<translation id="6447211988989208781">Asil アクティビティ管理</translation>
+<translation id="6447211988989208781">brave アクティビティ管理</translation>
 <translation id="5005141133360250920">リアクションを削除しました</translation>
 <translation id="5005498671520578047">パスワードのコピー</translation>
 <translation id="5011311129201317034"><ph name="SITE"/> が接続を要求しています</translation>
@@ -734,9 +734,9 @@
 <translation id="5039804452771397117">許可する</translation>
 <translation id="5040262127954254034">プライバシー</translation>
 <translation id="504456571576643789">留意事項</translation>
-<translation id="4858031288914533863">ログイン中は Asil アカウントに<ph name="BEGIN_LINK1"/>その他のアクティビティ<ph name="END_LINK1"/>が保存される可能性があります。これらのデータはいつでも削除できます。</translation>
+<translation id="4858031288914533863">ログイン中は brave アカウントに<ph name="BEGIN_LINK1"/>その他のアクティビティ<ph name="END_LINK1"/>が保存される可能性があります。これらのデータはいつでも削除できます。</translation>
 <translation id="506254248375231072">タブはありません</translation>
-<translation id="4744980273298156620">まもなく、新しいタブを開くと、<ph name="SITE_NAME"/> のストーリーが表示されるようになります。フォローしたサイトは Asil アカウントに保存され、Discover の設定で管理できます。</translation>
+<translation id="4744980273298156620">まもなく、新しいタブを開くと、<ph name="SITE_NAME"/> のストーリーが表示されるようになります。フォローしたサイトは brave アカウントに保存され、Discover の設定で管理できます。</translation>
 <translation id="5091249083535528968">詳細な使用状況データ</translation>
 <translation id="509429900233858213">エラーが発生しました。</translation>
 <translation id="5099845111805573968">PC 版サイトを選択すると、サイトに今後アクセスした場合も同じ設定が適用されます</translation>
@@ -747,7 +747,7 @@
 <translation id="5122378528687922675">わからないことがあるときは、保護者の方（<ph name="PARENT_NAME_1"/> または <ph name="PARENT_NAME_2"/>）に聞いてください</translation>
 <translation id="5126510351761255129">カードの確認</translation>
 <translation id="5132942445612118989">すべてのデバイスでパスワード、履歴、その他の設定を同期する</translation>
-<translation id="5139940364318403933">Asil ドライブの使い方を見る</translation>
+<translation id="5139940364318403933">brave ドライブの使い方を見る</translation>
 <translation id="5142281402488957685">新しい記事を表示するには、下にスワイプして更新します</translation>
 <translation id="5152843274749979095">サポートされているアプリがインストールされていません</translation>
 <translation id="5161254044473106830">タイトルが必要です</translation>
@@ -776,16 +776,16 @@
 <translation id="5304593522240415983">この項目は必須です</translation>
 <translation id="5308380583665731573">接続</translation>
 <translation id="5317780077021120954">保存</translation>
-<translation id="989239400026154074">Asil は Asil を推奨しています</translation>
-<translation id="493321943777183150">Asil では、ブラウジング時のトラッキングを抑制して、セキュリティを強化する新しい方法を検討しています。また、ユーザーの興味 / 関心を<ph name="BEGIN_LINK"/>推定<ph name="END_LINK"/>して管理できるようにします。これにより、アクセスしたサイトでユーザーの興味 / 関心を Asil にリクエストして、広告を表示することができます。</translation>
+<translation id="989239400026154074">brave は brave を推奨しています</translation>
+<translation id="493321943777183150">brave では、ブラウジング時のトラッキングを抑制して、セキュリティを強化する新しい方法を検討しています。また、ユーザーの興味 / 関心を<ph name="BEGIN_LINK"/>推定<ph name="END_LINK"/>して管理できるようにします。これにより、アクセスしたサイトでユーザーの興味 / 関心を brave にリクエストして、広告を表示することができます。</translation>
 <translation id="5324858694974489420">保護者設定</translation>
-<translation id="1681635711794313507">プリロードされたページが暗号化されており、ページへリンクしているサイトが Asil のサイトであるため、これらのページを非公開でプリロードする際に Asil サーバーは新しい情報を受信しません。</translation>
+<translation id="1681635711794313507">プリロードされたページが暗号化されており、ページへリンクしているサイトが brave のサイトであるため、これらのページを非公開でプリロードする際に brave サーバーは新しい情報を受信しません。</translation>
 <translation id="5329858041417644019">ご使用のブラウザは管理されていません</translation>
 <translation id="5339031667684712858">削除したサイト</translation>
 <translation id="5342314432463739672">権限のリクエスト</translation>
 <translation id="53537532693258630">削除したサイトがここに表示されます</translation>
 <translation id="5355191726083956201">保護強化機能がオンになっています</translation>
-<translation id="5375577065097716013">Asil レンズで画像を検索 <ph name="BEGIN_NEW"/>New<ph name="END_NEW"/></translation>
+<translation id="5375577065097716013">brave レンズで画像を検索 <ph name="BEGIN_NEW"/>New<ph name="END_NEW"/></translation>
 <translation id="5376898820269806588">リアクションを変更しました</translation>
 <translation id="5401851137404501592">続行すると、<ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> からこのサイトに名前、メールアドレス、プロフィール画像が共有されます。</translation>
 <translation id="5403644198645076998">特定のサイトのみを許可</translation>
@@ -804,14 +804,14 @@
 <translation id="5458366071038729214">フォローしたサイトがここに表示されます</translation>
 <translation id="5468068603361015296"><ph name="FILE_NAME"/> のダウンロードを続行しますか？</translation>
 <translation id="548278423535722844">マップアプリで開く</translation>
-<translation id="7176798998723526245">Asil を操作する</translation>
+<translation id="7176798998723526245">brave を操作する</translation>
 <translation id="5487521232677179737">データを削除</translation>
 <translation id="549025011754480756">音声検索の方法</translation>
 <translation id="5492637351392383067">オンデバイスの暗号化</translation>
 <translation id="5514904542973294328">このデバイスの管理者によって無効にされています</translation>
 <translation id="5515439363601853141">パスワードを表示するにはロックを解除してください</translation>
 <translation id="5517095782334947753"><ph name="FROM_ACCOUNT"/> のブックマーク、履歴、パスワードとその他の設定を使用できます。</translation>
-<translation id="300369155175407115">Asil の試用期間がランダムに割り当てられた場合は、閲覧履歴が、表示される広告と以下の推定された興味 / 関心に影響します。プライバシーを保護するために、Asil ではユーザーの興味 / 関心が毎月順番に削除されます。</translation>
+<translation id="300369155175407115">brave の試用期間がランダムに割り当てられた場合は、閲覧履歴が、表示される広告と以下の推定された興味 / 関心に影響します。プライバシーを保護するために、brave ではユーザーの興味 / 関心が毎月順番に削除されます。</translation>
 <translation id="5524843473235508879">リダイレクトがブロックされました。</translation>
 <translation id="5548606607480005320">安全確認</translation>
 <translation id="5555525474779371165">セーフ ブラウジングの保護設定を選択してください</translation>
@@ -823,7 +823,7 @@
 <translation id="5578795271662203820">この画像を <ph name="SEARCH_ENGINE"/> で検索</translation>
 <translation id="5581519193887989363">同期する項目はいつでも [<ph name="BEGIN_LINK1"/>設定<ph name="END_LINK1"/>] で選択できます。</translation>
 <translation id="5590372121997663538">このパソコンの情報を保持する</translation>
-<translation id="6157610782452852023">Asil アシスタントがウェブサイトでのタスクの完了をお手伝いします</translation>
+<translation id="6157610782452852023">brave アシスタントがウェブサイトでのタスクの完了をお手伝いします</translation>
 <translation id="5620163320393916465">保存されているパスワードはありません</translation>
 <translation id="5620928963363755975">[その他のオプション] から [ダウンロード] を開いて自分のファイルやページを探すことができます</translation>
 <translation id="562289928968387744">リアクションを管理</translation>
@@ -834,19 +834,19 @@
 <translation id="5655963694829536461">ダウンロードしたアイテムを検索</translation>
 <translation id="5659593005791499971">メール</translation>
 <translation id="5665379678064389456"><ph name="APP_NAME"/> で予定を作成</translation>
-<translation id="5668833306439455813">Asil がアップデートを確認できません</translation>
+<translation id="5668833306439455813">brave がアップデートを確認できません</translation>
 <translation id="5686790454216892815">ファイル名が長すぎます</translation>
 <translation id="569536719314091526">[その他のオプション] から、このページを任意の言語に翻訳できます</translation>
-<translation id="2320748512701464301">Asil でデータ侵害や安全でないウェブサイトなどの脅威から保護されているか確認します</translation>
+<translation id="2320748512701464301">brave でデータ侵害や安全でないウェブサイトなどの脅威から保護されているか確認します</translation>
 <translation id="570347048394355941">タブを切り替え</translation>
 <translation id="572328651809341494">最近使ったタブ</translation>
 <translation id="5726692708398506830">ページ上のすべての要素を拡大する</translation>
-<translation id="3613110494561632737">Asil の試用期間がランダムに割り当てられた場合は、閲覧履歴が、表示される広告と以下の推定された興味 / 関心に影響します。プライバシーを保護するために、Asil ではユーザーの興味 / 関心が毎月順番に削除されます。ユーザーが削除しない限り、興味 / 関心は更新されます。</translation>
+<translation id="3613110494561632737">brave の試用期間がランダムに割り当てられた場合は、閲覧履歴が、表示される広告と以下の推定された興味 / 関心に影響します。プライバシーを保護するために、brave ではユーザーの興味 / 関心が毎月順番に削除されます。ユーザーが削除しない限り、興味 / 関心は更新されます。</translation>
 <translation id="5748802427693696783">標準のタブに切り替えました</translation>
-<translation id="3088191967551450609">Asil でファイルをダウンロードするにはストレージへのアクセス権が必要です。</translation>
+<translation id="3088191967551450609">brave でファイルをダウンロードするにはストレージへのアクセス権が必要です。</translation>
 <translation id="5749237766298580851">OFF <ph name="SEPARATOR"/> 非推奨</translation>
 <translation id="5752232708629533680">GIF のみ共有</translation>
-<translation id="416316836590748269">Asil で声を使って検索できます</translation>
+<translation id="416316836590748269">brave で声を使って検索できます</translation>
 <translation id="5754350196967618083">おすすめの記事を更新できません</translation>
 <translation id="5763514718066511291">タップすると、このアプリの URL がコピーされます</translation>
 <translation id="5765517223145864268">ご意見、ご感想をぜひお聞かせください。<ph name="BEGIN_LINK"/>設定を変更する<ph name="END_LINK"/>こともできます。</translation>
@@ -857,17 +857,17 @@
 <translation id="5793665092639000975"><ph name="SPACE_AVAILABLE"/> 中 <ph name="SPACE_USED"/> を使用中</translation>
 <translation id="5795872532621730126">検索とブラウジング</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# 時間前}other{# 時間前}}</translation>
-<translation id="5311273890481188673">Copyright © <ph name="YEAR"/> The Asil Authors. All rights reserved.</translation>
+<translation id="5311273890481188673">Copyright © <ph name="YEAR"/> The brave Authors. All rights reserved.</translation>
 <translation id="5813552293717797987">このブラウザは、<ph name="PARENT_NAME_1"/> と <ph name="PARENT_NAME_2"/> によって管理されています。</translation>
 <translation id="5814131985548525293">始めるにはここに入力するかマイクのアイコンをタップします</translation>
 <translation id="5814749351757353073">お気に入りのサイトの最新情報をチェックしよう</translation>
 <translation id="583281660410589416">不明</translation>
 <translation id="5833984609253377421">リンクを共有</translation>
-<translation id="4099502324559761073">QR コードをスキャンするには、Asil にカメラの使用を許可してください</translation>
-<translation id="2225291765389142805">Asil Dino</translation>
+<translation id="4099502324559761073">QR コードをスキャンするには、brave にカメラの使用を許可してください</translation>
+<translation id="2225291765389142805">brave Dino</translation>
 <translation id="5842437907245493289">フォルダ アイコンから、ブックマークでトラッキングしている商品を整理できます</translation>
 <translation id="5853623416121554550">一時停止中</translation>
-<translation id="3518793343998771868">統計情報と障害レポートは Asil に送信されません</translation>
+<translation id="3518793343998771868">統計情報と障害レポートは brave に送信されません</translation>
 <translation id="5855546874025048181">絞り込み: <ph name="REFINE_TEXT"/></translation>
 <translation id="5857447844686706637">エラーが発生しました。価格のトラッキングを更新できませんでした。</translation>
 <translation id="5859968346865909126">ダークモードは [設定] でオンまたはオフにできます</translation>
@@ -875,33 +875,33 @@
 <translation id="5860491529813859533">オンにする</translation>
 <translation id="5862731021271217234">他のデバイスと同じタブを使用するには、同期を有効にします</translation>
 <translation id="5864419784173784555">別のダウンロードの完了待ちです…</translation>
-<translation id="6538479075382111079">使用統計情報や障害レポートを Asil に自動送信します</translation>
+<translation id="6538479075382111079">使用統計情報や障害レポートを brave に自動送信します</translation>
 <translation id="5869522115854928033">保存したパスワード</translation>
 <translation id="5869789175361934029">他のデバイスで開いたタブを表示</translation>
-<translation id="5604589745019948682">サイトをフォローするには、サイトにアクセスして、Asil メニューを開き、[フォロー] をタップします。</translation>
+<translation id="5604589745019948682">サイトをフォローするには、サイトにアクセスして、brave メニューを開き、[フォロー] をタップします。</translation>
 <translation id="5879072387416556377">おすすめの精度を上げる</translation>
-<translation id="1985257319311245640">サイトの URL を送信して、Asil アシスタントでタスクをサポートできるようにします。アシスタントは、Asil の設定で無効にできます。</translation>
+<translation id="1985257319311245640">サイトの URL を送信して、brave アシスタントでタスクをサポートできるようにします。アシスタントは、brave の設定で無効にできます。</translation>
 <translation id="5916664084637901428">オン</translation>
 <translation id="5919204609460789179">同期を開始するには <ph name="PRODUCT_NAME"/> を更新してください</translation>
 <translation id="5938820472109305350"><ph name="INTEREST"/> を追加</translation>
-<translation id="6103327872225198548">検索に Asil を使用します</translation>
+<translation id="6103327872225198548">検索に brave を使用します</translation>
 <translation id="5945035219773565305">現在の推奨設定: <ph name="RECOMMENDATION"/></translation>
 <translation id="5951119116059277034">実際のページを表示しています</translation>
-<translation id="305870044889644984">Asil ヘルプセンターを新しいタブで開く</translation>
+<translation id="305870044889644984">brave ヘルプセンターを新しいタブで開く</translation>
 <translation id="5957442310066583693">よく使用するサイトを表示するには、ホームボタンをタップします</translation>
 <translation id="5958275228015807058">[ダウンロード] で自分のファイルやページを探すことができます</translation>
 <translation id="5958994127112619898">簡易版ページ</translation>
 <translation id="5962718611393537961">タップして折りたたむ</translation>
 <translation id="5964869237734432770">画像の説明文の取得を停止する</translation>
-<translation id="9135546826883360971">この設定は Asil に保存されます</translation>
+<translation id="9135546826883360971">この設定は brave に保存されます</translation>
 <translation id="5979084224081478209">パスワードを確認</translation>
 <translation id="5995726099713306770">ページを再ダウンロードしますか？</translation>
-<translation id="6456271171669383967">Asil のままにする</translation>
+<translation id="6456271171669383967">brave のままにする</translation>
 <translation id="6000203700195075278">再フォロー</translation>
 <translation id="6002122790816966947">他のデバイス</translation>
 <translation id="6005538289190791541">推奨パスワード</translation>
 <translation id="6032091552407840792">この試用版は、<ph name="BEGIN_LINK"/>一部の地域<ph name="END_LINK"/>でのみ使用できます。</translation>
-<translation id="6557407328070865042">Asil では、<ph name="BEGIN_LINK"/>プライバシー サンドボックス<ph name="END_LINK"/>という取り組みを通じて、クロスサイト トラッキングからユーザーを保護しつつ、オープンウェブの理念を支える新しい技術を開発しています。
+<translation id="6557407328070865042">brave では、<ph name="BEGIN_LINK"/>プライバシー サンドボックス<ph name="END_LINK"/>という取り組みを通じて、クロスサイト トラッキングからユーザーを保護しつつ、オープンウェブの理念を支える新しい技術を開発しています。
 
 プライバシー サンドボックスの試用版はまだ開発段階にあり、一部の地域でのみご利用可能です。このため、現時点では多くのサイトでサードパーティ Cookie など現行のウェブ技術を引き続き使用しつつ、プライバシー サンドボックスが試験的に導入されると考えられます。</translation>
 <translation id="6039379616847168523">次のタブに移動する</translation>
@@ -915,7 +915,7 @@
 <translation id="6085886413119427067">ウェブサイトに安全に接続する方法を決定します</translation>
 <translation id="6091413777268123602">プライバシー サンドボックスの試用版を使うと、使用されるユーザーデータの量を抑えつつ、同じようにサイトをブラウジングできる可能性があります。それにより、ユーザーのプライバシーが向上し、クロスサイト トラッキングが減少します。テストの準備が整ったら、新しい試用版を追加します。</translation>
 <translation id="60923314841986378">残り <ph name="HOURS"/> 時間</translation>
-<translation id="4726571606794511368">既定の検索エンジンが Asil の場合は、コンテンツとより関連性の高い候補が表示されます</translation>
+<translation id="4726571606794511368">既定の検索エンジンが brave の場合は、コンテンツとより関連性の高い候補が表示されます</translation>
 <translation id="6108923351542677676">設定しています...</translation>
 <translation id="6112702117600201073">ページを更新しています</translation>
 <translation id="6122831415929794347">セーフ ブラウジングをオフにしますか？</translation>
@@ -928,11 +928,11 @@
 <translation id="6150320133806434356">ブックマークを保存しました</translation>
 <translation id="6154478581116148741">このデバイスからパスワードをエクスポートするには、[設定] で画面ロックをオンにしてください。</translation>
 <translation id="6159729262978459665">同期しているすべてのデバイスから履歴を削除します。</translation>
-<translation id="7087658909840709934">Asil によってアクセスする可能性があると判断されたページをプリロードします。</translation>
+<translation id="7087658909840709934">brave によってアクセスする可能性があると判断されたページをプリロードします。</translation>
 <translation id="6186394685773237175">漏洩した可能性のあるパスワードは見つかりませんでした</translation>
 <translation id="6192907950379606605">画像の説明文を取得する</translation>
 <translation id="6193448654517602979">タブを選択</translation>
-<translation id="8367262879301982880">パスワードは、このデバイスの Asil パスワード マネージャーに保存されます</translation>
+<translation id="8367262879301982880">パスワードは、このデバイスの brave パスワード マネージャーに保存されます</translation>
 <translation id="6202812185118613467">同期を開始するには、もう一度ログインしてください</translation>
 <translation id="6210748933810148297"><ph name="EMAIL"/> ではありませんか？</translation>
 <translation id="6211386937064921208">このページのプレビューを表示しています</translation>
@@ -944,7 +944,7 @@
 <translation id="6277522088822131679">ページの印刷中に問題が発生しました。もう一度お試しください。</translation>
 <translation id="6277722725779679269">価格のトラッキングを更新できませんでした</translation>
 <translation id="6278428485366576908">テーマ</translation>
-<translation id="7918815962568992845">同じ Asil アカウントでログインしているデバイス間でタブを送信できます</translation>
+<translation id="7918815962568992845">同じ brave アカウントでログインしているデバイス間でタブを送信できます</translation>
 <translation id="6297765934698848803">デバイスの管理者がカメラをオフにしています。</translation>
 <translation id="6301525844455696527">リーディング リストをチェックしよう</translation>
 <translation id="6303969859164067831">ログアウトして同期をオフにする</translation>
@@ -963,11 +963,11 @@
 <translation id="6357653805084533597">この QR コードが表示されているデバイスに、このスマートフォンを使用してログインできます。</translation>
 <translation id="6363990818884053551">同期を開始するには、本人確認を行ってください</translation>
 <translation id="6364438453358674297">履歴から候補を削除しますか？</translation>
-<translation id="806493401838431801">Asil によってアクセスする可能性があると判断されたページが、より頻繁にプリロードされます。この設定によりデータの使用量が増える可能性があります。</translation>
+<translation id="806493401838431801">brave によってアクセスする可能性があると判断されたページが、より頻繁にプリロードされます。この設定によりデータの使用量が増える可能性があります。</translation>
 <translation id="6394791151443660613">検索: <ph name="SEARCH_QUERY"/></translation>
 <translation id="6395288395575013217">リンク</translation>
 <translation id="6397616442223433927">オンラインに復帰</translation>
-<translation id="8789425457808164956">このタブを別のデバイスに送信するには、送信先のデバイスで Asil にログインしてください</translation>
+<translation id="8789425457808164956">このタブを別のデバイスに送信するには、送信先のデバイスで brave にログインしてください</translation>
 <translation id="6402652558933147609"><ph name="ERROR_CODE"/>（<ph name="VIOLATED_URL"/>）</translation>
 <translation id="6403371459378431832">すべてのデバイスでデータを同期する</translation>
 <translation id="6404511346730675251">ブックマークを編集</translation>
@@ -976,7 +976,7 @@
 <translation id="6410404864818553978">基本的な使用状況データ</translation>
 <translation id="6410883413783534063">タブを開くと、さまざまなページに同時にアクセスできます</translation>
 <translation id="6411219469806822692">上に移動できません。ページの上のほうから始めてみてください。</translation>
-<translation id="7810992039564280750">Asil に保存されている安全でないサイトのリストと URL を照合します。サイトがパスワードを不正に取得しようとしている場合や、ユーザーが安全でないファイルをダウンロードしようとした場合は、URL とページ コンテンツの一部をセーフ ブラウジングに送信することがあります。</translation>
+<translation id="7810992039564280750">brave に保存されている安全でないサイトのリストと URL を照合します。サイトがパスワードを不正に取得しようとしている場合や、ユーザーが安全でないファイルをダウンロードしようとした場合は、URL とページ コンテンツの一部をセーフ ブラウジングに送信することがあります。</translation>
 <translation id="641643625718530986">印刷...</translation>
 <translation id="6422857128426228781">トラッキングしている商品がここに表示されます</translation>
 <translation id="6433501201775827830">検索エンジンを選択</translation>
@@ -987,17 +987,17 @@
 <translation id="6447558397796644647">お探しのブックマークが見つかりません。つづりを確認するか、新しいブックマークを追加してください。</translation>
 <translation id="6459045781120991510">アンケート</translation>
 <translation id="6461962085415701688">ファイルを開けません</translation>
-<translation id="9055113864158719823">Asil でアクセスしたサイトを表示し、タイマーを設定できます。\n\nタイマーを設定したサイトの情報と、サイトでの滞在時間に関する情報が Asil に送信されます。送信した情報は Digital Wellbeing の改善に役立てられます。</translation>
+<translation id="9055113864158719823">brave でアクセスしたサイトを表示し、タイマーを設定できます。\n\nタイマーを設定したサイトの情報と、サイトでの滞在時間に関する情報が brave に送信されます。送信した情報は Digital Wellbeing の改善に役立てられます。</translation>
 <translation id="6473086018775716761">共有オプションのリストが画面の下半分に表示されています。</translation>
 <translation id="6475951671322991020">動画をダウンロード</translation>
 <translation id="6477928892249167417">以下のサイトは重要な可能性があります。</translation>
 <translation id="6482749332252372425">ストレージの空き容量が不足しているため、<ph name="FILE_NAME"/> をダウンロードできませんでした。</translation>
 <translation id="6496823230996795692"><ph name="APP_NAME"/> を初めて使用する場合は、インターネットに接続してください。</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{ファイルをダウンロードしました}other{# 件のダウンロードが完了しました}}</translation>
-<translation id="3960299545138990065">Asil を再起動する</translation>
+<translation id="3960299545138990065">brave を再起動する</translation>
 <translation id="6527303717912515753">共有</translation>
-<translation id="708829030563435351">Asil でアクセスしたサイトは表示されなくなり、サイトに設定したタイマーはすべて削除されます。</translation>
-<translation id="7723158744459952869">Asil からの応答に時間がかかりすぎています</translation>
+<translation id="708829030563435351">brave でアクセスしたサイトは表示されなくなり、サイトに設定したタイマーはすべて削除されます。</translation>
+<translation id="7723158744459952869">brave からの応答に時間がかかりすぎています</translation>
 <translation id="6539092367496845964">エラーが発生しました。しばらくしてからもう一度お試しください。</translation>
 <translation id="6541042852576515209">サイズを変更して回転させます</translation>
 <translation id="6541983376925655882">{NUM_HOURS,plural, =1{前回の確認: 1 時間前}other{前回の確認: # 時間前}}</translation>
@@ -1007,30 +1007,30 @@
 <translation id="6560414384669816528">Sogou で検索します</translation>
 <translation id="656065428026159829">もっと見る</translation>
 <translation id="6565959834589222080">可能な場合は Wi-Fi を使用します</translation>
-<translation id="4480935821314799946">新しいタブを開くと、<ph name="SITE_NAME"/> のストーリーが表示されるようになります。フォローしたサイトは Asil アカウントに保存され、Discover の設定で管理できます。</translation>
+<translation id="4480935821314799946">新しいタブを開くと、<ph name="SITE_NAME"/> のストーリーが表示されるようになります。フォローしたサイトは brave アカウントに保存され、Discover の設定で管理できます。</translation>
 <translation id="6573096386450695060">常に許可</translation>
-<translation id="5157964048453367290">他のデバイスの Asil で開いているタブがここに表示されます。</translation>
+<translation id="5157964048453367290">他のデバイスの brave で開いているタブがここに表示されます。</translation>
 <translation id="6583199322650523874">現在のページをブックマークする</translation>
 <translation id="6588043302623806746">セキュア DNS を使用する</translation>
 <translation id="6590471736817333463">最大 60% のデータを節約</translation>
 <translation id="6590680911007613645">保存するパスワードが <ph name="SITE"/> のパスワードと一致していることを確認してください</translation>
 <translation id="6593061639179217415">PC 版サイト</translation>
-<translation id="2372700594671864890">オープンウェブの理念を支えつつ、クロスサイト トラッキングからユーザーを保護する Asil の取り組みについて</translation>
-<translation id="2466982615210189224">説明文を生成するために画像が Asil に送信されます。</translation>
-<translation id="663059986967017181">Asil にコピー済み</translation>
+<translation id="2372700594671864890">オープンウェブの理念を支えつつ、クロスサイト トラッキングからユーザーを保護する brave の取り組みについて</translation>
+<translation id="2466982615210189224">説明文を生成するために画像が brave に送信されます。</translation>
+<translation id="663059986967017181">brave にコピー済み</translation>
 <translation id="661266467055912436">すべてのウェブユーザーの安全性を高めます。</translation>
 <translation id="6618554661997243500">よく使用するサイトや記事を表示するには、ホームボタンをタップします</translation>
-<translation id="8127050479140582768">このタブを別のデバイスに送信するには、両方のデバイスで Asil にログインしてください</translation>
+<translation id="8127050479140582768">このタブを別のデバイスに送信するには、両方のデバイスで brave にログインしてください</translation>
 <translation id="6627583120233659107">フォルダを編集</translation>
 <translation id="6636623428211296678">下で他の設定を確認するか、ここで終了できます</translation>
-<translation id="2259649928554669581">プライバシー、セキュリティ、データ収集に関連するその他の設定については、<ph name="BEGIN_LINK1"/>同期<ph name="END_LINK1"/>と <ph name="BEGIN_LINK2"/>Asil サービス<ph name="END_LINK2"/>をご覧ください</translation>
-<translation id="7939692063031538305">アプリを改善するため、Asil では使用状況とクラッシュに関するデータが Asil に送信されます。<ph name="BEGIN_UMA_LINK"/>管理<ph name="END_UMA_LINK"/></translation>
+<translation id="2259649928554669581">プライバシー、セキュリティ、データ収集に関連するその他の設定については、<ph name="BEGIN_LINK1"/>同期<ph name="END_LINK1"/>と <ph name="BEGIN_LINK2"/>brave サービス<ph name="END_LINK2"/>をご覧ください</translation>
+<translation id="7939692063031538305">アプリを改善するため、brave では使用状況とクラッシュに関するデータが brave に送信されます。<ph name="BEGIN_UMA_LINK"/>管理<ph name="END_UMA_LINK"/></translation>
 <translation id="6640207029842583248">常にブロックする</translation>
 <translation id="6641780377503683465"><ph name="INTEREST"/> を削除</translation>
 <translation id="6643016212128521049">削除</translation>
 <translation id="6645629752388991326">このデバイスをセキュリティ キーとして使用してログインできるデバイスを管理します。</translation>
-<translation id="7556503430569358637">アクセスした URL が Asil に送信され、次にアクセスするサイトの予測が行われます</translation>
-<translation id="6678472970290886941">管理者はブラウザの設定をリモートで変更できます。このデバイスでのアクティビティは、Asil 以外でも管理されている可能性があります。</translation>
+<translation id="7556503430569358637">アクセスした URL が brave に送信され、次にアクセスするサイトの予測が行われます</translation>
+<translation id="6678472970290886941">管理者はブラウザの設定をリモートで変更できます。このデバイスでのアクティビティは、brave 以外でも管理されている可能性があります。</translation>
 <translation id="6648977384226967773">{CONTACT,plural, =1{<ph name="CONTACT_PREVIEW"/>\u2026 他 <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/> 件}other{<ph name="CONTACT_PREVIEW"/>\u2026 他 <ph name="NUMBER_OF_ADDITIONAL_CONTACTS"/> 件}}</translation>
 <translation id="6649642165559792194">画像をプレビュー <ph name="BEGIN_NEW"/>New<ph name="END_NEW"/></translation>
 <translation id="6657585470893396449">パスワード</translation>
@@ -1038,9 +1038,9 @@
 <translation id="666731172850799929"><ph name="APP_NAME"/>で開く</translation>
 <translation id="6671495933530132209">画像をコピー</translation>
 <translation id="6674571176963658787">同期を開始するには、パスフレーズを入力してください</translation>
-<translation id="8581481290581777242">Asil データをこのデバイスから削除しますか？</translation>
-<translation id="3683330416566109578">このサイトと Asil にログインします</translation>
-<translation id="3385384709865894288">Asil の品質を向上</translation>
+<translation id="8581481290581777242">brave データをこのデバイスから削除しますか？</translation>
+<translation id="3683330416566109578">このサイトと brave にログインします</translation>
+<translation id="3385384709865894288">brave の品質を向上</translation>
 <translation id="670498945988402717">前回の確認: 昨日</translation>
 <translation id="6710213216561001401">前へ</translation>
 <translation id="671481426037969117"><ph name="FQDN"/> のタイマーが切れました。タイマーはまた明日開始されます。</translation>
@@ -1054,13 +1054,13 @@
 <translation id="6767294960381293877">タブを共有するデバイスのリストが画面の下半分に表示されました。</translation>
 <translation id="6770042910635026163">お客様の興味 / 関心を定義しているアクセスしたサイト</translation>
 <translation id="6770602306803890733">すべてのウェブユーザーの安全性を高めます</translation>
-<translation id="8174975477247159780">Asil および Chrome OS 追加利用規約</translation>
+<translation id="8174975477247159780">brave および Chrome OS 追加利用規約</translation>
 <translation id="6795633245022906657">新しいタブをすばやく開きます。このショートカットは [設定] で編集できます。</translation>
 <translation id="6802555630140434547">ウィンドウが閉じられます</translation>
 <translation id="6811034713472274749">ページを表示できます</translation>
-<translation id="8418237809013783651">Asil にログイン、の画面が開きました。</translation>
+<translation id="8418237809013783651">brave にログイン、の画面が開きました。</translation>
 <translation id="6817747507826986771">このページをすばやく共有します。このショートカットを編集するには、長押ししてください。</translation>
-<translation id="118366698571543506">お使いの複数のデバイスで Asil の設定やデータを同期するには、ログインします</translation>
+<translation id="118366698571543506">お使いの複数のデバイスで brave の設定やデータを同期するには、ログインします</translation>
 <translation id="6820686453637990663">CVC</translation>
 <translation id="6824899148643461612"><ph name="TAB_TITLE"/>、タブ、選択中</translation>
 <translation id="6828070228333235514">価格のトラッキングを停止する</translation>
@@ -1070,7 +1070,7 @@
 <translation id="6846298663435243399">読み込んでいます…</translation>
 <translation id="6850409657436465440">ダウンロードが進行中です</translation>
 <translation id="6850830437481525139"><ph name="TAB_COUNT"/> 個のタブを閉じました</translation>
-<translation id="4046835482356054431">Discover by Asil - オフ</translation>
+<translation id="4046835482356054431">Discover by brave - オフ</translation>
 <translation id="686366188661646310">パスワードを削除しますか？</translation>
 <translation id="6864459304226931083">画像をダウンロード</translation>
 <translation id="6865313869410766144">自動入力フォームのデータ</translation>
@@ -1099,7 +1099,7 @@
 <translation id="7029809446516969842">パスワード</translation>
 <translation id="7030304022046916278">セーフ ブラウジングに URL を送信して安全性を確認します</translation>
 <translation id="7030585293819777123">最後に行ったタスクを再開しますか？</translation>
-<translation id="5813862251770201080">Asil アカウントで Asil にログインします</translation>
+<translation id="5813862251770201080">brave アカウントで brave にログインします</translation>
 <translation id="7038956721828960940">chrome_image_<ph name="CURRENT_TIMESTAMP_MS"/></translation>
 <translation id="7054588988317389591">画像の説明文を取得しますか？</translation>
 <translation id="7055152154916055070">リダイレクトがブロックされました</translation>
@@ -1107,9 +1107,9 @@
 <translation id="7071521146534760487">アカウントを管理</translation>
 <translation id="707155805709242880">同期するデータを下から選択してください</translation>
 <translation id="7077143737582773186">SD カード</translation>
-<translation id="2374582967527009647">セーフ ブラウジングに URL を送信して安全性を確認します。また、新たな脅威を発見するため、ページ、ダウンロード、拡張機能のアクティビティ、システム情報の一部のサンプルも送信します。ログイン時には、このデータを一時的に Asil アカウントにリンクして、すべての Asil アプリを安全に利用できるように保護します。</translation>
-<translation id="5499149312981370855">Asil の履歴を含めて、Asil サービスのパーソナライズに使用するかどうかを選択してください</translation>
-<translation id="8208853227947884571">Asil は最新の状態です</translation>
+<translation id="2374582967527009647">セーフ ブラウジングに URL を送信して安全性を確認します。また、新たな脅威を発見するため、ページ、ダウンロード、拡張機能のアクティビティ、システム情報の一部のサンプルも送信します。ログイン時には、このデータを一時的に brave アカウントにリンクして、すべての brave アプリを安全に利用できるように保護します。</translation>
+<translation id="5499149312981370855">brave の履歴を含めて、brave サービスのパーソナライズに使用するかどうかを選択してください</translation>
+<translation id="8208853227947884571">brave は最新の状態です</translation>
 <translation id="7093803425429738190">気分を追加</translation>
 <translation id="7105047059074518658">複数のデバイスでスムーズにブラウジングするにはログインしてください</translation>
 <translation id="7106762743910369165">お使いのブラウザは組織によって管理されています</translation>
@@ -1118,15 +1118,15 @@
 <translation id="7143462160780459030">スクリーンショットを撮影できません。もう一度お試しください。</translation>
 <translation id="7146622961999026732">以下のサイトやアプリは重要な可能性があります。</translation>
 <translation id="7149893636342594995">過去 24 時間</translation>
-<translation id="604991236434948997">QR コードをスキャンするには、Asil にカメラの使用を許可するよう設定を変更してください</translation>
+<translation id="604991236434948997">QR コードをスキャンするには、brave にカメラの使用を許可するよう設定を変更してください</translation>
 <translation id="7173114856073700355">設定を開く</translation>
 <translation id="7177466738963138057">これは後から [設定] で変更できます</translation>
 <translation id="7177873915659574692">QR コードを作成できません。URL が <ph name="CHARACTER_LIMIT"/> 文字を超えています。</translation>
-<translation id="7631741717293858595">これらの機能について詳しくは、Asil の設定をご覧ください。</translation>
+<translation id="7631741717293858595">これらの機能について詳しくは、brave の設定をご覧ください。</translation>
 <translation id="7180611975245234373">更新</translation>
 <translation id="718226107353899806">最大 <ph name="MAX_NUM_REACTIONS"/> 件のリアクションを追加できます</translation>
 <translation id="7183693674623539380">タブグループ - <ph name="TITLE_OF_GROUP"/></translation>
-<translation id="8355565210555500987">ログイン時に、Asil を安全に利用できるようにするほか、他の Asil アプリのセキュリティ強化に使用されることがあります。</translation>
+<translation id="8355565210555500987">ログイン時に、brave を安全に利用できるようにするほか、他の brave アプリのセキュリティ強化に使用されることがあります。</translation>
 <translation id="7191430249889272776">バックグラウンドでタブを開きました。</translation>
 <translation id="7196215469483532480">プライバシー ガイドの説明が画面全体に表示されています</translation>
 <translation id="7207760545532569765"><ph name="TAB_COUNT"/> 個のタブを新しいバックグラウンドのタブとして復元します。</translation>
@@ -1134,7 +1134,7 @@
 <translation id="7222235798733126207">サイト間での共有の制限</translation>
 <translation id="7227218174981371415">{FILE_COUNT,plural, =1{1 件のダウンロードが保留中です}other{# 件のダウンロードが保留中です}}</translation>
 <translation id="7242755609445462077">スタイルを設定した選択箇所（<ph name="CURRENT_DATE"/>）</translation>
-<translation id="8287068819750208230">Asil で <ph name="TARGET_DEVICE_NAME"/> の同期がオンになっていることを確認してください</translation>
+<translation id="8287068819750208230">brave で <ph name="TARGET_DEVICE_NAME"/> の同期がオンになっていることを確認してください</translation>
 <translation id="7252076891734325316">パソコンの近くにスマートフォンを置いてください</translation>
 <translation id="727288900855680735"><ph name="ONE_TIME_CODE"/> を <ph name="ORIGIN"/> に送信しますか？</translation>
 <translation id="7274013316676448362">ブロック中のサイト</translation>
@@ -1144,7 +1144,7 @@
 <translation id="7291910923717764901">このページの画像の説明が追加されました</translation>
 <translation id="7293429513719260019">言語を選択</translation>
 <translation id="729975465115245577">お使いのデバイスにはパスワード ファイルを保存するためのアプリがインストールされていません。</translation>
-<translation id="1382596880054356475">オフラインです。Asil でパスワードを確認できません。</translation>
+<translation id="1382596880054356475">オフラインです。brave でパスワードを確認できません。</translation>
 <translation id="7313188324932846546">タップして同期を設定する</translation>
 <translation id="7332075081379534664">ログインが完了しました</translation>
 <translation id="8716243540027092298">同期すると、最も関連性の高いコンテンツを表示できます</translation>
@@ -1160,13 +1160,13 @@
 <translation id="7376560087009844242">検索に含めるページのテキストを増やすと、「タップして検索」使用時により正確な結果が得られる可能性があります。<ph name="BEGIN_LINK"/>設定<ph name="END_LINK"/>からいつでも変更できます。</translation>
 <translation id="7379900596734708416">このサイトでダークモードを使用できます</translation>
 <translation id="7400418766976504921">URL</translation>
-<translation id="724102042129299115">Asil 初回起動時の操作</translation>
+<translation id="724102042129299115">brave 初回起動時の操作</translation>
 <translation id="741204030948306876">有効にする</translation>
 <translation id="7419565702166471774">常に安全な接続を使用する</translation>
 <translation id="7431991332293347422">検索などのカスタマイズを目的とした閲覧履歴の使用方法を設定</translation>
 <translation id="7435356471928173109">管理者によってオフにされています</translation>
-<translation id="6234515504547364178">Asil からログアウト</translation>
-<translation id="3699067418237091329">ほとんどのサイトからログアウトします。Asil アカウントへのログイン状態は維持されます。</translation>
+<translation id="6234515504547364178">brave からログアウト</translation>
+<translation id="3699067418237091329">ほとんどのサイトからログアウトします。brave アカウントへのログイン状態は維持されます。</translation>
 <translation id="7454641608352164238">空き容量が不足しています</translation>
 <translation id="7456774706094330779">拡張プリロード</translation>
 <translation id="7468819939926272717">気分を選択する</translation>
@@ -1178,18 +1178,18 @@
 <translation id="7482656565088326534">[プレビュー] タブ</translation>
 <translation id="7484997419527351112">Discover - オフ</translation>
 <translation id="7485033510383818941">フィード コンテンツを更新するには、ページを下にプルダウンします</translation>
-<translation id="749294055653435199">Asil レンズはこのデバイスではご利用いただけません</translation>
+<translation id="749294055653435199">brave レンズはこのデバイスではご利用いただけません</translation>
 <translation id="7493994139787901920"><ph name="VERSION"/>（<ph name="TIME_SINCE_UPDATE"/>に更新）</translation>
 <translation id="7498271377022651285">お待ちください…</translation>
-<translation id="8156131600798538460">すべてのウェブサイトで Asil アカウントからログアウトするには、<ph name="BEGIN_LINK1"/>Asil からログアウト<ph name="END_LINK1"/>します。</translation>
+<translation id="8156131600798538460">すべてのウェブサイトで brave アカウントからログアウトするには、<ph name="BEGIN_LINK1"/>brave からログアウト<ph name="END_LINK1"/>します。</translation>
 <translation id="750228856503700085">アップデートを利用できません</translation>
 <translation id="7507207699631365376">このプロバイダの<ph name="BEGIN_LINK"/>プライバシー ポリシー<ph name="END_LINK"/>をご覧ください</translation>
 <translation id="7514365320538308">ダウンロード</translation>
 <translation id="751961395872307827">サイトに接続できません</translation>
 <translation id="752220631458524187">完了したら取り外してください</translation>
-<translation id="7523960634226602883">Asil レンズを使ってカメラで検索します</translation>
+<translation id="7523960634226602883">brave レンズを使ってカメラで検索します</translation>
 <translation id="7562080006725997899">閲覧データの消去</translation>
-<translation id="7814200940910057384">Asil データの消去完了</translation>
+<translation id="7814200940910057384">brave データの消去完了</translation>
 <translation id="7577900504646297215">興味のあるトピックを管理</translation>
 <translation id="757855969265046257">{FILES,plural, =1{<ph name="FILES_DOWNLOADED_ONE"/> 件のファイルをダウンロードしました}other{<ph name="FILES_DOWNLOADED_MANY"/> 件のファイルをダウンロードしました}}</translation>
 <translation id="7581273696622423628">アンケートに答える</translation>
@@ -1198,10 +1198,10 @@
 <translation id="7594687499944811403"><ph name="EMBEDDED_ORIGIN"/> で <ph name="TOP_ORIGIN"/> の代わりに本人確認を行います</translation>
 <translation id="7596558890252710462">オペレーティング システム</translation>
 <translation id="7605594153474022051">同期が機能していません</translation>
-<translation id="649070405679044769">Asil にログイン済みのユーザー</translation>
+<translation id="649070405679044769">brave にログイン済みのユーザー</translation>
 <translation id="7616551326690708776">ハイライト表示のテンプレートを選択します。</translation>
 <translation id="7619072057915878432">ネットワーク障害が発生したため、<ph name="FILE_NAME"/> をダウンロードできませんでした。</translation>
-<translation id="7207456302801184289">Asil へようこそ</translation>
+<translation id="7207456302801184289">brave へようこそ</translation>
 <translation id="7630202231528827509">プロバイダの URL</translation>
 <translation id="7634280112532283638">スパムと不正行為の削減</translation>
 <translation id="7638584964844754484">パスフレーズが正しくありません</translation>
@@ -1214,7 +1214,7 @@
 <translation id="766587987807204883">記事がここに表示されます。これらの記事はオフラインでも読むことができます</translation>
 <translation id="768232549260819724">GIF をコピーしました</translation>
 <translation id="7682724950699840886">推奨される対策: デバイスに十分な空き容量があることを確認し、再度エクスポートを試します。</translation>
-<translation id="2667018639405889513">アクセスしたページの一部はプリロードされています。ページが Asil サイトからリンクされている場合、Asil サーバーを介してプリロードされる可能性があります。</translation>
+<translation id="2667018639405889513">アクセスしたページの一部はプリロードされています。ページが brave サイトからリンクされている場合、brave サーバーを介してプリロードされる可能性があります。</translation>
 <translation id="7698359219371678927"><ph name="APP_NAME"/> でメールを作成</translation>
 <translation id="7704317875155739195">検索語句や URL をオートコンプリートする</translation>
 <translation id="770741401784017797">GIF を作成中</translation>
@@ -1224,14 +1224,14 @@
 <translation id="7725024127233776428">ブックマークしたページがここに表示されます</translation>
 <translation id="7757787379047923882"><ph name="DEVICE_NAME"/> からテキストが共有されました</translation>
 <translation id="7762668264895820836">SD カード <ph name="SD_CARD_NUMBER"/></translation>
-<translation id="9101995357058996048">追加の機能と Asil の最高水準のセキュリティを利用するにはログインしてください</translation>
+<translation id="9101995357058996048">追加の機能と brave の最高水準のセキュリティを利用するにはログインしてください</translation>
 <translation id="7764225426217299476">住所を追加</translation>
 <translation id="7772032839648071052">パスフレーズの確認</translation>
 <translation id="7772375229873196092"><ph name="APP_NAME"/> を閉じる</translation>
 <translation id="7774809984919390718">{PAYMENT_METHOD,plural, =1{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 他 <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> 件}other{<ph name="PAYMENT_METHOD_PREVIEW"/>\u2026 他 <ph name="NUMBER_OF_ADDITIONAL_PAYMENT_METHODS"/> 件}}</translation>
 <translation id="7778840695157240389">しばらくしてからご確認ください</translation>
-<translation id="7703329426540523149">ログイン時には、このデータを一時的に Asil アカウントにリンクして、すべての Asil アプリを安全に利用できるように保護します</translation>
-<translation id="4885054029571583374">Asil アシスタントを使用すると、ウェブを検索したり、開いたサイトを操作したりする際の、音声操作の利便性が向上します。Asil アシスタントを使用するサイトの URL とコンテンツがアシスタントに渡されます。</translation>
+<translation id="7703329426540523149">ログイン時には、このデータを一時的に brave アカウントにリンクして、すべての brave アプリを安全に利用できるように保護します</translation>
+<translation id="4885054029571583374">brave アシスタントを使用すると、ウェブを検索したり、開いたサイトを操作したりする際の、音声操作の利便性が向上します。brave アシスタントを使用するサイトの URL とコンテンツがアシスタントに渡されます。</translation>
 <translation id="7791543448312431591">追加</translation>
 <translation id="7798392620021911922"><ph name="TAB_COUNT"/> 個のタブを復元しました</translation>
 <translation id="780301667611848630">いいえ</translation>
@@ -1241,7 +1241,7 @@
 <translation id="7815484226266492798">ロング スクリーンショット</translation>
 <translation id="78270725016672455">パソコンからサイトへのログインにこのデバイスを登録するよう求められています</translation>
 <translation id="7844171778363018843">同期するデータが選択されていません</translation>
-<translation id="7068829570137757602">Asil のサービス</translation>
+<translation id="7068829570137757602">brave のサービス</translation>
 <translation id="784934925303690534">期間</translation>
 <translation id="7851858861565204677">他のデバイス</translation>
 <translation id="7853202427316060426">アクティビティ</translation>
@@ -1251,10 +1251,10 @@
 <translation id="7875915731392087153">メールを作成</translation>
 <translation id="7876243839304621966">すべて削除</translation>
 <translation id="7879130110979560610">{READING_LIST_REMINDER_NOTIFICATION_SUBTITLE,plural, =1{未読ページが <ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_ONE"/> 件あります}other{未読ページが <ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_MANY"/> 件あります}}</translation>
-<translation id="6143689084714664628">Asil で実行中です</translation>
+<translation id="6143689084714664628">brave で実行中です</translation>
 <translation id="7887174313503389866">ガイドに沿って、プライバシーとセキュリティに関する重要な設定を確認します。その他のオプションについては、それぞれの設定で行います。</translation>
 <translation id="7887334752153342268">タブを複製</translation>
-<translation id="5570166585033664196">Asil の使い方</translation>
+<translation id="5570166585033664196">brave の使い方</translation>
 <translation id="7903184275147100332">1 分ほどかかる場合があります</translation>
 <translation id="7914399737746719723">アプリをインストールしました</translation>
 <translation id="7919123827536834358">これらの言語を自動的に翻訳する</translation>
@@ -1269,7 +1269,7 @@
 <translation id="7961015016161918242">使用しない</translation>
 <translation id="7961926449547174351">ストレージへのアクセスは無効になっています。[設定] で有効にしてください。</translation>
 <translation id="7963646190083259054">ベンダー:</translation>
-<translation id="2939504940637874963">保存したパスワードは他のデバイスで使用できます。パスワードは、<ph name="ACCOUNT"/> の Asil パスワード マネージャーに保存されます。</translation>
+<translation id="2939504940637874963">保存したパスワードは他のデバイスで使用できます。パスワードは、<ph name="ACCOUNT"/> の brave パスワード マネージャーに保存されます。</translation>
 <translation id="7968014550143838305">リーディング リストに追加しました</translation>
 <translation id="7971136598759319605">最終同期: 1 日前</translation>
 <translation id="7975379999046275268">ページをプレビュー <ph name="BEGIN_NEW"/>New<ph name="END_NEW"/></translation>
@@ -1278,7 +1278,7 @@
 <translation id="799576009106109668">表示中のウェブページに基づいてコンテンツが事前に読み込まれるので、すばやくブラウジングできます</translation>
 <translation id="7998918019931843664">閉じたタブを開く</translation>
 <translation id="8004582292198964060">ブラウザ</translation>
-<translation id="3325020657155065477">Asil データもこのデバイスから削除する</translation>
+<translation id="3325020657155065477">brave データもこのデバイスから削除する</translation>
 <translation id="8015452622527143194">ページ上のすべての要素をデフォルトのサイズに戻す</translation>
 <translation id="8026334261755873520">閲覧履歴データの削除</translation>
 <translation id="8027863900915310177">保存先を選択してください</translation>
@@ -1291,7 +1291,7 @@
 <translation id="8048728378294435881">データをバックアップして、他のデバイスで使用</translation>
 <translation id="8051695050440594747"><ph name="MEGABYTES"/> MB 利用可</translation>
 <translation id="8058655154417507695">有効期限（年）</translation>
-<translation id="2317945146070194624">新しい Asil タブで開く</translation>
+<translation id="2317945146070194624">新しい brave タブで開く</translation>
 <translation id="8062594758852531064">拡張プリロード:</translation>
 <translation id="8063895661287329888">ブックマークを追加できませんでした。</translation>
 <translation id="806745655614357130">データを別に保持する</translation>
@@ -1299,16 +1299,16 @@
 <translation id="8076492880354921740">タブ</translation>
 <translation id="8078096376109663956">テキストのみを共有</translation>
 <translation id="8084114998886531721">保存したパスワード</translation>
-<translation id="1718138320251931534">Asil アカウントのデータを管理します</translation>
+<translation id="1718138320251931534">brave アカウントのデータを管理します</translation>
 <translation id="808747664143081553">デバイスに接続しました</translation>
 <translation id="8090732854597034573">わからないことがあるときは、保護者の方に聞いてください</translation>
-<translation id="1501443023467711714">自分の設定で Asil を使用するにはログインしてください</translation>
-<translation id="3249150807062904185">続行すると、<ph name="BEGIN_TOS_LINK"/>利用規約<ph name="END_TOS_LINK"/>に同意されたものとみなされます。\nアプリを改善するため、Asil では使用状況とクラッシュに関するデータが Asil に送信されます。<ph name="BEGIN_UMA_LINK"/>管理<ph name="END_UMA_LINK"/></translation>
+<translation id="1501443023467711714">自分の設定で brave を使用するにはログインしてください</translation>
+<translation id="3249150807062904185">続行すると、<ph name="BEGIN_TOS_LINK"/>利用規約<ph name="END_TOS_LINK"/>に同意されたものとみなされます。\nアプリを改善するため、brave では使用状況とクラッシュに関するデータが brave に送信されます。<ph name="BEGIN_UMA_LINK"/>管理<ph name="END_UMA_LINK"/></translation>
 <translation id="8105893657415066307"><ph name="DESCRIPTION"/> <ph name="SEPARATOR"/> <ph name="FILE_SIZE"/></translation>
 <translation id="8107530384992929318">並べ替えオプションを閉じる</translation>
 <translation id="8109613176066109935">お使いのどのデバイスでも同じブックマークを使用するには、同期を有効にします</translation>
-<translation id="2919733817273403520">Asil の機能と動作の改善に協力する</translation>
-<translation id="4565206163201411670">Asil のアクティビティを Digital Wellbeing で表示しますか？</translation>
+<translation id="2919733817273403520">brave の機能と動作の改善に協力する</translation>
+<translation id="4565206163201411670">brave のアクティビティを Digital Wellbeing で表示しますか？</translation>
 <translation id="8118117428362942925">わからないことがあるときは、保護者の方（<ph name="PARENT_NAME"/>）に聞いてください</translation>
 <translation id="8127542551745560481">ホームページを編集</translation>
 <translation id="8130309322784422030">保存されているログイン情報が最新でない可能性があります。</translation>
@@ -1326,9 +1326,9 @@
 <translation id="8221656072740924283">続行</translation>
 <translation id="8223642481677794647">フィードカード メニュー</translation>
 <translation id="8250920743982581267">ドキュメント</translation>
-<translation id="5138664332909611586">このページは大量のメモリを使用しているため、Asil により一部のコンテンツが削除されました。</translation>
+<translation id="5138664332909611586">このページは大量のメモリを使用しているため、brave により一部のコンテンツが削除されました。</translation>
 <translation id="8255617931166444521">サイトは、Cookie を使用して、そのサイトでのあなたの閲覧アクティビティのみを確認できます</translation>
-<translation id="2876689296031086375">プリロードされたページは暗号化されているため、Asil はプリロードされたページのコンテンツを一切把握できません。Asil サーバーは、どのサイトが非公開でプリロードされたかを把握します。この情報はページをプリロードするためにのみ使用され、Asil アカウントから他の情報にリンクされることはありません。</translation>
+<translation id="2876689296031086375">プリロードされたページは暗号化されているため、brave はプリロードされたページのコンテンツを一切把握できません。brave サーバーは、どのサイトが非公開でプリロードされたかを把握します。この情報はページをプリロードするためにのみ使用され、brave アカウントから他の情報にリンクされることはありません。</translation>
 <translation id="8260126382462817229">もう一度ログインしてみてください</translation>
 <translation id="8261506727792406068">削除</translation>
 <translation id="82619448491672958">他のタブを表示</translation>
@@ -1340,28 +1340,28 @@
 <translation id="8310344678080805313">標準のタブ</translation>
 <translation id="831192587911042850">現在のウェブサイトを、フォローしているウェブサイトのリストに追加します。</translation>
 <translation id="834313815369870491">翻訳しないサイト</translation>
-<translation id="7890337656251106515"><ph name="BEGIN_BOLD"/>このデータの利用方法:<ph name="END_BOLD"/> サイトでは、ユーザーの興味 / 関心に関する情報を Asil に保存できます。たとえば、マラソン用のシューズを購入するためにあるサイトにアクセスすると、そのサイトでは「ランニング」をユーザーの興味 / 関心として定義する可能性があります。その後、別のサイトにアクセスして競技に登録しようとすると、そのサイトでは、ユーザーの興味 / 関心に基づいてランニング用シューズの広告が表示される場合があります。</translation>
+<translation id="7890337656251106515"><ph name="BEGIN_BOLD"/>このデータの利用方法:<ph name="END_BOLD"/> サイトでは、ユーザーの興味 / 関心に関する情報を brave に保存できます。たとえば、マラソン用のシューズを購入するためにあるサイトにアクセスすると、そのサイトでは「ランニング」をユーザーの興味 / 関心として定義する可能性があります。その後、別のサイトにアクセスして競技に登録しようとすると、そのサイトでは、ユーザーの興味 / 関心に基づいてランニング用シューズの広告が表示される場合があります。</translation>
 <translation id="8352996530981010042">リアクションをダウンロードできません。もう一度お試しください。</translation>
 <translation id="8354977102499939946">音声ですばやく検索します。このショートカットは [設定] で編集できます。</translation>
 <translation id="835847953965672673"><ph name="NUMBER_OF_DOWNLOADS"/> 件のダウンロードが復元されました</translation>
 <translation id="8368001212524806591">価格のトラッキング</translation>
-<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>このデータの利用方法:<ph name="END_BOLD"/> Asil はユーザーの興味 / 関心を推定できます。その後、アクセスしたサイトは、表示する広告をパーソナライズするために、Asil にユーザーの興味 / 関心を確認するよう依頼できます。</translation>
+<translation id="4867486350347355096"><ph name="BEGIN_BOLD"/>このデータの利用方法:<ph name="END_BOLD"/> brave はユーザーの興味 / 関心を推定できます。その後、アクセスしたサイトは、表示する広告をパーソナライズするために、brave にユーザーの興味 / 関心を確認するよう依頼できます。</translation>
 <translation id="8387617938027387193">本人確認</translation>
 <translation id="8393700583063109961">メッセージを送信</translation>
-<translation id="7651600795135059130">Asil に保存されている安全でないサイトのリストと URL を照合します</translation>
+<translation id="7651600795135059130">brave に保存されている安全でないサイトのリストと URL を照合します</translation>
 <translation id="8402673309244746971">フォロー中のフィードに移動</translation>
 <translation id="8413126021676339697">全履歴を表示</translation>
 <translation id="8414396119627470038"><ph name="SITE_ETLD_PLUS_ONE"/> に <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE"/> の情報を使用してログイン</translation>
-<translation id="2100587595569959771">Asil での広告のパーソナライズの詳細</translation>
+<translation id="2100587595569959771">brave での広告のパーソナライズの詳細</translation>
 <translation id="8419244640277402268">含める</translation>
-<translation id="5735840612282428689">ページを送信しました。<ph name="DEVICE_TYPE"/> で Asil を開くと表示できます</translation>
+<translation id="5735840612282428689">ページを送信しました。<ph name="DEVICE_TYPE"/> で brave を開くと表示できます</translation>
 <translation id="8427875596167638501">[プレビュー] タブが半分開いています</translation>
 <translation id="8428213095426709021">設定</translation>
 <translation id="8430824733382774043">スクリーンショットのみ共有</translation>
 <translation id="8438566539970814960">検索とブラウジングを改善する</translation>
 <translation id="8439974325294139057"><ph name="LANG"/> - 言語を使用できるようになりました。<ph name="APP_NAME"/> を再起動してください。</translation>
 <translation id="8442258441309440798">表示できる記事はありません</translation>
-<translation id="4058091506841967397">Asil を更新できません</translation>
+<translation id="4058091506841967397">brave を更新できません</translation>
 <translation id="8445448999790540984">パスワードをエクスポートできません</translation>
 <translation id="8446884382197647889">詳細</translation>
 <translation id="8453310803815879010">Dino ゲームを開始</translation>
@@ -1381,12 +1381,12 @@
 <translation id="8497242791509864205">並べ替えオプションを開く</translation>
 <translation id="8497480609928300907">プライバシー ガイドの説明</translation>
 <translation id="8497726226069778601">表示するものがまだありません</translation>
-<translation id="230699814587342492">Asil パスワード</translation>
+<translation id="230699814587342492">brave パスワード</translation>
 <translation id="8503813439785031346">ユーザー名</translation>
 <translation id="8505766168025405649">ダウンロード ステータスの通知を表示</translation>
-<translation id="133012818630824069">Asil に保存されたパスワードをエクスポートします</translation>
+<translation id="133012818630824069">brave に保存されたパスワードをエクスポートします</translation>
 <translation id="8516012719330875537">画像エディタ</translation>
-<translation id="713191641919118540">Asil が推定したお客様の興味 / 関心</translation>
+<translation id="713191641919118540">brave が推定したお客様の興味 / 関心</translation>
 <translation id="8523928698583292556">保存したパスワードを削除</translation>
 <translation id="8540136935098276800">正しい形式の URL を入力してください</translation>
 <translation id="854522910157234410">このページを開く</translation>
@@ -1402,9 +1402,9 @@
 <translation id="8583805026567836021">アカウント データをクリア中</translation>
 <translation id="859046281437143747">[その他のオプション] から価格をトラッキングできます</translation>
 <translation id="860043288473659153">カード名義人</translation>
-<translation id="1673533133011266617">Asil にログイン、の画面が閉じられました。</translation>
+<translation id="1673533133011266617">brave にログイン、の画面が閉じられました。</translation>
 <translation id="860282621117673749">値下げアラート</translation>
-<translation id="5784514951651328424">お使いの Asil アカウントの <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> に、他の形式の閲覧履歴が記録されている場合があります。</translation>
+<translation id="5784514951651328424">お使いの brave アカウントの <ph name="BEGIN_LINK"/>myactivity.google.com<ph name="END_LINK"/> に、他の形式の閲覧履歴が記録されている場合があります。</translation>
 <translation id="8617240290563765734">ダウンロード コンテンツに指定されている URL を開きますか？</translation>
 <translation id="8621068256433641644">スマートフォン</translation>
 <translation id="8636825310635137004">他のデバイスと同じタブを使用するには、同期を有効にします。</translation>
@@ -1412,10 +1412,10 @@
 <translation id="864544049772947936">ウィンドウ（<ph name="INSTANCE_COUNTS"/> 個）を管理</translation>
 <translation id="8645920082661222035">危険なイベントの発生を予測して警告します</translation>
 <translation id="8646467750715887511">ページは、ページを開くまでプリロードされません。</translation>
-<translation id="2734140769649165081">Asil の設定でデータを削除できます</translation>
-<translation id="6464188276370426100">Asil で検索するには</translation>
+<translation id="2734140769649165081">brave の設定でデータを削除できます</translation>
+<translation id="6464188276370426100">brave で検索するには</translation>
 <translation id="8662811608048051533">ほとんどのサイトからログアウトします。</translation>
-<translation id="7436978557885042606">Asil を独自にカスタマイズ</translation>
+<translation id="7436978557885042606">brave を独自にカスタマイズ</translation>
 <translation id="8664979001105139458">同じ名前のファイルが存在します</translation>
 <translation id="8666759526542103597">ブラウザベースの広告のカスタマイズについて</translation>
 <translation id="8676789164135894283">ログイン認証</translation>
@@ -1450,17 +1450,17 @@
 <translation id="8873817150012960745">始めるにはここをタップ</translation>
 <translation id="8881973373982641723">検索ボックスなどの履歴を削除します。</translation>
 <translation id="8884023684057697730"><ph name="BEGIN_BOLD"/>データを管理する方法:<ph name="END_BOLD"/> ユーザーのプライバシーを保護するために、4 週間以上経過したサイトはリストから自動削除されます。再度アクセスしたサイトが、またリストに表示される場合があります。ユーザーの興味 / 関心を定義させたくないサイトを完全に削除することもできます。</translation>
-<translation id="1984646864943401749">新たな脅威の発見と、すべてのウェブユーザーの保護に役立てるため、アクセスした一部のページの URL、限定的なシステム情報、一部のページ コンテンツを Asil に送信します。</translation>
+<translation id="1984646864943401749">新たな脅威の発見と、すべてのウェブユーザーの保護に役立てるため、アクセスした一部のページの URL、限定的なシステム情報、一部のページ コンテンツを brave に送信します。</translation>
 <translation id="8906502871739599113">リアクションを複製しました</translation>
 <translation id="8909135823018751308">共有...</translation>
-<translation id="2684652081942622950">Asil アカウントを使用</translation>
+<translation id="2684652081942622950">brave アカウントを使用</translation>
 <translation id="8920114477895755567">保護者の情報を待っています。</translation>
 <translation id="8921980840204105660">同期すると、他のデバイスのブックマークを使用できます</translation>
 <translation id="8922289737868596582">[その他のオプション] からページをダウンロードするとオフラインで使用できるようになります</translation>
 <translation id="8924575305646776101"><ph name="BEGIN_LINK"/>詳細<ph name="END_LINK"/></translation>
 <translation id="892496902842311796"><ph name="LANG"/> を使用できるようになりました</translation>
-<translation id="6894658278639191411">タスクを完了するため、アシスタントを使用したサイトの URL とコンテンツ、およびアシスタントで送信した情報が Asil に送られます。この情報は、Asil アカウントに保存される可能性があります。アシスタントは、Asil の設定で無効にできます。</translation>
-<translation id="1174893863889683998">Asil のアクティビティを Digital Wellbeing から削除しますか？</translation>
+<translation id="6894658278639191411">タスクを完了するため、アシスタントを使用したサイトの URL とコンテンツ、およびアシスタントで送信した情報が brave に送られます。この情報は、brave アカウントに保存される可能性があります。アシスタントは、brave の設定で無効にできます。</translation>
+<translation id="1174893863889683998">brave のアクティビティを Digital Wellbeing から削除しますか？</translation>
 <translation id="8942627711005830162">別のウィンドウで開く</translation>
 <translation id="8945143127965743188"><ph name="LANG"/> - この言語をダウンロードできませんでした。しばらくしてからもう一度お試しください。</translation>
 <translation id="8955719471735800169">トップへ戻る</translation>
@@ -1470,20 +1470,20 @@
 <translation id="8972098258593396643">デフォルトのフォルダにダウンロードしますか？</translation>
 <translation id="8987641763863173640">動画プレビューの設定を管理します</translation>
 <translation id="898854820045159673">リアクションを追加しました</translation>
-<translation id="5320085753638900910">閲覧履歴は、表示される広告と以下の推定された興味 / 関心に影響します。プライバシーを保護するために、Asil ではユーザーの興味 / 関心が毎月順番に自動削除されます。ユーザーが削除しない限り、興味 / 関心は更新される可能性があります。</translation>
+<translation id="5320085753638900910">閲覧履歴は、表示される広告と以下の推定された興味 / 関心に影響します。プライバシーを保護するために、brave ではユーザーの興味 / 関心が毎月順番に自動削除されます。ユーザーが削除しない限り、興味 / 関心は更新される可能性があります。</translation>
 <translation id="8996847606757455498">別のプロバイダを選択</translation>
-<translation id="3275122921244685452"><ph name="MANAGED_DOMAIN"/> で管理されているアカウントでログインして、Asil データの管理を管理者に委ねようとしています。この操作を行うと、データはこのアカウントに恒久的に関連付けられます。Asil からログアウトすると、データはこのデバイスから削除されますが、Asil アカウントには残ります。</translation>
+<translation id="3275122921244685452"><ph name="MANAGED_DOMAIN"/> で管理されているアカウントでログインして、brave データの管理を管理者に委ねようとしています。この操作を行うと、データはこのアカウントに恒久的に関連付けられます。brave からログアウトすると、データはこのデバイスから削除されますが、brave アカウントには残ります。</translation>
 <translation id="9022774213089566801">よく使用するサイト</translation>
 <translation id="9041669420854607037">{FILE_COUNT,plural, =1{# 個の動画}other{# 個の動画}}</translation>
 <translation id="9042893549633094279">プライバシーとセキュリティ</translation>
 <translation id="9050666287014529139">パスフレーズ</translation>
 <translation id="9063523880881406963">[PC 版サイトを見る] をオフにします</translation>
 <translation id="9065203028668620118">編集</translation>
-<translation id="5496925146144075335">Asil で重要度が低いと判断される保存データ（設定を保存していないサイトやアクセス頻度の少ないサイトのデータなど）</translation>
+<translation id="5496925146144075335">brave で重要度が低いと判断される保存データ（設定を保存していないサイトやアクセス頻度の少ないサイトのデータなど）</translation>
 <translation id="906781307897697745"><ph name="PRODUCT_NAME"/></translation>
 <translation id="9069999660519089861">未読ページはありません</translation>
 <translation id="9070377983101773829">音声検索を開始</translation>
-<translation id="8494430740943879273">ユーザーに合わせた Asil からのおすすめコンテンツを表示するには、ログインして同期を有効にします</translation>
+<translation id="8494430740943879273">ユーザーに合わせた brave からのおすすめコンテンツを表示するには、ログインして同期を有効にします</translation>
 <translation id="9074739597929991885">Bluetooth</translation>
 <translation id="9086302186042011942">同期しています</translation>
 <translation id="9086455579313502267">ネットワークにアクセスできません</translation>
@@ -1511,14 +1511,14 @@
 <translation id="9212845824145208577">下に移動できません。ページの下のほうから始めてみてください。</translation>
 <translation id="9219103736887031265">画像</translation>
 <translation id="9219582468404818260">ウェブの改善にご協力ください</translation>
-<translation id="6946179564366058239">ページのリンクを非公開でプリロードするように求めるメッセージがサイトに表示された場合、Asil は Cookie を使用せずに Asil サーバーを経由してページを暗号化し、プリロードします。その結果、プリロードされたサイトでユーザーの ID が非表示になります。</translation>
-<translation id="4596514158372210596">Asil のアクティビティを Digital Wellbeing から削除</translation>
-<translation id="2830145431802238213">Asil のライトモードをご活用ください</translation>
+<translation id="6946179564366058239">ページのリンクを非公開でプリロードするように求めるメッセージがサイトに表示された場合、brave は Cookie を使用せずに brave サーバーを経由してページを暗号化し、プリロードします。その結果、プリロードされたサイトでユーザーの ID が非表示になります。</translation>
+<translation id="4596514158372210596">brave のアクティビティを Digital Wellbeing から削除</translation>
+<translation id="2830145431802238213">brave のライトモードをご活用ください</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME"/> をフォローしました</translation>
 <translation id="932327136139879170">ホーム</translation>
 <translation id="938850635132480979">エラー: <ph name="ERROR_CODE"/></translation>
 <translation id="939598580284253335">パスフレーズを入力</translation>
-<translation id="5406914950576900927">中国のユーザーは Asil での検索に <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> を使用できます。この設定は [<ph name="BEGIN_LINK"/>設定<ph name="END_LINK"/>] で変更可能です。</translation>
+<translation id="5406914950576900927">中国のユーザーは brave での検索に <ph name="BEGIN_BOLD"/>Sogou<ph name="END_BOLD"/> を使用できます。この設定は [<ph name="BEGIN_LINK"/>設定<ph name="END_LINK"/>] で変更可能です。</translation>
 <translation id="962979164594783469">このアプリをインストール</translation>
 <translation id="96681097142096641">簡易版ページを表示しますか？</translation>
 <translation id="968900484120156207">アクセスしたページがここに表示されます</translation>

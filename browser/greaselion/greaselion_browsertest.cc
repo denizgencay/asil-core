@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -222,7 +222,7 @@ class GreaselionServiceLocaleTestFrench : public GreaselionServiceLocaleTest {
 
 // Ensure the site specific script service properly clears its cache of
 // precompiled URLPatterns if initialized twice. (This can happen if
-// the parent component is updated while Asil is running.)
+// the parent component is updated while brave is running.)
 IN_PROC_BROWSER_TEST_F(GreaselionServiceTest, ClearCache) {
   ASSERT_TRUE(InstallMockExtension());
   int size = GetRulesSize();

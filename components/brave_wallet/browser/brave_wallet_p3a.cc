@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -23,28 +23,28 @@
 
 namespace brave_wallet {
 
-const char kDefaultWalletHistogramName[] = "Asil.Wallet.DefaultWalletSetting";
+const char kDefaultWalletHistogramName[] = "brave.Wallet.DefaultWalletSetting";
 const char kDefaultSolanaWalletHistogramName[] =
-    "Asil.Wallet.DefaultSolanaWalletSetting";
-const char kKeyringCreatedHistogramName[] = "Asil.Wallet.KeyringCreated";
+    "brave.Wallet.DefaultSolanaWalletSetting";
+const char kKeyringCreatedHistogramName[] = "brave.Wallet.KeyringCreated";
 const char kOnboardingConversionHistogramName[] =
-    "Asil.Wallet.OnboardingConversion.2";
-const char kEthProviderHistogramName[] = "Asil.Wallet.EthProvider.2";
+    "brave.Wallet.OnboardingConversion.2";
+const char kEthProviderHistogramName[] = "brave.Wallet.EthProvider.2";
 const char kEthTransactionSentHistogramName[] =
-    "Asil.Wallet.EthTransactionSent";
+    "brave.Wallet.EthTransactionSent";
 const char kSolTransactionSentHistogramName[] =
-    "Asil.Wallet.SolTransactionSent";
+    "brave.Wallet.SolTransactionSent";
 const char kFilTransactionSentHistogramName[] =
-    "Asil.Wallet.FilTransactionSent";
-const char kEthActiveAccountHistogramName[] = "Asil.Wallet.ActiveEthAccounts";
-const char kSolActiveAccountHistogramName[] = "Asil.Wallet.ActiveSolAccounts";
-const char kFilActiveAccountHistogramName[] = "Asil.Wallet.ActiveFilAccounts";
-const char kBraveWalletWeeklyHistogramName[] = "Asil.Wallet.UsageDaysInWeek";
-const char kBraveWalletMonthlyHistogramName[] = "Asil.Wallet.UsageMonthly.2";
+    "brave.Wallet.FilTransactionSent";
+const char kEthActiveAccountHistogramName[] = "brave.Wallet.ActiveEthAccounts";
+const char kSolActiveAccountHistogramName[] = "brave.Wallet.ActiveSolAccounts";
+const char kFilActiveAccountHistogramName[] = "brave.Wallet.ActiveFilAccounts";
+const char kBraveWalletWeeklyHistogramName[] = "brave.Wallet.UsageDaysInWeek";
+const char kBraveWalletMonthlyHistogramName[] = "brave.Wallet.UsageMonthly.2";
 const char kBraveWalletNewUserReturningHistogramName[] =
-    "Asil.Wallet.NewUserReturning";
+    "brave.Wallet.NewUserReturning";
 const char kBraveWalletLastUsageTimeHistogramName[] =
-    "Asil.Wallet.LastUsageTime";
+    "brave.Wallet.LastUsageTime";
 
 namespace {
 

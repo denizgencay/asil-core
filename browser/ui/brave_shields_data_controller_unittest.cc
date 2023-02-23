@@ -1,4 +1,4 @@
-/*  Copyright (c) 2022 The Asil Authors. All rights reserved.
+/*  Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -116,7 +116,7 @@ class BraveShieldsDataControllerTest : public testing::Test {
 
 TEST_F(BraveShieldsDataControllerTest, SetAdBlockMode_ForOrigin_1) {
   auto* controller = GetShieldsDataController();
-  SetLastCommittedUrl(GURL("http://asil.com"));
+  SetLastCommittedUrl(GURL("http://brave.com"));
 
   /* DEFAULT */
   EXPECT_EQ(GetContentSettingFor(ContentSettingsType::BRAVE_ADS),
@@ -180,7 +180,7 @@ TEST_F(BraveShieldsDataControllerTest, SetAdBlockMode_ForOrigin_1) {
 
 TEST_F(BraveShieldsDataControllerTest, SetAdBlockMode_ForOrigin_2) {
   auto* controller = GetShieldsDataController();
-  SetLastCommittedUrl(GURL("http://asil.com"));
+  SetLastCommittedUrl(GURL("http://brave.com"));
 
   /* DEFAULT */
   EXPECT_EQ(GetContentSettingFor(ContentSettingsType::BRAVE_ADS),
@@ -244,7 +244,7 @@ TEST_F(BraveShieldsDataControllerTest, SetAdBlockMode_ForOrigin_2) {
 
 TEST_F(BraveShieldsDataControllerTest, SetAdBlockMode_ForOrigin_3) {
   auto* controller = GetShieldsDataController();
-  SetLastCommittedUrl(GURL("http://asil.com"));
+  SetLastCommittedUrl(GURL("http://brave.com"));
 
   /* DEFAULT */
   EXPECT_EQ(GetContentSettingFor(ContentSettingsType::BRAVE_ADS),
@@ -308,7 +308,7 @@ TEST_F(BraveShieldsDataControllerTest, SetAdBlockMode_ForOrigin_3) {
 
 TEST_F(BraveShieldsDataControllerTest, GetAdBlockMode_ForOrigin) {
   auto* controller = GetShieldsDataController();
-  SetLastCommittedUrl(GURL("http://asil.com"));
+  SetLastCommittedUrl(GURL("http://brave.com"));
 
   /* DEFAULT */
   EXPECT_EQ(controller->GetAdBlockMode(), AdBlockMode::STANDARD);
@@ -336,7 +336,7 @@ TEST_F(BraveShieldsDataControllerTest, GetAdBlockMode_ForOrigin) {
 
 TEST_F(BraveShieldsDataControllerTest, Observer_OnShieldsEnabledChangedTest) {
   // Set url for default web contents.
-  SetLastCommittedUrl(GURL("http://asil.com"));
+  SetLastCommittedUrl(GURL("http://brave.com"));
 
   // Create another web contents for testing whether its
   // OnShieldsEnabledChanged() callback is called when shields enabled is
@@ -352,7 +352,7 @@ TEST_F(BraveShieldsDataControllerTest, Observer_OnShieldsEnabledChangedTest) {
       BraveShieldsDataController::FromWebContents(web_contents_2.get());
   ctrl_2->AddObserver(&observer_2);
   content::WebContentsTester::For(web_contents_2.get())
-      ->SetLastCommittedURL(GURL("http://asil.com"));
+      ->SetLastCommittedURL(GURL("http://brave.com"));
 
   // Create another web contents for testing whether its
   // OnShieldsEnabledChanged() callback is *not* called when shields enabled is
@@ -380,7 +380,7 @@ TEST_F(BraveShieldsDataControllerTest, Observer_OnShieldsEnabledChangedTest) {
 
 TEST_F(BraveShieldsDataControllerTest, SetBraveShieldsEnabledAsDefaultValue) {
   // Set url for default web contents.
-  SetLastCommittedUrl(GURL("http://asil.com"));
+  SetLastCommittedUrl(GURL("http://brave.com"));
   auto* map = HostContentSettingsMapFactory::GetForProfile(profile());
   EXPECT_EQ(map->GetDefaultContentSetting(ContentSettingsType::BRAVE_SHIELDS,
                                           nullptr),

@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -12,7 +12,7 @@ RegisterPolymerTemplateModifications({
   'settings-search-page': (templateContent) => {
     const enginesSubpageTrigger = templateContent.getElementById('enginesSubpageTrigger')
     if (!enginesSubpageTrigger) {
-      console.error(`[Asil Settings Overrides] Couldn't find enginesSubpageTrigger`)
+      console.error(`[brave Settings Overrides] Couldn't find enginesSubpageTrigger`)
     } else {
       enginesSubpageTrigger.insertAdjacentHTML(
         'beforebegin',

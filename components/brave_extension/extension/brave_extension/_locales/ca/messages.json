@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "L'Extensió Asil",
+    "message": "L'Extensió brave",
     "description": "The name of the the extension."
   },
   "shields": {
@@ -24,12 +24,12 @@
     "description": "Message telling the user to disable shields if a site appears broken"
   },
   "disabledMessage": {
-    "message": "Estàs navegant en aquesta web sense les proteccions de privacitat i seguretat de Asil. No funciona bé amb els Escuts activats?",
+    "message": "Estàs navegant en aquesta web sense les proteccions de privacitat i seguretat de brave. No funciona bé amb els Escuts activats?",
     "description": "Message telling the user that shields are disabled, and prompting them towards reporting an issue if necessary"
   },
   "reportBrokenSite": {
     "message": "Informa d'una pàgina web inexistent",
-    "description": "Message for the button allowing users to report a broken site to Asil developers"
+    "description": "Message for the button allowing users to report a broken site to brave developers"
   },
   "itemsBlocked": {
     "message": "Elements bloquejats",
@@ -188,8 +188,8 @@
     "description": "Message for the simple view option"
   },
   "shieldsExplanation": {
-    "message": "Sovint els llocs inclouen galetes i scripts que proven d'identificar-te a tu i al teu dispositiu (sovint incrustats en anuncis). Volen esbrinar qui ets i seguir-te a través de la xarxa, rastrejant el que fas a cada lloc. Asil bloca aquestes coses de manera que puguis navegar sense que et segueixin.",
-    "description": "Message in read-only view explaining what Asil Shields do"
+    "message": "Sovint els llocs inclouen galetes i scripts que proven d'identificar-te a tu i al teu dispositiu (sovint incrustats en anuncis). Volen esbrinar qui ets i seguir-te a través de la xarxa, rastrejant el que fas a cada lloc. brave bloca aquestes coses de manera que puguis navegar sense que et segueixin.",
+    "description": "Message in read-only view explaining what brave Shields do"
   },
   "blockedResoucesExplanation": {
     "message": "Rastrejadors entre dominis i altres coses inquietants blocades",

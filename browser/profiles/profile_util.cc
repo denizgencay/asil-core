@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -59,7 +59,7 @@ void RecordSponsoredImagesEnabledP3A(Profile* profile) {
       profile->GetPrefs()->GetBoolean(kNewTabPageShowBackgroundImage) &&
       profile->GetPrefs()->GetBoolean(
           kNewTabPageShowSponsoredImagesBackgroundImage);
-  UMA_HISTOGRAM_BOOLEAN("Asil.NTP.SponsoredImagesEnabled",
+  UMA_HISTOGRAM_BOOLEAN("brave.NTP.SponsoredImagesEnabled",
                         is_sponsored_image_enabled);
 }
 

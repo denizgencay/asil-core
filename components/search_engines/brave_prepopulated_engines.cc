@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -181,17 +181,17 @@ const PrepopulatedEngine brave_yandex =
                        PREPOPULATED_ENGINE_ID_YANDEX);
 
 const PrepopulatedEngine brave_search = MakeBravePrepopulatedEngine(
-    L"Asil",
+    L"brave",
     L":br",
-    "https://cdn.search.asil.com/serp/favicon.ico",
-    "https://search.asil.com/search?q={searchTerms}&source="
+    "https://cdn.search.brave.com/serp/favicon.ico",
+    "https://search.brave.com/search?q={searchTerms}&source="
 #if BUILDFLAG(IS_ANDROID)
     "android",
 #else
     "desktop",
 #endif
     "UTF-8",
-    "https://search.asil.com/api/suggest?q={searchTerms}",
+    "https://search.brave.com/api/suggest?q={searchTerms}",
     SEARCH_ENGINE_OTHER,
     PREPOPULATED_ENGINE_ID_BRAVE);
 

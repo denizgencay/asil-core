@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -33,7 +33,7 @@ RegisterPolymerTemplateModifications({
     // Append On exit tab page.
     const tabsElement = templateContent.querySelector('#tabs')
     if (!tabsElement) {
-      console.error(`[Asil Settings Overrides] cannot find #tabs in clear-browsing-data-dialog`)
+      console.error(`[brave Settings Overrides] cannot find #tabs in clear-browsing-data-dialog`)
       return
     }
     tabsElement.insertAdjacentHTML(
@@ -48,7 +48,7 @@ RegisterPolymerTemplateModifications({
     // Append Save button.
     const confirmButtonElement = templateContent.querySelector('#clearBrowsingDataConfirm')
     if (!confirmButtonElement) {
-      console.error(`[Asil Settings Overrides] cannot find #clearBrowsingDataConfirm in clear-browsing-data-dialog`)
+      console.error(`[brave Settings Overrides] cannot find #clearBrowsingDataConfirm in clear-browsing-data-dialog`)
       return
     }
     confirmButtonElement.insertAdjacentHTML(
@@ -63,7 +63,7 @@ RegisterPolymerTemplateModifications({
     const saveButton =
       templateContent.getElementById('saveOnExitSettingsConfirm')
     if (!saveButton) {
-      console.error('[Asil Settings Overrides] Couldn\'t find save button')
+      console.error('[brave Settings Overrides] Couldn\'t find save button')
     } else {
       saveButton.textContent = loadTimeData.getString('save')
     }
@@ -71,7 +71,7 @@ RegisterPolymerTemplateModifications({
     // Append rewards reset data link
     const body = templateContent.querySelector('[slot="body"]')
     if (!body) {
-      console.error(`[Asil Settings Overrides] cannot find 'slot="body"' in clear-browsing-data-dialog`)
+      console.error(`[brave Settings Overrides] cannot find 'slot="body"' in clear-browsing-data-dialog`)
       return
     }
     body.insertAdjacentHTML(
@@ -83,7 +83,7 @@ RegisterPolymerTemplateModifications({
       templateContent.getElementById('rewards-reset-data')
     if (!rewardsResetLink) {
       console.error(
-        '[Asil Settings Overrides] Couldn\'t find Rewards reset link')
+        '[brave Settings Overrides] Couldn\'t find Rewards reset link')
     } else {
       rewardsResetLink.textContent = loadTimeData.getString('resetRewardsData')
     }

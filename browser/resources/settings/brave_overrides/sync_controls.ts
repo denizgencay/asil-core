@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -11,7 +11,7 @@ RegisterPolymerTemplateModifications({
     let paymentIntegrationToggle =
       templateContent.querySelector('cr-toggle[checked="{{syncPrefs.paymentsIntegrationEnabled}}"]')
     if (!paymentIntegrationToggle) {
-      console.error('[Asil Settings Overrides] Could not find sync control payment toggle')
+      console.error('[brave Settings Overrides] Could not find sync control payment toggle')
       return
     }
     paymentIntegrationToggle.parentElement.remove()

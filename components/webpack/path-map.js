@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -10,7 +10,7 @@ module.exports = {
 'gen': process.env.ROOT_GEN_DIR,
 // Generated resources at this path are available at chrome://resources and
 // whilst webpack will still bundle, we keep the alias to the served path
-// to minimize knowledge of specific gen/ paths and easily allow us to not bundle
+// to minimize knowledge of specific gen/ paths and ebravey allow us to not bundle
 // them in the future for certain build configurationa, just like chromium.
 'chrome://resources': path.join(process.env.ROOT_GEN_DIR, 'ui/webui/resources/preprocessed'),
 // We import brave-ui direct from source and not from package repo, so we need

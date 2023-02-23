@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -17,7 +17,7 @@
 #define IsDuplicateOf IsDuplicateOf_ChromiumImpl
 
 // `kWidevine` handled by an override in `WidevinePermissionRequest` and the
-// Asil Ethereum/Solana permission has its own permission request prompt.
+// brave Ethereum/Solana permission has its own permission request prompt.
 #define BRAVE_ENUM_ITEMS_FOR_SWITCH                      \
   case RequestType::kBraveGoogleSignInPermission:        \
     message_id = IDS_GOOGLE_SIGN_IN_PERMISSION_FRAGMENT; \

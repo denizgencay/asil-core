@@ -1,4 +1,4 @@
-/* Copyright 2019 The Asil Authors. All rights reserved.
+/* Copyright 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -34,7 +34,7 @@ constexpr std::array<uint64_t, 7> kBandwidthSavingsBuckets{
 };
 
 constexpr char kSavingsDailyUMAHistogramName[] =
-    "Asil.Savings.BandwidthSavingsMB";
+    "brave.Savings.BandwidthSavingsMB";
 
 }  // namespace
 

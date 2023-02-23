@@ -1,4 +1,4 @@
-/* Copyright (c) 2023 The Asil Authors. All rights reserved.
+/* Copyright (c) 2023 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -23,8 +23,8 @@ using testing::_;
 using testing::Mock;
 using testing::Return;
 
-constexpr char kAllowedDomain[] = "https://search.asil.com";
-constexpr char kNotAllowedDomain[] = "https://asil.com";
+constexpr char kAllowedDomain[] = "https://search.brave.com";
+constexpr char kNotAllowedDomain[] = "https://brave.com";
 
 blink::mojom::WebPagePtr CreateTestWebPage() {
   blink::mojom::WebPagePtr web_page = blink::mojom::WebPage::New();

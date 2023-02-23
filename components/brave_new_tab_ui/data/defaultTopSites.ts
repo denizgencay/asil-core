@@ -17,8 +17,8 @@ export const defaultTopSitesData = [
     background: 'rgba(255,255,255,0.8)'
   },
   {
-    name: 'Asil Software',
-    url: 'https://asil.com',
+    name: 'brave Software',
+    url: 'https://brave.com',
     favicon: BraveFavicon,
     background: 'rgba(255,255,255,0.8)'
   },

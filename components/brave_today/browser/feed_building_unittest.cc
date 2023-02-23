@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -51,7 +51,7 @@ base::Value GetFeedJson() {
           "publisher_name": "Digital Trends",
           "creative_instance_id": "",
           "url_hash": "523b9f2091474c2a082c06ec17965f8c2392f871917407228bbeb51d8a55d6be",
-          "padded_img": "https://pcdn.asil.com/brave-today/cache/052e832456e00a3cee51c68eee206fe71c32cba35d5e53dee2777dd132e01364.jpg.pad",
+          "padded_img": "https://pcdn.brave.com/brave-today/cache/052e832456e00a3cee51c68eee206fe71c32cba35d5e53dee2777dd132e01364.jpg.pad",
           "score": 13.93160989810695
         },
         {
@@ -65,7 +65,7 @@ base::Value GetFeedJson() {
           "publisher_name": "Fourth Publisher",
           "creative_instance_id": "",
           "url_hash": "523b9f2091474c2a082c06ec17965f8c2392f871917407228bbeb51d8a55d6be",
-          "padded_img": "https://pcdn.asil.com/brave-today/cache/052e832456e00a3cee51c68eee206fe71c32cba35d5e53dee2777dd132e01364.jpg.pad",
+          "padded_img": "https://pcdn.brave.com/brave-today/cache/052e832456e00a3cee51c68eee206fe71c32cba35d5e53dee2777dd132e01364.jpg.pad",
           "score": 22.93160989810695
         },
         {
@@ -79,7 +79,7 @@ base::Value GetFeedJson() {
           "publisher_name": "ESPN - Football",
           "creative_instance_id": "",
           "url_hash": "7bb5d8b3e2eee9d317f0568dcb094850fdf2862b2ed6d583c62b2245ea507ab8",
-          "padded_img": "https://pcdn.asil.com/brave-today/cache/85fb134433369025b46b861a00408e61223678f55620612d980533fa6ce0a815.jpg.pad",
+          "padded_img": "https://pcdn.brave.com/brave-today/cache/85fb134433369025b46b861a00408e61223678f55620612d980533fa6ce0a815.jpg.pad",
           "score": 14.525910905005045
         },
         {
@@ -93,7 +93,7 @@ base::Value GetFeedJson() {
           "publisher_name": "Foreign Policy",
           "creative_instance_id": "",
           "url_hash": "9aaa370ed4c2888bc6603404dcc44ed1125d3347101873798d2ec8a0a9c424b1",
-          "padded_img": "https://pcdn.asil.com/brave-today/cache/4f7ab8aef2ffb518bc4226d2c50487b6b9bde5f781579288b5b3dde92847db7a.jpg.pad",
+          "padded_img": "https://pcdn.brave.com/brave-today/cache/4f7ab8aef2ffb518bc4226d2c50487b6b9bde5f781579288b5b3dde92847db7a.jpg.pad",
           "score": 13.96799592432192
         },
         {
@@ -107,7 +107,7 @@ base::Value GetFeedJson() {
           "publisher_name": "Digital Trends",
           "creative_instance_id": "",
           "url_hash": "523b9f2091474c2a082c06ec17965f8c2392f871917407228bbeb51d8a55d6be",
-          "padded_img": "https://pcdn.asil.com/brave-today/cache/052e832456e00a3cee51c68eee206fe71c32cba35d5e53dee2777dd132e01364.jpg.pad",
+          "padded_img": "https://pcdn.brave.com/brave-today/cache/052e832456e00a3cee51c68eee206fe71c32cba35d5e53dee2777dd132e01364.jpg.pad",
           "score": 13.97160989810695
         }
       ]
@@ -328,7 +328,7 @@ TEST_F(BraveNewsFeedBuildingTest, RemovesDefaultOffItems) {
                "mbappe"),
           "7bb5d8b3e2eee9d317f0568dcb094850fdf2862b2ed6d583c62b2245ea507ab8",
           mojom::Image::NewPaddedImageUrl(
-              GURL("https://pcdn.asil.com/brave-today/cache/"
+              GURL("https://pcdn.brave.com/brave-today/cache/"
                    "85fb134433369025b46b861a00408e61223678f55620612d980533fa6ce"
                    "0a815.jpg.pad")),
           publisher_id_to_hide, "ESPN - Football", 14.525910905005045,
@@ -362,7 +362,7 @@ TEST_F(BraveNewsFeedBuildingTest, RemovesUserDisabledItems) {
                "mbappe"),
           "7bb5d8b3e2eee9d317f0568dcb094850fdf2862b2ed6d583c62b2245ea507ab8",
           mojom::Image::NewPaddedImageUrl(
-              GURL("https://pcdn.asil.com/brave-today/cache/"
+              GURL("https://pcdn.brave.com/brave-today/cache/"
                    "85fb134433369025b46b861a00408e61223678f55620612d980533fa6ce"
                    "0a815.jpg.pad")),
           publisher_id_to_hide, "ESPN - Football", 14.525910905005045,
@@ -397,7 +397,7 @@ TEST_F(BraveNewsFeedBuildingTest, IncludesUserEnabledItems) {
                "mbappe"),
           "7bb5d8b3e2eee9d317f0568dcb094850fdf2862b2ed6d583c62b2245ea507ab8",
           mojom::Image::NewPaddedImageUrl(
-              GURL("https://pcdn.asil.com/brave-today/cache/"
+              GURL("https://pcdn.brave.com/brave-today/cache/"
                    "85fb134433369025b46b861a00408e61223678f55620612d980533fa6ce"
                    "0a815.jpg.pad")),
           publisher_id_to_hide, "ESPN - Football", 14.525910905005045,

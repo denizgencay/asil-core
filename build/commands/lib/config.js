@@ -143,7 +143,7 @@ const Config = function () {
   this.safeBrowsingApiEndpoint = getNPMConfig(['safebrowsing_api_endpoint']) || ''
   this.updaterProdEndpoint = getNPMConfig(['updater_prod_endpoint']) || ''
   this.updaterDevEndpoint = getNPMConfig(['updater_dev_endpoint']) || ''
-  this.webcompatReportApiEndpoint = getNPMConfig(['webcompat_report_api_endpoint']) || 'https://webcompat.asil.com/1/webcompat'
+  this.webcompatReportApiEndpoint = getNPMConfig(['webcompat_report_api_endpoint']) || 'https://webcompat.brave.com/1/webcompat'
   this.rewardsGrantDevEndpoint = getNPMConfig(['rewards_grant_dev_endpoint']) || ''
   this.rewardsGrantStagingEndpoint = getNPMConfig(['rewards_grant_staging_endpoint']) || ''
   this.rewardsGrantProdEndpoint = getNPMConfig(['rewards_grant_prod_endpoint']) || ''
@@ -460,18 +460,18 @@ Config.prototype.buildArgs = function () {
     args.android_channel = this.channel
     if (!this.isReleaseBuild()) {
       args.android_channel = 'default'
-      args.chrome_public_manifest_package = 'com.asil.browser_default'
+      args.chrome_public_manifest_package = 'com.brave.browser_default'
     } else if (this.channel === '') {
       args.android_channel = 'stable'
-      args.chrome_public_manifest_package = 'com.asil.browser'
+      args.chrome_public_manifest_package = 'com.brave.browser'
     } else if (this.channel === 'beta') {
-      args.chrome_public_manifest_package = 'com.asil.browser_beta'
+      args.chrome_public_manifest_package = 'com.brave.browser_beta'
       args.exclude_unwind_tables = false
     } else if (this.channel === 'dev') {
-      args.chrome_public_manifest_package = 'com.asil.browser_dev'
+      args.chrome_public_manifest_package = 'com.brave.browser_dev'
     } else if (this.channel === 'nightly') {
       args.android_channel = 'canary'
-      args.chrome_public_manifest_package = 'com.asil.browser_nightly'
+      args.chrome_public_manifest_package = 'com.brave.browser_nightly'
       args.exclude_unwind_tables = false
     }
 

@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -70,16 +70,16 @@ void WebcompatReportUploader::CreateAndStartURLLoader(
   net::NetworkTrafficAnnotationTag traffic_annotation =
       net::DefineNetworkTrafficAnnotation("background_performance_tracer", R"(
         semantics {
-          sender: "Asil Web Compatibility Reporting"
+          sender: "brave Web Compatibility Reporting"
           description:
             "A user-initiated report of a website that appears broken as a"
-            "result of having Asil Shields enabled."
+            "result of having brave Shields enabled."
           trigger:
             "Though the 'Report a Broken Site' option of the help menu or"
-            "the Asil Shields panel."
+            "the brave Shields panel."
           data: "Broken URL, IP address; user provided additional details and contact information."
           destination: OTHER
-          destination_other: "Asil developers"
+          destination_other: "brave developers"
         }
         policy {
           cookies_allowed: NO

@@ -44,7 +44,7 @@ Then navigate to `127.0.0.1:8080/trigger_password_save_prompt.html` in Chrome.
 Enter any username and password, and click `Submit`. You should be prompted to
 save the password.
 
-I recommend using a different port number to easily distinguish each test case.
+I recommend using a different port number to ebravey distinguish each test case.
 
 # Cookies
 

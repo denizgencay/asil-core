@@ -91,7 +91,7 @@ TEST_F(BatAdsRequestSignedTokensUrlRequestBuilderTest, BuildUrlForRPill) {
       "digest: SHA-256=Sxq6H/YDThn/m2RSXsTzewSzKfAuGLh09w7m59VBYwU=",
       R"(signature: keyId="primary",algorithm="ed25519",headers="digest",signature="tLMjZ1f52kBqbwJy0B0On2h82978eV8tf4oK/3UJyq4mQqCu5y2q6puaxoe969ENtwSPU292PvbTIFAZZzwaCA==")",
       "content-type: application/json",
-      "Via: 1.1 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.1 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content =
       R"({"blindedTokens":["iEK4BXJINfAa0kzgpnnukGUAHvH5303+Y/msR5+u/nY=","eAAv7FNH2twpELsYf3glHLlOhnnlIMovIeEgEmcjgyo=","1G0+8546Y6jCIUXG0cKJq0qpkd6NsnG+4w9oSVW3gH8="]})";
@@ -127,7 +127,7 @@ TEST_F(BatAdsRequestSignedTokensUrlRequestBuilderTest, BuildUrlForBPill) {
       "digest: SHA-256=Sxq6H/YDThn/m2RSXsTzewSzKfAuGLh09w7m59VBYwU=",
       R"(signature: keyId="primary",algorithm="ed25519",headers="digest",signature="tLMjZ1f52kBqbwJy0B0On2h82978eV8tf4oK/3UJyq4mQqCu5y2q6puaxoe969ENtwSPU292PvbTIFAZZzwaCA==")",
       "content-type: application/json",
-      "Via: 1.0 brave, 1.1 ads-serve.asil.com (Apache/1.1)",
+      "Via: 1.0 brave, 1.1 ads-serve.brave.com (Apache/1.1)",
       "accept: application/json"};
   expected_url_request->content =
       R"({"blindedTokens":["iEK4BXJINfAa0kzgpnnukGUAHvH5303+Y/msR5+u/nY=","eAAv7FNH2twpELsYf3glHLlOhnnlIMovIeEgEmcjgyo=","1G0+8546Y6jCIUXG0cKJq0qpkd6NsnG+4w9oSVW3gH8="]})";

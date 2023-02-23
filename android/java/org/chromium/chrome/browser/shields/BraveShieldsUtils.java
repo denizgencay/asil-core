@@ -33,7 +33,7 @@ import java.util.List;
 
 public class BraveShieldsUtils {
 	private static final String TAG = "Shields";
-	private static final String httpUrl = "https://laptop-updates.asil.com/1/webcompat";
+	private static final String httpUrl = "https://laptop-updates.brave.com/1/webcompat";
         public static final String PREF_SHIELDS_TOOLTIP = "shields_tooltip";
         public static boolean isTooltipShown;
 

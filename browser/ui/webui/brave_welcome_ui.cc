@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -88,7 +88,7 @@ void OpenJapanWelcomePage(Profile* profile) {
   Browser* browser = chrome::FindBrowserWithProfile(profile);
   if (browser) {
     content::OpenURLParams open_params(
-        GURL("https://asil.com/ja/desktop-ntp-tutorial"), content::Referrer(),
+        GURL("https://brave.com/ja/desktop-ntp-tutorial"), content::Referrer(),
         WindowOpenDisposition::NEW_BACKGROUND_TAB,
         ui::PAGE_TRANSITION_AUTO_TOPLEVEL, false);
     browser->OpenURL(open_params);
@@ -103,7 +103,7 @@ void RecordP3AHistogram(int screen_number, bool finished) {
   } else {
     kCurrentScreen = std::min(screen_number, kMaxScreens);
   }
-  UMA_HISTOGRAM_EXACT_LINEAR("Asil.Welcome.InteractionStatus", kCurrentScreen,
+  UMA_HISTOGRAM_EXACT_LINEAR("brave.Welcome.InteractionStatus", kCurrentScreen,
                              kMaxScreens + 1);
 }
 

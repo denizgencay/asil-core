@@ -59,7 +59,7 @@ TEST_F(BatAdsConversionsDatabaseTableTest, SaveConversions) {
   ConversionInfo info_1;
   info_1.creative_set_id = "3519f52c-46a4-4c48-9c2b-c264c0067f04";
   info_1.type = "postview";
-  info_1.url_pattern = "https://www.asil.com/*";
+  info_1.url_pattern = "https://www.brave.com/*";
   info_1.observation_window = 3;
   info_1.expire_at = CalculateExpireAtTime(info_1.observation_window);
   conversions.push_back(info_1);
@@ -67,7 +67,7 @@ TEST_F(BatAdsConversionsDatabaseTableTest, SaveConversions) {
   ConversionInfo info_2;
   info_2.creative_set_id = "eaa6224a-46a4-4c48-9c2b-c264c0067f04";
   info_2.type = "postclick";
-  info_2.url_pattern = "https://www.asil.com/signup/*";
+  info_2.url_pattern = "https://www.brave.com/signup/*";
   info_2.observation_window = 30;
   info_2.expire_at = CalculateExpireAtTime(info_2.observation_window);
   conversions.push_back(info_2);
@@ -94,7 +94,7 @@ TEST_F(BatAdsConversionsDatabaseTableTest, DoNotSaveDuplicateConversion) {
   ConversionInfo info;
   info.creative_set_id = "3519f52c-46a4-4c48-9c2b-c264c0067f04";
   info.type = "postview";
-  info.url_pattern = "https://www.asil.com/*";
+  info.url_pattern = "https://www.brave.com/*";
   info.observation_window = 3;
   info.expire_at = CalculateExpireAtTime(info.observation_window);
   conversions.push_back(info);
@@ -123,7 +123,7 @@ TEST_F(BatAdsConversionsDatabaseTableTest, PurgeExpiredConversions) {
   ConversionInfo info_1;
   info_1.creative_set_id = "3519f52c-46a4-4c48-9c2b-c264c0067f04";
   info_1.type = "postview";
-  info_1.url_pattern = "https://www.asil.com/*";
+  info_1.url_pattern = "https://www.brave.com/*";
   info_1.observation_window = 7;
   info_1.expire_at = CalculateExpireAtTime(info_1.observation_window);
   conversions.push_back(info_1);
@@ -131,7 +131,7 @@ TEST_F(BatAdsConversionsDatabaseTableTest, PurgeExpiredConversions) {
   ConversionInfo info_2;  // Should be purged
   info_2.creative_set_id = "eaa6224a-46a4-4c48-9c2b-c264c0067f04";
   info_2.type = "postclick";
-  info_2.url_pattern = "https://www.asil.com/signup/*";
+  info_2.url_pattern = "https://www.brave.com/signup/*";
   info_2.observation_window = 3;
   info_2.expire_at = CalculateExpireAtTime(info_2.observation_window);
   conversions.push_back(info_2);
@@ -139,7 +139,7 @@ TEST_F(BatAdsConversionsDatabaseTableTest, PurgeExpiredConversions) {
   ConversionInfo info_3;
   info_3.creative_set_id = "8e9f0c2f-1640-463c-902d-ca711789287f";
   info_3.type = "postview";
-  info_3.url_pattern = "https://www.asil.com/*";
+  info_3.url_pattern = "https://www.brave.com/*";
   info_3.observation_window = 30;
   info_3.expire_at = CalculateExpireAtTime(info_3.observation_window);
   conversions.push_back(info_3);
@@ -173,7 +173,7 @@ TEST_F(BatAdsConversionsDatabaseTableTest,
   ConversionInfo info_1;
   info_1.creative_set_id = "3519f52c-46a4-4c48-9c2b-c264c0067f04";
   info_1.type = "postview";
-  info_1.url_pattern = "https://www.asil.com/1";
+  info_1.url_pattern = "https://www.brave.com/1";
   info_1.observation_window = 3;
   info_1.expire_at = CalculateExpireAtTime(info_1.observation_window);
   conversions.push_back(info_1);
@@ -184,7 +184,7 @@ TEST_F(BatAdsConversionsDatabaseTableTest,
   ConversionInfo info_2;  // Should supersede info_1
   info_2.creative_set_id = "3519f52c-46a4-4c48-9c2b-c264c0067f04";
   info_2.type = "postview";
-  info_2.url_pattern = "https://www.asil.com/2";
+  info_2.url_pattern = "https://www.brave.com/2";
   info_2.observation_window = 30;
   info_2.expire_at = CalculateExpireAtTime(info_2.observation_window);
   conversions.push_back(info_2);

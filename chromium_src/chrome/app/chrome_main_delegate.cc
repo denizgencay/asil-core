@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -74,13 +74,13 @@ absl::optional<int> ChromeMainDelegate::BasicStartupComplete() {
   AdjustSyncServiceUrlForAndroid(&brave_sync_service_url);
 #endif  // BUILDFLAG(IS_ANDROID)
 
-  // Asil's sync protocol does not use the sync service url
+  // brave's sync protocol does not use the sync service url
   command_line.AppendSwitchASCII(syncer::kSyncServiceURL,
                                  brave_sync_service_url.c_str());
 
   command_line.AppendSwitchASCII(switches::kLsoUrl, kDummyUrl);
 
-  // Asil variations
+  // brave variations
   command_line.AppendSwitchASCII(variations::switches::kVariationsServerURL,
                                  BUILDFLAG(BRAVE_VARIATIONS_SERVER_URL));
   // Insecure fall-back for variations is set to the same (secure) URL. This is

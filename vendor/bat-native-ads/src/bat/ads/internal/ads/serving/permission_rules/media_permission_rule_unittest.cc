@@ -32,7 +32,7 @@ TEST_F(BatAdsMediaPermissionRuleTest, AllowAdIfMediaIsNotPlaying) {
 TEST_F(BatAdsMediaPermissionRuleTest, AllowAdIfMediaIsStoppedForSingleTab) {
   // Arrange
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
       /*is_active*/ true,
       /*is_incognito*/ false);
 
@@ -50,7 +50,7 @@ TEST_F(BatAdsMediaPermissionRuleTest, AllowAdIfMediaIsStoppedForSingleTab) {
 TEST_F(BatAdsMediaPermissionRuleTest, AllowAdIfMediaIsStoppedOnMultipleTabs) {
   // Arrange
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
       /*is_active*/ true,
       /*is_incognito*/ false);
 
@@ -71,7 +71,7 @@ TEST_F(BatAdsMediaPermissionRuleTest,
        AllowAdIfMediaIsPlayingOnMultipleTabsButStoppedForVisibleTab) {
   // Arrange
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
       /*is_active*/ true,
       /*is_incognito*/ false);
 
@@ -91,7 +91,7 @@ TEST_F(BatAdsMediaPermissionRuleTest,
        DoNotAllowAdIfMediaIsPlayingOnVisibleTab) {
   // Arrange
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
       /*is_active*/ true,
       /*is_incognito*/ false);
 
@@ -120,7 +120,7 @@ TEST_F(BatAdsMediaPermissionRuleTest,
                                                     disabled_features);
 
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
       /*is_active*/ true,
       /*is_incognito*/ false);
 
@@ -138,7 +138,7 @@ TEST_F(BatAdsMediaPermissionRuleTest,
        DoNotAllowAdIfMediaIsPlayingOnMultipleTabs) {
   // Arrange
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
       /*is_active*/ true,
       /*is_incognito*/ false);
 
@@ -157,7 +157,7 @@ TEST_F(BatAdsMediaPermissionRuleTest,
        DoNotAllowAdIfMediaIsPlayingOnMultipleTabsButStoppedForOccludedTab) {
   // Arrange
   TabManager::GetInstance()->OnDidChange(
-      /*id*/ 1, /*redirect_chain*/ {GURL("https://asil.com")},
+      /*id*/ 1, /*redirect_chain*/ {GURL("https://brave.com")},
       /*is_active*/ true,
       /*is_incognito*/ false);
 

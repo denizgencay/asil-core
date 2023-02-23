@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -17,7 +17,7 @@ class TranslatePrefs : public TranslatePrefs_ChromiumImpl {
  public:
   using TranslatePrefs_ChromiumImpl::TranslatePrefs_ChromiumImpl;
 
-  // Override to control by Asil features. No virtual because TranslatePrefs
+  // Override to control by brave features. No virtual because TranslatePrefs
   // doesn't have a virtual dtor and the method isn't used inside the impl.
   bool ShouldAutoTranslate(base::StringPiece source_language,
                            std::string* target_language);

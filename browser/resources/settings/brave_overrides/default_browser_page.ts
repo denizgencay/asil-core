@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -24,7 +24,7 @@ function queryInAllTemplates(element, selector, onFound) {
 RegisterPolymerTemplateModifications({
   'settings-default-browser-page': (templateContent) => {
     // Stop both versions thinking they are the first, since this item is added
-    // to Asil's "Get Started" section.
+    // to brave's "Get Started" section.
     queryInAllTemplates(templateContent, '.cr-row.first', function (element) {
       element.classList.remove('first')
     })

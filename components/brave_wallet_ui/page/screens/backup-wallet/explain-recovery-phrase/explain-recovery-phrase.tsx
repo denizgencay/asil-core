@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -95,7 +95,7 @@ export const RecoveryPhraseExplainer = () => {
                 icon='key'
                 iconBackgroundColor='red200'
                 text={getLocale('braveWalletArticleLinkWhatsARecoveryPhrase')}
-                url='https://asil.com/learn/wallet-recovery-phrase/'
+                url='https://brave.com/learn/wallet-recovery-phrase/'
               />
             </CenteredRow>
           </div>

@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -184,7 +184,7 @@ std::unique_ptr<net::test_server::HttpResponse> HandleRedirect(
     const net::test_server::HttpRequest& request) {
   GURL request_url = request.GetURL();
 
-  if (request.headers.find("X-Asil-De-AMP") != request.headers.end()) {
+  if (request.headers.find("X-brave-De-AMP") != request.headers.end()) {
     // This should never happen, abort test
     return nullptr;
   }

@@ -1,4 +1,4 @@
-/* Copyright 2016 The Asil Authors. All rights reserved.
+/* Copyright 2016 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -151,7 +151,7 @@ bool HTTPSEverywhereService::Engine::GetHTTPSURL(
     candidate_url = candidate_url.ReplaceComponents(replacements);
   }
 
-  SCOPED_UMA_HISTOGRAM_TIMER("Asil.HTTPSE.GetHTTPSURL");
+  SCOPED_UMA_HISTOGRAM_TIMER("brave.HTTPSE.GetHTTPSURL");
   const std::vector<std::string> domains =
       ExpandDomainForLookup(candidate_url.host());
   for (auto domain : domains) {
@@ -366,7 +366,7 @@ void HTTPSEverywhereService::SetIgnorePortForTest(bool ignore) {
 
 ///////////////////////////////////////////////////////////////////////////////
 
-// The brave shields factory. Using the Asil Shields as a singleton
+// The brave shields factory. Using the brave Shields as a singleton
 // is the job of the browser process.
 std::unique_ptr<HTTPSEverywhereService> HTTPSEverywhereServiceFactory(
     scoped_refptr<base::SequencedTaskRunner> task_runner) {

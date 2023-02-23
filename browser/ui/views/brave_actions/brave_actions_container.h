@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -61,7 +61,7 @@ class BraveActionsContainer : public views::View {
 
   void UpdateVisibility();
 
-  // Asil Rewards preferences change observers callback.
+  // brave Rewards preferences change observers callback.
   void OnBraveRewardsPreferencesChanged();
 
   bool should_hide_ = false;
@@ -74,7 +74,7 @@ class BraveActionsContainer : public views::View {
   raw_ptr<BraveShieldsActionView> shields_action_btn_ = nullptr;
   raw_ptr<BraveRewardsActionView> rewards_action_btn_ = nullptr;
 
-  // Listen for Asil Rewards preferences changes.
+  // Listen for brave Rewards preferences changes.
   BooleanPrefMember show_brave_rewards_button_;
 
   base::WeakPtrFactory<BraveActionsContainer> weak_ptr_factory_{this};

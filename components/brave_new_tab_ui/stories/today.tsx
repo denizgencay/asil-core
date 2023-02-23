@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -18,7 +18,7 @@ import './todayStrings'
 const onClick = () => alert('clicked')
 
 export default {
-  title: 'New Tab/Asil Today',
+  title: 'New Tab/brave Today',
   decorators: [
     (Story: any) => <ThemeProvider><Story /></ThemeProvider>,
     (Story: any) => (

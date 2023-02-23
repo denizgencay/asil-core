@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -44,12 +44,12 @@ export default function BraveTodayContent (props: Props) {
       rootMargin: '0px 0px 900px 0px'
     }
     const endOfCurrentArticlesListObserver = new IntersectionObserver((entries) => {
-      console.debug('Asil Today content Intersection Observer triggered', entries)
+      console.debug('brave Today content Intersection Observer triggered', entries)
       const hasReachedPaginationPoint = entries.some(
         entry => entry.intersectionRatio > 0 ||
                   entry.boundingClientRect.top < 0)
       if (hasReachedPaginationPoint) {
-        console.debug('Asil Today content Intersection Observer determined need new page.')
+        console.debug('brave Today content Intersection Observer determined need new page.')
         if (!pageRequestPending) {
           pageRequestPending = true
           window.requestIdleCallback(() => {
@@ -73,7 +73,7 @@ export default function BraveTodayContent (props: Props) {
         entry => entry.isIntersecting ||
           entry.boundingClientRect.top < 0
       )
-      console.debug('Asil News: Intersection Observer trigger show options, changing', isInteracting)
+      console.debug('brave News: Intersection Observer trigger show options, changing', isInteracting)
       setShowOptions(isInteracting)
       // When in "prompting" mode, scrolling past the first card
       // is indication that the user is interacting with the feature.
@@ -143,7 +143,7 @@ export default function BraveTodayContent (props: Props) {
     if (latestCardDepth.current >= count) {
       return
     }
-    console.debug(`Asil Today: viewed ${count} cards.`)
+    console.debug(`brave Today: viewed ${count} cards.`)
     props.onFeedItemViewedCountChanged(count)
   }))
   const registerCardCountTriggerElement = React.useCallback((trigger: HTMLElement | null) => {
@@ -170,7 +170,7 @@ export default function BraveTodayContent (props: Props) {
 
   // satisfy typescript sanity, should not get here
   if (!feed || !publishers) {
-    console.error('Asil Today: should have shown error or loading state, but ran in to an unintended code path.')
+    console.error('brave Today: should have shown error or loading state, but ran in to an unintended code path.')
     return null
   }
 

@@ -31,7 +31,7 @@ AdInfo BuildAd() {
   ad.campaign_id = kCampaignId;
   ad.advertiser_id = kAdvertiserId;
   ad.segment = kSegment;
-  ad.target_url = GURL("https://asil.com");
+  ad.target_url = GURL("https://brave.com");
 
   return ad;
 }

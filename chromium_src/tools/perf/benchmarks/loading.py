@@ -1,11 +1,11 @@
-# Copyright (c) 2022 The Asil Authors. All rights reserved.
+# Copyright (c) 2022 The brave Authors. All rights reserved.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # you can obtain one at http://mozilla.org/MPL/2.0/.
 """A inline part of loading.py"""
 
 
-@benchmark.Info(emails=['matuchin@asil.com', 'iefremov@asil.com'],
+@benchmark.Info(emails=['matuchin@brave.com', 'iefremov@brave.com'],
                 component='Blink>Loader',
                 documentation_url='https://bit.ly/loading-benchmarks')
 class LoadingDesktopBrave(LoadingDesktop):

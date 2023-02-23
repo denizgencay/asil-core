@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="ko">
-<translation id="3333887201479867589">Asil Rewards</translation>
+<translation id="3333887201479867589">brave Rewards</translation>
 <translation id="4615489450165434530">작동이 멈춘 사이트 보고</translation>
 <translation id="8097438084542431276">클린 링크 복사</translation>
 <translation id="1209739344687072997">작동이 멈춘 사이트 보고</translation>
@@ -38,12 +38,12 @@
 <translation id="1970435562892104727">Tor 비공개 창입니다</translation>
 <translation id="1037341607922068025">Tor 비공개 창 열기</translation>
 <translation id="1725356094208762656">Tor에서 열기</translation>
-<translation id="3396347744975515056">Asil 동기화가 업그레이드되어서 설정이 필요합니다</translation>
+<translation id="3396347744975515056">brave 동기화가 업그레이드되어서 설정이 필요합니다</translation>
 <translation id="7473245612074035141">설치 시작</translation>
-<translation id="496896260395129787">다른 디바이스에서 이 Asil Sync 계정이 삭제되었습니다. 동기화를 비활성화할 의도가 아니라면 <ph name="LINK_TEXT"/></translation>
+<translation id="496896260395129787">다른 디바이스에서 이 brave Sync 계정이 삭제되었습니다. 동기화를 비활성화할 의도가 아니라면 <ph name="LINK_TEXT"/></translation>
 <translation id="4353815407425635948"><ph name="INFOBAR_TEXT"/>계정을 새로 만드세요.</translation>
 <translation id="6965382102122355670">좋습니다</translation>
-<translation id="3975865347033939965">동기화 서비스를 시작할 수 없습니다. Asil Sync가 미실행 중입니다.</translation>
+<translation id="3975865347033939965">동기화 서비스를 시작할 수 없습니다. brave Sync가 미실행 중입니다.</translation>
 <translation id="4450893287417543264">다시 표시하지 않음</translation>
 <translation id="4595286989346610620">세부정보 확인</translation>
 <translation id="7691598647605453992">IPFS</translation>
@@ -62,7 +62,7 @@
 <translation id="6925604404524625582">IPFS 스냅샷 링크 가져오기 및 복사</translation>
 <translation id="1434416574322382019">Tor와 함께하는 새로운 비공개 윈도우</translation>
 <translation id="4703780849509456860">Tor와 함께 비공개 윈도우에서 링크 열기</translation>
-<translation id="3488584642074079080">Asil 비공개 창의 링크를 Tor로 열기</translation>
+<translation id="3488584642074079080">brave 비공개 창의 링크를 Tor로 열기</translation>
 <translation id="186554175479803110">파일 가져오기 및 공유</translation>
 <translation id="3036649622769666520">파일 열기</translation>
 <translation id="4408880250587950158">디렉토리 가져오기 및 공유</translation>
@@ -75,27 +75,27 @@
 <translation id="7068360136237591149">파일 열기</translation>
 <translation id="6313675821927505581">Tor를 이용한 새로운 비공개 윈도우</translation>
 <translation id="2638041073279639246">Tor를 이용해 비공개 윈도우에서 링크 열기</translation>
-<translation id="3425600262621021599">Tor를 이용해 Asil 비공개 윈도우에서 링크 열기</translation>
+<translation id="3425600262621021599">Tor를 이용해 brave 비공개 윈도우에서 링크 열기</translation>
 <translation id="3229091547987707389">디렉토리 가져오기 및 공유</translation>
-<translation id="2804710924397009224">Asil Rewards 아이콘 숨기기</translation>
-<translation id="5029193871181468990">Asil Rewards 아이콘 숨기기</translation>
-<translation id="2808103541110899519">Asil 월렛 아이콘 숨기기</translation>
-<translation id="7595540212376041331">Asil 월렛 아이콘 숨기기</translation>
+<translation id="2804710924397009224">brave Rewards 아이콘 숨기기</translation>
+<translation id="5029193871181468990">brave Rewards 아이콘 숨기기</translation>
+<translation id="2808103541110899519">brave 월렛 아이콘 숨기기</translation>
+<translation id="7595540212376041331">brave 월렛 아이콘 숨기기</translation>
 <translation id="4928988318462976765">웹 익스텐션 스토어</translation>
 <translation id="9181207987584064303">웹 익스텐션 스토어에서 보기</translation>
 <translation id="3161744659507801211">경고: Brave는 확장 기능이 여러분의 브라우징 기록을 기록하는 것을 막을 수 없습니다.</translation>
 <translation id="2162109630536601963">이 확장 기능이 네트워크 요청을 생성할 경우, 이는 Tor나 프라이빗 모드를 사용하지 않을 것입니다.</translation>
 <translation id="2725327089319971976">이 확장 기능을 개인 정보 보호 모드와 Tor 모드에서 비활성화하려면, 이 옵션을 선택 해제하십시오.</translation>
-<translation id="3371343170427636147">Asil 브라우저 야간 앱</translation>
-<translation id="4097979995947147464">Asil 브라우저 베타 앱</translation>
-<translation id="8303432794159193481">Asil 브라우저 개발 앱</translation>
-<translation id="8292967014767479012">Asil 브라우저 앱</translation>
-<translation id="4743468424889072281">Asil 브라우저 개발 앱</translation>
+<translation id="3371343170427636147">brave 브라우저 야간 앱</translation>
+<translation id="4097979995947147464">brave 브라우저 베타 앱</translation>
+<translation id="8303432794159193481">brave 브라우저 개발 앱</translation>
+<translation id="8292967014767479012">brave 브라우저 앱</translation>
+<translation id="4743468424889072281">brave 브라우저 개발 앱</translation>
 <translation id="5039804452771397117">허용</translation>
 <translation id="7053983685419859001">차단</translation>
-<translation id="1679356339067548863">Asil 브라우저가 작동이 멎거나 프리징이 발생하면 진단 보고서를 자동 전송하여 Asil 제품 안정성 향상에 도움을 주세요.</translation>
+<translation id="1679356339067548863">brave 브라우저가 작동이 멎거나 프리징이 발생하면 진단 보고서를 자동 전송하여 brave 제품 안정성 향상에 도움을 주세요.</translation>
 <translation id="660171790038410175"><ph name="BROWSER_NAME"/>가 예기치 않게 종료되었습니다.</translation>
-<translation id="1324417023773393937">Asil 브라우저</translation>
+<translation id="1324417023773393937">brave 브라우저</translation>
 <translation id="7276554663454265692"><ph name="SETTING_TEXT"/>은 언제든지 브라우저 설정에서 다시 변경할 수 있습니다.</translation>
 <translation id="6873781976650514089">이 설정</translation>
 <translation id="8915916167043355778">모두 닫기</translation>
@@ -104,27 +104,27 @@
 <translation id="7551864359422178684">이 브라우저 창에 탭 <ph name="NUMBER_OF_TABS"/>개가 열려 있습니다.</translation>
 <translation id="2571596981920752023">탭 <ph name="NUMBER_OF_TABS"/>개</translation>
 <translation id="1307431692088049276">다시 묻지 않기</translation>
-<translation id="2272117088509540883">- Asil 검색</translation>
-<translation id="2701279958223202597">강화된 프라이버시로 독립적 검색을 지향합니다. Asil 검색은 귀하의 신원, 검색 내역, 클릭 활동을 추적하지 않습니다.</translation>
+<translation id="2272117088509540883">- brave 검색</translation>
+<translation id="2701279958223202597">강화된 프라이버시로 독립적 검색을 지향합니다. brave 검색은 귀하의 신원, 검색 내역, 클릭 활동을 추적하지 않습니다.</translation>
 <translation id="6438467592401259882">강화된 프라이버시로 독립적 검색을 지향합니다.</translation>
 <translation id="1688359110799098115">강화된 프라이버시로 독립적 검색 지향</translation>
-<translation id="8579317236683491484">Asil 검색은 귀하의 신원, 검색 내역, 클릭 활동을 추적하지 않습니다.</translation>
-<translation id="5240031343741051161">Asil Search 이용하기</translation>
+<translation id="8579317236683491484">brave 검색은 귀하의 신원, 검색 내역, 클릭 활동을 추적하지 않습니다.</translation>
+<translation id="5240031343741051161">brave Search 이용하기</translation>
 <translation id="5026874946691314267">다시 표시하지 않음</translation>
 <translation id="5234764350956374838">숨기기</translation>
-<translation id="5100490448228945668">Asil 검색 전환을 닫고 Enter를 누르면 이 추천 항목을 제거합니다.</translation>
+<translation id="5100490448228945668">brave 검색 전환을 닫고 Enter를 누르면 이 추천 항목을 제거합니다.</translation>
 <translation id="9194637241566114638">익명 사용 데이터를 보내 <ph name="SEARCH_NAME"/> 개선을 돕습니다.  <ph name="MORE_INFO"/></translation>
-<translation id="7404610376221341525">Asil 검색</translation>
+<translation id="7404610376221341525">brave 검색</translation>
 <translation id="8184318863960255706">추가 정보</translation>
 <translation id="780301667611848630">아니요, 괜찮습니다.</translation>
 <translation id="1162706247109707219">확인을 클릭하면 Windows 10 이상으로 업데이트할 때까지 설치된 Brave에 매우 중요한 보안 픽스를 받지 못한다는 사실에 동의합니다. 이 경고는 다시 표시되지 않습니다.</translation>
 <translation id="2515126961943087659">Bat 광고 서비스</translation>
 <translation id="7924918279836988121">배트 원장 서비스</translation>
 <translation id="6040143037577758943">닫기</translation>
-<translation id="6665472986740899785">Asil 알림 광고</translation>
+<translation id="6665472986740899785">brave 알림 광고</translation>
 <translation id="4174337572777167894">웹 디스커버리 프로젝트</translation>
-<translation id="8659271182272561965">익명 검색 및 인터넷 사용 기록 데이터 일부를 보내 Asil Search 개선에 도움을 주세요.</translation>
-<translation id="1516554614404600536">Asil 툴팁</translation>
+<translation id="8659271182272561965">익명 검색 및 인터넷 사용 기록 데이터 일부를 보내 brave Search 개선에 도움을 주세요.</translation>
+<translation id="1516554614404600536">brave 툴팁</translation>
 <translation id="4375473250631001683">사이드바 아이콘 숨기기</translation>
 <translation id="2613033293035359003">사이드바 숨기기</translation>
 <translation id="4233010476457917696">사이드바 표시</translation>
@@ -181,7 +181,7 @@
 <translation id="2609895996619941644">Wayback Machine에서 저장된 버전을 사용할 수 있는지 확인하시겠습니까?</translation>
 <translation id="8053093028263274061">죄송합니다. 저장된 버전이 존재하지 않습니다.</translation>
 <translation id="8517321676372639828">저장된 버전 확인</translation>
-<translation id="191143826155037518">Asil (브레이브)는 <ph name="BEGIN_LINK_MPL"/>모질라 공용 허가서 2.0<ph name="END_LINK_MPL"/> (MPL)에 따라 사용자에게 제공되며, 여러 다양한 기타 허가서에 따라 <ph name="BEGIN_LINK_OSS"/>오픈 소스 소프트웨어<ph name="END_LINK_OSS"/>를 포함합니다. 
+<translation id="191143826155037518">brave (브레이브)는 <ph name="BEGIN_LINK_MPL"/>모질라 공용 허가서 2.0<ph name="END_LINK_MPL"/> (MPL)에 따라 사용자에게 제공되며, 여러 다양한 기타 허가서에 따라 <ph name="BEGIN_LINK_OSS"/>오픈 소스 소프트웨어<ph name="END_LINK_OSS"/>를 포함합니다. 
         귀하는 <ph name="BEGIN_LINK_SOURCE_CODE"/>이 사본을 만드는 데 사용되는 특정 소스 코드<ph name="END_LINK_SOURCE_CODE"/>를 <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/>다운로드하고 구축하는 방법에 대한 지침<ph name="END_LINK_BUILD_INSTRUCTIONS"/>을 읽으실 수 있습니다.</translation>
 <translation id="4474155171896946103">모든 탭 북마크...</translation>
 <translation id="3987546108749866209">세로 탭 사용</translation>
@@ -199,8 +199,8 @@
 <translation id="4070612712151038707">툴바에 VPN 버튼 표시</translation>
 <translation id="7705524343798198388">VPN</translation>
 <translation id="8593397073757037946">VPN 토글</translation>
-<translation id="3960619311638643872">Asil VPN</translation>
-<translation id="2345974803401546682">Asil VPN 정보</translation>
+<translation id="3960619311638643872">brave VPN</translation>
+<translation id="2345974803401546682">brave VPN 정보</translation>
 <translation id="4378551569595875038">연결 중...</translation>
 <translation id="3368922792935385530">연결됨</translation>
 <translation id="1536754031901697553">연결을 해제하는 중...</translation>
@@ -234,14 +234,14 @@
 <translation id="8081858229109418493">프로필 이름 및 아이콘</translation>
 <translation id="6786747875388722282">확장 프로그램</translation>
 <translation id="984275831282074731">결제 수단</translation>
-<translation id="2044383478723007273">Asil 색상</translation>
+<translation id="2044383478723007273">brave 색상</translation>
 <translation id="1807246157184219062">라이트</translation>
 <translation id="2414886740292270097">어두움</translation>
 <translation id="1360441190790440400">Linux와 동일</translation>
 <translation id="1336940801687497203">Windows와 동일</translation>
 <translation id="8721331068159819483">macOS와 동일</translation>
 <translation id="1692470335103807198">더 많은 테마 받기</translation>
-<translation id="2906510232093002459">Asil 기본 이미지</translation>
+<translation id="2906510232093002459">brave 기본 이미지</translation>
 <translation id="3367129510799209147">탭 호버 모드</translation>
 <translation id="2113977810652731515">카드</translation>
 <translation id="4096343215397759358">미리보기가 있는 카드</translation>
@@ -252,8 +252,8 @@
 <translation id="2858138569776157458">인기 사이트</translation>
 <translation id="7859704718976024901">검색 내역</translation>
 <translation id="8820817407110198400">북마크</translation>
-<translation id="6333347122924254968">주소 표시줄에 Asil Rewards 아이콘 표시</translation>
-<translation id="2245286910966863912">주소 표시줄에 Asil News 버튼 표시</translation>
+<translation id="6333347122924254968">주소 표시줄에 brave Rewards 아이콘 표시</translation>
+<translation id="2245286910966863912">주소 표시줄에 brave News 버튼 표시</translation>
 <translation id="1811404036171336214">새 탭 페이지에 책갈피 항상 표시</translation>
 <translation id="3416468988018290825">항상 URL 풀로 표시</translation>
 <translation id="5529693968082667490">탭 검색 버튼 표시</translation>
@@ -280,7 +280,7 @@
 <translation id="6303294677342628402">보호</translation>
 <translation id="7133511168130368997">웹에서 귀하를 따라오는 추적기 및 광고를 차단하세요.</translation>
 <translation id="2761825942249694703">이는 기본 Shields 설정입니다. 특정 사이트에 대해 Shields 패널에서 무언가를 바꾸지 않는 한 모든 웹사이트에 적용됩니다. 이를 바꾼다고 해도 기존 사이트별 설정에는 영향을 미치지 않습니다.</translation>
-<translation id="1435116578479068303">이렇게 하면 <ph name="BEGIN_LINK"/>Asil Rewards<ph name="END_LINK"/> 설정에서 관리하는 Asil Private Ads가 아닌 대부분의 광고가 웹사이트에서 차단됩니다.</translation>
+<translation id="1435116578479068303">이렇게 하면 <ph name="BEGIN_LINK"/>brave Rewards<ph name="END_LINK"/> 설정에서 관리하는 brave Private Ads가 아닌 대부분의 광고가 웹사이트에서 차단됩니다.</translation>
 <translation id="8452536890042542134">대부분의 광고가 웹사이트에서 차단됩니다.</translation>
 <translation id="4800195524776354947">방패 아이콘에 차단된 항목 수 표시</translation>
 <translation id="5510493033031835532">AMP 페이지 자동 리디렉션</translation>
@@ -324,12 +324,12 @@
 <translation id="4182731739150761577">전체 목록 보기</translation>
 <translation id="1340263054776016283">필터 목록 URL 입력</translation>
 <translation id="8578397014396032341">콘텐츠 필터</translation>
-<translation id="6821903322090655051">Asil Rewards가 비활성화되어 있습니다.</translation>
+<translation id="6821903322090655051">brave Rewards가 비활성화되어 있습니다.</translation>
 <translation id="413570371620795359">Rewards 패널을 열고 활성화하여 시작하세요.</translation>
 <translation id="3849957491997306859">자동 감지됨</translation>
 <translation id="8798099450830957504">기본값</translation>
-<translation id="4851215387785619212">Asil Private Ads</translation>
-<translation id="7808122468353671181">Asil Ads를 보면 토큰이 적립됩니다. 광고는 사용자의 관심사를 기반으로 표시되며 브라우저의 성능을 저해하지 않습니다. 개인 데이터나 인터넷 사용 기록은 절대 브라우저에 남지 않습니다.</translation>
+<translation id="4851215387785619212">brave Private Ads</translation>
+<translation id="7808122468353671181">brave Ads를 보면 토큰이 적립됩니다. 광고는 사용자의 관심사를 기반으로 표시되며 브라우저의 성능을 저해하지 않습니다. 개인 데이터나 인터넷 사용 기록은 절대 브라우저에 남지 않습니다.</translation>
 <translation id="1758947220824279023">표시할 최대 광고 개수</translation>
 <translation id="2356652719351432565">지역 광고 관련성</translation>
 <translation id="2196950072404588793">이 설정을 켜면 Brave가 현재 지역에 적합한 광고를 표시합니다. <ph name="BEGIN_LINK"/>자세히 알아보기<ph name="END_LINK"/></translation>
@@ -358,7 +358,7 @@
 <translation id="3540231253392253941">푸시 메시지에 Google 서비스 사용</translation>
 <translation id="933652931229970927">진단 보고서 자동 전송</translation>
 <translation id="4846154056248462491">나갈 때</translation>
-<translation id="2808630562319398131">Asil 리워드 데이터 재설정...</translation>
+<translation id="2808630562319398131">brave 리워드 데이터 재설정...</translation>
 <translation id="6438096877646138757">닫으면 쿠키가 삭제되는 사이트</translation>
 <translation id="2988792685798128092">사이트를 닫으면 삭제</translation>
 <translation id="814018970995616154">Brave에 저장된 안전하지 않은 사이트 목록을 이용해 URL을 확인합니다.</translation>
@@ -417,23 +417,23 @@
 <translation id="4432071071853308688">코드가 비어 있음</translation>
 <translation id="955848693465029904">내부 동기화 셋업 오류</translation>
 <translation id="7456398316301207582">내부 계정 삭제 오류</translation>
-<translation id="859506441384380749">이 코드는 더 이상 지원되지 않는 Asil 구버전에서 생성되었습니다. 다른 기기를 먼저 업그레이드하세요.</translation>
+<translation id="859506441384380749">이 코드는 더 이상 지원되지 않는 brave 구버전에서 생성되었습니다. 다른 기기를 먼저 업그레이드하세요.</translation>
 <translation id="3132642509209154999">만료된 코드입니다. 다른 기기에서 새 코드를 생성하고 다시 시도하세요.</translation>
 <translation id="2859229680945501779">유효하지 않은 코드입니다. 디바이스에 시간과 시간대가 제대로 설정되어 있는지 확인하세요.</translation>
 <translation id="2339730291919608488">동기화 체인에서 나가기</translation>
 <translation id="115699408012835975">동기화를 재설정하면 동기화를 위해 다른 장치에서 동기화 코드를 다시 입력해야 합니다. 정말 계속할까요?</translation>
 <translation id="6092564993102418148">선택한 기기를 동기화 체인에서 제거하시겠습니까?</translation>
-<translation id="4400414577602898435">경고: 이러한 코드 단어를 생성하는 디바이스에 비밀번호 등, 귀하의 Asil 데이터가 공유됩니다.
+<translation id="4400414577602898435">경고: 이러한 코드 단어를 생성하는 디바이스에 비밀번호 등, 귀하의 brave 데이터가 공유됩니다.
 
     본인이 소유한 디바이스에서 생성된 코드 단어인지 주의하여 확인하시기 바랍니다.
 
     계속하시겠습니까?</translation>
-<translation id="7443185843787879670">Brave가 운영체제의 안전한 스토리지에 액세스할 수 없습니다. 이 영역은 비밀번호와 쿠키 등의 데이터를 보호하는 데 사용되며, 또한 Asil Sync가 디바이스 간에 브라우저 프로필을 연결하는 데에도 필요합니다. 따라서, Asil Sync가 실행되고 있지 않습니다. 이 문제를 해결하려면 <ph name="BEGIN_LINK_SYNC_GUIDE"/>Asil Sync 문제 해결 가이드<ph name="END_LINK_SYNC_GUIDE"/>를 참조하세요.</translation>
-<translation id="6802736947576520626">동기화 암호화 키가 귀하가 Asil Sync를 처음 셋업할 때와 달라진 것 같습니다. 가장 쉬운 해결 방법은 초기화하고 동기화되어 있는 다른 디바이스에서 가져온 암호로 동기화 체인에 다시 참여하는 것입니다.</translation>
+<translation id="7443185843787879670">Brave가 운영체제의 안전한 스토리지에 액세스할 수 없습니다. 이 영역은 비밀번호와 쿠키 등의 데이터를 보호하는 데 사용되며, 또한 brave Sync가 디바이스 간에 브라우저 프로필을 연결하는 데에도 필요합니다. 따라서, brave Sync가 실행되고 있지 않습니다. 이 문제를 해결하려면 <ph name="BEGIN_LINK_SYNC_GUIDE"/>brave Sync 문제 해결 가이드<ph name="END_LINK_SYNC_GUIDE"/>를 참조하세요.</translation>
+<translation id="6802736947576520626">동기화 암호화 키가 귀하가 brave Sync를 처음 셋업할 때와 달라진 것 같습니다. 가장 쉬운 해결 방법은 초기화하고 동기화되어 있는 다른 디바이스에서 가져온 암호로 동기화 체인에 다시 참여하는 것입니다.</translation>
 <translation id="4889767840132638381">초기화하고 동기화 체인 다시 참여하기</translation>
 <translation id="1680065323266179640">동기화 계정 삭제</translation>
 <translation id="9064376100690171155">계정 영구 삭제</translation>
-<translation id="228906529296554286">계정을 삭제하면 암호화된 데이터가 Asil 서버에서 제거되고 연결된 모든 디바이스에서 동기화가 비활성화됩니다.</translation>
+<translation id="228906529296554286">계정을 삭제하면 암호화된 데이터가 brave 서버에서 제거되고 연결된 모든 디바이스에서 동기화가 비활성화됩니다.</translation>
 <translation id="7578652532113583362">이들 디바이스에 로컬로 저장된 데이터는 삭제되지 않습니다.</translation>
 <translation id="2516405584294312544">삭제는 영구적이며 데이터를 복구할 수 있는 방법이 없습니다. 동기화를 다시 시작하려면
     새 계정을 만들고 디바이스 하나씩 다시 추가해야 합니다.</translation>
@@ -484,20 +484,20 @@
 <translation id="7013485839273047434">더 많은 확장 프로그램 받기</translation>
 <translation id="4954512758656527938">기본 이더리움 월렛</translation>
 <translation id="7701023802820268122">기본 Solana 월렛</translation>
-<translation id="8488282162676695335">Asil 월렛</translation>
+<translation id="8488282162676695335">brave 월렛</translation>
 <translation id="2356070529366658676">확인</translation>
 <translation id="7701040980221191251">없음</translation>
 <translation id="1274962333945373242">암호화폐 월렛(지원 중단)</translation>
-<translation id="3695088618483091287">Asil 월렛(확장 프로그램 권장)</translation>
+<translation id="3695088618483091287">brave 월렛(확장 프로그램 권장)</translation>
 <translation id="4718664830805652430">기본 기준 통화</translation>
 <translation id="7992507032049865603">기본 기준 암호화폐</translation>
-<translation id="1834467296210148203">툴바에 Asil 월렛 아이콘 표시</translation>
-<translation id="8239147115686034860">Asil 월렛 자동 잠금</translation>
-<translation id="414639769490080648">동작이 없을 때 Asil 월렛이 자동으로 잠길 때까지의 시간(분)</translation>
+<translation id="1834467296210148203">툴바에 brave 월렛 아이콘 표시</translation>
+<translation id="8239147115686034860">brave 월렛 자동 잠금</translation>
+<translation id="414639769490080648">동작이 없을 때 brave 월렛이 자동으로 잠길 때까지의 시간(분)</translation>
 <translation id="856371974127598760">월렛 네트워크</translation>
 <translation id="5975930666279943472">월렛 트랜잭션 및 임시 정보 지우기</translation>
 <translation id="5693968582510626466">트랜잭션 지우기는 개발자가 로컬 서버에서 상태를 지울 때 유용합니다.</translation>
-<translation id="4993345308607970390">Asil 월렛 초기화</translation>
+<translation id="4993345308607970390">brave 월렛 초기화</translation>
 <translation id="9216386092464743272">월렛 트랜잭션 및 임시 정보를 초기화하시겠습니까? 이 옵션은 주로 로컬 테스트 서버를 운용하는 개발자가 사용합니다. 확인하려면 "<ph name="CONFIRMATION_PHRASE"/>"를 직접 입력하세요.</translation>
 <translation id="6369495274982305511">월렛을 초기화하시겠습니까? 월렛이 백업되어 있지 않은 경우 초기화하면 모든 계정 데이터(그 안에 담긴 자금 포함)를 잃을 수 있습니다. 확인하려면 "<ph name="CONFIRMATION_PHRASE"/>"를 직접 입력하세요.</translation>
 <translation id="3752403403443723332">월렛이 초기화되었습니다.</translation>
@@ -538,13 +538,13 @@
 <translation id="2618193846561624884">기존 네트워크를 업데이트하시겠습니까?</translation>
 <translation id="9170907049676078643">IPFS 리소스 리졸빙에 사용하는 방법</translation>
 <translation id="1327977588028644528">게이트웨이</translation>
-<translation id="1195880978080389104">Asil 로컬 IPFS 노드</translation>
-<translation id="2178402446227616866">Asil 로컬 IPFS 노드 및 게이트웨이 개인정보 보호 고려 사항에 대해 <ph name="BEGIN_LINK_MPL"/>자세히 알아보세요<ph name="END_LINK_MPL"/>.</translation>
+<translation id="1195880978080389104">brave 로컬 IPFS 노드</translation>
+<translation id="2178402446227616866">brave 로컬 IPFS 노드 및 게이트웨이 개인정보 보호 고려 사항에 대해 <ph name="BEGIN_LINK_MPL"/>자세히 알아보세요<ph name="END_LINK_MPL"/>.</translation>
 <translation id="4927734062756955434">IPFS 퍼블릭 게이트웨이 주소</translation>
 <translation id="3707431725427930007">NFT용 IPFS 퍼블릭 게이트웨이 주소</translation>
 <translation id="8425213833346101688">변경</translation>
 <translation id="585868419599255817">IPFS 공용 게이트웨이 대체</translation>
-<translation id="2618080188892567155">Asil 로컬 IPFS 노드에 접근할 수 없는 경우에 퍼블릭 IPFS 게이트웨이로 자동 전환합니다.</translation>
+<translation id="2618080188892567155">brave 로컬 IPFS 노드에 접근할 수 없는 경우에 퍼블릭 IPFS 게이트웨이로 자동 전환합니다.</translation>
 <translation id="4107552920076294723">IPFS 리소스를 설정된 IPFS 게이트웨이로 리다이렉트</translation>
 <translation id="4284166297897715283">제3자 IPFS 게이트웨이가 호스트하는 IPFS 리소스 요청은 선택한 로컬 또는 원격 게이트웨이를 통해 로드됩니다.
     참고: 로컬 노드가 선택되면 리소스가 귀하의 컴퓨터에서 바로 요청되며, 경우에 따라 캐시된 데이터가 IPFS 네트워크에 제공될 수 있습니다.</translation>
@@ -561,8 +561,8 @@
 <translation id="911363100236037920">새 키 이름 입력</translation>
 <translation id="6358469157239228181">사용할 수 없는 이름</translation>
 <translation id="2082206983920804886">키 로테이션</translation>
-<translation id="5078501082919354191">Asil 로컬 IPFS 노드를 중지할 수 없음</translation>
-<translation id="5687424953196903465">Asil 로컬 IPFS 노드를 시작할 수 없음</translation>
+<translation id="5078501082919354191">brave 로컬 IPFS 노드를 중지할 수 없음</translation>
+<translation id="5687424953196903465">brave 로컬 IPFS 노드를 시작할 수 없음</translation>
 <translation id="6476061084931271248">변경사항을 적용하려면 노드 재시작 필요</translation>
 <translation id="3754226427671882382">노드 재시작</translation>
 <translation id="949667118776341807">로테이션</translation>

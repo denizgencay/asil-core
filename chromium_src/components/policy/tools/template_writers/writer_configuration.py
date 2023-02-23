@@ -1,4 +1,4 @@
-# Copyright (c) 2022 The Asil Authors. All rights reserved.
+# Copyright (c) 2022 The brave Authors. All rights reserved.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -12,34 +12,34 @@ def GetConfigurationForBuild(original_function, defines):
 
 _BRAVE_VALUES = {
   'build': 'brave',
-  'app_name': 'Asil',
+  'app_name': 'brave',
   'doc_url':
-    'https://support.asil.com/hc/en-us/articles/360039248271-Group-Policy',
-  'frame_name': 'Asil Frame',
-  'webview_name': 'Asil WebView',
+    'https://support.brave.com/hc/en-us/articles/360039248271-Group-Policy',
+  'frame_name': 'brave Frame',
+  'webview_name': 'brave WebView',
   'win_config': {
     'win': {
-      'reg_mandatory_key_name': 'Software\\Policies\\BraveSoftware\\Asil',
+      'reg_mandatory_key_name': 'Software\\Policies\\BraveSoftware\\brave',
       'reg_recommended_key_name':
-        'Software\\Policies\\BraveSoftware\\Asil\\Recommended',
-      'mandatory_category_path': ['Asil:Cat_Brave', 'brave'],
-      'recommended_category_path': ['Asil:Cat_Brave', 'brave_recommended'],
+        'Software\\Policies\\BraveSoftware\\brave\\Recommended',
+      'mandatory_category_path': ['brave:Cat_Brave', 'brave'],
+      'recommended_category_path': ['brave:Cat_Brave', 'brave_recommended'],
       'category_path_strings': {
-        'brave': 'Asil',
+        'brave': 'brave',
         'brave_recommended':
-        'Asil - {doc_recommended}'
+        'brave - {doc_recommended}'
       },
-      'namespace': 'BraveSoftware.Policies.Asil',
+      'namespace': 'BraveSoftware.Policies.brave',
     },
   },
-  # The string 'Asil' is defined in brave.adml for ADMX, but ADM doesn't
+  # The string 'brave' is defined in brave.adml for ADMX, but ADM doesn't
   # support external references, so we define this map here.
   'adm_category_path_strings': {
-    'Asil:Cat_Brave': 'Asil'
+    'brave:Cat_Brave': 'brave'
   },
   'admx_prefix': 'brave',
   'admx_using_namespaces': {
-    'Asil': 'BraveSoftware.Policies'  # prefix: namespace
+    'brave': 'BraveSoftware.Policies'  # prefix: namespace
   },
   'linux_policy_path': '/etc/brave/policies/',
   'bundle_id': 'com.brave.ios.core',

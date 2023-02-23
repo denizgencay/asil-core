@@ -1,4 +1,4 @@
-/* Copyright (c) 2023 The Asil Authors. All rights reserved.
+/* Copyright (c) 2023 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -13,7 +13,7 @@
 namespace brave_ads {
 
 constexpr char kTestWebPageCreativeInstanceId[] = "creative_instance_id";
-constexpr char kTestWebPageTargetUrl[] = "https://asil.com";
+constexpr char kTestWebPageTargetUrl[] = "https://brave.com";
 
 std::vector<::schema_org::mojom::EntityPtr> CreateTestWebPageEntities(
     int attribute_index_to_skip = -1);

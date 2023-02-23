@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -24,7 +24,7 @@ namespace brave_shields {
 namespace {
 
 constexpr size_t kHashSize = 32;
-const char kAdBlockResourceComponentName[] = "Asil Ad Block Resources Library";
+const char kAdBlockResourceComponentName[] = "brave Ad Block Resources Library";
 const char kAdBlockResourceComponentId[] = "mfddibmblmbccpadfndgakiopmmhebop";
 const char kAdBlockResourceComponentBase64PublicKey[] =
     "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7Qk6xtml8Siq8RD6cCbd"
@@ -36,7 +36,7 @@ const char kAdBlockResourceComponentBase64PublicKey[] =
     "XwIDAQAB";
 
 const char kAdBlockFilterListCatalogComponentName[] =
-    "Asil Ad Block List Catalog";
+    "brave Ad Block List Catalog";
 const char kAdBlockFilterListCatalogComponentId[] =
     "gkboaolpopklhgplhaaiboijnklogmbc";
 const char kAdBlockFilterListCatalogComponentBase64PublicKey[] =
@@ -48,7 +48,7 @@ const char kAdBlockFilterListCatalogComponentBase64PublicKey[] =
     "1H8y9SR970LqsUMozu3ioSHtFh/IVgq7Nqy4TljaKsTE+3AdtjiOyHpW9ZaOkA7j"
     "2QIDAQAB";
 
-const char kAdBlockIosDefaultDatComponentName[] = "Asil Ad Block Updater";
+const char kAdBlockIosDefaultDatComponentName[] = "brave Ad Block Updater";
 const char kAdBlockIosDefaultDatComponentId[] =
     "cffkpbalmllkdoenhmdmpbkajipdjfam";
 const char kAdBlockIosDefaultDatComponentBase64PublicKey[] =

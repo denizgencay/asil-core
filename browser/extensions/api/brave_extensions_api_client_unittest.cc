@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -52,7 +52,7 @@ TEST_F(BraveExtensionsAPIClientTests, IsBraveProtectedUrlUphold) {
 
   WebRequestInfo allowed1(create_request_params("https://uphold.com/"));
   WebRequestInfo allowed2(create_request_params("https://www.uphold.com/"));
-  WebRequestInfo allowed3(create_request_params("https://asil.com/"));
+  WebRequestInfo allowed3(create_request_params("https://brave.com/"));
   ASSERT_FALSE(ShouldHideBrowserNetworkRequest(allowed1));
   ASSERT_FALSE(ShouldHideBrowserNetworkRequest(allowed2));
   ASSERT_FALSE(ShouldHideBrowserNetworkRequest(allowed3));

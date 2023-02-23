@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -66,7 +66,7 @@ bool ParseCombinedPublisherList(const base::Value& json_value,
     }
     GURL site_url(site_url_raw);
     if (!site_url.is_valid()) {
-      LOG(ERROR) << "Found invalid site url for Asil News publisher "
+      LOG(ERROR) << "Found invalid site url for brave News publisher "
                  << publisher->publisher_name << "(was " << site_url_raw << ")";
       continue;
     }
@@ -103,7 +103,7 @@ void ParseDirectPublisherList(const base::Value::Dict& direct_feeds_pref_dict,
     if (!value.is_dict()) {
       // Handle unknown value type
       LOG(ERROR) << "Found unknown dictionary pref value for"
-                    "Asil News direct feeds at the pref path: "
+                    "brave News direct feeds at the pref path: "
                  << key;
       // TODO(petemill): delete item from pref dict?
       continue;
@@ -116,7 +116,7 @@ void ParseDirectPublisherList(const base::Value::Dict& direct_feeds_pref_dict,
       // This is worth error logging because we shouldn't
       // get in to this state due to validation at the
       // point of adding the item to prefs.
-      LOG(ERROR) << "Found invalid feed url for Asil News "
+      LOG(ERROR) << "Found invalid feed url for brave News "
                     "direct feeds pref at the path "
                  << prefs::kBraveTodayDirectFeeds << " > "
                  << prefs::kBraveTodayDirectFeedsKeySource;

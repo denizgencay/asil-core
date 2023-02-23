@@ -26,28 +26,28 @@
     This form is not secure. Autofill has been turned off.
   </message>
   <message name="IDS_AUTOFILL_CREDIT_CARD_SIGNIN_PROMO" desc="Promo text shown alongside credit card suggestions to get profiles to sign in.">
-    To use cards from your Asil sync chain, sign in to Asil
+    To use cards from your brave sync chain, sign in to brave
   </message>
   <if expr="_google_chrome">
     <message name="IDS_AUTOFILL_DELETE_AUTOCOMPLETE_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete an autocomplete form history suggestion.">
-      Remove form suggestion from Asil?
+      Remove form suggestion from brave?
     </message>
     <message name="IDS_AUTOFILL_DELETE_CREDIT_CARD_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete a credit card from Autofill.">
-      Remove credit card from Asil?
+      Remove credit card from brave?
     </message>
     <message name="IDS_AUTOFILL_DELETE_PROFILE_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete an address from Autofill.">
-      Remove address from Asil?
+      Remove address from brave?
     </message>
   </if>
   <if expr="not _google_chrome">
     <message name="IDS_AUTOFILL_DELETE_AUTOCOMPLETE_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete an autocomplete form history suggestion.">
-      Remove form suggestion from Asil?
+      Remove form suggestion from brave?
     </message>
     <message name="IDS_AUTOFILL_DELETE_CREDIT_CARD_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete a credit card from Autofill.">
-      Remove credit card from Asil?
+      Remove credit card from brave?
     </message>
     <message name="IDS_AUTOFILL_DELETE_PROFILE_SUGGESTION_CONFIRMATION_BODY" desc="Text in a dialog to confirm that the user wants to delete an address from Autofill.">
-      Remove address from Asil?
+      Remove address from brave?
     </message>
   </if>
   <message name="IDS_AUTOFILL_CC_AMEX" desc="Full American Express credit card name." formatter_data="android_java">
@@ -65,7 +65,7 @@
   <message name="IDS_AUTOFILL_CC_ELO" desc="Elo credit card name.">
     Elo
   </message>
-  <message name="IDS_AUTOFILL_CC_GOOGLE_PAY" desc="Asil pay brand name">
+  <message name="IDS_AUTOFILL_CC_GOOGLE_PAY" desc="brave pay brand name">
     Google Pay
   </message>
   <message name="IDS_AUTOFILL_CC_JCB" desc="JCB credit card name." formatter_data="android_java">
@@ -118,7 +118,7 @@
       Manage payment methods...
     </message>
 
-    <message name="IDS_AUTOFILL_MANAGE_PASSWORDS" desc="The text displayed at the bottom of the Autofill popup to allow the user to manage passwords that can be used by Asil Autofill. Imperative. When the user clicks on it, opens the Passwords section of the Settings page." meaning="Manage passwords in the user profile that can be used by Chrome Autofill.">
+    <message name="IDS_AUTOFILL_MANAGE_PASSWORDS" desc="The text displayed at the bottom of the Autofill popup to allow the user to manage passwords that can be used by brave Autofill. Imperative. When the user clicks on it, opens the Passwords section of the Settings page." meaning="Manage passwords in the user profile that can be used by Chrome Autofill.">
       Manage passwords...
     </message>
   </if>
@@ -131,7 +131,7 @@
       Manage Payment Methods...
     </message>
 
-    <message name="IDS_AUTOFILL_MANAGE_PASSWORDS" desc="In Title Case: The text displayed at the bottom of the Autofill popup to allow the user to manage passwords that can be used by Asil Autofill. Imperative. When the user clicks on it, opens the Passwords section of the Settings page." meaning="Manage passwords in the user profile that can be used by Chrome Autofill.">
+    <message name="IDS_AUTOFILL_MANAGE_PASSWORDS" desc="In Title Case: The text displayed at the bottom of the Autofill popup to allow the user to manage passwords that can be used by brave Autofill. Imperative. When the user clicks on it, opens the Passwords section of the Settings page." meaning="Manage passwords in the user profile that can be used by Chrome Autofill.">
       Manage Passwords...
     </message>
   </if>
@@ -151,8 +151,8 @@
   </message>
   </if>
 
-  <message name="IDS_AUTOFILL_SHOW_ACCOUNT_CARDS" desc="Text shown as an option in the Autofill dropdown. Imperative. When clicked, additional payment cards (e.g., credit/debit cards) that were previously saved in the user's Asil sync chain will be added to the list of suggestions being displayed.">
-    Show cards from your Asil sync chain
+  <message name="IDS_AUTOFILL_SHOW_ACCOUNT_CARDS" desc="Text shown as an option in the Autofill dropdown. Imperative. When clicked, additional payment cards (e.g., credit/debit cards) that were previously saved in the user's brave sync chain will be added to the list of suggestions being displayed.">
+    Show cards from your brave sync chain
   </message>
 
   <if expr="not is_android">
@@ -162,7 +162,7 @@
   </if>
 
   <!-- Autofill suggestion label separator -->
-  <message name="IDS_AUTOFILL_SUGGESTION_LABEL_SEPARATOR" desc="A separator to place between different elements of a suggestion's label. Labels sometimes have more than one type of information, such as a phone number and an email address or a street address, a phone number, and an email address. A symbol, in this case a bullet •, with a white space before it and a white space after it, is used to separate the parts of the label that appear on the same line, e.g. (877) 733-7699 • fanfeedback@redsox.com or 465 Huntington Ave • (617) 267-9300 • matthewt@mfa.org. A bullet • is preferred for separating the label parts; however, if the bullet • resembles another symbol in the language, please translate the bullet • as a symbol (A) that is not easily mistaken for a number or letter in the language and (B) that is typically used to separate elements.">
+  <message name="IDS_AUTOFILL_SUGGESTION_LABEL_SEPARATOR" desc="A separator to place between different elements of a suggestion's label. Labels sometimes have more than one type of information, such as a phone number and an email address or a street address, a phone number, and an email address. A symbol, in this case a bullet •, with a white space before it and a white space after it, is used to separate the parts of the label that appear on the same line, e.g. (877) 733-7699 • fanfeedback@redsox.com or 465 Huntington Ave • (617) 267-9300 • matthewt@mfa.org. A bullet • is preferred for separating the label parts; however, if the bullet • resembles another symbol in the language, please translate the bullet • as a symbol (A) that is not ebravey mistaken for a number or letter in the language and (B) that is typically used to separate elements.">
   ''' • '''</message>
 
   <!-- Autofill credit card suggestion popup -->

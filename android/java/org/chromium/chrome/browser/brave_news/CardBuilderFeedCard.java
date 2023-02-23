@@ -123,7 +123,7 @@ public class CardBuilderFeedCard {
 
     private final String TAG = "BN";
     private final int MARGIN_VERTICAL = 10;
-    private final String BRAVE_OFFERS_URL = "offers.asil.com";
+    private final String BRAVE_OFFERS_URL = "offers.brave.com";
 
     public CardBuilderFeedCard(BraveNewsController braveNewsController, RequestManager glide,
             LinearLayout layout, Activity activity, int position, FeedItemsCard newsItem,

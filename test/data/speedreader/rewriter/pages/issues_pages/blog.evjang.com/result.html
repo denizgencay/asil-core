@@ -610,7 +610,7 @@ As expected, at random initialization, the model’s predictions (blue) are tota
 <p><a href="https://4.bp.blogspot.com/-TmFaWx0UoOM/XG7FkD3y42I/AAAAAAAAOe0/D8cAfvL486A6oU4zHmAeQF-Ylo8FytgHQCLcBGAs/s1600/download.png" imageanchor="1"><img data-original-height="252" data-original-width="374" height="268" src="https://4.bp.blogspot.com/-TmFaWx0UoOM/XG7FkD3y42I/AAAAAAAAOe0/D8cAfvL486A6oU4zHmAeQF-Ylo8FytgHQCLcBGAs/s400/download.png" width="400"></a></p>
 
 <p>
-Let’s train the network via gradient descent. JAX’s random number generator is set up differently than Numpy’s, so to initialize network parameters we’ll use the original Numpy library (onp) to generate random numbers. We’ll also import the tree_multimap utility to easily manipulate collections of per-parameter gradients (for TensorFlow users, this is analogous to nest.map_structure for Tensors).
+Let’s train the network via gradient descent. JAX’s random number generator is set up differently than Numpy’s, so to initialize network parameters we’ll use the original Numpy library (onp) to generate random numbers. We’ll also import the tree_multimap utility to ebravey manipulate collections of per-parameter gradients (for TensorFlow users, this is analogous to nest.map_structure for Tensors).
 
 </p><div dir="ltr">
 <table><colgroup></colgroup><tbody>

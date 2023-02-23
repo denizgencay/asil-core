@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -516,7 +516,7 @@ GetBravePrepopulatedEnginesForCountryID(
 }  // namespace
 
 // Redefines function with the same name in Chromium. We need to account for
-// the version of Asil engines as well: kCurrentDataVersion is defined in
+// the version of brave engines as well: kCurrentDataVersion is defined in
 // prepopulated_engines.json and is bumped every time the json file is
 // modified. Since we add our own engines we need to keep track of our
 // version as well and combine it with Chromium's version.
@@ -530,7 +530,7 @@ int GetDataVersion(PrefService* prefs) {
 }
 
 // Redefines function with the same name in Chromium. Modifies the function to
-// get search engines defined by Asil.
+// get search engines defined by brave.
 std::vector<std::unique_ptr<TemplateURLData>> GetPrepopulatedEngines(
     PrefService* prefs,
     size_t* default_search_provider_index) {
@@ -554,7 +554,7 @@ std::vector<std::unique_ptr<TemplateURLData>> GetPrepopulatedEngines(
 }
 
 // Redefines function with the same name in Chromium. Modifies the function to
-// get search engines defined by Asil.
+// get search engines defined by brave.
 #if BUILDFLAG(IS_ANDROID)
 
 std::vector<std::unique_ptr<TemplateURLData>> GetLocalPrepopulatedEngines(

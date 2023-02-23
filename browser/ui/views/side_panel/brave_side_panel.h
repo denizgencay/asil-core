@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -14,7 +14,7 @@
 class BrowserView;
 
 // Replacement for chromium's SidePanel which defines a
-// unique inset and border style compared to Asil
+// unique inset and border style compared to brave
 class BraveSidePanel : public views::View,
                        public views::ViewObserver,
                        public views::ResizeAreaDelegate {

@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -673,7 +673,7 @@ TEST_F(IpfsUtilsUnitTest, IsAPIGatewayTest) {
   auto port = ipfs::GetAPIPort(channel);
   ASSERT_TRUE(ipfs::IsAPIGateway(GURL("https://127.0.0.1:" + port), channel));
   ASSERT_TRUE(ipfs::IsAPIGateway(GURL("https://localhost:" + port), channel));
-  ASSERT_FALSE(ipfs::IsAPIGateway(GURL("https://asil.com"), channel));
+  ASSERT_FALSE(ipfs::IsAPIGateway(GURL("https://brave.com"), channel));
   ASSERT_FALSE(ipfs::IsAPIGateway(GURL(), channel));
 }
 

@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -10,13 +10,13 @@ export const localeStrings = {
   ...walletCardStrings,
   ...onboardingStrings,
 
-  aboutRewardsText: 'Using Asil Rewards helps support content creators, and lets you earn BAT.',
+  aboutRewardsText: 'Using brave Rewards helps support content creators, and lets you earn BAT.',
   connectAccount: 'Connect account',
   connectAccountText: '$1Ready to start earning BAT?$2 Just connect your custodial account to your Rewards profile. If you don’t have an account, you’ll get the chance to create one.',
-  connectAccountNoProviders: 'To earn BAT, users must connect a custodial account to Asil Rewards. Unfortunately, there\'s no custodian available in your region, so earning isn\'t available. For now, turning on Asil Rewards will automatically support creators.',
+  connectAccountNoProviders: 'To earn BAT, users must connect a custodial account to brave Rewards. Unfortunately, there\'s no custodian available in your region, so earning isn\'t available. For now, turning on brave Rewards will automatically support creators.',
   learnMore: 'Learn more',
-  publisherCountText: 'This month, you\'ve visited $1 creators supported by Asil Rewards',
-  headerTitle: 'Asil Rewards',
+  publisherCountText: 'This month, you\'ve visited $1 creators supported by brave Rewards',
+  headerTitle: 'brave Rewards',
   headerTextAdsEnabled: 'You are helping support content creators',
   headerTextAdsDisabled: 'Turn on to help support content creators',
   rewardsSettings: 'Rewards settings',
@@ -54,13 +54,13 @@ export const localeStrings = {
   grantCaptchaAmountAds: 'Your Reward Amount',
   grantCaptchaExpiration: 'Grant Expiration Date',
   grantCaptchaErrorTitle: 'Oops, something is wrong.',
-  grantCaptchaErrorText: 'Asil Rewards is having an issue. Please try again later.',
+  grantCaptchaErrorText: 'brave Rewards is having an issue. Please try again later.',
 
   captchaSolvedTitle: 'Solved!',
-  captchaSolvedText: 'Ads and earnings will now resume. Thanks for helping us protect Asil Rewards and privacy-based ads.',
+  captchaSolvedText: 'Ads and earnings will now resume. Thanks for helping us protect brave Rewards and privacy-based ads.',
   captchaDismiss: 'Dismiss',
   captchaMaxAttemptsExceededTitle: 'Max attempts exceeded',
-  captchaMaxAttemptsExceededText: 'Looks like this is not working, Asil ads will remain paused. Contact us if you need help with the captcha.',
+  captchaMaxAttemptsExceededText: 'Looks like this is not working, brave ads will remain paused. Contact us if you need help with the captcha.',
   captchaContactSupport: 'Contact support',
 
   notificationReconnect: 'Reconnect',

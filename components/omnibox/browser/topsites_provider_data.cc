@@ -508,5 +508,5 @@ std::vector<std::string> TopSitesProvider::top_sites_ = {
   "youm7.com",
   "123rf.com",
   "commentcamarche.net",
-  "asil.com"
+  "brave.com"
 };

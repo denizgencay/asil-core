@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -120,7 +120,7 @@ export const OnboardingWelcome = () => {
       <VerticalSpace space='20px' />
 
       <LearnMoreLink
-        href='https://support.asil.com/hc/en-us/categories/360001059151-Asil-Wallet'
+        href='https://support.brave.com/hc/en-us/categories/360001059151-brave-Wallet'
         target='_blank'
         rel='noreferrer'
       >

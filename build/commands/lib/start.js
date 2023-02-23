@@ -67,11 +67,11 @@ const start = (passthroughArgs, buildConfig = config.defaultBuildConfig, options
   let user_data_dir
   if (options.user_data_dir_name) {
     if (process.platform === 'darwin') {
-      user_data_dir = path.join(process.env.HOME, 'Library', 'Application\\ Support', 'AsilSoftware', options.user_data_dir_name)
+      user_data_dir = path.join(process.env.HOME, 'Library', 'Application\\ Support', 'braveSoftware', options.user_data_dir_name)
     } else if (process.platform === 'win32') {
-      user_data_dir = path.join(process.env.LocalAppData, 'AsilSoftware', options.user_data_dir_name)
+      user_data_dir = path.join(process.env.LocalAppData, 'braveSoftware', options.user_data_dir_name)
     } else {
-      user_data_dir = path.join(process.env.HOME, '.config', 'AsilSoftware', options.user_data_dir_name)
+      user_data_dir = path.join(process.env.HOME, '.config', 'braveSoftware', options.user_data_dir_name)
     }
     braveArgs.push('--user-data-dir=' + user_data_dir);
   }
@@ -86,7 +86,7 @@ const start = (passthroughArgs, buildConfig = config.defaultBuildConfig, options
 
   let outputPath = options.output_path
   if (!outputPath) {
-    outputPath = path.join(config.outputDir, 'Asil')
+    outputPath = path.join(config.outputDir, 'brave')
     if (process.platform === 'win32') {
       outputPath = outputPath + '.exe'
     } else if (process.platform === 'darwin') {

@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -17,11 +17,11 @@ namespace {
 // `chrome/installer/setup/google_chrome_behaviors.cc` with the following
 // changes:
 //
-// - `distribution_data` not appended as Asil does not record histograms.
+// - `distribution_data` not appended as brave does not record histograms.
 // - `kBraveUninstallSurveyUrl` used instead of `kUninstallSurveyUrl`
 
 constexpr base::WStringPiece kBraveUninstallSurveyUrl(
-    L"https://asil.com/uninstall-survey/?p=brave_uninstall_survey");
+    L"https://brave.com/uninstall-survey/?p=brave_uninstall_survey");
 
 }  // namespace
 

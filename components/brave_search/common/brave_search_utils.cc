@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -19,9 +19,9 @@
 namespace {
 
 constexpr auto kVettedHosts = base::MakeFixedFlatSet<base::StringPiece>(
-    {"search.asil.com", "search.brave.software", "search.bravesoftware.com",
-     "safesearch.asil.com", "safesearch.brave.software",
-     "safesearch.bravesoftware.com", "search-dev-local.asil.com"});
+    {"search.brave.com", "search.brave.software", "search.bravesoftware.com",
+     "safesearch.brave.com", "safesearch.brave.software",
+     "safesearch.bravesoftware.com", "search-dev-local.brave.com"});
 
 }  // namespace
 

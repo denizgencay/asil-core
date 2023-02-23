@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -35,7 +35,7 @@ base::Value::Dict NTPCustomBackgroundImagesService::GetBackground() const {
   if (delegate_->HasPreferredBraveBackground()) {
     auto background = delegate_->GetPreferredBraveBackground();
     if (background.empty()) {
-      // Return empty value so that it falls back to random Asil background.
+      // Return empty value so that it falls back to random brave background.
       return background;
     }
 

@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -41,7 +41,7 @@ namespace settings {
 namespace {
 
 const char16_t kWebRTCLearnMoreURL[] =
-    u"https://support.asil.com/hc/en-us/articles/"
+    u"https://support.brave.com/hc/en-us/articles/"
     u"360017989132-How-do-I-change-my-Privacy-Settings-#webrtc";
 const char16_t kBraveBuildInstructionsUrl[] =
     u"https://github.com/brave/brave-browser/wiki";
@@ -59,15 +59,15 @@ const char16_t kUnstoppableDomainsLearnMoreURL[] =
 const char16_t kEnsOffchainLookupLearnMoreURL[] =
     u"https://github.com/brave/brave-browser/wiki/ENS-offchain-lookup";
 const char16_t kBraveAdsLearnMoreURL[] =
-    u"https://support.asil.com/hc/en-us/articles/360026361072-Asil-Ads-FAQ";
-const char16_t kBraveTermsOfUseURL[] = u"https://asil.com/terms-of-use/";
-const char16_t kBravePrivacyPolicyURL[] = u"https://asil.com/privacy/browser/";
+    u"https://support.brave.com/hc/en-us/articles/360026361072-brave-Ads-FAQ";
+const char16_t kBraveTermsOfUseURL[] = u"https://brave.com/terms-of-use/";
+const char16_t kBravePrivacyPolicyURL[] = u"https://brave.com/privacy/browser/";
 const char16_t kBraveSyncGuideUrl[] =
-    u"https://support.asil.com/hc/en-us/articles/360047642371-Sync-FAQ";
+    u"https://support.brave.com/hc/en-us/articles/360047642371-Sync-FAQ";
 const char16_t kDeAmpLearnMoreUrl[] =
-    u"https://support.asil.com/hc/en-us/articles/8611298579981";
+    u"https://support.brave.com/hc/en-us/articles/8611298579981";
 const char16_t kDebounceLearnMoreUrl[] =
-    u"https://asil.com/privacy-updates/11-debouncing/";
+    u"https://brave.com/privacy-updates/11-debouncing/";
 
 void BraveAddCommonStrings(content::WebUIDataSource* html_source,
                            Profile* profile) {

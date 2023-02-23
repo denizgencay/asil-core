@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -43,7 +43,7 @@ const uint8_t kWalletDataFilesSha2Hash[] = {
     0x11, 0x2a, 0xa2, 0x38, 0x4f, 0x4,  0x24, 0x56, 0x5d, 0x81, 0x4c,
     0x49, 0xb8, 0x4c, 0x9d, 0x8e, 0xeb, 0xb3, 0xbd, 0x55, 0xdc, 0xf7,
     0xc0, 0x3e, 0x9b, 0x2a, 0xc2, 0xf5, 0x6a, 0x37, 0x71, 0x67};
-const char kWalletDataFilesDisplayName[] = "Asil Wallet data files";
+const char kWalletDataFilesDisplayName[] = "brave Wallet data files";
 const char kComponentId[] = "bbckkcdiepaecefgfnibemejliemjnio";
 
 static_assert(std::size(kWalletDataFilesSha2Hash) == crypto::kSHA256Length,

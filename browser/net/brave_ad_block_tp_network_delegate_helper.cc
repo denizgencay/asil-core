@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -149,7 +149,7 @@ class AdblockCnameResolveHostClient : public network::mojom::ResolveHostClient {
                   const absl::optional<net::AddressList>& resolved_addresses,
                   const absl::optional<net::HostResolverEndpointResults>&
                       endpoint_results_with_metadata) override {
-    UMA_HISTOGRAM_TIMES("Asil.ShieldsCNAMEBlocking.TotalResolutionTime",
+    UMA_HISTOGRAM_TIMES("brave.ShieldsCNAMEBlocking.TotalResolutionTime",
                         base::TimeTicks::Now() - start_time_);
     if (result == net::OK && resolved_addresses) {
       DCHECK(resolved_addresses.has_value() && !resolved_addresses->empty());
@@ -199,7 +199,7 @@ EngineFlags ShouldBlockRequestOnTaskRunner(
 
   std::string rewritten_url;
 
-  SCOPED_UMA_HISTOGRAM_TIMER("Asil.Adblock.ShouldBlockRequest");
+  SCOPED_UMA_HISTOGRAM_TIMER("brave.Adblock.ShouldBlockRequest");
   g_brave_browser_process->ad_block_service()->ShouldStartRequest(
       url_to_check, ctx->resource_type, source_host,
       ctx->aggressive_blocking || force_aggressive,

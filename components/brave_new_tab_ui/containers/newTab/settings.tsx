@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -126,7 +126,7 @@ export default class Settings extends React.PureComponent<Props, State> {
       this.settingsMenuRef.current &&
       !this.settingsMenuRef.current.contains(event.target) &&
       // Don't close the settings dialog for a click outside if we're in the
-      // Asil News modal - the user expects closing that one to bring them back
+      // brave News modal - the user expects closing that one to bring them back
       // to this one.
       !this.context.customizePage
     ) {

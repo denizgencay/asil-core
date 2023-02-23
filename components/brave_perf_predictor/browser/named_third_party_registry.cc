@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -89,7 +89,7 @@ std::tuple<base::flat_map<std::string, std::string>,
 ParseFromResource(int resource_id) {
   // TODO(AndriusA): insert trace event here
   SCOPED_UMA_HISTOGRAM_TIMER(
-      "Asil.Savings.NamedThirdPartyRegistry.LoadTimeMS");
+      "brave.Savings.NamedThirdPartyRegistry.LoadTimeMS");
   auto& resource_bundle = ui::ResourceBundle::GetSharedInstance();
   std::string data_resource =
       resource_bundle.LoadDataResourceString(resource_id);

@@ -15,7 +15,7 @@ namespace ads {
 
 namespace {
 
-constexpr char kProductionHost[] = "https://anonymous.ads.asil.com";
+constexpr char kProductionHost[] = "https://anonymous.ads.brave.com";
 constexpr char kStagingHost[] = "https://anonymous.ads.bravesoftware.com";
 
 }  // namespace

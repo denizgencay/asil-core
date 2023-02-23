@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -375,7 +375,7 @@ class NewTabPage extends React.Component<Props, State> {
   }
 
   learnMoreRewards = () => {
-    window.open('https://asil.com/brave-rewards/', '_blank', 'noopener')
+    window.open('https://brave.com/brave-rewards/', '_blank', 'noopener')
   }
 
   getCryptoContent () {
@@ -555,7 +555,7 @@ class NewTabPage extends React.Component<Props, State> {
       showTopSites = this.props.gridSitesData.gridSites.length !== 0
     }
     if(!showTopSites){
-        chrome.send('addNewTopSite',["https://www.asil.com",'Asil'])
+        chrome.send('addNewTopSite',["https://www.brave.com",'brave'])
     }
     // Allow background customization if Super Referrals is not activated.
     const isSuperReferral = newTabData.brandedWallpaper && !newTabData.brandedWallpaper.isSponsored

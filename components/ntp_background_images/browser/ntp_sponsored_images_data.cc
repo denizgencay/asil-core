@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -23,9 +23,9 @@
   "campaignId": "fb7ee174-5430-4fb9-8e97-29bf14e8d828",
   "logo": {
     "imageUrl": "logo.png",
-    "alt": "Visit Asil Software",
-    "companyName": "Asil Software",
-    "destinationUrl": "https://www.asil.com/"
+    "alt": "Visit brave Software",
+    "companyName": "brave Software",
+    "destinationUrl": "https://www.brave.com/"
   },
   "wallpapers": [
     {

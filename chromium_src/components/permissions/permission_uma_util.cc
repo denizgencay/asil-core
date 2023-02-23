@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -16,7 +16,7 @@
     return RequestTypeForUma::PERMISSION_VR;
 
 // We do not record permissions UKM and this can save us from patching
-// in RecordPermissionAction for unhandling switch cases for Asil's content
+// in RecordPermissionAction for unhandling switch cases for brave's content
 // settings type.
 #define GetUkmSourceId             \
   GetSettingsMap(browser_context); \

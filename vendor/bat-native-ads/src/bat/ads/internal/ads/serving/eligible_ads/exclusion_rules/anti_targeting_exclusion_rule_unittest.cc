@@ -32,7 +32,7 @@ TEST_F(BatAdsAntiTargetingExclusionRuleTest, AllowIfResourceDidNotLoad) {
   resource::AntiTargeting resource;
 
   const BrowsingHistoryList history = {GURL("https://www.foo1.org"),
-                                       GURL("https://www.asil.com"),
+                                       GURL("https://www.brave.com"),
                                        GURL("https://www.foo2.org")};
 
   // Act
@@ -53,7 +53,7 @@ TEST_F(BatAdsAntiTargetingExclusionRuleTest, AllowIfCreativeSetDoesNotMatch) {
   task_environment_.RunUntilIdle();
 
   const BrowsingHistoryList history = {GURL("https://www.foo1.org"),
-                                       GURL("https://www.asil.com"),
+                                       GURL("https://www.brave.com"),
                                        GURL("https://www.foo2.org")};
 
   // Act
@@ -95,7 +95,7 @@ TEST_F(BatAdsAntiTargetingExclusionRuleTest,
   task_environment_.RunUntilIdle();
 
   const BrowsingHistoryList history = {GURL("https://www.foo1.org"),
-                                       GURL("https://www.asil.com")};
+                                       GURL("https://www.brave.com")};
 
   // Act
   AntiTargetingExclusionRule exclusion_rule(&resource, history);

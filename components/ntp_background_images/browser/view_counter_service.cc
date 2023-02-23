@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -438,11 +438,11 @@ void ViewCounterService::MaybePrefetchNewTabPageAd() {
 
 void ViewCounterService::UpdateP3AValues() const {
   uint64_t new_tab_count = new_tab_count_state_->GetHighestValueInWeek();
-  p3a_utils::RecordToHistogramBucket("Asil.NTP.NewTabsCreated",
+  p3a_utils::RecordToHistogramBucket("brave.NTP.NewTabsCreated",
                                      {0, 3, 8, 20, 50, 100}, new_tab_count);
 
   constexpr char kSponsoredNewTabsHistogramName[] =
-      "Asil.NTP.SponsoredNewTabsCreated";
+      "brave.NTP.SponsoredNewTabsCreated";
   constexpr int kSponsoredRatio[] = {0, 10, 20, 30, 40, 50};
   uint64_t branded_new_tab_count =
       branded_new_tab_count_state_->GetHighestValueInWeek();

@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -284,7 +284,7 @@ const mojom::NetworkInfo* GetSolMainnet() {
        {"https://explorer.solana.com/"},
        {},
        0,
-       {GURL("https://mainnet-beta-solana.asil.com/rpc")},
+       {GURL("https://mainnet-beta-solana.brave.com/rpc")},
        "SOL",
        "Solana",
        9,
@@ -1419,7 +1419,7 @@ mojom::OriginInfoPtr MakeOriginInfo(const url::Origin& origin) {
 }
 
 // Returns a string used for web3_clientVersion in the form of
-// Asil/v[version]
+// brave/v[version]
 std::string GetWeb3ClientVersion() {
   return base::StringPrintf(
       "BraveWallet/v%s", version_info::GetBraveChromiumVersionNumber().c_str());

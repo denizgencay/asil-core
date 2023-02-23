@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -2286,7 +2286,7 @@ constexpr SponsoredImagesComponentData kRegionalData[] = {
      "ZzIwonK7qNum85sYk1QIDAQAB",
      "pciohbjgmbejokmghgjkobeionibheai"},
     {"UY",
-     "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsiLyKDU65Sza87zW19Y0DkhI4"
+     "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEbraveyKDU65Sza87zW19Y0DkhI4"
      "yR+K8sPEofsHqktiaNn0dut9IU3iQwpUxS9mzjF/"
      "5R64cFEyuqCKkTIglXe2xmi+H9rdpGzv5mvxr9Z8QC9rtTTDPV6AtKCByOI6O/"
      "MmVEH6sB0RACNASMrI278siKV03H+"

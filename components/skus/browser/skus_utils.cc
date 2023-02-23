@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -37,7 +37,7 @@ std::string GetDomain(const std::string& prefix,
   DCHECK(prefix == kProductTalk || prefix == kProductVPN);
 
   if (environment == kEnvProduction) {
-    return prefix + ".asil.com";
+    return prefix + ".brave.com";
   } else if (environment == kEnvStaging) {
     return prefix + ".bravesoftware.com";
   } else if (environment == kEnvDevelopment) {
@@ -52,7 +52,7 @@ std::string GetDomain(const std::string& prefix,
 std::string GetEnvironmentForDomain(const std::string& domain) {
   auto base_domain = net::registry_controlled_domains::GetDomainAndRegistry(
       domain, net::registry_controlled_domains::INCLUDE_PRIVATE_REGISTRIES);
-  if (base_domain == "asil.com")
+  if (base_domain == "brave.com")
     return kEnvProduction;
   if (base_domain == "bravesoftware.com")
     return kEnvStaging;

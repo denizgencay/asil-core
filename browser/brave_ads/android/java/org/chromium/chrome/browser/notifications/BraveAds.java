@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2019 The Asil Authors. All rights reserved.
+ * Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -11,7 +11,7 @@ import org.chromium.base.annotations.CalledByNative;
 import org.chromium.chrome.browser.notifications.channels.BraveChannelDefinitions;
 
 /**
- * This class provides the Asil Ads related methods for the native library
+ * This class provides the brave Ads related methods for the native library
  * (brave/components/brave_ads/browser/notification_helper_android)
  */
 public abstract class BraveAds {

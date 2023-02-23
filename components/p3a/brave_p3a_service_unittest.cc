@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -30,10 +30,10 @@ namespace brave {
 namespace {
 
 constexpr size_t kUploadIntervalSeconds = 120;
-constexpr char kP2APrefix[] = "Asil.P2A";
+constexpr char kP2APrefix[] = "brave.P2A";
 constexpr char kTestCreativeMetric1[] = "creativeInstanceId.abc.views";
 constexpr char kTestCreativeMetric2[] = "creativeInstanceId.abc.clicks";
-constexpr char kTestExampleMetric[] = "Asil.Core.TestMetric";
+constexpr char kTestExampleMetric[] = "brave.Core.TestMetric";
 
 }  // namespace
 
@@ -128,11 +128,11 @@ class P3AServiceTest : public testing::Test {
     std::string metric_name = *parsed_log.FindStringKey("metric_name");
 
     std::set<std::string>* metrics_set;
-    if (url == GURL("https://p3a-json.asil.com/")) {
+    if (url == GURL("https://p3a-json.brave.com/")) {
       metrics_set = &p3a_json_sent_metrics_;
-    } else if (url == GURL("https://p2a-json.asil.com/")) {
+    } else if (url == GURL("https://p2a-json.brave.com/")) {
       metrics_set = &p2a_json_sent_metrics_;
-    } else if (url == GURL("https://p3a-creative.asil.com/")) {
+    } else if (url == GURL("https://p3a-creative.brave.com/")) {
       metrics_set = &p3a_creative_sent_metrics_;
     } else {
       FAIL();

@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -106,7 +106,7 @@ export const BackupRecoveryPhrase = () => {
             <Description>
               {getLocale('braveWalletRecoveryPhraseBackupWarning')}
               <LinkText
-                href='https://asil.com/learn/wallet-recovery-phrase/#how-should-i-store-my-recovery-phrase'
+                href='https://brave.com/learn/wallet-recovery-phrase/#how-should-i-store-my-recovery-phrase'
                 target='_blank'
                 rel='noreferrer'
                 referrerPolicy='no-referrer'

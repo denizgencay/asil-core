@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -63,7 +63,7 @@ export function BraveNewsContextProvider (props: { children: React.ReactNode }) 
   const [publishers, setPublishers] = useState<Publishers>({})
   const [suggestedPublisherIds, setSuggestedPublisherIds] = useState<string[]>([])
   // TODO(petemill): Pref should come from the API since it isn't NTP-related. We should
-  // not use useNewTabPref here so that we can move Asil News to a shared component.
+  // not use useNewTabPref here so that we can move brave News to a shared component.
   // But for now we're tied to NTP.
   const [isOptInPrefEnabled, setOptInPrefEnabled] = useNewTabPref('isBraveTodayOptedIn')
   const [isShowOnNTPPrefEnabled, setShowOnNTPPrefEnabled] = useNewTabPref('showToday')

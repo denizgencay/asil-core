@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -34,7 +34,7 @@ class BraveOmniboxResultView : public OmniboxResultView {
   void UpdateForBraveSearchConversion();
   void HandleSelectionStateChangedForPromotionView();
 
-  // Asil search conversion promotion
+  // brave search conversion promotion
   raw_ptr<BraveSearchConversionPromotionView> brave_search_promotion_view_ =
       nullptr;
 };

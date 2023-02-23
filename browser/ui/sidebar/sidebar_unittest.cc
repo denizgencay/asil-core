@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -93,7 +93,7 @@ TEST_F(SidebarModelTest, ItemsChangedTest) {
 
   // Add one more item to test with 5 items.
   SidebarItem new_item = SidebarItem::Create(
-      GURL("https://www.asil.com/"), u"brave software",
+      GURL("https://www.brave.com/"), u"brave software",
       SidebarItem::Type::kTypeWeb, SidebarItem::BuiltInItemType::kNone, false);
 
   service()->AddItem(new_item);
@@ -103,8 +103,8 @@ TEST_F(SidebarModelTest, ItemsChangedTest) {
   // Update last item w/ url change.
   SidebarItemUpdate expected_update{(items_count - 1), false, true};
   EXPECT_CALL(observer_, OnItemUpdated(testing::_, expected_update)).Times(1);
-  service()->UpdateItem(GURL("https://www.asil.com/"),
-                        GURL("https://asil.com/"), u"brave software",
+  service()->UpdateItem(GURL("https://www.brave.com/"),
+                        GURL("https://brave.com/"), u"brave software",
                         u"brave software");
   testing::Mock::VerifyAndClearExpectations(&observer_);
 
@@ -112,7 +112,7 @@ TEST_F(SidebarModelTest, ItemsChangedTest) {
   expected_update.url_updated = false;
   expected_update.title_updated = true;
   EXPECT_CALL(observer_, OnItemUpdated(testing::_, expected_update)).Times(1);
-  service()->UpdateItem(GURL("https://asil.com/"), GURL("https://asil.com/"),
+  service()->UpdateItem(GURL("https://brave.com/"), GURL("https://brave.com/"),
                         u"brave software", u"brave");
   testing::Mock::VerifyAndClearExpectations(&observer_);
 
@@ -166,7 +166,7 @@ TEST_F(SidebarModelTest, ItemsChangedTest) {
 }
 
 TEST_F(SidebarModelTest, CanUseNotAddedBuiltInItemInsteadOfTest) {
-  GURL talk("https://talk.asil.com/1Ar1vHfLBWX2sAdi");
+  GURL talk("https://talk.brave.com/1Ar1vHfLBWX2sAdi");
   // False because builtin talk item is already added.
   EXPECT_FALSE(HiddenDefaultSidebarItemsContains(service(), talk));
 
@@ -178,16 +178,16 @@ TEST_F(SidebarModelTest, CanUseNotAddedBuiltInItemInsteadOfTest) {
 
 TEST(SidebarUtilTest, ConvertURLToBuiltInItemURLTest) {
   EXPECT_EQ(GURL(kBraveTalkURL),
-            ConvertURLToBuiltInItemURL(GURL("https://talk.asil.com")));
+            ConvertURLToBuiltInItemURL(GURL("https://talk.brave.com")));
   EXPECT_EQ(GURL(kBraveTalkURL),
             ConvertURLToBuiltInItemURL(
-                GURL("https://talk.asil.com/1Ar1vHfLBWX2sAdi")));
+                GURL("https://talk.brave.com/1Ar1vHfLBWX2sAdi")));
   EXPECT_EQ(
       GURL(kBraveUIWalletPageURL),
       ConvertURLToBuiltInItemURL(GURL("chrome://wallet/crypto/onboarding")));
 
   // Not converted for url that doesn't relavant builtin item.
-  GURL brave_com("https://www.asil.com/");
+  GURL brave_com("https://www.brave.com/");
   EXPECT_EQ(brave_com, ConvertURLToBuiltInItemURL(brave_com));
 }
 

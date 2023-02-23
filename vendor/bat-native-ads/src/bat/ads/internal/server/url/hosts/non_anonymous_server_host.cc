@@ -15,7 +15,7 @@ namespace ads {
 
 namespace {
 
-constexpr char kProductionHost[] = "https://mywallet.ads.asil.com";
+constexpr char kProductionHost[] = "https://mywallet.ads.brave.com";
 constexpr char kStagingHost[] = "https://mywallet.ads.bravesoftware.com";
 
 }  // namespace

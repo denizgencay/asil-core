@@ -21,7 +21,7 @@ class MODULES_EXPORT Brave final
 
  public:
   Brave() = default;
-  ScriptPromise isAsil(ScriptState*);
+  ScriptPromise isbrave(ScriptState*);
 };
 
 }  // namespace blink

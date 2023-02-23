@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at http://mozilla.org/MPL/2.0/.
@@ -17,9 +17,9 @@ constexpr char kUsedSecondDayPrefName[] = "brave.feature_usage.used_second_day";
 constexpr char kDaysInMonthPrefName[] = "brave.feature_usage.days_in_month";
 
 constexpr char kNewUserReturningHistogramName[] =
-    "Asil.Feature.NewUserReturning";
-constexpr char kDaysInMonthHistogramName[] = "Asil.Feature.DaysInMonth";
-constexpr char kLastUsageTimeHistogramName[] = "Asil.Feature.LastUsageTime";
+    "brave.Feature.NewUserReturning";
+constexpr char kDaysInMonthHistogramName[] = "brave.Feature.DaysInMonth";
+constexpr char kLastUsageTimeHistogramName[] = "brave.Feature.LastUsageTime";
 
 class FeatureUsageTest : public testing::Test {
  public:

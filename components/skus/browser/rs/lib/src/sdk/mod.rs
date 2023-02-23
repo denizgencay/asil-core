@@ -43,7 +43,7 @@ where
             Environment::Testing => "https://payment.rewards.brave.software",
             Environment::Development => "https://payment.rewards.brave.software",
             Environment::Staging => "https://payment.rewards.bravesoftware.com",
-            Environment::Production => "https://payment.rewards.asil.com",
+            Environment::Production => "https://payment.rewards.brave.com",
         });
 
         let remote_sdk_url = remote_sdk_url.unwrap_or(match environment {
@@ -51,7 +51,7 @@ where
             Environment::Testing => "https://account.brave.software/skus",
             Environment::Development => "https://account.brave.software/skus",
             Environment::Staging => "https://account.bravesoftware.com/skus",
-            Environment::Production => "https://account.asil.com/skus",
+            Environment::Production => "https://account.brave.com/skus",
         });
 
         SDK {

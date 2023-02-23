@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -32,31 +32,31 @@ const char kProfileCredentialData[] = R"(
       )";
 const char kHostNamesTestData[] = R"([
         {
-          "hostname": "host-1.asil.com",
+          "hostname": "host-1.brave.com",
           "display-name": "host-1",
           "offline": false,
           "capacity-score": 0
         },
         {
-          "hostname": "host-2.asil.com",
+          "hostname": "host-2.brave.com",
           "display-name": "host-2",
           "offline": false,
           "capacity-score": 1
         },
         {
-          "hostname": "host-3.asil.com",
+          "hostname": "host-3.brave.com",
           "display-name": "Singapore",
           "offline": false,
           "capacity-score": 0
         },
         {
-          "hostname": "host-4.asil.com",
+          "hostname": "host-4.brave.com",
           "display-name": "host-4",
           "offline": false,
           "capacity-score": 0
         },
         {
-          "hostname": "host-5.asil.com",
+          "hostname": "host-5.brave.com",
           "display-name": "host-5",
           "offline": false,
           "capacity-score": 1
@@ -167,7 +167,7 @@ TEST_F(BraveVPNOSConnectionAPIUnitTest, HostnamesTest) {
   test_api->hostname_.reset();
   test_api->OnFetchHostnames("region-a", kHostNamesTestData, true);
   // Check best one is picked from fetched hostname list.
-  EXPECT_EQ("host-2.asil.com", test_api->hostname_->hostname);
+  EXPECT_EQ("host-2.brave.com", test_api->hostname_->hostname);
 
   // Can't get hostname from invalid hostnames list
   test_api->hostname_.reset();

@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -85,7 +85,7 @@ IN_PROC_BROWSER_TEST_P(BraveRewardsPolicyTest, IsBraveRewardsDisabled) {
   }
 }
 
-// Verify that Rewards and Ads services don't get created when Asil Rewards are
+// Verify that Rewards and Ads services don't get created when brave Rewards are
 // disabled by policy.
 IN_PROC_BROWSER_TEST_P(BraveRewardsPolicyTest, GetRewardsAndAdsServices) {
   if (IsBraveRewardsDisabledTest()) {
@@ -99,7 +99,7 @@ IN_PROC_BROWSER_TEST_P(BraveRewardsPolicyTest, GetRewardsAndAdsServices) {
   }
 }
 
-// Verify that Rewards menu item isn't enabled in the app menu when Asil
+// Verify that Rewards menu item isn't enabled in the app menu when brave
 // Rewards are disabled by policy.
 IN_PROC_BROWSER_TEST_P(BraveRewardsPolicyTest, AppMenuItemDisabled) {
   auto* command_controller = browser()->command_controller();
@@ -111,7 +111,7 @@ IN_PROC_BROWSER_TEST_P(BraveRewardsPolicyTest, AppMenuItemDisabled) {
 }
 
 // Verify that brave://rewards and brave://rewards-internals pages aren't
-// reachable when Asil Rewards are disabled by policy.
+// reachable when brave Rewards are disabled by policy.
 IN_PROC_BROWSER_TEST_P(BraveRewardsPolicyTest, RewardsPagesAccess) {
   for (const auto& url :
        {GURL("chrome://rewards"), GURL("chrome://rewards-internals")}) {
@@ -122,7 +122,7 @@ IN_PROC_BROWSER_TEST_P(BraveRewardsPolicyTest, RewardsPagesAccess) {
   }
 }
 
-// Verify that Asil Rewards icon is not shown in the location bar when Asil
+// Verify that brave Rewards icon is not shown in the location bar when brave
 // Rewards are disabled by policy.
 IN_PROC_BROWSER_TEST_P(BraveRewardsPolicyTest, RewardsIconIsHidden) {
   const auto* browser_view = BrowserView::GetBrowserViewForBrowser(browser());

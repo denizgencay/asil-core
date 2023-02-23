@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -26,6 +26,6 @@ extern const char kWidevineLearnMoreUrl[];
 // |kDownloadChromeUrl| couldn't be replaced with char array because array
 // should be initialized with initialize list or string literal.
 // So, this macro is used.
-#define kDownloadBraveUrl "https://www.asil.com/download"
+#define kDownloadBraveUrl "https://www.brave.com/download"
 
 #endif  // BRAVE_COMPONENTS_CONSTANTS_URL_CONSTANTS_H_

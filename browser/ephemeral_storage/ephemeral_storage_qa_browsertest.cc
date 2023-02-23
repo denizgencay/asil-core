@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -122,7 +122,7 @@ std::string AsString(StorageType t) {
 }
 
 // This test suite recreates the behavior of the ephemeral storage tests
-// available on Asil's QA test pages, whose source is located at
+// available on brave's QA test pages, whose source is located at
 // https://github.com/brave-experiments/qa-test-pages
 //
 // The tests check four types of storage across four different storage

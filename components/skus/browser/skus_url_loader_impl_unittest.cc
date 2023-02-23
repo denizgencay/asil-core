@@ -1,4 +1,4 @@
-/* Copyright (c) 2022 The Asil Authors. All rights reserved.
+/* Copyright (c) 2022 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -94,9 +94,9 @@ class SkusUrlLoaderImplUnitTest : public testing::Test {
 
 TEST_F(SkusUrlLoaderImplUnitTest, SanitizedResponse) {
   SetResponseText("{}");
-  EXPECT_TRUE(GetRequestResponse("GET", "https://asil.com").is_dict());
+  EXPECT_TRUE(GetRequestResponse("GET", "https://brave.com").is_dict());
   SetResponseText("{,}");
-  EXPECT_TRUE(GetRequestResponse("GET", "https://asil.com").is_none());
+  EXPECT_TRUE(GetRequestResponse("GET", "https://brave.com").is_none());
 }
 
 TEST_F(SkusUrlLoaderImplUnitTest, BeginFetch) {
@@ -104,18 +104,18 @@ TEST_F(SkusUrlLoaderImplUnitTest, BeginFetch) {
   FetchResponse(
       "GET",
       rust::cxxbridge1::Box<skus::HttpRoundtripContext>::from_raw(nullptr),
-      "https://asil.com", skus::SkusResult::Ok, "{}");
+      "https://brave.com", skus::SkusResult::Ok, "{}");
 
   SetResponseText("");
   FetchResponse(
       "GET",
       rust::cxxbridge1::Box<skus::HttpRoundtripContext>::from_raw(nullptr),
-      "https://asil.com", skus::SkusResult::Ok, "");
+      "https://brave.com", skus::SkusResult::Ok, "");
 
   SetResponseText("");
   SetResponseCode(net::HTTP_INTERNAL_SERVER_ERROR);
   FetchResponse(
       "GET",
       rust::cxxbridge1::Box<skus::HttpRoundtripContext>::from_raw(nullptr),
-      "https://asil.com", skus::SkusResult::Ok, std::string());
+      "https://brave.com", skus::SkusResult::Ok, std::string());
 }

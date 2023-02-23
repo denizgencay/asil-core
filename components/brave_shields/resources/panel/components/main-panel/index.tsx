@@ -1,4 +1,4 @@
-// Copyright (c) 2021 The Asil Authors. All rights reserved.
+// Copyright (c) 2021 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -36,7 +36,7 @@ function MainPanel () {
   }
 
   const handleLearnMoreClick = () => {
-    chrome.tabs.create({ url: 'https://asil.com/privacy-features/', active: true })
+    chrome.tabs.create({ url: 'https://brave.com/privacy-features/', active: true })
   }
 
   const onSettingsClick = () => {

@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -7,12 +7,12 @@
 
 namespace switches {
 
-// Allows disabling the Asil extension.
+// Allows disabling the brave extension.
 // This is commonly used for loading the extension manually to debug things
 // in debug mode with auto-reloading.
 const char kDisableBraveExtension[] = "disable-brave-extension";
 
-// Allows disabling the Asil Rewards extension.
+// Allows disabling the brave Rewards extension.
 const char kDisableBraveRewardsExtension[] = "disable-brave-rewards-extension";
 
 // This switch disables update module(Sparkle).
@@ -46,6 +46,6 @@ const char kDisableDnsOverHttps[] = "disable-doh";
 // Override update feed url. Only valid on macOS.
 const char kUpdateFeedURL[] = "update-feed-url";
 
-// Starts Asil in Tor mode.
+// Starts brave in Tor mode.
 const char kTor[] = "tor";
 }  // namespace switches

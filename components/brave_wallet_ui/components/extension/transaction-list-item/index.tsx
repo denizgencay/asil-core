@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -133,7 +133,7 @@ export const TransactionsListItem = ({
         : new Amount(transactionDetails.value).formatAsAsset(undefined, transactionDetails.symbol)
       to = transactionDetails.approvalTargetLabel || ''
     } else if (transaction.txDataUnion.ethTxData1559?.baseData.to.toLowerCase() === SwapExchangeProxy) {
-      // Asil Swap
+      // brave Swap
       // FIXME: Add as new TransactionType on the service side.
       from = `${transactionDetails.value} ${transactionDetails.symbol}`
       to = transactionDetails.recipientLabel

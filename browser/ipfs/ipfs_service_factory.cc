@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -40,7 +40,7 @@ void RecordIPFSCompanionInstalled(extensions::ExtensionRegistry* registry) {
   DCHECK(registry);
   bool installed =
       registry->enabled_extensions().Contains(ipfs_companion_extension_id);
-  UMA_HISTOGRAM_BOOLEAN("Asil.IPFS.IPFSCompanionInstalled", installed);
+  UMA_HISTOGRAM_BOOLEAN("brave.IPFS.IPFSCompanionInstalled", installed);
 }
 #endif
 }  // namespace

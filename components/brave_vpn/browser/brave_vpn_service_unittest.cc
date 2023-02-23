@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -84,7 +84,7 @@ const char kTestVpnOrders[] = R"(
                     "created_at": "2022-06-13T14:35:28.313786",
                     "credential_type": "time-limited",
                     "currency": "USD",
-                    "description": "Asil VPN",
+                    "description": "brave VPN",
                     "id": "424bc657-633f-4fcc-bd8e-92a51c8e4971",
                     "location": "{domain}",
                     "order_id": "33a8231a-7c69-47bd-a061-2045b9b1b890",
@@ -97,7 +97,7 @@ const char kTestVpnOrders[] = R"(
             ],
             "last_paid_at": "2022-06-13T13:06:49.466083",
             "location": "{domain}",
-            "merchant_id": "asil.com",
+            "merchant_id": "brave.com",
             "metadata":
             {
                 "stripe_checkout_session_id": null

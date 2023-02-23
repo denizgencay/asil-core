@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -225,7 +225,7 @@ IN_PROC_BROWSER_TEST_F(RewardsContributionBrowserTest,
   order->order_id = "a38b211b-bf78-42c8-9479-b11e92e3a76c";
   order->total_amount = 20;
   order->merchant_id = "";
-  order->location = "asil.com";
+  order->location = "brave.com";
   order->items = std::move(items);
   response_->SetSKUOrder(std::move(order));
 
@@ -296,7 +296,7 @@ IN_PROC_BROWSER_TEST_F(RewardsContributionBrowserTest, TipUnverifiedPublisher) {
   contribution_->AddBalance(promotion_->ClaimPromotionViaCode());
 
   contribution_->TipPublisher(
-      rewards_browsertest_util::GetUrl(https_server_.get(), "asil.com"),
+      rewards_browsertest_util::GetUrl(https_server_.get(), "brave.com"),
       rewards_browsertest_util::TipAction::OneTime);
 }
 
@@ -319,7 +319,7 @@ IN_PROC_BROWSER_TEST_F(RewardsContributionBrowserTest,
   contribution_->AddBalance(promotion_->ClaimPromotionViaCode());
 
   contribution_->TipPublisher(
-      rewards_browsertest_util::GetUrl(https_server_.get(), "asil.com"),
+      rewards_browsertest_util::GetUrl(https_server_.get(), "brave.com"),
       rewards_browsertest_util::TipAction::SetMonthly);
 }
 
@@ -352,9 +352,9 @@ IN_PROC_BROWSER_TEST_F(RewardsContributionBrowserTest,
   context_helper_->LoadRewardsPage();
   response_->SetAlternativePublisherList(true);
   // Tip unverified publisher
-  contribution_->TipViaCode("asil.com", 1.0,
+  contribution_->TipViaCode("brave.com", 1.0,
                             ledger::mojom::PublisherStatus::NOT_VERIFIED);
-  contribution_->TipViaCode("asil.com", 5.0,
+  contribution_->TipViaCode("brave.com", 5.0,
                             ledger::mojom::PublisherStatus::NOT_VERIFIED);
   contribution_->TipViaCode("3zsistemi.si", 10.0,
                             ledger::mojom::PublisherStatus::NOT_VERIFIED);
@@ -558,7 +558,7 @@ IN_PROC_BROWSER_TEST_F(RewardsContributionBrowserTest,
                             true);
 
   context_helper_->VisitPublisher(
-      rewards_browsertest_util::GetUrl(https_server_.get(), "asil.com"),
+      rewards_browsertest_util::GetUrl(https_server_.get(), "brave.com"),
       !verified);
 
   // Trigger contribution process
@@ -655,7 +655,7 @@ IN_PROC_BROWSER_TEST_F(RewardsContributionBrowserTest,
   order->order_id = "a38b211b-bf78-42c8-9479-b11e92e3a76c";
   order->total_amount = 20;
   order->merchant_id = "";
-  order->location = "asil.com";
+  order->location = "brave.com";
   order->items = std::move(items);
   response_->SetSKUOrder(std::move(order));
 

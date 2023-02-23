@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -17,12 +17,12 @@ namespace {
 net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotationTag() {
   return net::DefineNetworkTrafficAnnotation("brave_search_host", R"(
       semantics {
-        sender: "Asil Search Host Controller"
+        sender: "brave Search Host Controller"
         description:
           "This controller is used as a backup search "
           "provider for users that have opted into this feature."
         trigger:
-          "Triggered by Asil search if a user has opted in."
+          "Triggered by brave search if a user has opted in."
         data:
           "Local backup provider results."
         destination: WEBSITE

@@ -1,5 +1,5 @@
 
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -88,17 +88,17 @@ export const useNewTabData = (state: NewTab.State = defaultState) => {
     forceSettingsTab: select('Open settings tab?', [undefined, ...Object.keys(SettingsTabType)], undefined),
     showBackgroundImage: boolean('Show background image?', true),
     showStats: boolean('Show stats?', true),
-    showToday: boolean('Show Asil News?', true),
+    showToday: boolean('Show brave News?', true),
     showClock: boolean('Show clock?', true),
     clockFormat: select('Clock format?', ['', '12', '24'], ''),
     showTopSites: boolean('Show top sites?', true),
-    braveRewardsSupported: boolean('Asil Rewards supported?', true),
+    braveRewardsSupported: boolean('brave Rewards supported?', true),
     showRewards: boolean('Show rewards?', true),
-    showBraveTalk: boolean('Show Asil Talk?', true),
-    braveTalkSupported: boolean('Asil Talk supported?', true),
-    braveTalkPromptDismissed: !boolean('Asil Talk prompt?', false),
+    showBraveTalk: boolean('Show brave Talk?', true),
+    braveTalkSupported: boolean('brave Talk supported?', true),
+    braveTalkPromptDismissed: !boolean('brave Talk prompt?', false),
     hideAllWidgets: boolean('Hide all widgets?', false),
-    isBraveTodayOptedIn: boolean('Asil Today opted-in?', false),
+    isBraveTodayOptedIn: boolean('brave Today opted-in?', false),
     textDirection: select('Text direction', { ltr: 'ltr', rtl: 'rtl' }, 'ltr'),
     stats: {
       ...state.stats,

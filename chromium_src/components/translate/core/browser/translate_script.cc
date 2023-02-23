@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -29,7 +29,7 @@ std::string GetAPIKey() {
 
 namespace translate {
 
-// Redirect the translate script request to the Asil endpoints.
+// Redirect the translate script request to the brave endpoints.
 GURL ChromiumTranslateScript::AddHostLocaleToUrl(const GURL& url) {
   GURL result = ::translate::AddHostLocaleToUrl(url);
   const GURL google_translate_script(kScriptURL);

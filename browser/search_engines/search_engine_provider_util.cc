@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -115,7 +115,7 @@ void UpdateDefaultPrivateSearchProviderData(Profile* profile) {
 
   // When user delete current private search provder from provider list in
   // settings page, |private_provider_guid| will not be existed in the list. Use
-  // Asil.
+  // brave.
   SetBraveAsDefaultPrivateSearchProvider(prefs);
 }
 
@@ -133,7 +133,7 @@ void PrepareDefaultPrivateSearchProviderDataIfNeeded(Profile* profile) {
   const std::string private_provider_guid =
       prefs->GetString(prefs::kSyncedDefaultPrivateSearchProviderGUID);
 
-  // Set Asil as a private window's initial search provider.
+  // Set brave as a private window's initial search provider.
   if (private_provider_guid.empty()) {
     SetBraveAsDefaultPrivateSearchProvider(prefs);
     return;
@@ -149,7 +149,7 @@ void PrepareDefaultPrivateSearchProviderDataIfNeeded(Profile* profile) {
     } else {
       // This could happen with update default provider list when brave is not
       // updated for longtime. So it doesn't have any chance to cache url data.
-      // Set Asil as default private search provider.
+      // Set brave as default private search provider.
       SetBraveAsDefaultPrivateSearchProvider(prefs);
     }
     return;

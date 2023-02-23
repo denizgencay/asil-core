@@ -1,4 +1,4 @@
-// Copyright (c) 2020 The Asil Authors. All rights reserved.
+// Copyright (c) 2020 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -66,7 +66,7 @@ export default function BraveTodaySection (props: Props) {
         // be sent by the content component when the content is first interacted
         // with.
         const shouldMarkInteraction = !props.isPrompting
-        console.debug('Asil News: section is in position that requires requesting data load')
+        console.debug('brave News: section is in position that requires requesting data load')
         dispatch(TodayActions.refresh({ isFirstInteraction: shouldMarkInteraction }))
         hasRequestedLoad.current = true
       }

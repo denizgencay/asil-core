@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -334,7 +334,7 @@ TEST(EthResponseHelperUnitTest, ParsePersonalSignParams) {
   const std::string json_with_message_string(
       R"({
         "params": [
-          "Have you tried Asil?",
+          "Have you tried brave?",
           "0x9b2055d370f73ec7d8a03e965129118dc8f5bf83"
         ]
       })");

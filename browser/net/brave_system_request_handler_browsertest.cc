@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -94,7 +94,7 @@ class SystemNetworkContextManagerBrowsertest : public PlatformBrowserTest {
 
 IN_PROC_BROWSER_TEST_F(SystemNetworkContextManagerBrowsertest,
                        CheckForBraveServiceKey) {
-  EXPECT_TRUE(LoadURL("demo.asil.com"));
+  EXPECT_TRUE(LoadURL("demo.brave.com"));
   EXPECT_TRUE(LoadURL("demo.bravesoftware.com"));
   EXPECT_FALSE(LoadURL("brave.demo.com"));
   EXPECT_FALSE(LoadURL("randomdomain.com"));

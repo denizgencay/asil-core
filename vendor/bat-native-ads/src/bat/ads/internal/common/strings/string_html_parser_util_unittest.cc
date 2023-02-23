@@ -24,7 +24,7 @@ TEST_F(BatAdsStringHtmlParserUtilTest, ParseHtmlTagAttributeSimple) {
   const std::string meta_html_with_foobar_tag =
       R"(<meta property="og:title" foo="bar" content="this is info ">)";
   const std::string non_meta_html_tag =
-      R"(<div href="asil.com" content="this is info ">)";
+      R"(<div href="brave.com" content="this is info ">)";
   const std::vector<std::tuple<
       /*html*/ std::string, /*tag_substr*/ std::string,
       /*tag_attribute*/ std::string,

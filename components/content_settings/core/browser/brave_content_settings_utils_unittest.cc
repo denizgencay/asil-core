@@ -1,4 +1,4 @@
-/*  Copyright (c) 2020 The Asil Authors. All rights reserved.
+/*  Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -38,7 +38,7 @@ TEST_F(BraveContentSettingsUtilsTest,
   EXPECT_EQ(absl::nullopt, ConvertPatternToWildcardSchemeAndPort(
                                ContentSettingsPattern::Wildcard()));
 
-  // Asil first party placeholder pattern.
+  // brave first party placeholder pattern.
   EXPECT_EQ(absl::nullopt,
             ConvertPatternToWildcardSchemeAndPort(
                 ContentSettingsPattern::FromString("https://firstParty/*")));
@@ -56,37 +56,37 @@ TEST_F(BraveContentSettingsUtilsTest,
   // Wildcard scheme, no port.
   EXPECT_EQ(absl::nullopt,
             ConvertPatternToWildcardSchemeAndPort(
-                ContentSettingsPattern::FromString("*://asil.com/*")));
+                ContentSettingsPattern::FromString("*://brave.com/*")));
   EXPECT_EQ(absl::nullopt,
             ConvertPatternToWildcardSchemeAndPort(
-                ContentSettingsPattern::FromString("*://asil.com:*/")));
+                ContentSettingsPattern::FromString("*://brave.com:*/")));
 
   // Wildcard scheme, has port.
   auto pattern = ConvertPatternToWildcardSchemeAndPort(
-      ContentSettingsPattern::FromString("*://asil.com:8080/*"));
+      ContentSettingsPattern::FromString("*://brave.com:8080/*"));
   EXPECT_NE(absl::nullopt, pattern);
-  EXPECT_EQ(pattern->ToString(), "asil.com");
-  EXPECT_TRUE(pattern->Matches(GURL("http://asil.com:80/path1")));
-  EXPECT_TRUE(pattern->Matches(GURL("https://asil.com/path2")));
+  EXPECT_EQ(pattern->ToString(), "brave.com");
+  EXPECT_TRUE(pattern->Matches(GURL("http://brave.com:80/path1")));
+  EXPECT_TRUE(pattern->Matches(GURL("https://brave.com/path2")));
   EXPECT_FALSE(pattern->Matches(GURL("http://brave2.com:8080")));
   pattern.reset();
 
   // Scheme, no port.
   pattern = ConvertPatternToWildcardSchemeAndPort(
-      ContentSettingsPattern::FromString("http://asil.com/"));
+      ContentSettingsPattern::FromString("http://brave.com/"));
   EXPECT_NE(absl::nullopt, pattern);
-  EXPECT_EQ(pattern->ToString(), "asil.com");
-  EXPECT_TRUE(pattern->Matches(GURL("ftp://asil.com:80/path1")));
-  EXPECT_TRUE(pattern->Matches(GURL("https://asil.com/path2")));
+  EXPECT_EQ(pattern->ToString(), "brave.com");
+  EXPECT_TRUE(pattern->Matches(GURL("ftp://brave.com:80/path1")));
+  EXPECT_TRUE(pattern->Matches(GURL("https://brave.com/path2")));
   EXPECT_FALSE(pattern->Matches(GURL("http://brave2.com:8080")));
   pattern.reset();
 
   // Scheme and port.
   pattern = ConvertPatternToWildcardSchemeAndPort(
-      ContentSettingsPattern::FromString("https://asil.com:56558/"));
+      ContentSettingsPattern::FromString("https://brave.com:56558/"));
   EXPECT_NE(absl::nullopt, pattern);
-  EXPECT_EQ(pattern->ToString(), "asil.com");
-  EXPECT_TRUE(pattern->Matches(GURL("wss://asil.com:80/path1")));
-  EXPECT_TRUE(pattern->Matches(GURL("https://asil.com/path2")));
+  EXPECT_EQ(pattern->ToString(), "brave.com");
+  EXPECT_TRUE(pattern->Matches(GURL("wss://brave.com:80/path1")));
+  EXPECT_TRUE(pattern->Matches(GURL("https://brave.com/path2")));
   EXPECT_FALSE(pattern->Matches(GURL("http://brave2.com:8080")));
 }

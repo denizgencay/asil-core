@@ -9,7 +9,7 @@
     Choose your email service for quick access
   </message>
   <message name="IDS_NUX_EMAIL_WELCOME_TITLE" desc="Text shown to welcome the users to chrome.">
-    Make Asil your own
+    Make brave your own
   </message>
   <message name="IDS_NUX_EMAIL_BOOKMARK_ADDED" desc="String read for accessibility to inform the user a bookmark was added.">
     Bookmark added
@@ -21,14 +21,14 @@
     Bookmark replaced
   </message>
 
-  <!-- NUX Asil apps selection module -->
+  <!-- NUX brave apps selection module -->
   <message name="IDS_NUX_GOOGLE_APPS_GET_STARTED" desc="Message for a confirmation button that will add the selected apps from a list.">
     Get started
   </message>
   <message name="IDS_NUX_GOOGLE_APPS_DESCRIPTION" desc="Description of what this section in the onboarding workflow does.">
-    Add bookmarks to your favorite Asil Apps
+    Add bookmarks to your favorite brave Apps
   </message>
-  <message name="IDS_NUX_GOOGLE_APPS_DESCRIPTION_PROMO_BUBBLE" desc="Text shown when Asil Apps have been added to highlight where bookmarks have been placed.">
-    Open apps easily with bookmarks
+  <message name="IDS_NUX_GOOGLE_APPS_DESCRIPTION_PROMO_BUBBLE" desc="Text shown when brave Apps have been added to highlight where bookmarks have been placed.">
+    Open apps ebravey with bookmarks
   </message>
 </grit-part>

@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -53,7 +53,7 @@ void BraveSyncServiceImpl::Initialize() {
 
   // P3A ping for those who have sync disabled
   if (!user_settings_->IsFirstSetupComplete()) {
-    base::UmaHistogramExactLinear("Asil.Sync.Status.2", 0, 3);
+    base::UmaHistogramExactLinear("brave.Sync.Status.2", 0, 3);
   }
 }
 
@@ -148,12 +148,12 @@ void BraveSyncServiceImpl::OnBraveSyncPrefsChanged(const std::string& path) {
       selected_types.Put(UserSelectableType::kBookmarks);
       GetUserSettings()->SetSelectedTypes(false, selected_types);
     } else {
-      VLOG(1) << "Asil sync seed cleared";
+      VLOG(1) << "brave sync seed cleared";
       GetBraveSyncAuthManager()->ResetKeys();
       // Send updated status here, because OnDeviceInfoChange is not triggered
       // when device leaves the chain by `Leave Sync Chain` button
       // 0 means disabled or 1 device
-      base::UmaHistogramExactLinear("Asil.Sync.Status.2", 0, 3);
+      base::UmaHistogramExactLinear("brave.Sync.Status.2", 0, 3);
     }
   }
 }

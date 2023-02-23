@@ -1,4 +1,4 @@
-/* Copyright 2019 The Asil Authors. All rights reserved.
+/* Copyright 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -41,7 +41,7 @@ void RecordAutoContributionsState(AutoContributionsState state, int count) {
     default:
       NOTREACHED();
   }
-  UMA_HISTOGRAM_EXACT_LINEAR("Asil.Rewards.AutoContributionsState.2", answer,
+  UMA_HISTOGRAM_EXACT_LINEAR("brave.Rewards.AutoContributionsState.2", answer,
                              6);
 }
 
@@ -67,11 +67,11 @@ void RecordTipsState(bool wallet_created,
       answer = 4;
     }
   }
-  UMA_HISTOGRAM_EXACT_LINEAR("Asil.Rewards.TipsState.2", answer, 6);
+  UMA_HISTOGRAM_EXACT_LINEAR("brave.Rewards.TipsState.2", answer, 6);
 }
 
 void RecordAdsState(AdsState state) {
-  UMA_HISTOGRAM_ENUMERATION("Asil.Rewards.AdsState.2", state);
+  UMA_HISTOGRAM_ENUMERATION("brave.Rewards.AdsState.2", state);
 }
 
 void UpdateAdsStateOnPreferenceChange(PrefService* prefs,
@@ -156,7 +156,7 @@ void RecordAdsEnabledDuration(PrefService* prefs, bool ads_enabled) {
     enabled_duration = AdsEnabledDuration::kQuarters;
   }
 
-  UMA_HISTOGRAM_ENUMERATION("Asil.Rewards.AdsEnabledDuration",
+  UMA_HISTOGRAM_ENUMERATION("brave.Rewards.AdsEnabledDuration",
                             enabled_duration);
 }
 

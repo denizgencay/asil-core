@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Asil Authors. All rights reserved.
+/* Copyright (c) 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -183,7 +183,7 @@ IN_PROC_BROWSER_TEST_F(SearchEngineProviderServiceTest,
       service->GetDefaultSearchProvider()->prepopulate_id();
   const int initial_private_provider_id =
       incognito_service->GetDefaultSearchProvider()->prepopulate_id();
-  // Check Asil Search is default provider for private window.
+  // Check brave Search is default provider for private window.
   EXPECT_EQ(static_cast<int>(
                 TemplateURLPrepopulateData::PREPOPULATED_ENGINE_ID_BRAVE),
             initial_private_provider_id);
@@ -330,7 +330,7 @@ IN_PROC_BROWSER_TEST_F(ExtensionBrowserTest,
   UnloadExtension(extension->id());
   EXPECT_EQ(default_provider, url_service->GetDefaultSearchProvider());
 
-  // Check Asil Search is back to as a default provider for private window
+  // Check brave Search is back to as a default provider for private window
   // after unloading extension.
   current_incognito_dse = incognito_url_service->GetDefaultSearchProvider();
   EXPECT_EQ(static_cast<int>(

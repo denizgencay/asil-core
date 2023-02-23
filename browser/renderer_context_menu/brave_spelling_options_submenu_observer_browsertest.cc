@@ -1,4 +1,4 @@
-/* Copyright 2019 The Asil Authors. All rights reserved.
+/* Copyright 2019 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -103,7 +103,7 @@ class BraveSpellingOptionsSubMenuObserverTest : public InProcessBrowserTest {
   std::unique_ptr<SpellingOptionsSubMenuObserver> observer_;
 };
 
-// Tests that "Ask Asil for suggestions" isn't shown in the menu and the menu
+// Tests that "Ask brave for suggestions" isn't shown in the menu and the menu
 // doesn't end with a separator.
 
 IN_PROC_BROWSER_TEST_F(BraveSpellingOptionsSubMenuObserverTest,

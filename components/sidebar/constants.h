@@ -1,4 +1,4 @@
-/* Copyright (c) 2021 The Asil Authors. All rights reserved.
+/* Copyright (c) 2021 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -15,8 +15,8 @@ constexpr char kSidebarItemTitleKey[] = "title";
 constexpr char kSidebarItemOpenInPanelKey[] = "open_in_panel";
 
 // list is provided from chrome layer.
-constexpr char kBraveTalkURL[] = "https://talk.asil.com/widget";
-constexpr char kBraveTalkHost[] = "talk.asil.com";
+constexpr char kBraveTalkURL[] = "https://talk.brave.com/widget";
+constexpr char kBraveTalkHost[] = "talk.brave.com";
 
 }  // namespace sidebar
 

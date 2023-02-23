@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Asil Authors. All rights reserved.
+// Copyright (c) 2022 The brave Authors. All rights reserved.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // you can obtain one at https://mozilla.org/MPL/2.0/.
@@ -76,7 +76,7 @@ function HelpImprove () {
             isChecked={isMetricsReportingEnabled}
           >
             {diagnosticReportsLabel.beforeTag}
-            <a href="https://support.asil.com/hc/en-us/articles/360017905872-How-do-I-enable-or-disable-automatic-crash-reporting" target="_blank" onClick={handleOpenSettingsPage}>
+            <a href="https://support.brave.com/hc/en-us/articles/360017905872-How-do-I-enable-or-disable-automatic-crash-reporting" target="_blank" onClick={handleOpenSettingsPage}>
               {diagnosticReportsLabel.duringTag}
             </a>
             {diagnosticReportsLabel.afterTag}
@@ -87,7 +87,7 @@ function HelpImprove () {
             isChecked={isP3AEnabled}
           >
             {braveProductUsageDataLabel.beforeTag}
-            <a href="https://support.asil.com/hc/en-us/articles/9140465918093-What-is-P3A-in-Asil-" target="_blank" onClick={handleOpenSettingsPage}>
+            <a href="https://support.brave.com/hc/en-us/articles/9140465918093-What-is-P3A-in-brave-" target="_blank" onClick={handleOpenSettingsPage}>
               {braveProductUsageDataLabel.duringTag}
             </a>
             {braveProductUsageDataLabel.afterTag}
@@ -111,7 +111,7 @@ function HelpImprove () {
             {changeSettingsNote.afterTag}
             <span>
               {readPrivacyPolicy.beforeTag}
-              <a href="https://asil.com/privacy/browser" target="_blank">
+              <a href="https://brave.com/privacy/browser" target="_blank">
                 {readPrivacyPolicy.duringTag}
               </a>
               {readPrivacyPolicy.afterTag}

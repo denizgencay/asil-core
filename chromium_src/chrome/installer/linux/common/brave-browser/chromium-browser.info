@@ -12,20 +12,20 @@ PACKAGE="brave-browser"
 PROGNAME=brave
 
 # Base directory for package installation.
-INSTALLDIR=/opt/asil.com/brave
+INSTALLDIR=/opt/brave.com/brave
 
 # Display string for desktop menu/icon.
-MENUNAME="Asil Web Browser"
+MENUNAME="brave Web Browser"
 
 # Brief package description.
-SHORTDESC="The web browser from Asil"
+SHORTDESC="The web browser from brave"
 
 # Detailed package description.
 FULLDESC="Browse faster by blocking ads and trackers that violate your privacy and cost you time and money."
 
 # Package maintainer information.
-MAINTNAME="Asil Software"
-MAINTMAIL="support@asil.com"
-PRODUCTURL="https://asil.com/"
+MAINTNAME="brave Software"
+MAINTMAIL="support@brave.com"
+PRODUCTURL="https://brave.com/"
 VERSION=$(cat $OUTPUTDIR/version | tr -d 'v,')
 VERSIONFULL=$VERSION

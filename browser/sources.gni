@@ -1,4 +1,4 @@
-# Copyright (c) 2020 The Asil Authors. All rights reserved.
+# Copyright (c) 2020 The brave Authors. All rights reserved.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -58,7 +58,7 @@ brave_chrome_browser_visibility = [
 
   # Chrome does not yet define a visibility list by itself, meaning we can't
   # append our list to them and that what we have here will become law not just
-  # for Asil, but also for the rest of chrome. Thus, we need to provide our own
+  # for brave, but also for the rest of chrome. Thus, we need to provide our own
   # permissive list for chrome here too, to be removed in the future if Chrome
   # ever provides it's own list (at which point we'll append instead of set).
   "//chrome:dependencies",

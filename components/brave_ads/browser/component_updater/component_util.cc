@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 The Asil Authors. All rights reserved.
+/* Copyright (c) 2020 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -2446,7 +2446,7 @@ constexpr auto kComponents =
           {"djjoaejcadmjbgadeijpbokipgmolnih",
            "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr3/"
            "g1+"
-           "rEJgqLiijygO5T3SPsGixXjdHhs3hEn3VaSilkwsSgdxNtlt1JQCLkW03quesK"
+           "rEJgqLiijygO5T3SPsGixXjdHhs3hEn3VbravekwsSgdxNtlt1JQCLkW03quesK"
            "y6JUL9L03AlNaVZJgeC5XkaMN+D41pxgd/"
            "6j3GMTgRwC+Cj0fVQfzB5yykJJG0rgiDX+WPWEOvvnq/"
            "e31U2OhDps1Hc+rcfzct7AMjTwFQqG5QLSD+ksAmt7i6M+wkqU0fmJ/"

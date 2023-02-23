@@ -1,4 +1,4 @@
-/* Copyright (c) 2018 The Asil Authors. All rights reserved.
+/* Copyright (c) 2018 The brave Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -9,7 +9,7 @@
 #include "chrome/browser/ui/browser.h"
 #include "chrome/browser/ui/browser_tabstrip.h"
 
-const char kBraveCommunitySupportUrl[] = "https://community.asil.com/";
+const char kBraveCommunitySupportUrl[] = "https://community.brave.com/";
 
 BraveBrowserContentSettingBubbleModelDelegate::
 BraveBrowserContentSettingBubbleModelDelegate(Browser* browser) :
